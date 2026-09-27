@@ -625,6 +625,7 @@
       <div class="group-title">Daily limits (per deck)</div>
       <div class="group">
         <div class="field"><label for="s-new">New cards/day</label><input id="s-new" type="number" inputmode="numeric" min="0" max="9999" value="${cfg.newPerDay}"></div>
+        <div class="field"><label>New card order<small>Random mixes all subdecks</small></label><div class="seg" id="s-order">${[["deck", "In order"], ["random", "Random"]].map(([v, l]) => `<button data-v="${v}" aria-pressed="${cfg.newOrder === v}">${l}</button>`).join("")}</div></div>
         <div class="field"><label for="s-rev">Maximum reviews/day</label><input id="s-rev" type="number" inputmode="numeric" min="0" max="99999" value="${cfg.revPerDay}"></div>
       </div>
       <div class="group-title">Scheduling</div>
@@ -685,6 +686,12 @@
       pref.set(key, b.dataset.v);
       applyTheme();
       $$(id + " button").forEach((x) => x.setAttribute("aria-pressed", x === b));
+    }));
+    $$("#s-order button").forEach((b) => b.addEventListener("click", () => {
+      db.cfg.newOrder = b.dataset.v;
+      save();
+      $$("#s-order button").forEach((x) => x.setAttribute("aria-pressed", x === b));
+      toast(b.dataset.v === "random" ? "New cards will come in random order" : "New cards will come in order");
     }));
     seg("#s-theme", "theme");
     seg("#s-size", "size");

@@ -18,6 +18,7 @@
 
   const DEFAULTS = {
     newPerDay: 20,
+    newOrder: "deck", // "deck" = creation order, deck by deck (Anki default) · "random"
     revPerDay: 200,
     learnSteps: [1, 10], // minutes
     relearnSteps: [10], // minutes

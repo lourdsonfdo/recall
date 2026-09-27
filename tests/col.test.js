@@ -179,3 +179,29 @@ test("merge ignores markup-only differences and keeps bundle ownership", () => {
   assert.equal(r.updated, 0);
   assert.equal(db.cards.a.src, "bundle:rcp");
 });
+
+test("random new order: shuffled across subdecks, stable within a day, reshuffled next day", () => {
+  const db = make({ "P::a": 30, "P::b": 30 });
+  db.cfg.newOrder = "random";
+  const n = node(db, "P");
+  const day = S.dayNum(base);
+  const pick = (t) => {
+    const out = [];
+    const copy = JSON.parse(JSON.stringify(db));
+    for (let i = 0; i < 20; i++) {
+      const nx = C.next(copy, n, t);
+      out.push(nx.k);
+      C.answer(copy, nx.k, 4, t);
+    }
+    return out;
+  };
+  const today = pick(base);
+  assert.deepEqual(pick(base), today); // stable
+  assert.notDeepEqual(today, today.slice().sort((a, b) => +a.slice(1) - +b.slice(1))); // not creation order
+  const fromB = today.filter((k) => db.cards[k].d === "P::b").length;
+  assert.ok(fromB > 0 && fromB < 20, `mixes subdecks (${fromB} from b)`);
+  assert.notDeepEqual(pick(base + 24 * 60 * MIN), today); // new day, new shuffle
+  assert.equal(C.counts(db, n, base).n, 20); // limits still apply
+  db.cfg.newOrder = "deck";
+  assert.deepEqual(pick(base).slice(0, 3), ["c0", "c1", "c2"]);
+});

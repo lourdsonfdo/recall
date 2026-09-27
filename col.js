@@ -90,13 +90,18 @@
       if (q === 0) own.n.push(k);
       else if (q === 2 && s.due <= day) own.r.push(k);
     }
-    own.n.sort((a, b) => db.st[a].pos - db.st[b].pos);
+    // Random order reshuffles once per day, so counts and the queue stay stable within a day.
+    const random = cfgOf(db).newOrder === "random";
+    const newOrder = random ? (a, b) => hash(a + ":" + day) - hash(b + ":" + day) : (a, b) => db.st[a].pos - db.st[b].pos;
+    own.n.sort(newOrder);
     const out = { n: own.n, r: own.r };
     for (const c of node.children) {
       const g = gather(db, c, day);
       out.n = out.n.concat(g.n);
       out.r = out.r.concat(g.r);
     }
+    // Random mixes subdecks together; in-order goes deck by deck.
+    if (random) out.n.sort(newOrder);
     if (node.name) {
       out.n = out.n.slice(0, left(db, node.name, "n"));
       out.r.sort((a, b) => db.st[a].due - db.st[b].due || hash(a + day) - hash(b + day));

@@ -1,3 +1,5 @@
 _test.*
 .DS_Store
 ruvector.db
+.claude-flow/
+.swarm/
