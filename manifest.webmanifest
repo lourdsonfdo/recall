@@ -1,0 +1,16 @@
+{
+  "name": "Recall — Flashcards",
+  "short_name": "Recall",
+  "description": "Anki-style spaced-repetition flashcards that work offline.",
+  "start_url": "./#/decks",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f4f3ef",
+  "theme_color": "#f4f3ef",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

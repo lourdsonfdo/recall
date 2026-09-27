@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Recall</title>
+  <meta name="description" content="Spaced-repetition flashcards, Anki-style, offline on your phone.">
+  <meta name="theme-color" content="#f4f3ef" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#16171a" media="(prefers-color-scheme: dark)">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <meta name="apple-mobile-web-app-title" content="Recall">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="icons/icon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="icons/icon-180.png">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div id="app">
+    <main id="view" aria-live="polite"></main>
+    <nav id="tabs" aria-label="Sections">
+      <button data-tab="decks" aria-label="Decks">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><rect x="4" y="7" width="13" height="13" rx="2.5"/><path d="M8 4h9.5A2.5 2.5 0 0 1 20 6.5V16"/></svg>
+        <span>Decks</span>
+      </button>
+      <button data-tab="browse" aria-label="Browse">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="6.5"/><path d="m16 16 4 4"/></svg>
+        <span>Browse</span>
+      </button>
+      <button data-tab="stats" aria-label="Stats">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 20V11M12 20V5M19 20v-6"/></svg>
+        <span>Stats</span>
+      </button>
+      <button data-tab="settings" aria-label="Settings">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 7h10M18 7h2M4 17h2M10 17h10"/><circle cx="16" cy="7" r="2"/><circle cx="8" cy="17" r="2"/></svg>
+        <span>Settings</span>
+      </button>
+    </nav>
+  </div>
+  <div id="sheet-root"></div>
+  <div id="toast" role="status"></div>
+
+  <script src="sched.js"></script>
+  <script src="col.js"></script>
+  <script src="store.js"></script>
+  <script src="importer.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

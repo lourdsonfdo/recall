@@ -1,0 +1,10 @@
+{
+ "decks": [
+  {
+   "id": "rcp",
+   "name": "RCP decks",
+   "file": "rcp.json",
+   "version": 1790551100
+  }
+ ]
+}
