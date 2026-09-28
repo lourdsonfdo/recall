@@ -3,7 +3,7 @@
 const CACHE = "recall-v1";
 const SHELL = ["./", "index.html", "styles.css", "sched.js", "col.js", "store.js", "importer.js", "app.js",
   "manifest.webmanifest", "icons/icon.svg", "icons/icon-180.png", "icons/icon-192.png", "icons/icon-512.png",
-  "decks/index.json", "drills/index.json"];
+  "decks/index.json", "drills/index.json", "guides/index.json"];
 const CDN = /^https:\/\/(cdnjs\.cloudflare\.com|cdn\.jsdelivr\.net)\//;
 
 self.addEventListener("install", (e) => {
@@ -34,7 +34,7 @@ self.addEventListener("fetch", (e) => {
   // Same-origin: network first with a short timeout, then cache.
   // Data files are fetched with ?v=<version>; cache them under the bare path so old versions don't pile up.
   const scope = new URL(self.registration.scope).pathname;
-  const key = /^(decks|drills)\//.test(url.pathname.slice(scope.length)) ? url.origin + url.pathname : req;
+  const key = /^(decks|drills|guides)\//.test(url.pathname.slice(scope.length)) ? url.origin + url.pathname : req;
   e.respondWith((async () => {
     try {
       const res = await Promise.race([fetch(req, { cache: "no-cache" }), timeout(4000)]);

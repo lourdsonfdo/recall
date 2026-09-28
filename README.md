@@ -9,6 +9,14 @@ Anki-style flashcards for your phone. Offline PWA, no account, data stays on the
 - **Drill:** RCP 202 (508) and RCP 203 (644) midterm multiple-choice banks — by section/subsection or full mix, 10/20/30/all, shuffled choices, explanations, missed-question review, best scores.
 - **Stats**, **backup/restore** (one JSON file, includes drill progress).
 
+- **Guides:** RCP 202 and 203 Tier 3 study guides (study-guide scope), readable offline; the app remembers your place.
+
+## Update a guide
+
+```
+python3 tools/import_guide.py path/to/RCP_203_Tier3_StudyGuideOnly.html rcp203-tier3 "RCP 203 Tier 3" "Study guide scope"
+```
+
 ## Update a drill bank
 
 ```

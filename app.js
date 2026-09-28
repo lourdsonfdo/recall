@@ -126,8 +126,8 @@
     if (openSheet) openSheet.close(true);
     const [, name = "decks", arg = ""] = location.hash.match(/^#\/([^/]*)\/?(.*)$/) || [];
     const deck = decodeURIComponent(arg);
-    document.body.classList.toggle("studying", name === "study" || name === "quiz");
-    const tab = { deck: "decks", study: "decks", quiz: "drill" }[name] || name;
+    document.body.classList.toggle("studying", name === "study" || name === "quiz" || name === "guide");
+    const tab = { deck: "decks", study: "decks", quiz: "drill", guide: "drill" }[name] || name;
     $$("#tabs button").forEach((b) => (b.dataset.tab === tab ? b.setAttribute("aria-current", "page") : b.removeAttribute("aria-current")));
     window.scrollTo(0, 0);
     if (!db) return;
@@ -138,6 +138,7 @@
     if (name === "settings") return renderSettings();
     if (name === "drill") return renderDrill(deck);
     if (name === "quiz") return renderQuiz();
+    if (name === "guide") return renderGuide(deck);
     renderDecks();
   }
   const go = (h) => (location.hash === h ? route() : (location.hash = h));
@@ -775,9 +776,10 @@
   const dbest = (did) => (drillState.best[did] ||= {});
 
   async function renderDrill(did) {
-    if (!drills) {
-      view.innerHTML = `<div class="head"><div><h1>Drill</h1></div></div><div class="done center">Loading questions…</div>`;
-      try { await loadDrills(); } catch { view.innerHTML = `<div class="head"><div><h1>Drill</h1></div></div><div class="done center">Couldn't load the question banks. Open Recall once while online.</div>`; return; }
+    if (!drills || !guides) {
+      view.innerHTML = `<div class="head"><div><h1>Study</h1></div></div><div class="done center">Loading…</div>`;
+      await loadGuides().catch(() => {});
+      try { await loadDrills(); } catch { view.innerHTML = `<div class="head"><div><h1>Study</h1></div></div><div class="done center">Couldn't load the question banks. Open Recall once while online.</div>`; return; }
       if (!location.hash.startsWith("#/drill")) return;
     }
     const d = drills[did];
@@ -797,7 +799,7 @@
       return `<div class="group">${head}${subs}</div>`;
     }).join("");
     view.innerHTML = `
-      <div class="bar"><button class="back" id="back">${ICON.back}Drills</button></div>
+      <div class="bar"><button class="back" id="back">${ICON.back}Study</button></div>
       <div class="head" style="padding-top:4px"><div><h1>${esc(d.title)}</h1><div class="sub">${d.total} questions · ${d.sections.length} sections · multiple choice</div></div></div>
       <div class="group">
         <div class="field"><label>Questions</label><div class="seg" id="d-count">${["10", "20", "30", "all"].map((v) => `<button data-v="${v}" aria-pressed="${p.count === v}">${v === "all" ? "All" : v}</button>`).join("")}</div></div>
@@ -833,7 +835,10 @@
   function renderDrillList() {
     const list = Object.values(drills);
     view.innerHTML = `
-      <div class="head"><div><h1>Drill</h1><div class="sub">Midterm practice questions</div></div></div>
+      <div class="head"><div><h1>Study</h1><div class="sub">Tier 3 guides and midterm drills</div></div></div>
+      ${guides && guides.length ? `<div class="group-title">Tier 3 study guides</div>
+      <div class="group">${guides.map((g) => `<button class="row drill-row" data-g="${esc(g.id)}"><div class="label"><div class="t">${esc(g.title)}</div><div class="s">${esc(g.subtitle)}${g.stat ? " · " + esc(g.stat.split(" · ").slice(0, 2).join(" · ")) : ""}</div></div>${ICON.chev}</button>`).join("")}</div>` : ""}
+      <div class="group-title">Midterm drills</div>
       <div class="group">${list.map((d) => {
         const m = Object.keys(dmissed(d.id)).filter((id) => d.byId[id]).length;
         const b = dbest(d.id).__all;
@@ -841,6 +846,51 @@
           <div class="meta"><span class="pill">${d.total} q</span><span class="pill">${d.sections.length} sections</span>${b != null ? `<span class="pill best">mix best ${b}%</span>` : ""}${m ? `<span class="pill miss">${m} missed</span>` : ""}</div></div>${ICON.chev}</button>`;
       }).join("")}</div>`;
     $$("[data-d]", view).forEach((b) => b.addEventListener("click", () => go("#/drill/" + enc(b.dataset.d))));
+    $$("[data-g]", view).forEach((b) => b.addEventListener("click", () => go("#/guide/" + enc(b.dataset.g))));
+  }
+
+  // ---------- study guides (static pages shown in a frame) ----------
+  let guides = null;
+  async function loadGuides() {
+    if (guides) return guides;
+    const j = await (await fetch("guides/index.json", { cache: "no-cache" })).json();
+    return (guides = j.guides);
+  }
+
+  async function renderGuide(id) {
+    try { await loadGuides(); } catch { return toast("Couldn't load the guide — open Recall once while online"), go("#/drill"); }
+    const g = guides.find((x) => x.id === id);
+    if (!g) return go("#/drill");
+    view.innerHTML = `<div class="study">
+      <div class="study-top">
+        <button class="tbtn" id="g-close" aria-label="Close guide">${ICON.close}</button>
+        <div class="qcount" style="flex:1;text-align:center;font-weight:600">${esc(g.title)}</div>
+        <button class="tbtn" id="g-top" aria-label="Back to top"><svg viewBox="0 0 24 24"><path d="M12 19V5M5 12l7-7 7 7"/></svg></button>
+      </div>
+      <iframe class="guide-frame" id="g-frame" title="${esc(g.title)} study guide" src="guides/${esc(g.file)}?v=${g.version}"></iframe>
+    </div>`;
+    const frame = $("#g-frame");
+    const key = "guidePos." + id;
+    let saveT;
+    frame.addEventListener("load", () => {
+      const w = frame.contentWindow, doc = frame.contentDocument;
+      if (!w || !doc) return;
+      const theme = pref.get("theme", "auto");
+      if (theme !== "auto") doc.documentElement.setAttribute("data-theme", theme);
+      const y = pref.get(key, 0);
+      if (y) w.scrollTo(0, y);
+      w.addEventListener("scroll", () => {
+        clearTimeout(saveT);
+        saveT = setTimeout(() => pref.set(key, Math.round(w.scrollY)), 250);
+      }, { passive: true });
+    });
+    // Also save on leave/background: scroll events alone can be skipped when the app is hidden.
+    const savePos = () => { try { const y = frame.contentWindow.scrollY; if (y >= 0) pref.set(key, Math.round(y)); } catch {} };
+    const onHide = () => document.visibilityState === "hidden" && savePos();
+    document.addEventListener("visibilitychange", onHide);
+    cleanup = () => { savePos(); document.removeEventListener("visibilitychange", onHide); };
+    $("#g-close").addEventListener("click", () => go("#/drill"));
+    $("#g-top").addEventListener("click", () => frame.contentWindow && frame.contentWindow.scrollTo({ top: 0, behavior: "smooth" }));
   }
 
   function startQuiz(did, list, title, key) {
@@ -1081,6 +1131,7 @@
     drillState = Object.assign(emptyDrill(), (await Store.get("drill").catch(() => null)) || {});
     const res = await updateBundles();
     loadDrills().catch(() => {}); // warm the offline cache
+    loadGuides().then((gs) => gs.forEach((g) => fetch("guides/" + g.file + "?v=" + g.version).catch(() => {}))).catch(() => {});
     if (first) await save({ cards: true, now: true });
     route();
     if (!first && res) toast("Decks updated: " + res);
