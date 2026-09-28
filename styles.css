@@ -303,6 +303,64 @@ body.studying #view { padding-bottom: 0; }
 }
 #toast.show { opacity: 1; transform: translate(-50%, 0); }
 
+/* ---------- drill ---------- */
+#tabs button { max-width: 96px; }
+.drill-row .t { font-weight: 600; }
+.drill-row.mix { background: var(--ink); color: var(--bg); }
+.drill-row.mix .s, .drill-row.mix .chev { color: color-mix(in srgb, var(--bg) 70%, transparent); }
+.drill-row.sub { padding-left: 30px; }
+.drill-row.sub .t { font-weight: 500; font-size: 15px; }
+.drill-row .s { white-space: normal; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; }
+.meta { display: flex; gap: 6px; flex-wrap: wrap; margin-top: 6px; }
+.meta .pill { margin: 0; }
+.pill.best { color: var(--due); } .pill.miss { color: var(--learn); }
+.miss-btn { width: 100%; justify-content: center; color: var(--learn); }
+.quiz-top { flex-direction: column; align-items: stretch; gap: 6px; }
+.quiz-top .row1 { display: flex; align-items: center; gap: 6px; }
+.quiz-top .qcount { flex: 1; text-align: center; font-size: 14px; font-weight: 600; color: var(--ink-2); font-variant-numeric: tabular-nums; }
+.track { height: 5px; border-radius: 3px; background: var(--line); display: flex; overflow: hidden; margin: 0 6px 4px; }
+.track i { display: block; height: 100%; transition: width .25s; }
+.track .g { background: var(--good); } .track .r { background: var(--again); }
+.qtag { font-size: 12px; color: var(--ink-3); letter-spacing: .02em; margin: 0 0 10px; }
+.stem { font-size: 19px; line-height: 1.45; margin: 0 0 18px; font-weight: 500; }
+.opts { display: grid; gap: 10px; }
+.opt {
+  display: grid; grid-template-columns: 30px 1fr; gap: 10px; align-items: start; text-align: left;
+  padding: 12px 14px; border-radius: 12px; background: var(--surface); box-shadow: var(--shadow);
+  border: 1.5px solid transparent; font-size: 16px; line-height: 1.4;
+}
+.opt .k { width: 26px; height: 26px; border-radius: 7px; display: grid; place-items: center; font-size: 13px; font-weight: 700; background: var(--surface-2); color: var(--ink-2); }
+.opt .t { padding-top: 2px; }
+.opt.correct { border-color: var(--good); background: color-mix(in srgb, var(--good) 12%, var(--surface)); }
+.opt.correct .k { background: var(--good); color: var(--surface); }
+.opt.wrong { border-color: var(--again); background: color-mix(in srgb, var(--again) 12%, var(--surface)); }
+.opt.wrong .k { background: var(--again); color: var(--surface); }
+.opt.dim { opacity: .5; }
+.opt:disabled { opacity: 1; cursor: default; }
+.opt.dim:disabled { opacity: .5; }
+.fb { margin-top: 14px; padding: 12px 14px; border-radius: 12px; border-left: 4px solid var(--good); background: color-mix(in srgb, var(--good) 10%, var(--surface)); font-size: 15px; line-height: 1.45; }
+.fb.bad { border-left-color: var(--again); background: color-mix(in srgb, var(--again) 10%, var(--surface)); }
+.fb .verdict { font-weight: 700; margin: 0 0 4px; color: var(--good); }
+.fb.bad .verdict { color: var(--again); }
+.fb p { margin: 0; }
+.fb .src { margin-top: 6px; font-size: 12px; color: var(--ink-3); }
+.score { text-align: center; padding: 22px 12px 8px; }
+.score b { display: block; font: 700 64px/1 var(--serif); font-variant-numeric: tabular-nums; }
+.band { display: inline-block; margin-top: 10px; padding: 4px 12px; border-radius: 99px; font-size: 13px; font-weight: 600; }
+.band.ok { color: var(--good); background: color-mix(in srgb, var(--good) 14%, transparent); }
+.band.warn { color: #b7791f; background: color-mix(in srgb, #b7791f 14%, transparent); }
+.band.bad { color: var(--again); background: color-mix(in srgb, var(--again) 14%, transparent); }
+.trow { display: grid; grid-template-columns: minmax(0, 1fr) 70px 44px; gap: 10px; align-items: center; font-size: 14px; }
+.trow .bar { height: 6px; border-radius: 3px; background: var(--line); overflow: hidden; }
+.trow .bar i { display: block; height: 100%; background: var(--accent); }
+.trow .pct { text-align: right; color: var(--ink-2); font-variant-numeric: tabular-nums; font-size: 13px; }
+.mi { padding: 12px 14px; border-top: 1px solid var(--line); font-size: 15px; line-height: 1.4; }
+.mi:first-child { border-top: 0; }
+.mi .q { font-weight: 600; margin: 0 0 6px; }
+.mi .a { margin: 2px 0; }
+.mi .you { color: var(--again); } .mi .right { color: var(--good); }
+.mi .x { margin: 6px 0 0; color: var(--ink-2); font-size: 14px; }
+
 @media (min-width: 700px) {
   .card { --card-size: 23px; }
 }

@@ -126,8 +126,8 @@
     if (openSheet) openSheet.close(true);
     const [, name = "decks", arg = ""] = location.hash.match(/^#\/([^/]*)\/?(.*)$/) || [];
     const deck = decodeURIComponent(arg);
-    document.body.classList.toggle("studying", name === "study");
-    const tab = { deck: "decks", study: "decks" }[name] || name;
+    document.body.classList.toggle("studying", name === "study" || name === "quiz");
+    const tab = { deck: "decks", study: "decks", quiz: "drill" }[name] || name;
     $$("#tabs button").forEach((b) => (b.dataset.tab === tab ? b.setAttribute("aria-current", "page") : b.removeAttribute("aria-current")));
     window.scrollTo(0, 0);
     if (!db) return;
@@ -136,6 +136,8 @@
     if (name === "browse") return renderBrowse(deck);
     if (name === "stats") return renderStats();
     if (name === "settings") return renderSettings();
+    if (name === "drill") return renderDrill(deck);
+    if (name === "quiz") return renderQuiz();
     renderDecks();
   }
   const go = (h) => (location.hash === h ? route() : (location.hash = h));
@@ -719,6 +721,7 @@
     $("#s-wipe").addEventListener("click", async () => {
       if (!confirm("Erase ALL cards, progress and history from this phone? Export a backup first if unsure.")) return;
       await Store.wipe();
+      drillState = emptyDrill();
       db = Col.create();
       db.bundles = {};
       dirtyTree();
@@ -732,6 +735,231 @@
         if (el) el.textContent = `${p ? "Protected from automatic clearing" : "Not yet protected — install to Home Screen"}${est.usage ? ` · ${(est.usage / 1048576).toFixed(1)} MB used` : ""}`;
       });
     } else $("#s-persist").textContent = "Saved on this device";
+  }
+
+  // ---------- drill (multiple-choice midterm banks) ----------
+  // Banks live in drills/*.json (copied verbatim from the Midterm Drill pages); option 0 is correct.
+  const emptyDrill = () => ({ best: {}, missed: {}, prefs: { count: "20", shuffle: true } });
+  let drillState = emptyDrill();
+  let drills = null; // { id: { id, title, sections, byId, total } }
+  let quiz = null; // active session
+  const saveDrill = () => Store.put("drill", drillState).catch(() => {});
+  const shuffled = (a) => {
+    a = a.slice();
+    for (let i = a.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [a[i], a[j]] = [a[j], a[i]];
+    }
+    return a;
+  };
+
+  async function loadDrills() {
+    if (drills) return drills;
+    const idx = await (await fetch("drills/index.json", { cache: "no-cache" })).json();
+    const out = {};
+    for (const d of idx.drills) {
+      const j = await (await fetch("drills/" + d.file + "?v=" + d.version)).json();
+      const byId = {};
+      j.sections.forEach((s) => s.q.forEach((q, i) => {
+        q.id = s.id + "-" + (i + 1);
+        q.sid = s.id;
+        q.stitle = s.title;
+        byId[q.id] = q;
+      }));
+      out[d.id] = { id: d.id, title: j.title, sections: j.sections, byId, total: Object.keys(byId).length };
+    }
+    return (drills = out);
+  }
+
+  const dmissed = (did) => (drillState.missed[did] ||= {});
+  const dbest = (did) => (drillState.best[did] ||= {});
+
+  async function renderDrill(did) {
+    if (!drills) {
+      view.innerHTML = `<div class="head"><div><h1>Drill</h1></div></div><div class="done center">Loading questions…</div>`;
+      try { await loadDrills(); } catch { view.innerHTML = `<div class="head"><div><h1>Drill</h1></div></div><div class="done center">Couldn't load the question banks. Open Recall once while online.</div>`; return; }
+      if (!location.hash.startsWith("#/drill")) return;
+    }
+    const d = drills[did];
+    if (!d) return renderDrillList();
+    const missed = dmissed(did), best = dbest(did);
+    const missedIds = Object.keys(missed).filter((id) => d.byId[id]);
+    const p = drillState.prefs;
+    const meta = (n, b, m) => `<div class="meta"><span class="pill">${n} q</span>${b != null ? `<span class="pill best">best ${b}%</span>` : ""}${m ? `<span class="pill miss">${m} missed</span>` : ""}</div>`;
+    const rows = d.sections.map((s, i) => {
+      const m = s.q.filter((q) => missed[q.id]).length;
+      const head = `<button class="row drill-row" data-sec="${esc(s.id)}"><div class="label"><div class="small">SECTION ${String(i + 1).padStart(2, "0")}</div><div class="t">${esc(s.title)}</div><div class="s">${esc(s.covers || "")}</div>${meta(s.q.length, best[s.id], m)}</div>${ICON.chev}</button>`;
+      const subs = (s.subs || []).map((sub) => {
+        const qs = s.q.filter((q) => sub.srcs.includes(q.src));
+        const sm = qs.filter((q) => missed[q.id]).length;
+        return `<button class="row drill-row sub" data-sec="${esc(s.id)}" data-sub="${esc(sub.id)}"><div class="label"><div class="t">${esc(sub.title)}</div><div class="s">${esc(sub.covers || "")}</div>${meta(qs.length, best[sub.id], sm)}</div>${ICON.chev}</button>`;
+      }).join("");
+      return `<div class="group">${head}${subs}</div>`;
+    }).join("");
+    view.innerHTML = `
+      <div class="bar"><button class="back" id="back">${ICON.back}Drills</button></div>
+      <div class="head" style="padding-top:4px"><div><h1>${esc(d.title)}</h1><div class="sub">${d.total} questions · ${d.sections.length} sections · multiple choice</div></div></div>
+      <div class="group">
+        <div class="field"><label>Questions</label><div class="seg" id="d-count">${["10", "20", "30", "all"].map((v) => `<button data-v="${v}" aria-pressed="${p.count === v}">${v === "all" ? "All" : v}</button>`).join("")}</div></div>
+        <div class="field"><label>Shuffle question order</label><div class="seg" id="d-shuf">${[["on", "On"], ["off", "Off"]].map(([v, l]) => `<button data-v="${v}" aria-pressed="${(p.shuffle ? "on" : "off") === v}">${l}</button>`).join("")}</div></div>
+      </div>
+      ${missedIds.length ? `<button class="btn secondary miss-btn" id="d-miss" style="margin-bottom:18px">Drill all missed · ${missedIds.length}</button>` : ""}
+      <div class="group"><button class="row drill-row mix" data-sec="__all"><div class="label"><div class="t">Full midterm mix</div><div class="s">Questions from every section — closest to the real exam.</div>${meta(d.total, best.__all, 0)}</div>${ICON.chev}</button></div>
+      <div class="group-title">Sections</div>
+      ${rows}
+      <p class="small center">Answer choices are shuffled every time. Keys: 1–4 or A–D, Enter for next.</p>`;
+    $("#back").addEventListener("click", () => go("#/drill"));
+    $$("#d-count button").forEach((b) => b.addEventListener("click", () => { p.count = b.dataset.v; saveDrill(); $$("#d-count button").forEach((x) => x.setAttribute("aria-pressed", x === b)); }));
+    $$("#d-shuf button").forEach((b) => b.addEventListener("click", () => { p.shuffle = b.dataset.v === "on"; saveDrill(); $$("#d-shuf button").forEach((x) => x.setAttribute("aria-pressed", x === b)); }));
+    const mb = $("#d-miss");
+    mb && mb.addEventListener("click", () => startQuiz(did, shuffled(missedIds.map((id) => d.byId[id])), "Missed questions", "__missed"));
+    $$("[data-sec]", view).forEach((b) => b.addEventListener("click", () => {
+      const sid = b.dataset.sec, subId = b.dataset.sub;
+      let pool, title, key;
+      if (sid === "__all") (pool = d.sections.flatMap((s) => s.q)), (title = "Full midterm mix"), (key = "__all");
+      else {
+        const s = d.sections.find((x) => x.id === sid);
+        const sub = subId && s.subs.find((x) => x.id === subId);
+        pool = sub ? s.q.filter((q) => sub.srcs.includes(q.src)) : s.q;
+        title = sub ? sub.title : s.title;
+        key = sub ? sub.id : s.id;
+      }
+      let list = p.shuffle || sid === "__all" ? shuffled(pool) : pool.slice();
+      if (p.count !== "all") list = list.slice(0, +p.count);
+      startQuiz(did, list, title, key);
+    }));
+  }
+
+  function renderDrillList() {
+    const list = Object.values(drills);
+    view.innerHTML = `
+      <div class="head"><div><h1>Drill</h1><div class="sub">Midterm practice questions</div></div></div>
+      <div class="group">${list.map((d) => {
+        const m = Object.keys(dmissed(d.id)).filter((id) => d.byId[id]).length;
+        const b = dbest(d.id).__all;
+        return `<button class="row drill-row" data-d="${esc(d.id)}"><div class="label"><div class="t">${esc(d.title)}</div>
+          <div class="meta"><span class="pill">${d.total} q</span><span class="pill">${d.sections.length} sections</span>${b != null ? `<span class="pill best">mix best ${b}%</span>` : ""}${m ? `<span class="pill miss">${m} missed</span>` : ""}</div></div>${ICON.chev}</button>`;
+      }).join("")}</div>`;
+    $$("[data-d]", view).forEach((b) => b.addEventListener("click", () => go("#/drill/" + enc(b.dataset.d))));
+  }
+
+  function startQuiz(did, list, title, key) {
+    if (!list.length) return toast("No questions here");
+    quiz = { did, key, title, i: 0, items: list.map((q) => ({ id: q.id, order: shuffled([0, 1, 2, 3]), pick: null })) };
+    go("#/quiz");
+  }
+
+  function renderQuiz() {
+    if (!quiz || !drills) return go("#/drill");
+    const d = drills[quiz.did];
+    view.innerHTML = `<div class="study">
+      <div class="study-top quiz-top">
+        <div class="row1"><button class="tbtn" id="q-close" aria-label="Back to sections">${ICON.close}</button>
+          <div class="qcount" id="q-count"></div>
+          <button class="tbtn" id="q-finish" aria-label="Finish and score">${ICON.more}</button></div>
+        <div class="track" aria-hidden="true"><i class="g" id="q-g"></i><i class="r" id="q-r"></i></div>
+      </div>
+      <div class="stage" id="q-stage"></div>
+      <div class="answers" id="q-actions"></div></div>`;
+    const stage = $("#q-stage"), actions = $("#q-actions");
+
+    function draw() {
+      if (quiz.i >= quiz.items.length) return results();
+      const it = quiz.items[quiz.i], q = d.byId[it.id];
+      const done = it.pick !== null;
+      const ok = quiz.items.filter((x) => x.pick !== null && x.order[x.pick] === 0).length;
+      const bad = quiz.items.filter((x) => x.pick !== null && x.order[x.pick] !== 0).length;
+      const n = quiz.items.length;
+      $("#q-count").textContent = `Q ${quiz.i + 1} / ${n} · ${ok} right · ${bad} wrong`;
+      $("#q-g").style.width = (100 * ok) / n + "%";
+      $("#q-r").style.width = (100 * bad) / n + "%";
+      const right = done && it.order[it.pick] === 0;
+      stage.innerHTML = `<div class="flash" style="max-width:620px;margin:0 auto">
+        <p class="qtag">${esc(q.stitle)} · ${esc(q.src)}</p>
+        <p class="stem">${esc(q.q)}</p>
+        <div class="opts">${it.order.map((oi, pos) => {
+          let cls = "opt";
+          if (done) cls += oi === 0 ? " correct" : pos === it.pick ? " wrong" : " dim";
+          return `<button class="${cls}" data-pos="${pos}" ${done ? "disabled" : ""}><span class="k">${"ABCD"[pos]}</span><span class="t">${esc(q.o[oi])}</span></button>`;
+        }).join("")}</div>
+        ${done ? `<div class="fb ${right ? "" : "bad"}" role="status"><p class="verdict">${right ? "Correct" : "Incorrect — the answer is " + "ABCD"[it.order.indexOf(0)]}</p><p>${esc(q.e)}</p><p class="src">${esc(q.src)}</p></div>` : ""}
+      </div>`;
+      stage.scrollTop = 0;
+      actions.innerHTML = done
+        ? `<button class="btn" id="q-next">${quiz.i + 1 < n ? "Next question" : "See my score"}</button>`
+        : `<p class="small center" style="margin:10px 0">Tap an answer</p>`;
+      $$(".opt", stage).forEach((b) => b.addEventListener("click", () => pick(+b.dataset.pos)));
+      const nx = $("#q-next");
+      nx && nx.addEventListener("click", next);
+      if (done) { const fb = $(".fb", stage); fb && fb.scrollIntoView({ block: "nearest" }); }
+    }
+
+    function pick(pos) {
+      const it = quiz.items[quiz.i];
+      if (it.pick !== null) return;
+      it.pick = pos;
+      const m = dmissed(quiz.did);
+      if (it.order[pos] === 0) delete m[it.id];
+      else m[it.id] = 1;
+      saveDrill();
+      draw();
+    }
+    const next = () => { quiz.i++; draw(); };
+
+    function results() {
+      const items = quiz.items;
+      const n = items.length;
+      const ok = items.filter((x) => x.order[x.pick] === 0).length;
+      const pct = n ? Math.round((ok / n) * 100) : 0;
+      const best = dbest(quiz.did);
+      if (quiz.key !== "__missed" && (best[quiz.key] == null || pct > best[quiz.key])) (best[quiz.key] = pct), saveDrill();
+      const band = pct >= 80 ? ["ok", "Exam ready"] : pct >= 70 ? ["warn", "Close — drill the misses"] : ["bad", "Needs more review"];
+      const wrong = items.filter((x) => x.order[x.pick] !== 0);
+      const byMix = quiz.key === "__all" || quiz.key === "__missed";
+      const groups = {};
+      items.forEach((x) => {
+        const q = d.byId[x.id], k = byMix ? q.stitle : q.src;
+        (groups[k] ||= { n: 0, ok: 0 }).n++;
+        if (x.order[x.pick] === 0) groups[k].ok++;
+      });
+      $("#q-count").textContent = quiz.title;
+      $("#q-g").style.width = (100 * ok) / n + "%";
+      $("#q-r").style.width = (100 * (n - ok)) / n + "%";
+      stage.innerHTML = `<div style="max-width:620px;margin:0 auto">
+        <div class="score"><b>${pct}%</b><div class="muted">${ok} of ${n} correct</div><span class="band ${band[0]}">${band[1]}</span></div>
+        <div class="group-title">${byMix ? "By section" : "By topic"}</div>
+        <div class="chart" style="display:grid;gap:8px">${Object.entries(groups).sort((a, b) => a[1].ok / a[1].n - b[1].ok / b[1].n).map(([k, g]) =>
+          `<div class="trow"><span>${esc(k)}</span><span class="bar"><i style="width:${(100 * g.ok) / g.n}%"></i></span><span class="pct">${g.ok}/${g.n}</span></div>`).join("")}</div>
+        ${wrong.length ? `<div class="group-title">Missed (${wrong.length})</div><div class="group">${wrong.map((x) => {
+          const q = d.byId[x.id];
+          return `<div class="mi"><p class="q">${esc(q.q)}</p><p class="a you">You: ${esc(q.o[x.order[x.pick]])}</p><p class="a right">Answer: ${esc(q.o[0])}</p><p class="x">${esc(q.e)}</p></div>`;
+        }).join("")}</div>` : `<div class="done center">Perfect run — nothing missed.</div>`}
+      </div>`;
+      stage.scrollTop = 0;
+      actions.innerHTML = `${wrong.length ? `<button class="btn" id="q-redo">Drill these ${wrong.length} again</button>` : ""}<button class="btn secondary" id="q-back">Back to sections</button>`;
+      const redo = $("#q-redo");
+      redo && redo.addEventListener("click", () => startQuiz(quiz.did, shuffled(wrong.map((x) => d.byId[x.id])), "Missed questions", "__missed"));
+      $("#q-back").addEventListener("click", () => go("#/drill/" + enc(quiz.did)));
+      quiz.i = n;
+    }
+
+    $("#q-close").addEventListener("click", () => go("#/drill/" + enc(quiz.did)));
+    $("#q-finish").addEventListener("click", () => actionSheet(null, [
+      { label: "Finish & score now", run: () => { quiz.items = quiz.items.filter((x) => x.pick !== null); if (!quiz.items.length) return go("#/drill/" + enc(quiz.did)); quiz.i = quiz.items.length; draw(); } },
+      { label: "Quit without scoring", danger: true, run: () => go("#/drill/" + enc(quiz.did)) },
+    ]));
+    const onKey = (e) => {
+      if ($("#sheet-root").children.length || e.metaKey || e.ctrlKey || e.altKey) return;
+      const it = quiz && quiz.items[quiz.i];
+      if (!it) return;
+      const k = e.key.toLowerCase();
+      const idx = "1234".indexOf(k) >= 0 ? "1234".indexOf(k) : "abcd".indexOf(k);
+      if (it.pick === null && idx >= 0 && k.length === 1) pick(idx);
+      else if (it.pick !== null && (e.key === "Enter" || e.key === " ")) { e.preventDefault(); next(); }
+    };
+    document.addEventListener("keydown", onKey);
+    cleanup = () => document.removeEventListener("keydown", onKey);
+    draw();
   }
 
   // ---------- import / backup ----------
@@ -775,7 +1003,7 @@
   }
 
   async function exportBackup() {
-    const data = JSON.stringify({ app: "recall", v: 1, at: now(), cards: db.cards, st: db.st, cfg: db.cfg, daily: db.daily, bundles: db.bundles, nextPos: db.nextPos, revlog: db.revlog.map(({ id, ...r }) => r) });
+    const data = JSON.stringify({ app: "recall", v: 1, at: now(), drill: drillState, cards: db.cards, st: db.st, cfg: db.cfg, daily: db.daily, bundles: db.bundles, nextPos: db.nextPos, revlog: db.revlog.map(({ id, ...r }) => r) });
     const name = `recall-backup-${new Date().toISOString().slice(0, 10)}.json`;
     const file = new File([data], name, { type: "application/json" });
     if (navigator.canShare && navigator.canShare({ files: [file] })) {
@@ -794,6 +1022,7 @@
     if (j.app !== "recall" || !j.cards || !j.st) return toast("That isn't a Recall backup");
     if (!confirm(`Replace everything on this phone with the backup from ${new Date(j.at).toLocaleString()} (${Object.keys(j.cards).length} cards)?`)) return;
     db = Object.assign(Col.create(), { cards: j.cards, st: j.st, cfg: j.cfg, daily: j.daily, bundles: j.bundles || {}, nextPos: j.nextPos, revlog: [] });
+    if (j.drill) (drillState = Object.assign(emptyDrill(), j.drill)), await Store.put("drill", drillState);
     await Store.replaceLogs(j.revlog || []);
     await save({ cards: true, now: true });
     const loaded = await Store.load();
@@ -849,7 +1078,9 @@
     const first = !db;
     if (first) db = Col.create();
     if (first) view.innerHTML = `<div class="done center" style="padding-top:30vh">Loading your decks…</div>`;
+    drillState = Object.assign(emptyDrill(), (await Store.get("drill").catch(() => null)) || {});
     const res = await updateBundles();
+    loadDrills().catch(() => {}); // warm the offline cache
     if (first) await save({ cards: true, now: true });
     route();
     if (!first && res) toast("Decks updated: " + res);

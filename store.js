@@ -76,5 +76,5 @@
     return db;
   }
 
-  root.Store = { load, saveCore, saveCards, saveAll, addLog, deleteLog, replaceLogs, putMedia, getMedia, mediaNames, wipe };
+  root.Store = { get, put, load, saveCore, saveCards, saveAll, addLog, deleteLog, replaceLogs, putMedia, getMedia, mediaNames, wipe };
 })(self);

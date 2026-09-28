@@ -6,7 +6,14 @@ Anki-style flashcards for your phone. Offline PWA, no account, data stays on the
 - **Study:** Again/Hard/Good/Easy with interval previews, undo, bury, suspend, mark, edit.
 - **Decks:** built-in bundle (`decks/`), plus import of Anki `.apkg`/`.colpkg` (old and new zstd formats, optional review progress, media), plain-text `.txt/.csv`, and Recall `.json`.
 - **Browse:** search text, `deck:`, `tag:`, `is:new|due|learn|suspended`, `-negation`.
-- **Stats**, **backup/restore** (one JSON file).
+- **Drill:** RCP 202 (508) and RCP 203 (644) midterm multiple-choice banks — by section/subsection or full mix, 10/20/30/all, shuffled choices, explanations, missed-question review, best scores.
+- **Stats**, **backup/restore** (one JSON file, includes drill progress).
+
+## Update a drill bank
+
+```
+python3 tools/import_drill.py path/to/RCP_203_Midterm_Drill.html rcp203 "RCP 203 Midterm"
+```
 
 ## Update the built-in decks from desktop Anki
 
