@@ -47,9 +47,12 @@
     set(k, v) { try { localStorage.setItem("recall." + k, JSON.stringify(v)); } catch {} },
   };
   function applyTheme() {
-    const t = pref.get("theme", "auto");
+    const t = pref.get("appTheme", "dark");
     if (t === "auto") document.documentElement.removeAttribute("data-theme");
     else document.documentElement.setAttribute("data-theme", t);
+    const dark = t === "dark" || (t === "auto" && matchMedia("(prefers-color-scheme: dark)").matches);
+    const meta = document.querySelector('meta[name="theme-color"]');
+    if (meta) meta.content = dark ? "#000000" : "#f4f3ef";
     document.documentElement.style.setProperty("--card-size", { s: "18px", m: "21px", l: "25px" }[pref.get("size", "m")]);
   }
 
@@ -621,7 +624,7 @@
   // ---------- settings ----------
   function renderSettings() {
     const cfg = Col.cfgOf(db);
-    const theme = pref.get("theme", "auto"), size = pref.get("size", "m");
+    const theme = pref.get("appTheme", "dark"), size = pref.get("size", "m");
     const bundleDate = Object.entries(db.bundles).map(([id, v]) => `${id}: ${new Date(v * 1000).toLocaleDateString()}`).join(" · ");
     view.innerHTML = `
       <div class="head"><div><h1>Settings</h1></div></div>
@@ -696,7 +699,7 @@
       $$("#s-order button").forEach((x) => x.setAttribute("aria-pressed", x === b));
       toast(b.dataset.v === "random" ? "New cards will come in random order" : "New cards will come in order");
     }));
-    seg("#s-theme", "theme");
+    seg("#s-theme", "appTheme");
     seg("#s-size", "size");
 
     $("#s-import").addEventListener("click", () => $("#s-file").click());
@@ -875,7 +878,7 @@
     frame.addEventListener("load", () => {
       const w = frame.contentWindow, doc = frame.contentDocument;
       if (!w || !doc) return;
-      const theme = pref.get("theme", "auto");
+      const theme = pref.get("appTheme", "dark");
       if (theme !== "auto") doc.documentElement.setAttribute("data-theme", theme);
       const y = pref.get(key, 0);
       if (y) w.scrollTo(0, y);
