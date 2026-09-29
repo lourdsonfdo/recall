@@ -207,6 +207,8 @@ body.studying #view { padding-bottom: 0; }
 .card td, .card th { border: 1px solid var(--line); padding: 4px 8px; }
 .card ul, .card ol { text-align: left; display: inline-block; margin: 6px 0; }
 .card .cloze { font-weight: 700; color: var(--cloze); }
+.card .course-note { margin: 18px auto 0; max-width: 520px; padding: 10px 12px; border-radius: 10px; border-left: 3px solid var(--learn); background: var(--surface); font-size: .72em; line-height: 1.45; text-align: left; color: var(--ink-2); }
+.card .course-note b { color: var(--learn); }
 .card details.hint summary { color: var(--accent); cursor: pointer; }
 .answers {
   flex: none; padding: 10px 12px calc(var(--safe-b) + 12px);
