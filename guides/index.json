@@ -1,6 +1,14 @@
 {
  "guides": [
   {
+   "id": "rcp201-quick",
+   "title": "RCP 201 Quick Answers",
+   "subtitle": "Midterm study guide · straight answers",
+   "file": "rcp201-quick.html",
+   "version": 1790817184,
+   "stat": "53 items · 10 sections · sources: slides + Whitaker, 4th ed."
+  },
+  {
    "id": "rcp202-tier3",
    "title": "RCP 202 Tier 3",
    "subtitle": "Study guide scope",

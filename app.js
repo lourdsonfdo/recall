@@ -838,8 +838,8 @@
   function renderDrillList() {
     const list = Object.values(drills);
     view.innerHTML = `
-      <div class="head"><div><h1>Study</h1><div class="sub">Tier 3 guides and midterm drills</div></div></div>
-      ${guides && guides.length ? `<div class="group-title">Tier 3 study guides</div>
+      <div class="head"><div><h1>Study</h1><div class="sub">Study guides and midterm drills</div></div></div>
+      ${guides && guides.length ? `<div class="group-title">Study guides</div>
       <div class="group">${guides.map((g) => `<button class="row drill-row" data-g="${esc(g.id)}"><div class="label"><div class="t">${esc(g.title)}</div><div class="s">${esc(g.subtitle)}${g.stat ? " · " + esc(g.stat.split(" · ").slice(0, 2).join(" · ")) : ""}</div></div>${ICON.chev}</button>`).join("")}</div>` : ""}
       <div class="group-title">Midterm drills</div>
       <div class="group">${list.map((d) => {
