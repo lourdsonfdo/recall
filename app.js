@@ -837,10 +837,14 @@
 
   function renderDrillList() {
     const list = Object.values(drills);
+    const apps = (guides || []).filter((g) => g.kind === "app");
+    const docs = (guides || []).filter((g) => g.kind !== "app");
     view.innerHTML = `
-      <div class="head"><div><h1>Study</h1><div class="sub">Study guides and midterm drills</div></div></div>
-      ${guides && guides.length ? `<div class="group-title">Study guides</div>
-      <div class="group">${guides.map((g) => `<button class="row drill-row" data-g="${esc(g.id)}"><div class="label"><div class="t">${esc(g.title)}</div><div class="s">${esc(g.subtitle)}${g.stat ? " · " + esc(g.stat.split(" · ").slice(0, 2).join(" · ")) : ""}</div></div>${ICON.chev}</button>`).join("")}</div>` : ""}
+      <div class="head"><div><h1>Study</h1><div class="sub">Study guides, midterm drills and board prep</div></div></div>
+      ${apps.length ? `<div class="group-title">Board exam prep</div>
+      <div class="group">${apps.map((g) => `<button class="row drill-row" data-g="${esc(g.id)}"><div class="label"><div class="t">${esc(g.title)}</div><div class="s">${esc(g.subtitle)}</div></div>${ICON.chev}</button>`).join("")}</div>` : ""}
+      ${docs.length ? `<div class="group-title">Study guides</div>
+      <div class="group">${docs.map((g) => `<button class="row drill-row" data-g="${esc(g.id)}"><div class="label"><div class="t">${esc(g.title)}</div><div class="s">${esc(g.subtitle)}${g.stat ? " · " + esc(g.stat.split(" · ").slice(0, 2).join(" · ")) : ""}</div></div>${ICON.chev}</button>`).join("")}</div>` : ""}
       <div class="group-title">Midterm drills</div>
       <div class="group">${list.map((d) => {
         const m = Object.keys(dmissed(d.id)).filter((id) => d.byId[id]).length;

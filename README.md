@@ -9,7 +9,8 @@ Anki-style flashcards for your phone. Offline PWA, no account, data stays on the
 - **Drill:** RCP 202 (508) and RCP 203 (644) midterm multiple-choice banks — by section/subsection or full mix, 10/20/30/all, shuffled choices, explanations, missed-question review, best scores.
 - **Stats**, **backup/restore** (one JSON file, includes drill progress).
 
-- **Guides:** RCP 202 and 203 Tier 3 study guides (study-guide scope), readable offline; the app remembers your place.
+- **Guides:** RCP 201 Quick Answers, RCP 202 and 203 Tier 3 study guides, readable offline; the app remembers your place.
+- **Board exam prep:** the TMC & CSE Trainer (420 TMC questions, 20 CSE simulations), embedded unchanged (`tools/import_guide.py ... --app`).
 
 ## Update a guide
 
