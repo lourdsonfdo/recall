@@ -942,12 +942,15 @@
         ${done ? `<div class="fb ${right ? "" : "bad"}" role="status"><p class="verdict">${right ? "Correct" : "Incorrect — the answer is " + "ABCD"[it.order.indexOf(0)]}</p><p>${esc(q.e)}</p><p class="src">${esc(q.src)}</p></div>` : ""}
       </div>`;
       stage.scrollTop = 0;
-      actions.innerHTML = done
+      const backBtn = quiz.i > 0 ? `<button class="btn secondary q-back" id="q-prev" aria-label="Previous question">‹ Back</button>` : "";
+      actions.innerHTML = `<div class="q-nav">${backBtn}${done
         ? `<button class="btn" id="q-next">${quiz.i + 1 < n ? "Next question" : "See my score"}</button>`
-        : `<p class="small center" style="margin:10px 0">Tap an answer</p>`;
+        : `<p class="small center q-hint">Tap an answer</p>`}</div>`;
       $$(".opt", stage).forEach((b) => b.addEventListener("click", () => pick(+b.dataset.pos)));
       const nx = $("#q-next");
       nx && nx.addEventListener("click", next);
+      const pv = $("#q-prev");
+      pv && pv.addEventListener("click", prev);
       if (done) { const fb = $(".fb", stage); fb && fb.scrollIntoView({ block: "nearest" }); }
     }
 
@@ -962,6 +965,8 @@
       draw();
     }
     const next = () => { quiz.i++; draw(); };
+    // Step back to review an earlier question; answered questions stay locked with their feedback shown.
+    const prev = () => { if (quiz.i > 0) { quiz.i--; draw(); } };
 
     function results() {
       const items = quiz.items;
@@ -1020,7 +1025,8 @@
       const k = e.key.toLowerCase();
       const idx = "1234".indexOf(k) >= 0 ? "1234".indexOf(k) : "abcd".indexOf(k);
       if (it.pick === null && idx >= 0 && k.length === 1) pick(idx);
-      else if (it.pick !== null && (e.key === "Enter" || e.key === " ")) { e.preventDefault(); next(); }
+      else if (it.pick !== null && (e.key === "Enter" || e.key === " " || e.key === "ArrowRight")) { e.preventDefault(); next(); }
+      else if (e.key === "ArrowLeft") { e.preventDefault(); prev(); }
     };
     document.addEventListener("keydown", onKey);
     cleanup = () => document.removeEventListener("keydown", onKey);
