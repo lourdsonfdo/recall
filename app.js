@@ -902,7 +902,7 @@
 
   function startQuiz(did, list, title, key) {
     if (!list.length) return toast("No questions here");
-    quiz = { did, key, title, i: 0, items: list.map((q) => ({ id: q.id, order: shuffled([0, 1, 2, 3]), pick: null })) };
+    quiz = { did, key, title, i: 0, all: list.map((q) => q.id), items: list.map((q) => ({ id: q.id, order: shuffled([0, 1, 2, 3]), pick: null })) };
     go("#/quiz");
   }
 
@@ -993,15 +993,23 @@
         }).join("")}</div>` : `<div class="done center">Perfect run — nothing missed.</div>`}
       </div>`;
       stage.scrollTop = 0;
-      actions.innerHTML = `${wrong.length ? `<button class="btn" id="q-redo">Drill these ${wrong.length} again</button>` : ""}<button class="btn secondary" id="q-back">Back to sections</button>`;
+      actions.innerHTML = `<button class="btn" id="q-retake">Retake all ${quiz.all.length}</button>${wrong.length ? `<button class="btn secondary" id="q-redo">Drill the ${wrong.length} missed</button>` : ""}<button class="btn secondary" id="q-back">Back to sections</button>`;
+      $("#q-retake").addEventListener("click", retake);
       const redo = $("#q-redo");
       redo && redo.addEventListener("click", () => startQuiz(quiz.did, shuffled(wrong.map((x) => d.byId[x.id])), "Missed questions", "__missed"));
       $("#q-back").addEventListener("click", () => go("#/drill/" + enc(quiz.did)));
       quiz.i = n;
     }
 
+    // Same questions, fresh attempt: answer choices reshuffled; question order follows the Shuffle setting.
+    function retake() {
+      const qs = quiz.all.map((id) => d.byId[id]).filter(Boolean);
+      const mix = drillState.prefs.shuffle || quiz.key === "__all" || quiz.key === "__missed";
+      startQuiz(quiz.did, mix ? shuffled(qs) : qs, quiz.title, quiz.key);
+    }
     $("#q-close").addEventListener("click", () => go("#/drill/" + enc(quiz.did)));
     $("#q-finish").addEventListener("click", () => actionSheet(null, [
+      { label: "Restart from question 1", run: retake },
       { label: "Finish & score now", run: () => { quiz.items = quiz.items.filter((x) => x.pick !== null); if (!quiz.items.length) return go("#/drill/" + enc(quiz.did)); quiz.i = quiz.items.length; draw(); } },
       { label: "Quit without scoring", danger: true, run: () => go("#/drill/" + enc(quiz.did)) },
     ]));
