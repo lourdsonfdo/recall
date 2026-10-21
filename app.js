@@ -130,7 +130,7 @@
     const [, name = "decks", arg = ""] = location.hash.match(/^#\/([^/]*)\/?(.*)$/) || [];
     const deck = decodeURIComponent(arg);
     document.body.classList.toggle("studying", name === "study" || name === "quiz" || name === "guide");
-    const tab = { deck: "decks", study: "decks", quiz: "drill", guide: "drill" }[name] || name;
+    const tab = { deck: "decks", study: "decks", quiz: "drill", guide: "drill", listen: "audio" }[name] || name;
     $$("#tabs button").forEach((b) => (b.dataset.tab === tab ? b.setAttribute("aria-current", "page") : b.removeAttribute("aria-current")));
     window.scrollTo(0, 0);
     if (!db) return;
@@ -142,6 +142,8 @@
     if (name === "drill") return renderDrill(deck);
     if (name === "quiz") return renderQuiz();
     if (name === "guide") return renderGuide(deck);
+    if (name === "audio") return renderAudio();
+    if (name === "listen") return renderListen(deck);
     renderDecks();
   }
   const go = (h) => (location.hash === h ? route() : (location.hash = h));
@@ -856,6 +858,196 @@
     $$("[data-g]", view).forEach((b) => b.addEventListener("click", () => go("#/guide/" + enc(b.dataset.g))));
   }
 
+  // ---------- audio lectures ----------
+  // Recordings live in audio/*.m4a, listed in audio/index.json. One shared <audio> element keeps playing while you move between tabs.
+  // Position and speed are saved per device. "Save for offline" keeps a copy in IndexedDB (the service worker does not cache audio).
+  const AL = AudioLib;
+  let lectures = null;
+  const player = new Audio();
+  player.preload = "metadata";
+  let curLec = null; // lecture object loaded in `player`
+  let lecUrl = null; // object URL when playing an offline copy
+  const offlineKey = (l) => "audio/" + l.file;
+  const apos = { get: (id) => (pref.get("audioPos", {})[id] || 0), set(id, t) { const m = pref.get("audioPos", {}); m[id] = t; pref.set("audioPos", m); } };
+  let lastPosSave = 0;
+
+  async function loadLectures() {
+    if (lectures) return lectures;
+    const j = await (await fetch("audio/index.json", { cache: "no-cache" })).json();
+    return (lectures = j.audio);
+  }
+
+  async function lectureSrc(l) {
+    const blob = await Store.getMedia(offlineKey(l)).catch(() => null);
+    if (blob) { if (lecUrl) URL.revokeObjectURL(lecUrl); return (lecUrl = URL.createObjectURL(blob)); }
+    return "audio/" + l.file + "?v=" + l.version;
+  }
+
+  async function loadLecture(l) {
+    if (curLec && curLec.id === l.id) return;
+    curLec = l;
+    player.pause();
+    player.src = await lectureSrc(l);
+    player.playbackRate = pref.get("audioSpeed", 1);
+    const start = apos.get(l.id);
+    player.addEventListener("loadedmetadata", () => { player.currentTime = AL.resumeAt(start, player.duration); player.playbackRate = pref.get("audioSpeed", 1); }, { once: true });
+    player.load();
+    setupMediaSession(l);
+  }
+
+  function setupMediaSession(l) {
+    if (!("mediaSession" in navigator)) return;
+    try {
+      navigator.mediaSession.metadata = new MediaMetadata({ title: l.title, artist: l.course, album: "Recall audio" });
+      const set = (a, f) => { try { navigator.mediaSession.setActionHandler(a, f); } catch {} };
+      set("play", () => player.play());
+      set("pause", () => player.pause());
+      set("seekbackward", () => skipAudio(-AL.SKIP));
+      set("seekforward", () => skipAudio(AL.SKIP));
+      set("seekto", (d) => { if (d.seekTime != null) player.currentTime = d.seekTime; });
+    } catch {}
+  }
+  function skipAudio(delta) { player.currentTime = AL.skipTo(player.currentTime, delta, player.duration); }
+  function savePos(force) {
+    if (!curLec) return;
+    const t = now();
+    if (!force && t - lastPosSave < 3000) return;
+    lastPosSave = t;
+    apos.set(curLec.id, player.ended ? 0 : player.currentTime);
+  }
+  player.addEventListener("timeupdate", () => savePos(false));
+  player.addEventListener("pause", () => savePos(true));
+  player.addEventListener("ended", () => savePos(true));
+  player.addEventListener("seeked", () => savePos(true));
+  document.addEventListener("visibilitychange", () => document.visibilityState === "hidden" && savePos(true));
+
+  async function renderAudio() {
+    if (!lectures) {
+      view.innerHTML = `<div class="head"><div><h1>Audio</h1></div></div><div class="done center">Loading…</div>`;
+      try { await loadLectures(); } catch { view.innerHTML = `<div class="head"><div><h1>Audio</h1></div></div><div class="done center">Couldn't load the lectures. Open Recall once while online.</div>`; return; }
+      if (!location.hash.startsWith("#/audio")) return;
+    }
+    const names = new Set(await Store.mediaNames().catch(() => []));
+    const row = (l) => {
+      const p = l === curLec ? player.currentTime : apos.get(l.id);
+      const bits = [l.course, AL.fmtLong(l.duration)];
+      if (p > 5) bits.push(AL.fmt(p) + " in");
+      if (names.has(offlineKey(l))) bits.push("saved offline");
+      return `<button class="row drill-row" data-l="${esc(l.id)}"><div class="label"><div class="t">${esc(l.title)}</div><div class="s">${esc(bits.join(" · "))}</div></div>${ICON.chev}</button>`;
+    };
+    const playing = curLec && !player.paused;
+    view.innerHTML = `
+      <div class="head"><div><h1>Audio</h1><div class="sub">Lecture recordings, with 15-second skip</div></div></div>
+      ${curLec ? `<div class="group-title">${playing ? "Now playing" : "Last played"}</div><div class="group">${row(curLec)}</div>` : ""}
+      <div class="group-title">Lectures</div>
+      <div class="group">${lectures.map(row).join("")}</div>`;
+    $$("[data-l]", view).forEach((b) => b.addEventListener("click", () => go("#/listen/" + enc(b.dataset.l))));
+  }
+
+  async function renderListen(id) {
+    try { await loadLectures(); } catch { return toast("Couldn't load the lecture. Open Recall once while online."), go("#/audio"); }
+    const l = lectures.find((x) => x.id === id);
+    if (!l) return go("#/audio");
+    await loadLecture(l);
+    if (!location.hash.startsWith("#/listen")) return;
+    const ico = {
+      back: '<svg viewBox="0 0 24 24"><path d="M12 5A8 8 0 1 1 5.07 9"/><path d="M14.6 2.4 12 5l2.6 2.6"/></svg>',
+      fwd: '<svg viewBox="0 0 24 24"><path d="M12 5A8 8 0 1 0 18.93 9"/><path d="M9.4 2.4 12 5 9.4 7.6"/></svg>',
+      play: '<svg viewBox="0 0 24 24"><path class="fill" d="M8 5.5v13l11-6.5z"/></svg>',
+      pause: '<svg viewBox="0 0 24 24"><path class="fill" d="M7 5h3.5v14H7zM13.5 5H17v14h-3.5z"/></svg>',
+    };
+    view.innerHTML = `
+      <div class="head"><button class="tbtn" id="a-back" aria-label="Back to audio">${ICON.back}</button><div style="flex:1;min-width:0"><div class="small">${esc(l.course)} · ${esc(l.subtitle)}</div><h1 class="a-title">${esc(l.title)}</h1></div></div>
+      <div class="a-now" id="a-now">&nbsp;</div>
+      <input type="range" class="a-bar" id="a-bar" min="0" max="1000" value="0" aria-label="Seek">
+      <div class="a-times"><span id="a-cur">0:00</span><span id="a-left"></span></div>
+      <div class="a-ctl">
+        <button class="a-skip" id="a-b15" aria-label="Back 15 seconds">${ico.back}<b>15</b></button>
+        <button class="a-play" id="a-play" aria-label="Play">${ico.play}</button>
+        <button class="a-skip" id="a-f15" aria-label="Forward 15 seconds">${ico.fwd}<b>15</b></button>
+      </div>
+      <div class="chips a-speeds" id="a-speeds" aria-label="Speed">${AL.SPEEDS.map((v) => `<button data-v="${v}" aria-pressed="false">${v}×</button>`).join("")}</div>
+      <button class="btn secondary a-off" id="a-off"></button>
+      <div class="group-title">Chapters</div>
+      <div class="group" id="a-ch">${l.chapters.map((c, i) => `<button class="row drill-row" data-i="${i}"><div class="a-ts">${AL.fmt(c.t)}</div><div class="label"><div class="t">${esc(c.title)}</div></div></button>`).join("")}</div>
+      <div class="small center" style="padding:14px 0 6px">Arrow keys skip 15 seconds · Space plays or pauses</div>`;
+
+    let dragging = false;
+    const paint = () => {
+      const d = player.duration || l.duration, t = player.currentTime || 0;
+      if (!dragging) $("#a-bar").value = Math.round((t / d) * 1000);
+      $("#a-cur").textContent = AL.fmt(dragging ? ($("#a-bar").value / 1000) * d : t);
+      $("#a-left").textContent = "-" + AL.fmt(Math.max(0, d - t));
+      const ci = AL.chapterAt(l.chapters, t);
+      $("#a-now").textContent = ci >= 0 ? l.chapters[ci].title : " ";
+      $$("#a-ch .row").forEach((r, i) => (i === ci ? r.setAttribute("aria-current", "true") : r.removeAttribute("aria-current")));
+      const pl = !player.paused;
+      $("#a-play").innerHTML = pl ? ico.pause : ico.play;
+      $("#a-play").setAttribute("aria-label", pl ? "Pause" : "Play");
+      const sp = player.playbackRate;
+      $$("#a-speeds button").forEach((b) => b.setAttribute("aria-pressed", +b.dataset.v === sp));
+      if ("mediaSession" in navigator && "setPositionState" in navigator.mediaSession && Number.isFinite(player.duration)) {
+        try { navigator.mediaSession.setPositionState({ duration: player.duration, position: Math.min(t, player.duration), playbackRate: sp || 1 }); } catch {}
+      }
+    };
+    const events = ["timeupdate", "play", "pause", "loadedmetadata", "durationchange", "ratechange", "seeked", "ended"];
+    events.forEach((e) => player.addEventListener(e, paint));
+    const onKey = (e) => {
+      if (e.metaKey || e.ctrlKey || e.altKey) return;
+      if (e.key === "ArrowLeft") (e.preventDefault(), skipAudio(-AL.SKIP));
+      else if (e.key === "ArrowRight") (e.preventDefault(), skipAudio(AL.SKIP));
+      else if (e.key === " " && !/^(BUTTON|INPUT)$/.test(document.activeElement.tagName)) (e.preventDefault(), player.paused ? player.play() : player.pause());
+    };
+    document.addEventListener("keydown", onKey);
+    cleanup = () => { events.forEach((e) => player.removeEventListener(e, paint)); document.removeEventListener("keydown", onKey); };
+
+    $("#a-back").addEventListener("click", () => go("#/audio"));
+    $("#a-b15").addEventListener("click", () => skipAudio(-AL.SKIP));
+    $("#a-f15").addEventListener("click", () => skipAudio(AL.SKIP));
+    $("#a-play").addEventListener("click", () => (player.paused ? player.play().catch(() => toast("Couldn't start playback")) : player.pause()));
+    $("#a-bar").addEventListener("input", () => { dragging = true; paint(); });
+    $("#a-bar").addEventListener("change", () => { player.currentTime = ($("#a-bar").value / 1000) * (player.duration || l.duration); dragging = false; });
+    $$("#a-speeds button").forEach((b) => b.addEventListener("click", () => { pref.set("audioSpeed", +b.dataset.v); player.playbackRate = +b.dataset.v; paint(); }));
+    $$("#a-ch .row").forEach((r) => r.addEventListener("click", () => { player.currentTime = l.chapters[+r.dataset.i].t; player.play().catch(() => {}); }));
+
+    // offline copy
+    const offBtn = $("#a-off");
+    const showOff = async () => {
+      const have = await Store.getMedia(offlineKey(l)).then((b) => !!b).catch(() => false);
+      offBtn.textContent = have ? "Saved for offline · Remove" : "Save for offline (" + Math.round(l.bytes / 1e6 || 36) + " MB)";
+      offBtn.dataset.have = have ? "1" : "";
+    };
+    await showOff();
+    offBtn.addEventListener("click", async () => {
+      if (offBtn.dataset.have) {
+        await Store.delMedia(offlineKey(l)).catch(() => {});
+        toast("Offline copy removed");
+        return showOff();
+      }
+      offBtn.disabled = true;
+      try {
+        const res = await fetch("audio/" + l.file + "?v=" + l.version);
+        if (!res.ok) throw new Error("HTTP " + res.status);
+        const total = +res.headers.get("content-length") || 0;
+        const rd = res.body.getReader(), parts = [];
+        let got = 0;
+        for (;;) {
+          const { done, value } = await rd.read();
+          if (done) break;
+          parts.push(value); got += value.length;
+          if (total) offBtn.textContent = "Saving… " + Math.round((got / total) * 100) + "%";
+        }
+        await Store.putMedia(offlineKey(l), new Blob(parts, { type: "audio/mp4" }));
+        toast("Saved for offline");
+      } catch (e) {
+        toast("Couldn't save: " + (e.message || "network error"));
+      }
+      offBtn.disabled = false;
+      showOff();
+    });
+    paint();
+  }
+
   // ---------- study guides (static pages shown in a frame) ----------
   let guides = null;
   async function loadGuides() {
@@ -1152,6 +1344,7 @@
     drillState = Object.assign(emptyDrill(), (await Store.get("drill").catch(() => null)) || {});
     const res = await updateBundles();
     loadDrills().catch(() => {}); // warm the offline cache
+    loadLectures().catch(() => {});
     loadGuides().then((gs) => gs.forEach((g) => fetch("guides/" + g.file + "?v=" + g.version).catch(() => {}))).catch(() => {});
     if (first) await save({ cards: true, now: true });
     route();

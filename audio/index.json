@@ -1,0 +1,88 @@
+{
+  "audio": [
+    {
+      "id": "rcp203-lssn7-ch11",
+      "title": "Support Oxygenation and Ventilation",
+      "course": "RCP 203",
+      "subtitle": "Lesson 7 \u00b7 Chapter 11 \u00b7 97 slides with speaker notes",
+      "file": "rcp203-lssn7-ch11.m4a",
+      "duration": 5931,
+      "version": "2026-10-20",
+      "chapters": [
+        {
+          "t": 0,
+          "title": "Welcome and roadmap"
+        },
+        {
+          "t": 145,
+          "title": "Oxygen therapy and hypoxemia"
+        },
+        {
+          "t": 463,
+          "title": "Minimizing hypoxemia"
+        },
+        {
+          "t": 689,
+          "title": "CPAP"
+        },
+        {
+          "t": 994,
+          "title": "Starting the ventilator: alarms"
+        },
+        {
+          "t": 1130,
+          "title": "Selecting the mode and the mode tables"
+        },
+        {
+          "t": 1556,
+          "title": "A P R V, inverse ratio, and the A-a gradient"
+        },
+        {
+          "t": 1991,
+          "title": "Initial settings, tidal volume, and predicted body weight"
+        },
+        {
+          "t": 2249,
+          "title": "Adjusting pH and P a C O two"
+        },
+        {
+          "t": 2608,
+          "title": "Oxygenation and optimizing PEEP"
+        },
+        {
+          "t": 3072,
+          "title": "BiPAP and noninvasive ventilation"
+        },
+        {
+          "t": 3705,
+          "title": "High-frequency ventilation"
+        },
+        {
+          "t": 3939,
+          "title": "Alarms and ventilator graphics"
+        },
+        {
+          "t": 4289,
+          "title": "Patient-ventilator asynchrony"
+        },
+        {
+          "t": 4430,
+          "title": "Lung recruitment maneuvers"
+        },
+        {
+          "t": 4795,
+          "title": "Liberation from mechanical ventilation"
+        },
+        {
+          "t": 5235,
+          "title": "Rapid-fire review"
+        },
+        {
+          "t": 5828,
+          "title": "Closing"
+        }
+      ],
+      "bytes": 36150049
+    }
+  ]
+}

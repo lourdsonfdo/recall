@@ -41,3 +41,6 @@ Phones pick up the new version on next launch; progress is kept (cards are keyed
 python3 -m http.server 8410
 node --test tests/*.test.js
 ```
+
+## Audio
+Lecture recordings live in `audio/` (`index.json` lists them: id, title, course, duration, chapters). The Audio tab plays them with 15-second back/forward, chapters, speed, resume, and lock-screen controls. "Save for offline" keeps a copy in IndexedDB (the service worker skips audio so iOS byte-range playback works). Add a lecture: copy the .m4a into `audio/` and add an entry to `audio/index.json` (chapters are `{t: seconds, title}`).

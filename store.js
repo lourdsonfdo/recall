@@ -69,6 +69,7 @@
   const putMedia = (name, blob) => tx("media", "readwrite", (s) => s.put(blob, name));
   const getMedia = (name) => tx("media", "readonly", (s) => s.get(name));
   const mediaNames = () => tx("media", "readonly", (s) => s.getAllKeys());
+  const delMedia = (name) => tx("media", "readwrite", (s) => s.delete(name));
 
   async function wipe() {
     const db = await open();
@@ -76,5 +77,5 @@
     return db;
   }
 
-  root.Store = { get, put, load, saveCore, saveCards, saveAll, addLog, deleteLog, replaceLogs, putMedia, getMedia, mediaNames, wipe };
+  root.Store = { get, put, load, saveCore, saveCards, saveAll, addLog, deleteLog, replaceLogs, putMedia, getMedia, mediaNames, delMedia, wipe };
 })(self);

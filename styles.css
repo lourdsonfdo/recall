@@ -375,3 +375,22 @@ body.studying #view { padding-bottom: 0; }
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after { animation: none !important; transition: none !important; }
 }
+
+/* ---------- audio ---------- */
+.a-title { font: 700 24px/1.15 var(--serif); letter-spacing: -.01em; margin: 2px 0 0; }
+.a-now { color: var(--accent); font-weight: 600; font-size: 15px; min-height: 22px; margin: 6px 2px 14px; }
+.a-bar { width: 100%; accent-color: var(--accent); margin: 0; height: 28px; }
+.a-times { display: flex; justify-content: space-between; color: var(--ink-3); font-size: 13px; font-variant-numeric: tabular-nums; margin: 0 2px; }
+.a-ctl { display: flex; align-items: center; justify-content: center; gap: 26px; margin: 22px 0 18px; }
+.a-skip { position: relative; width: 64px; height: 64px; display: grid; place-items: center; color: var(--ink); border-radius: 50%; }
+.a-skip:active { background: var(--surface-2); }
+.a-skip svg { width: 52px; height: 52px; fill: none; stroke: currentColor; stroke-width: 1.7; stroke-linecap: round; stroke-linejoin: round; }
+.a-skip b { position: absolute; inset: 0; display: grid; place-items: center; font-size: 14px; font-weight: 700; padding-top: 4px; font-variant-numeric: tabular-nums; }
+.a-play { width: 84px; height: 84px; border-radius: 50%; background: var(--accent); color: var(--accent-ink); display: grid; place-items: center; box-shadow: var(--shadow); }
+.a-play:active { transform: scale(.96); }
+.a-play svg { width: 40px; height: 40px; }
+.a-play svg .fill { fill: currentColor; stroke: none; }
+.a-speeds { justify-content: center; padding: 4px 0 16px; }
+.a-ts { width: 52px; flex: none; color: var(--ink-3); font-size: 13px; font-variant-numeric: tabular-nums; }
+#a-ch .row[aria-current="true"] { background: var(--surface-2); }
+#a-ch .row[aria-current="true"] .t { color: var(--accent); }
