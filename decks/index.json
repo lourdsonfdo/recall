@@ -17,6 +17,12 @@
    "name": "RCP 201 Quick Answers",
    "file": "rcp201qa.json",
    "version": 1790817750
+  },
+  {
+   "id": "lesson8",
+   "name": "Lesson 8 (RCP 202 + 203)",
+   "file": "lesson8.json",
+   "version": 1793426669
   }
  ]
 }
