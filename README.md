@@ -17,6 +17,8 @@ Anki-style flashcards for your phone. Offline PWA, no account, data stays on the
 ```
 python3 tools/import_guide.py path/to/RCP_203_Tier3_StudyGuideOnly.html rcp203-tier3 "RCP 203 Tier 3" "Study guide scope"
 ```
+Final guides are shown compacted: `python3 tools/compact_guide.py <vault html> <tmp.html>` folds source lines and the Conflicting Numbers / Still Not Covered sections (nothing removed; "Why it matters" blocks untouched), then import the tmp file with `tools/import_guide.py`. The vault copy and PDF stay full.
+
 
 ## Update a drill bank
 
