@@ -94,6 +94,21 @@ button:disabled { opacity: .45; cursor: default; }
   padding: calc(var(--safe-t) + 8px) 16px calc(var(--safe-b) + 88px);
 }
 
+/* ---------- lecture videos ---------- */
+.lecture-switch { display:flex; gap:12px; margin:0 0 22px; }
+.lecture-switch a { padding:10px 18px; border-radius:10px; background:var(--surface-2); color:var(--ink-2); text-decoration:none; }
+.lecture-switch a[aria-current="page"] { color:var(--accent); font-weight:700; }
+.lecture-video { display:block; width:100%; aspect-ratio:16/9; background:#000; border-radius:12px; }
+.video-row { color:inherit; text-decoration:none; }
+.video-controls,.video-actions { display:flex; align-items:center; justify-content:space-between; flex-wrap:wrap; gap:12px; margin:16px 0; }
+.video-controls .btn { width:auto; flex:1; padding:12px 8px; }
+.video-controls label { white-space:nowrap; }
+.video-controls select { padding:10px; background:var(--surface-2); color:var(--ink); border:1px solid var(--line); border-radius:8px; }
+.video-note { color:var(--ink-3); }
+.video-chapter { width:100%; text-align:left; gap:14px; }
+.video-chapter[aria-current] { color:var(--accent); background:var(--surface-2); }
+.video-chapter .val { min-width:48px; font-variant-numeric:tabular-nums; }
+
 /* ---------- tab bar ---------- */
 #tabs {
   position: fixed; inset: auto 0 0 0; z-index: 10;

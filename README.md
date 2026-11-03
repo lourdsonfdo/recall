@@ -46,3 +46,9 @@ node --test tests/*.test.js
 
 ## Audio
 Lecture recordings live in `audio/` (`index.json` lists them: id, title, course, duration, chapters). The Audio tab plays them with 15-second back/forward, chapters, speed, resume, and lock-screen controls. "Save for offline" keeps a copy in IndexedDB (the service worker skips audio so iOS byte-range playback works). Add a lecture: copy the .m4a into `audio/` and add an entry to `audio/index.json` (chapters are `{t: seconds, title}`).
+
+## Video lectures
+
+Open **Lectures → Videos** for the animated RCP 202 final-review lessons. Native video controls include fullscreen and English captions; chapter jumps, speed, 15-second skips and per-device resume are also available. Use **Save offline** on each video to store the video and captions in IndexedDB. Downloads are optional; MP4 files bypass the service worker to preserve byte-range playback. Existing audio remains under **Lectures → Audio**.
+
+`videos/index.json` lists the four canonical MP4s, WebVTT captions, transcripts, content-hash versions and chapters. Current exports preserve the lecture project's pronunciation-review status. Source videos remain in `~/Documents/RCP 202 Video Lectures/videos/`; updating Recall does not delete those originals.

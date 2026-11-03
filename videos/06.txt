@@ -1,0 +1,57 @@
+RCP 202 — Chapter 06: Renal System
+
+[06-001 · What this chapter covers]
+The renal system matters to the respiratory therapist in three ways. First, urine output is a window on perfusion and kidney function, and positive pressure ventilation can shrink it. Second, diabetic ketoacidosis arrives on the ventilator as a Kussmaul breathing patient with a high anion gap metabolic acidosis you must not treat with the ventilator. Third, the kidney is the slow partner in acid base balance: lungs handle CO2, kidneys handle fixed acids and bicarbonate. We also walk through renal failure in the ventilated patient and the four Rs.
+
+[06-002 · Urine output: the numbers]
+The kidneys filter nearly two hundred liters a day, but normal urine output is only one to two liters per day because almost all of the filtrate is reabsorbed. In hourly terms, the diuretics deck gives normal thirty to sixty milliliters per hour, oliguria under thirty, anuria under fifty milliliters per day, and polyuria over sixty per hour. Hess uses one milliliter per kilogram per hour as its reference. The RCP 105 critical care decks define oliguria more strictly as under twenty per hour, or under four hundred milliliters in twenty four hours. Low urine output is a bad sign and points to shock, hypotension, poor cardiac output, or acute kidney injury.
+
+[06-003 · Why ventilated patients make less urine]
+Positive pressure ventilation raises intrathoracic pressure, which drops venous return and cardiac output. Lower cardiac output means lower renal perfusion. The body senses the apparent volume loss and releases more antidiuretic hormone while releasing less atrial natriuretic factor. The net result is reduced urine output and fluid retention, which can push a borderline patient into acute kidney injury. Oliguria at the bedside typically indicates fluid deficiency, poor renal perfusion, or poor cardiac output. During IV potassium replacement, keep urine output above forty to fifty per hour to be safe.
+
+[06-004 · DKA mechanism]
+In type one diabetes, the insulin producing cells in the pancreas are destroyed, so there is little or no insulin. Without insulin, glucose cannot enter cells and piles up in the blood, causing hyperglycemia. Excess glucose spills into the urine, drags water with it, and produces an osmotic diuresis. The patient is thirsty, called polydipsia, and urinates heavily, called polyuria, which dehydrates them. Cells that cannot use glucose start burning fat, producing ketone bodies, which are acidic. The result is a metabolic acidosis driven by fixed acids the lungs cannot blow off. Severe hyperglycemia can also produce a hyperosmolar coma.
+
+[06-005 · DKA treatment]
+The classic case: a seventeen year old in semi coma, with polydipsia, polyuria, weakness, rapid weight loss, Kussmaul breathing at twenty four, heart rate one hundred five, blood pressure one fifteen over seventy. Urine ketones four, glucose six hundred fifty. Treatment is immediate IV normal saline for the dehydration and IV insulin to stop ketone production, then transition to subcutaneous insulin within forty eight hours. Replace electrolytes, especially potassium, because insulin drives potassium into cells. Bicarbonate therapy is reserved for pH under seven point one and controversial, because it can cause paradoxical CNS acidosis and volume overload.
+
+[06-006 · The anion gap]
+The anion gap equals sodium minus the sum of chloride plus bicarbonate. The RCP 103 deck gives the normal range as nine to fourteen. An anion gap above fourteen signals a high gap acidosis, meaning fixed acids like ketones or lactate are flooding in. Their unmeasured anions widen the gap while bicarbonate is used up buffering. A normal gap acidosis is a bicarbonate loss, as in severe diarrhea, where chloride rises to replace the lost bicarbonate. DKA is a high gap acidosis. Classic example from Hess case two: sodium one forty, chloride one oh five, bicarbonate ten. Gap equals one forty minus one fifteen, so twenty five. That is high.
+
+[06-007 · DKA on the ABG]
+The deck's DKA ABG: pH six point nine eight, PaCO2 twenty four, bicarbonate six, PaO2 ninety eight, SaO2 ninety seven percent. The read is severe metabolic acidosis with partial respiratory compensation. The very low PaCO2 is Kussmaul breathing, the body trying to blow off CO2 to raise the pH. Compensation is partial because the metabolic derangement is extreme. Oxygenation is fine; DKA is an acid base problem, not an oxygenation problem. The rule of thumb for metabolic acidosis compensation: PaCO2 falls about one point two for every one bicarbonate falls, with full response in hours.
+
+[06-008 · Kussmaul breathing and the vent trap]
+Kussmaul breathing is deep and rapid, air hungry, with large tidal volumes and a regular rhythm with no apnea. It appears in severe metabolic acidosis, classically DKA, and is a compensatory maneuver, not a primary problem. The ventilator trap: if a ventilated patient has a low PaCO2 because they are compensating for metabolic acidosis, do not reduce ventilation. The patient needs that hyperventilation to protect their pH. The flip side is also true: do not raise ventilatory support to try to fix metabolic acidosis. Treat the cause. For DKA, that is fluids and insulin.
+
+[06-009 · Kidney in acid base: the one liner]
+Lungs control carbon dioxide, kidneys control bicarbonate. The lungs blow off carbonic acid as CO2, but they cannot excrete the other acids produced by metabolism. The kidneys handle those fixed acids: phosphoric, uric, lactic, and ketone acids. They manage pH by reabsorbing and regenerating bicarbonate, which neutralizes acids, and by secreting hydrogen ions into the urine. Only the renal system can regulate alkaline balance in the blood. In acidosis, the kidney holds bicarbonate and dumps hydrogen; in alkalosis it does the reverse. The kidney handles about two percent of the daily acid load; the lungs handle the other ninety eight.
+
+[06-010 · The nephron's three processes]
+Each kidney has about a million nephrons, and each nephron does three things. One, glomerular filtration pushes fluid and solutes across the glomerulus under hydrostatic pressure. The glomerular filtration rate in healthy adults is roughly one hundred twenty to one hundred twenty five milliliters per minute. Two, tubular reabsorption reclaims plasma starting in the proximal tubule, which recovers eighty five to ninety percent of filtered bicarbonate. Three, tubular secretion clears waste by moving hydrogen, potassium, ammonium, creatinine, and organic acids into the filtrate. The main urinary buffers are phosphate and ammonia; ammonia binds hydrogen to form ammonium and lets the kidney excrete acid without acidifying the urine too much.
+
+[06-011 · Renal compensation timing]
+Renal compensation is slow. The deck says it takes three to five days to fully respond to a chronic change in PaCO2. The rule of thumb is bicarbonate changes about three point five to four milliequivalents per liter for every ten torr rise in PaCO2, and about four to five for every ten torr fall. Hess clarifies: the kidney starts responding as soon as PaCO2 moves, but full compensation can take days. The distal tubules normally excrete about seventy millimoles of acid per day but can ramp up to seven hundred over roughly five days. Compare the lungs, which produce rapid pH changes in minutes.
+
+[06-012 · Renal failure in the ventilated patient]
+Positive pressure ventilation hurts the kidney by lowering cardiac output and renal perfusion. The kidneys receive about twenty two to twenty five percent of cardiac output, so a drop in volume or output can slide the patient into renal insufficiency. Kidney failure shows up as falling urine output with rising BUN, creatinine, and potassium. Azotemia means abnormally high nitrogen containing wastes in the blood. The clinical risk is that the kidney can no longer eliminate the daily acid load, so metabolic acidosis builds up and the patient compensates with tachypnea and Kussmaul respirations.
+
+[06-013 · The four Rs of renal failure]
+Memorize the four Rs. Retention of waste raises BUN and creatinine. Retention of fluid produces peripheral and pulmonary edema. Retention of potassium produces hyperkalemia, which is the most immediately life threatening electrolyte problem in renal failure because it causes dysrhythmias. Retention of drugs produces toxicity, so dose adjust renally cleared medications. The respiratory therapist's hook is this: where does excess fluid eventually end up? The lungs. That is why renal failure patients come to CPAP, BiPAP, and mechanical ventilation. The treatment for severe renal failure acidosis is dialysis.
+
+[06-014 · Quick check: anion gap]
+A patient with known diabetes arrives obtunded. Labs: sodium one thirty eight, chloride one hundred, bicarbonate eight. Compute the anion gap. Then classify the metabolic picture as high gap or normal gap.
+[6-second practice pause]
+
+[06-015 · Answer: anion gap]
+The anion gap is one thirty eight minus one oh eight, which equals thirty. That is well above the normal nine to fourteen band, so this is a high gap metabolic acidosis. In a diabetic patient with those numbers, think DKA. The next moves are check glucose and ketones, start normal saline and IV insulin, replace potassium carefully, and leave the hyperventilation alone because it is protective compensation.
+
+[06-016 · Quick check: urine output]
+A ventilated patient has produced one hundred twenty milliliters of urine over the last six hours. By the diuretics deck threshold, does this qualify as oliguria? And by the RCP 105 critical care deck, does it still count as oliguria? Pause and answer both.
+[6-second practice pause]
+
+[06-017 · Answer: urine output]
+Hourly rate is one hundred twenty divided by six, equals twenty milliliters per hour. By the diuretics deck, oliguria is under thirty milliliters per hour, so yes, this is oliguria. By the stricter RCP 105 critical care definition of under twenty per hour, the patient is right at the edge, so it qualifies there too. Either way, this is low. Think perfusion, volume, cardiac output, and the ventilator's effect on venous return before reaching for a diuretic.
+
+[06-018 · Recap: renal system]
+To recap. Normal urine output is one to two liters per day or thirty to sixty milliliters per hour; oliguria is under thirty and anuria is under fifty per day. DKA is a high anion gap metabolic acidosis driven by ketone acids, presenting with Kussmaul breathing; treat with saline and insulin, not with the ventilator. The anion gap is sodium minus the sum of chloride plus bicarbonate; normal nine to fourteen. The kidney handles fixed acids and bicarbonate, but slowly, over three to five days. Positive pressure ventilation reduces urine output. Renal failure brings the four Rs, and hyperkalemia is the most dangerous.

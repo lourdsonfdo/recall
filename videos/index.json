@@ -1,0 +1,344 @@
+{
+  "videos": [
+    {
+      "id": "rcp202-final-01",
+      "title": "Weaning Parameters and Extubation Assessment",
+      "course": "RCP 202 \u00b7 Final review",
+      "file": "01-weaning-parameters-and-extubation-assessment.mp4",
+      "captions": "01.vtt",
+      "transcript": "01.txt",
+      "duration": 1500.57,
+      "bytes": 39890052,
+      "version": "0c3fb258b1788de3",
+      "chapters": [
+        {
+          "t": 0,
+          "title": "What this chapter covers"
+        },
+        {
+          "t": 54.5,
+          "title": "The readiness screen"
+        },
+        {
+          "t": 117.53,
+          "title": "Weaning success versus failure"
+        },
+        {
+          "t": 171.07,
+          "title": "Sensorium and GCS"
+        },
+        {
+          "t": 228.23,
+          "title": "Sedation and cooperation at extubation"
+        },
+        {
+          "t": 289.13,
+          "title": "CXR in weaning"
+        },
+        {
+          "t": 346.73,
+          "title": "CBC: Hb, Hct, WBC"
+        },
+        {
+          "t": 409.17,
+          "title": "MIP or NIF: muscle strength"
+        },
+        {
+          "t": 469.17,
+          "title": "Vital capacity"
+        },
+        {
+          "t": 535.6,
+          "title": "RSBI formula and cutoff"
+        },
+        {
+          "t": 589.6,
+          "title": "RSBI worked examples"
+        },
+        {
+          "t": 652.3,
+          "title": "Minute ventilation, VT, and rate"
+        },
+        {
+          "t": 719.3,
+          "title": "Oxygenation thresholds"
+        },
+        {
+          "t": 792.43,
+          "title": "Do not chase a low PaCO2"
+        },
+        {
+          "t": 856.27,
+          "title": "Hemodynamic stability"
+        },
+        {
+          "t": 918.27,
+          "title": "Pulmonary mechanics: Cst, VD/VT, Raw"
+        },
+        {
+          "t": 995.1,
+          "title": "The spontaneous breathing trial"
+        },
+        {
+          "t": 1060.73,
+          "title": "Quick check: RSBI"
+        },
+        {
+          "t": 1085.3,
+          "title": "Answer: RSBI calculation"
+        },
+        {
+          "t": 1115.4,
+          "title": "Secretions, cough, and airway protection"
+        },
+        {
+          "t": 1176.33,
+          "title": "Cuff leak test and stridor"
+        },
+        {
+          "t": 1236.23,
+          "title": "Quick check: deck thresholds"
+        },
+        {
+          "t": 1262.33,
+          "title": "Answer: deck thresholds"
+        },
+        {
+          "t": 1309.23,
+          "title": "Why patients fail weaning"
+        },
+        {
+          "t": 1378.63,
+          "title": "Disuse and auto-PEEP"
+        },
+        {
+          "t": 1428.77,
+          "title": "Recap: weaning and extubation"
+        }
+      ],
+      "reviewNote": "Review version: some medical pronunciations still need checking."
+    },
+    {
+      "id": "rcp202-final-03",
+      "title": "Communication",
+      "course": "RCP 202 \u00b7 Final review",
+      "file": "03-communication.mp4",
+      "captions": "03.vtt",
+      "transcript": "03.txt",
+      "duration": 488.5,
+      "bytes": 10331495,
+      "version": "52a03493c18e899c",
+      "chapters": [
+        {
+          "t": 0,
+          "title": "What this chapter covers"
+        },
+        {
+          "t": 46.47,
+          "title": "Closed versus open questions"
+        },
+        {
+          "t": 100.47,
+          "title": "Interview strategy: broad to narrow"
+        },
+        {
+          "t": 158.37,
+          "title": "The five levels of communication"
+        },
+        {
+          "t": 215.07,
+          "title": "Proxemics: four distance zones"
+        },
+        {
+          "t": 267.37,
+          "title": "The three V's"
+        },
+        {
+          "t": 323.5,
+          "title": "Quick check: question type"
+        },
+        {
+          "t": 350.1,
+          "title": "Answer: question type"
+        },
+        {
+          "t": 379.07,
+          "title": "Quick check: proxemics"
+        },
+        {
+          "t": 404.63,
+          "title": "Answer: proxemics"
+        },
+        {
+          "t": 438.0,
+          "title": "Recap: communication"
+        }
+      ],
+      "reviewNote": "Review version: some medical pronunciations still need checking."
+    },
+    {
+      "id": "rcp202-final-05",
+      "title": "ECMO",
+      "course": "RCP 202 \u00b7 Final review",
+      "file": "05-ecmo.mp4",
+      "captions": "05.vtt",
+      "transcript": "05.txt",
+      "duration": 805.17,
+      "bytes": 19303829,
+      "version": "a2c23b1c332a1206",
+      "chapters": [
+        {
+          "t": 0,
+          "title": "What this chapter covers"
+        },
+        {
+          "t": 43.93,
+          "title": "Access points and cannulation"
+        },
+        {
+          "t": 103.07,
+          "title": "Recirculation"
+        },
+        {
+          "t": 159.5,
+          "title": "Inclusion criteria for VV ECMO"
+        },
+        {
+          "t": 218.07,
+          "title": "Thresholds to consider ECMO"
+        },
+        {
+          "t": 284.77,
+          "title": "Contraindications"
+        },
+        {
+          "t": 343.67,
+          "title": "VV versus VA ECMO"
+        },
+        {
+          "t": 401.77,
+          "title": "VA complications"
+        },
+        {
+          "t": 456.87,
+          "title": "The two knobs"
+        },
+        {
+          "t": 513.57,
+          "title": "Resting ventilator settings on ECMO"
+        },
+        {
+          "t": 573.47,
+          "title": "Quick check: knob to turn"
+        },
+        {
+          "t": 602.17,
+          "title": "Answer: knob to turn"
+        },
+        {
+          "t": 632.37,
+          "title": "Deck vs Hess outcome numbers"
+        },
+        {
+          "t": 687.87,
+          "title": "Quick check: VV or VA?"
+        },
+        {
+          "t": 715.87,
+          "title": "Answer: VV or VA?"
+        },
+        {
+          "t": 748.27,
+          "title": "Recap: ECMO"
+        }
+      ],
+      "reviewNote": "Review version: some medical pronunciations still need checking."
+    },
+    {
+      "id": "rcp202-final-06",
+      "title": "Renal System",
+      "course": "RCP 202 \u00b7 Final review",
+      "file": "06-renal-system.mp4",
+      "captions": "06.vtt",
+      "transcript": "06.txt",
+      "duration": 961.27,
+      "bytes": 23355415,
+      "version": "9cc1c9288689a71a",
+      "chapters": [
+        {
+          "t": 0,
+          "title": "What this chapter covers"
+        },
+        {
+          "t": 47.3,
+          "title": "Urine output: the numbers"
+        },
+        {
+          "t": 105.9,
+          "title": "Why ventilated patients make less urine"
+        },
+        {
+          "t": 167.17,
+          "title": "DKA mechanism"
+        },
+        {
+          "t": 234.5,
+          "title": "DKA treatment"
+        },
+        {
+          "t": 292.0,
+          "title": "The anion gap"
+        },
+        {
+          "t": 354.1,
+          "title": "DKA on the ABG"
+        },
+        {
+          "t": 432.1,
+          "title": "Kussmaul breathing and the vent trap"
+        },
+        {
+          "t": 487.0,
+          "title": "Kidney in acid base: the one liner"
+        },
+        {
+          "t": 544.2,
+          "title": "The nephron's three processes"
+        },
+        {
+          "t": 604.07,
+          "title": "Renal compensation timing"
+        },
+        {
+          "t": 655.93,
+          "title": "Renal failure in the ventilated patient"
+        },
+        {
+          "t": 715.13,
+          "title": "The four Rs of renal failure"
+        },
+        {
+          "t": 764.97,
+          "title": "Quick check: anion gap"
+        },
+        {
+          "t": 791.33,
+          "title": "Answer: anion gap"
+        },
+        {
+          "t": 828.07,
+          "title": "Quick check: urine output"
+        },
+        {
+          "t": 858.67,
+          "title": "Answer: urine output"
+        },
+        {
+          "t": 901.83,
+          "title": "Recap: renal system"
+        }
+      ],
+      "reviewNote": "Review version: some medical pronunciations still need checking."
+    }
+  ]
+}

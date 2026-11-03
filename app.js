@@ -130,7 +130,7 @@
     const [, name = "decks", arg = ""] = location.hash.match(/^#\/([^/]*)\/?(.*)$/) || [];
     const deck = decodeURIComponent(arg);
     document.body.classList.toggle("studying", name === "study" || name === "quiz" || name === "guide");
-    const tab = { deck: "decks", study: "decks", quiz: "drill", guide: "drill", listen: "audio" }[name] || name;
+    const tab = { deck: "decks", study: "decks", quiz: "drill", guide: "drill", listen: "audio", videos: "audio", watch: "audio" }[name] || name;
     $$("#tabs button").forEach((b) => (b.dataset.tab === tab ? b.setAttribute("aria-current", "page") : b.removeAttribute("aria-current")));
     window.scrollTo(0, 0);
     if (!db) return;
@@ -142,6 +142,11 @@
     if (name === "drill") return renderDrill(deck);
     if (name === "quiz") return renderQuiz();
     if (name === "guide") return renderGuide(deck);
+    if (name === "videos" || name === "watch") {
+      player.pause();
+      cleanup = VideoLibrary.mount({ view, id: name === "watch" ? deck : null, pref, store: Store, go, toast });
+      return;
+    }
     if (name === "audio") return renderAudio();
     if (name === "listen") return renderListen(deck);
     renderDecks();
@@ -923,11 +928,12 @@
 
   async function renderAudio() {
     if (!lectures) {
-      view.innerHTML = `<div class="head"><div><h1>Audio</h1></div></div><div class="done center">Loading…</div>`;
-      try { await loadLectures(); } catch { view.innerHTML = `<div class="head"><div><h1>Audio</h1></div></div><div class="done center">Couldn't load the lectures. Open Recall once while online.</div>`; return; }
+      view.innerHTML = `<div class="head"><div><h1>Lectures</h1></div></div><div class="done center">Loading…</div>`;
+      try { await loadLectures(); } catch { view.innerHTML = `<div class="head"><div><h1>Lectures</h1></div></div><div class="done center">Couldn't load the lectures. Open Recall once while online.</div>`; return; }
       if (!location.hash.startsWith("#/audio")) return;
     }
     const names = new Set(await Store.mediaNames().catch(() => []));
+    if (!location.hash.startsWith("#/audio")) return;
     const row = (l) => {
       const p = l === curLec ? player.currentTime : apos.get(l.id);
       const bits = [l.course, AL.fmtLong(l.duration)];
@@ -937,7 +943,8 @@
     };
     const playing = curLec && !player.paused;
     view.innerHTML = `
-      <div class="head"><div><h1>Audio</h1><div class="sub">Lecture recordings, with 15-second skip</div></div></div>
+      <div class="head"><div><h1>Lectures</h1><div class="sub">Lecture recordings, with 15-second skip</div></div></div>
+      <nav class="lecture-switch" aria-label="Lecture format"><a href="#/audio" aria-current="page">Audio</a><a href="#/videos">Videos</a></nav>
       ${curLec ? `<div class="group-title">${playing ? "Now playing" : "Last played"}</div><div class="group">${row(curLec)}</div>` : ""}
       <div class="group-title">Lectures</div>
       <div class="group">${lectures.map(row).join("")}</div>`;
