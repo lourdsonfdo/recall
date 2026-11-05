@@ -1083,6 +1083,13 @@
       if (!w || !doc) return;
       const theme = pref.get("appTheme", "dark");
       if (theme !== "auto") doc.documentElement.setAttribute("data-theme", theme);
+      // Guides stay byte-identical to the vault; narrow-phone layout fix is injected here.
+      // Grid min of 340px overflows phones, so go single-column and let wide tables scroll in their wrapper.
+      try {
+        const st = doc.createElement("style");
+        st.textContent = "@media(max-width:560px){.grid{grid-template-columns:minmax(0,1fr)!important}.grid>*{min-width:0}.tblwrap{max-width:100%}nav.idx a{min-width:0;white-space:normal!important;overflow-wrap:anywhere}.body,.card,section{min-width:0;overflow-wrap:anywhere}}";
+        doc.head.appendChild(st);
+      } catch {}
       const y = pref.get(key, 0);
       if (y) w.scrollTo(0, y);
       w.addEventListener("scroll", () => {
