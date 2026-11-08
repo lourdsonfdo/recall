@@ -1,0 +1,51 @@
+RCP 202 — Chapter 04: Burn and Inhalation Injury
+
+[04-001 · What this chapter covers]
+Burn and inhalation injury force two different problems onto the ventilator. The lungs stiffen from inflammation and alveolar edema, and the chest wall stiffens from a circumferential eschar. On top of that, the smoke the patient breathed can carry carbon monoxide and hydrogen cyanide, which attack oxygen carriage and cellular use of oxygen. In this chapter we define the deck's compliance numbers, work the static and dynamic math, interpret carboxyhemoglobin, respect the limits of pulse oximetry, and run through the treatments.
+
+[04-002 · Deck compliance ranges]
+Memorize the burn deck's two numbers. Lung compliance, meaning how easily the lungs expand, is fifty to one hundred milliliters per centimeter of water. Static compliance is seventy to one hundred. The deck calls the fifty to one hundred figure lung compliance, not dynamic compliance. No source anywhere gives a normal range specifically for dynamic compliance, so do not memorize that as a sourced fact. The weaning cutoff from chapter one is static compliance greater than thirty. For a burn patient, Hess's extubation criterion is respiratory system compliance of at least fifty. Hess's acceptable respiratory system compliance in ventilated patients is fifty to one hundred, which lines up with the deck's lung compliance band.
+
+[04-003 · Static versus dynamic compliance]
+Compliance is change in volume over change in pressure. Static compliance uses the plateau pressure measured during an inspiratory pause with no flow. The formula is tidal volume divided by plateau minus PEEP. Dynamic compliance uses peak inspiratory pressure while flow is still happening. Applying the deck's rule, dynamic equals tidal volume divided by PIP minus PEEP. Dynamic always reads lower than static when flow and resistance are present, because PIP minus plateau is the resistive pressure. The two values match only when flow is zero at end inspiration, as in a true descending ramp.
+
+[04-004 · Worked compliance example]
+Take Hess's patient. Tidal volume three hundred twenty milliliters, plateau forty, PEEP twenty six, PIP forty three. Static compliance is three twenty divided by forty minus twenty six, which is three twenty over fourteen, roughly twenty three milliliters per centimeter of water. Dynamic is three twenty over seventeen, about nineteen. Static is well below Hess's acceptable fifty to one hundred, so respiratory system compliance is decreased. The dynamic to static gap of four reflects three centimeters of water of resistive pressure, so some airway resistance is also contributing. Rising resistance drops dynamic without changing static; falling compliance drops both proportionally.
+
+[04-005 · Carboxyhemoglobin levels]
+The RCP 203 decks give two slightly different sets of bands. The common ones to memorize: one to three percent is within normal limits, five to ten percent for smokers, ten to fifteen percent for heavy smokers, and over twenty percent is CO poisoning. One deck prefers less than one point five percent as normal and three to six percent for smokers. Whitaker adds part of a symptom scale: headache, nausea, and vomiting at twenty to thirty percent, and above forty percent the patient begins losing sensorium and becomes comatose. The treatment end point from RCP 105 is that mild to moderate CO poisoning gets one hundred percent oxygen on a non rebreather until HbCO falls under five percent. The decision to go to hyperbaric is not based on the level alone: symptoms, neurologic findings, cardiac involvement, pregnancy, and the overall picture all count.
+
+[04-006 · Why CO is so toxic]
+Carbon monoxide binds hemoglobin two hundred to two hundred fifty times more strongly than oxygen, forming carboxyhemoglobin. That drops the oxygen that hemoglobin can carry. It also shifts the oxyhemoglobin dissociation curve left, so whatever oxygen is still bound is held tightly and released poorly at the tissues. Hess adds the bigger story: unconsciousness routinely occurs at fifty percent HbCO, which shows other mechanisms are involved. CO binding to the mitochondrial cytochrome system, which blocks oxygen use in the cell, is likely more toxic than CO binding to hemoglobin. Five to twenty five percent of patients with serious exposure develop delayed major neurologic sequelae. CO poisoning is both an anemia and a cellular toxin.
+
+[04-007 · CO-oximetry versus pulse oximetry]
+Measure HbCO with CO-oximetry on an arterial blood gas. The arterial PaO2 can be normal, because PaO2 is dissolved oxygen in plasma, not oxygen on hemoglobin. A standard two wavelength pulse oximeter cannot reliably tell oxyhemoglobin from carboxyhemoglobin, so SpO2 reads falsely high by roughly the HbCO fraction. Bedside correction: subtract HbCO from SpO2. An SpO2 of ninety with HbCO of seven is a true saturation of eighty three. For moderate CO poisoning in a conscious, cooperative patient, a quick screen is exhaled CO in parts per million divided by six, which approximates the HbCO percent.
+
+[04-008 · HbCO half-life]
+Half-life of carboxyhemoglobin depends on what the patient is breathing. On room air it is roughly four to five hours. On one hundred percent oxygen via tight non rebreather it drops to about sixty to ninety minutes, which Hess refines to seventy four minutes on average. On hyperbaric oxygen at three atmospheres the half-life falls below thirty minutes, often cited as twenty to thirty. That is why one hundred percent oxygen comes first, and HBO is considered for severe presentations.
+
+[04-009 · Treating CO poisoning]
+Administer one hundred percent oxygen immediately, regardless of SpO2 or PaO2. Use a tight non rebreather at fifteen liters per minute with the reservoir inflated for a spontaneously breathing patient. If the patient cannot protect the airway or ventilate, intubate and set FiO2 at one point zero. Confirm HbCO by CO-oximetry and assess severity. Consider hyperbaric oxygen for severe poisoning, especially with significant neurologic depression or cardiac involvement; pregnancy also weighs in the decision. A typical HBO protocol is three atmospheres for the first treatment then two or three atmospheres for later treatments, each lasting ninety minutes, with two ten minute air breaks to reduce oxygen toxicity seizures.
+
+[04-010 · CO versus hydrogen cyanide]
+Carbon monoxide and hydrogen cyanide both come from smoke. In the deck's contrast, CO mainly ties up hemoglobin so blood cannot carry oxygen. Hydrogen cyanide forms when nitrogen containing compounds burn in a low oxygen fire. It binds the cytochrome oxidase system and inhibits cellular metabolism, causing tissue and systemic acidosis: the cells cannot use oxygen. For suspected severe cyanide poisoning, treatment is one hundred percent oxygen plus hydroxocobalamin, trade name Cyanokit, which binds cyanide to form cyanocobalamin, vitamin B twelve, and is then eliminated.
+
+[04-011 · Why compliance falls]
+Inhalation injury triggers inflammation and raises alveolar capillary permeability, which fills alveoli with fluid, drops compliance, and impairs oxygenation. The CXR looks like noncardiogenic pulmonary edema, an ARDS like picture. Then the chest wall adds its own problem: a circumferential chest burn creates rigid eschar and underlying edema that restricts expansion. Until a chest escharotomy is done, high airway pressures may be unavoidable to overcome the stiff chest. The ventilator plan is tidal volume around six milliliters per kilogram predicted body weight, plateau at or under thirty, appropriate PEEP, and lung protective strategy.
+
+[04-012 · Quick check: compliance math]
+A ventilated patient delivers five hundred milliliters tidal volume. Peak pressure is thirty, plateau twenty two, PEEP five. Pause and compute static compliance and dynamic compliance. Then decide whether the static value falls inside the burn deck's compliance bands.
+[6-second practice pause]
+
+[04-013 · Answer: compliance math]
+Static compliance is five hundred divided by twenty two minus five, which is five hundred over seventeen, about twenty nine milliliters per centimeter of water. Dynamic compliance is five hundred over twenty five, about twenty. Static sits well below both deck bands, fifty to one hundred and seventy to one hundred, so the lung is stiff. Dynamic reads about nine lower than static because of eight centimeters of water of resistive pressure, PIP minus plateau. Look at both the lung and the airway.
+
+[04-014 · Quick check: SpO2 trap]
+A patient from a house fire shows a pulse oximetry reading of ninety eight percent on a non rebreather. The ABG shows a PaO2 of three hundred forty and a CO-oximetry HbCO of twenty four. Pause and decide: is the oxygenation adequate, and what is the true functional saturation?
+[6-second practice pause]
+
+[04-015 · Answer: SpO2 trap]
+Oxygenation is not adequate despite the reading. PaO2 reflects dissolved oxygen in plasma, which CO does not touch, so a PaO2 of three hundred forty on one hundred percent oxygen is expected. The pulse ox cannot see HbCO and reads falsely high. True functional saturation is roughly SpO2 minus HbCO, so ninety eight minus twenty four, about seventy four percent. An HbCO of twenty four is over the twenty percent poisoning band. Keep one hundred percent oxygen going, trend HbCO by CO-oximetry, and consider hyperbaric therapy based on the clinical picture.
+
+[04-016 · Recap: burn and inhalation]
+To recap. The burn deck's compliance numbers are lung compliance fifty to one hundred and static compliance seventy to one hundred, with no sourced dynamic number. Static uses plateau, dynamic uses peak. Compliance falls from permeability edema in the lung and eschar on the chest. HbCO over twenty is CO poisoning. SpO2 lies in CO poisoning, so always use CO-oximetry. One hundred percent oxygen cuts HbCO half-life from hours to about sixty to ninety minutes and HBO drops it under thirty minutes. Treat suspected severe cyanide poisoning with one hundred percent oxygen plus hydroxocobalamin.

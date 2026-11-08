@@ -1,0 +1,377 @@
+WEBVTT
+
+1
+00:00:00.500 --> 00:00:06.426
+Burn and inhalation injury force two different problems onto the ventilator.
+
+2
+00:00:06.426 --> 00:00:15.315
+The lungs stiffen from inflammation and alveolar edema, and the chest wall stiffens from a circumferential eschar.
+
+3
+00:00:15.315 --> 00:00:27.088
+On top of that, the smoke the patient breathed can carry carbon monoxide and hydrogen cyanide, which attack oxygen carriage and cellular use of oxygen.
+
+4
+00:00:27.088 --> 00:00:41.825
+In this chapter we define the deck's compliance numbers, work the static and dynamic math, interpret carboxyhemoglobin, respect the limits of pulse oximetry, and run through the treatments.
+
+5
+00:00:43.233 --> 00:00:46.317
+Memorize the burn deck's two numbers.
+
+6
+00:00:46.317 --> 00:00:55.818
+Lung compliance, meaning how easily the lungs expand, is fifty to one hundred milliliters per centimeter of water.
+
+7
+00:00:55.818 --> 00:00:59.486
+Static compliance is seventy to one hundred.
+
+8
+00:00:59.486 --> 00:01:06.737
+The deck calls the fifty to one hundred figure lung compliance, not dynamic compliance.
+
+9
+00:01:06.737 --> 00:01:16.655
+No source anywhere gives a normal range specifically for dynamic compliance, so do not memorize that as a sourced fact.
+
+10
+00:01:16.655 --> 00:01:23.072
+The weaning cutoff from chapter one is static compliance greater than thirty.
+
+11
+00:01:23.072 --> 00:01:31.323
+For a burn patient, Hess's extubation criterion is respiratory system compliance of at least fifty.
+
+12
+00:01:31.323 --> 00:01:43.658
+Hess's acceptable respiratory system compliance in ventilated patients is fifty to one hundred, which lines up with the deck's lung compliance band.
+
+13
+00:01:45.067 --> 00:01:49.885
+Compliance is change in volume over change in pressure.
+
+14
+00:01:49.885 --> 00:01:58.120
+Static compliance uses the plateau pressure measured during an inspiratory pause with no flow.
+
+15
+00:01:58.120 --> 00:02:03.201
+The formula is tidal volume divided by plateau minus PEEP.
+
+16
+00:02:03.201 --> 00:02:10.210
+Dynamic compliance uses peak inspiratory pressure while flow is still happening.
+
+17
+00:02:10.210 --> 00:02:17.218
+Applying the deck's rule, dynamic equals tidal volume divided by PIP minus PEEP.
+
+18
+00:02:17.218 --> 00:02:28.519
+Dynamic always reads lower than static when flow and resistance are present, because PIP minus plateau is the resistive pressure.
+
+19
+00:02:28.519 --> 00:02:36.667
+The two values match only when flow is zero at end inspiration, as in a true descending ramp.
+
+20
+00:02:38.067 --> 00:02:39.740
+Take Hess's patient.
+
+21
+00:02:39.740 --> 00:02:47.687
+Tidal volume three hundred twenty milliliters, plateau forty, PEEP twenty six, PIP forty three.
+
+22
+00:02:47.687 --> 00:03:01.322
+Static compliance is three twenty divided by forty minus twenty six, which is three twenty over fourteen, roughly twenty three milliliters per centimeter of water.
+
+23
+00:03:01.322 --> 00:03:05.922
+Dynamic is three twenty over seventeen, about nineteen.
+
+24
+00:03:05.922 --> 00:03:14.873
+Static is well below Hess's acceptable fifty to one hundred, so respiratory system compliance is decreased.
+
+25
+00:03:14.873 --> 00:03:26.584
+The dynamic to static gap of four reflects three centimeters of water of resistive pressure, so some airway resistance is also contributing.
+
+26
+00:03:26.584 --> 00:03:35.117
+Rising resistance drops dynamic without changing static; falling compliance drops both proportionally.
+
+27
+00:03:36.533 --> 00:03:41.644
+The RCP 203 decks give two slightly different sets of bands.
+
+28
+00:03:41.644 --> 00:03:57.826
+The common ones to memorize: one to three percent is within normal limits, five to ten percent for smokers, ten to fifteen percent for heavy smokers, and over twenty percent is CO poisoning.
+
+29
+00:03:57.826 --> 00:04:06.087
+One deck prefers less than one point five percent as normal and three to six percent for smokers.
+
+30
+00:04:06.087 --> 00:04:21.418
+Whitaker adds part of a symptom scale: headache, nausea, and vomiting at twenty to thirty percent, and above forty percent the patient begins losing sensorium and becomes comatose.
+
+31
+00:04:21.418 --> 00:04:35.301
+The treatment end point from RCP 105 is that mild to moderate CO poisoning gets one hundred percent oxygen on a non rebreather until HbCO falls under five percent.
+
+32
+00:04:35.301 --> 00:04:49.183
+The decision to go to hyperbaric is not based on the level alone: symptoms, neurologic findings, cardiac involvement, pregnancy, and the overall picture all count.
+
+33
+00:04:50.600 --> 00:05:01.306
+Carbon monoxide binds hemoglobin two hundred to two hundred fifty times more strongly than oxygen, forming carboxyhemoglobin.
+
+34
+00:05:01.306 --> 00:05:05.418
+That drops the oxygen that hemoglobin can carry.
+
+35
+00:05:05.418 --> 00:05:17.666
+It also shifts the oxyhemoglobin dissociation curve left, so whatever oxygen is still bound is held tightly and released poorly at the tissues.
+
+36
+00:05:17.666 --> 00:05:28.458
+Hess adds the bigger story: unconsciousness routinely occurs at fifty percent HbCO, which shows other mechanisms are involved.
+
+37
+00:05:28.458 --> 00:05:40.363
+CO binding to the mitochondrial cytochrome system, which blocks oxygen use in the cell, is likely more toxic than CO binding to hemoglobin.
+
+38
+00:05:40.363 --> 00:05:49.271
+Five to twenty five percent of patients with serious exposure develop delayed major neurologic sequelae.
+
+39
+00:05:49.271 --> 00:05:53.725
+CO poisoning is both an anemia and a cellular toxin.
+
+40
+00:05:55.133 --> 00:06:00.797
+Measure HbCO with CO-oximetry on an arterial blood gas.
+
+41
+00:06:00.797 --> 00:06:11.301
+The arterial PaO2 can be normal, because PaO2 is dissolved oxygen in plasma, not oxygen on hemoglobin.
+
+42
+00:06:11.301 --> 00:06:27.366
+A standard two wavelength pulse oximeter cannot reliably tell oxyhemoglobin from carboxyhemoglobin, so SpO2 reads falsely high by roughly the HbCO fraction.
+
+43
+00:06:27.366 --> 00:06:31.897
+Bedside correction: subtract HbCO from SpO2.
+
+44
+00:06:31.897 --> 00:06:39.517
+An SpO2 of ninety with HbCO of seven is a true saturation of eighty three.
+
+45
+00:06:39.517 --> 00:06:56.508
+For moderate CO poisoning in a conscious, cooperative patient, a quick screen is exhaled CO in parts per million divided by six, which approximates the HbCO percent.
+
+46
+00:06:57.933 --> 00:07:04.185
+Half-life of carboxyhemoglobin depends on what the patient is breathing.
+
+47
+00:07:04.185 --> 00:07:08.092
+On room air it is roughly four to five hours.
+
+48
+00:07:08.092 --> 00:07:21.290
+On one hundred percent oxygen via tight non rebreather it drops to about sixty to ninety minutes, which Hess refines to seventy four minutes on average.
+
+49
+00:07:21.290 --> 00:07:31.362
+On hyperbaric oxygen at three atmospheres the half-life falls below thirty minutes, often cited as twenty to thirty.
+
+50
+00:07:31.362 --> 00:07:39.958
+That is why one hundred percent oxygen comes first, and HBO is considered for severe presentations.
+
+51
+00:07:41.367 --> 00:07:48.201
+Administer one hundred percent oxygen immediately, regardless of SpO2 or PaO2.
+
+52
+00:07:48.201 --> 00:07:58.891
+Use a tight non rebreather at fifteen liters per minute with the reservoir inflated for a spontaneously breathing patient.
+
+53
+00:07:58.891 --> 00:08:07.215
+If the patient cannot protect the airway or ventilate, intubate and set FiO2 at one point zero.
+
+54
+00:08:07.215 --> 00:08:11.421
+Confirm HbCO by CO-oximetry and assess severity.
+
+55
+00:08:11.421 --> 00:08:25.528
+Consider hyperbaric oxygen for severe poisoning, especially with significant neurologic depression or cardiac involvement; pregnancy also weighs in the decision.
+
+56
+00:08:25.528 --> 00:08:44.367
+A typical HBO protocol is three atmospheres for the first treatment then two or three atmospheres for later treatments, each lasting ninety minutes, with two ten minute air breaks to reduce oxygen toxicity seizures.
+
+57
+00:08:45.800 --> 00:08:50.865
+Carbon monoxide and hydrogen cyanide both come from smoke.
+
+58
+00:08:50.865 --> 00:08:58.026
+In the deck's contrast, CO mainly ties up hemoglobin so blood cannot carry oxygen.
+
+59
+00:08:58.026 --> 00:09:05.361
+Hydrogen cyanide forms when nitrogen containing compounds burn in a low oxygen fire.
+
+60
+00:09:05.361 --> 00:09:17.499
+It binds the cytochrome oxidase system and inhibits cellular metabolism, causing tissue and systemic acidosis: the cells cannot use oxygen.
+
+61
+00:09:17.499 --> 00:09:35.750
+For suspected severe cyanide poisoning, treatment is one hundred percent oxygen plus hydroxocobalamin, trade name Cyanokit, which binds cyanide to form cyanocobalamin, vitamin B twelve, and is then eliminated.
+
+62
+00:09:37.167 --> 00:09:49.995
+Inhalation injury triggers inflammation and raises alveolar capillary permeability, which fills alveoli with fluid, drops compliance, and impairs oxygenation.
+
+63
+00:09:49.995 --> 00:09:55.841
+The CXR looks like noncardiogenic pulmonary edema, an ARDS like picture.
+
+64
+00:09:55.841 --> 00:10:07.045
+Then the chest wall adds its own problem: a circumferential chest burn creates rigid eschar and underlying edema that restricts expansion.
+
+65
+00:10:07.045 --> 00:10:15.489
+Until a chest escharotomy is done, high airway pressures may be unavoidable to overcome the stiff chest.
+
+66
+00:10:15.489 --> 00:10:29.292
+The ventilator plan is tidal volume around six milliliters per kilogram predicted body weight, plateau at or under thirty, appropriate PEEP, and lung protective strategy.
+
+67
+00:10:30.700 --> 00:10:36.352
+A ventilated patient delivers five hundred milliliters tidal volume.
+
+68
+00:10:36.352 --> 00:10:40.923
+Peak pressure is thirty, plateau twenty two, PEEP five.
+
+69
+00:10:40.923 --> 00:10:45.827
+Pause and compute static compliance and dynamic compliance.
+
+70
+00:10:45.827 --> 00:10:52.725
+Then decide whether the static value falls inside the burn deck's compliance bands.
+
+71
+00:10:53.633 --> 00:10:59.633
+[6-second practice pause]
+
+72
+00:11:00.133 --> 00:11:13.507
+Static compliance is five hundred divided by twenty two minus five, which is five hundred over seventeen, about twenty nine milliliters per centimeter of water.
+
+73
+00:11:13.507 --> 00:11:19.024
+Dynamic compliance is five hundred over twenty five, about twenty.
+
+74
+00:11:19.024 --> 00:11:28.218
+Static sits well below both deck bands, fifty to one hundred and seventy to one hundred, so the lung is stiff.
+
+75
+00:11:28.218 --> 00:11:38.416
+Dynamic reads about nine lower than static because of eight centimeters of water of resistive pressure, PIP minus plateau.
+
+76
+00:11:38.416 --> 00:11:41.508
+Look at both the lung and the airway.
+
+77
+00:11:42.933 --> 00:11:51.969
+A patient from a house fire shows a pulse oximetry reading of ninety eight percent on a non rebreather.
+
+78
+00:11:51.969 --> 00:11:59.163
+The ABG shows a PaO2 of three hundred forty and a CO-oximetry HbCO of twenty four.
+
+79
+00:11:59.163 --> 00:12:07.058
+Pause and decide: is the oxygenation adequate, and what is the true functional saturation?
+
+80
+00:12:07.967 --> 00:12:13.967
+[6-second practice pause]
+
+81
+00:12:14.467 --> 00:12:19.195
+Oxygenation is not adequate despite the reading.
+
+82
+00:12:19.195 --> 00:12:33.183
+PaO2 reflects dissolved oxygen in plasma, which CO does not touch, so a PaO2 of three hundred forty on one hundred percent oxygen is expected.
+
+83
+00:12:33.183 --> 00:12:38.305
+The pulse ox cannot see HbCO and reads falsely high.
+
+84
+00:12:38.305 --> 00:12:49.830
+True functional saturation is roughly SpO2 minus HbCO, so ninety eight minus twenty four, about seventy four percent.
+
+85
+00:12:49.830 --> 00:12:56.233
+An HbCO of twenty four is over the twenty percent poisoning band.
+
+86
+00:12:56.233 --> 00:13:08.842
+Keep one hundred percent oxygen going, trend HbCO by CO-oximetry, and consider hyperbaric therapy based on the clinical picture.
+
+87
+00:13:10.267 --> 00:13:11.123
+To recap.
+
+88
+00:13:11.123 --> 00:13:25.681
+The burn deck's compliance numbers are lung compliance fifty to one hundred and static compliance seventy to one hundred, with no sourced dynamic number.
+
+89
+00:13:25.681 --> 00:13:29.392
+Static uses plateau, dynamic uses peak.
+
+90
+00:13:29.392 --> 00:13:36.719
+Compliance falls from permeability edema in the lung and eschar on the chest.
+
+91
+00:13:36.719 --> 00:13:39.859
+HbCO over twenty is CO poisoning.
+
+92
+00:13:39.859 --> 00:13:44.902
+SpO2 lies in CO poisoning, so always use CO-oximetry.
+
+93
+00:13:44.902 --> 00:13:57.177
+One hundred percent oxygen cuts HbCO half-life from hours to about sixty to ninety minutes and HBO drops it under thirty minutes.
+
+94
+00:13:57.177 --> 00:14:06.217
+Treat suspected severe cyanide poisoning with one hundred percent oxygen plus hydroxocobalamin.
