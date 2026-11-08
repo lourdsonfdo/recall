@@ -1071,6 +1071,116 @@
           "title": "Recap: name the parts, know the numbers"
         }
       ]
+    },
+    {
+      "id": "rcp202-final-12-elevenlabs",
+      "title": "Respiratory Anatomy (Hess Ch 49) · ElevenLabs voice",
+      "course": "RCP 202 · Final review",
+      "file": "12-respiratory-anatomy-elevenlabs.mp4",
+      "captions": "12-elevenlabs.vtt",
+      "transcript": "12-elevenlabs.txt",
+      "duration": 1297.73,
+      "bytes": 38329939,
+      "version": "56fbebfd3365e4ca",
+      "reviewNote": "Trial: same chapter re-voiced with ElevenLabs (Alex). Compare with chapter 12 above.",
+      "chapters": [
+        {
+          "t": 0.0,
+          "title": "Chapter 49: everything in anatomy"
+        },
+        {
+          "t": 39.37,
+          "title": "The five processes of respiration"
+        },
+        {
+          "t": 93.07,
+          "title": "The five stages of fetal lung development"
+        },
+        {
+          "t": 159.0,
+          "title": "Birth transition and infant airway"
+        },
+        {
+          "t": 218.33,
+          "title": "Upper airway: nose, sinuses, pharynx"
+        },
+        {
+          "t": 277.63,
+          "title": "Larynx: cartilages and the glottis"
+        },
+        {
+          "t": 323.23,
+          "title": "Trachea, carina, main stem bronchi"
+        },
+        {
+          "t": 379.57,
+          "title": "Conducting vs respiratory zone"
+        },
+        {
+          "t": 441.07,
+          "title": "Prompt: estimate anatomic dead space"
+        },
+        {
+          "t": 471.13,
+          "title": "Answer: about 180 mL of dead space"
+        },
+        {
+          "t": 506.7,
+          "title": "Lungs: lobes, fissures, segments"
+        },
+        {
+          "t": 556.93,
+          "title": "Alveoli and the AC membrane"
+        },
+        {
+          "t": 607.57,
+          "title": "Prompt: the cell that keeps alveoli open"
+        },
+        {
+          "t": 641.9,
+          "title": "Answer: type II makes surfactant"
+        },
+        {
+          "t": 702.43,
+          "title": "Interstitium and lymphatics"
+        },
+        {
+          "t": 754.23,
+          "title": "Pleurae, pleural space, mediastinum"
+        },
+        {
+          "t": 812.53,
+          "title": "Bony thorax and chest-wall mechanics"
+        },
+        {
+          "t": 860.0,
+          "title": "Diaphragm and accessory muscles"
+        },
+        {
+          "t": 937.83,
+          "title": "Innervation summary"
+        },
+        {
+          "t": 985.7,
+          "title": "Mucociliary apparatus"
+        },
+        {
+          "t": 1044.97,
+          "title": "Smooth muscle and hypoxic vasoconstriction"
+        },
+        {
+          "t": 1098.13,
+          "title": "Mast cells, macrophages, dendritic cells"
+        },
+        {
+          "t": 1153.8,
+          "title": "Hess chapter 49 key points"
+        },
+        {
+          "t": 1237.33,
+          "title": "Recap: name the parts, know the numbers"
+        }
+      ]
     }
   ]
 }
