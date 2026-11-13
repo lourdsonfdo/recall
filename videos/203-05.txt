@@ -1,0 +1,39 @@
+RCP 203 — Chapter 05: Orthopnea, Kussmaul Breathing, Cheyne-Stokes and Biot's Respirations
+
+[05-001 · What this chapter covers]
+This chapter covers four breathing complaints and patterns the final asks about. First orthopnea, trouble breathing when lying down, along with its relatives, paroxysmal nocturnal dyspnea and platypnea. Then three abnormal breathing patterns: Kussmaul breathing, Cheyne-Stokes respiration and Biot's respiration. For each one you need what it looks like, what causes it, and why it happens. The patterns are easy to mix up, so we will put them side by side.
+
+[05-002 · Orthopnea and why lying flat hurts]
+RCP 203 defines orthopnea as a patient's sensation of uncomfortable breathing when lying down, typically relieved by sitting or standing up. Like dyspnea, it goes with many cardiac and pulmonary disorders, but it is most commonly linked to fluid overload and cardiac conditions such as CHF and pulmonary edema. Lying flat increases venous return and redistributes fluid into the lungs. Hess explains it in chapter forty: when the patient is supine, less blood pools in the legs, so blood shifts into the central circulation, filling pressures rise, and interstitial edema forms.
+
+[05-003 · Pillows, PND and platypnea]
+Hess lists other causes of orthopnea too: severe COPD, from hyperinflation without necessarily worse heart function, sleep apnea, and other chronic respiratory diseases. At the bedside, ask how many pillows the patient sleeps on, because orthopnea may be hidden in someone who already sleeps on two or three. Paroxysmal nocturnal dyspnea is an air hunger or drowning feeling that wakes the patient one to two hours after falling asleep, and it commonly suggests cardiac dysfunction. RCP 103 says after several hours of sleep, and Hess says several hours after lying down, but use one to two hours on this exam. Platypnea is the opposite of orthopnea: difficulty breathing unless lying flat.
+
+[05-004 · Three patterns side by side]
+Kussmaul breathing is deep and fast, labored, and regular, with no apnea. The patient looks air hungry. Its classic cause is diabetic ketoacidosis, or any severe metabolic acidosis such as renal failure, and it is compensatory: the patient is blowing off carbon dioxide. Cheyne-Stokes breathing waxes and wanes with apnea. Breaths get gradually deeper and faster, then shallower, then a brief apnea, and the cycle repeats, a crescendo decrescendo pattern. Its causes are CHF, stroke, brain injury with raised intracranial pressure, and central sleep apnea. Biot's respiration is irregular breaths with equal tidal volumes, followed by periods of apnea. Its causes are central nervous system injury, raised intracranial pressure and brainstem damage, and Hess adds meningitis.
+
+[05-005 · Biot's versus Cheyne-Stokes, and a conflict]
+Biot's and Cheyne-Stokes both include apnea, so separate them by the size of the breaths. Hess describes Biot's as a short burst of uniform, deep breaths, then apnea lasting ten to thirty seconds. Biot's breaths are equal in size; Cheyne-Stokes breaths build and fade. Biot's points to brainstem involvement and more severe neurologic dysfunction. One conflict to know about Kussmaul. The RCP 103 deck describes it as deep and fast, but Hess chapter four describes it as deep and labored, with a normal or reduced frequency. Use the deck, and Hess chapter fifty two also calls it rapid.
+
+[05-006 · Practice: name the pattern]
+Pause and work this out. A patient with a head injury breathes in short bursts of uniform, deep breaths, each burst followed by apnea lasting ten to thirty seconds. Which pattern is this, and what does it suggest about the injury?
+[6-second practice pause]
+
+[05-007 · Answer: Biot's respiration]
+This is Biot's respiration. The breaths in each burst are equal in size, which separates it from Cheyne-Stokes, where breaths build up and fade away. Biot's points to brainstem involvement and more severe neurologic dysfunction, and its causes are central nervous system injury, raised intracranial pressure and brainstem damage, with meningitis added by Hess.
+
+[05-008 · Why Kussmaul happens]
+Kussmaul breathing is the body's compensation for a metabolic acidosis. Hyperventilating expels carbon dioxide, which is an acid when dissolved in blood. The RCP 103 diabetic ketoacidosis case shows how far that compensation can go. The patient is breathing deep and fast, Kussmaul respiration, at twenty four breaths per minute, with a very low PaCO2. Yet the pH stays critically low, at six point nine eight. So the compensation is only partial. The breathing is helping, but it cannot fully correct the acid load.
+
+[05-009 · Why Cheyne-Stokes and Biot's happen]
+Cheyne-Stokes breathing comes from delayed communication between the lungs and the brain about carbon dioxide. With a long circulation time, as in CHF and low cardiac output, the brain responds to carbon dioxide changes too late and keeps overcorrecting. Hess chapter forty five adds that apnea starts when the PaCO2 drops below the apneic threshold. Cheyne-Stokes is seen in twenty five to forty percent of CHF patients, and treatment is aimed mainly at improving cardiac function. The RCP 103 sleep apnea deck adds that adaptive servo ventilation, ASV, helps this type of central sleep apnea. Biot's comes from impaired central respiratory control: brainstem injury, raised intracranial pressure, or meningitis.
+
+[05-010 · Practice: the CHF breathing pattern]
+One more. A patient with heart failure and low cardiac output has breaths that build up and then fade, followed by a brief apnea, over and over. Name the pattern, explain why it happens, and say where treatment is mainly aimed.
+[6-second practice pause]
+
+[05-011 · Answer: Cheyne-Stokes, a delayed signal]
+This is Cheyne-Stokes breathing. With low cardiac output, blood takes longer to carry carbon dioxide changes from the lungs to the brain, so the brain responds too late and keeps overcorrecting. When the PaCO2 falls below the apneic threshold, the apnea begins. Because the root problem is the slow circulation, treatment is aimed mainly at improving cardiac function, and ASV can help this type of central sleep apnea.
+
+[05-012 · Recap]
+Here is the chapter in brief. Orthopnea is uncomfortable breathing lying down, most often from heart failure, because lying flat shifts blood into the central circulation. Ask about pillows. Paroxysmal nocturnal dyspnea wakes the patient one to two hours after falling asleep, and platypnea is the opposite of orthopnea. Kussmaul is deep, fast and regular, compensating for a metabolic acidosis such as diabetic ketoacidosis. Cheyne-Stokes builds and fades with apnea, from a delayed carbon dioxide signal in heart failure or brain injury. Biot's is equal bursts of breaths with apnea, and it points to the brainstem.

@@ -1,0 +1,36 @@
+RCP 203 — Chapter 11: Bronchoscopy: Diagnostic vs Therapeutic; Medications Used for the Procedure
+
+[11-001 · What this chapter covers]
+This chapter covers bronchoscopy in two parts. First, the difference between a diagnostic and a therapeutic bronchoscopy, and the indications the RCP 203 slides list for each. Second, the medications used for the procedure: the three sedation drugs and their reversal agents, the premedications such as lidocaine and atropine, and the drugs used to control bleeding through the scope.
+
+[11-002 · Diagnostic: look; therapeutic: treat]
+A diagnostic bronchoscopy answers the question, what's wrong? It looks. It is done to gather more information or to confirm a preliminary diagnosis, and biopsy and cytology samples are taken. A therapeutic bronchoscopy answers the question, how can we fix it? It treats airway problems rather than simply diagnosing them. The RCP 203 notes put it this way: diagnostics relate to finding a suspected disease, while therapeutics relate to treatment. The NBRC tip from RCP 105 sorts the procedures. Diagnostic means biopsy, bronchoalveolar lavage, washing and airway inspection. Therapeutic means removing mucus plugs and foreign bodies, controlling bleeding and relieving airway obstruction.
+
+[11-003 · Indications for each]
+The RCP 203 slides list the diagnostic indications: a lesion of unknown cause on the chest film, recurrent atelectasis or infiltrates, checking upper airway patency, finding the source of hemoptysis, an unexplained cough, a localized wheeze or stridor, suspicious sputum cytology, obtaining secretions, washings or biopsies, injury from toxic inhalation or aspiration, and problems with artificial airways. The therapeutic indications are helping with a difficult intubation, selective intubation of a mainstem bronchus, clearing mucus plugs that cause lobar or segmental atelectasis, removing abnormal tissue or foreign bodies, placing and assessing an airway stent, and balloon dilation for airway stenosis. The RCP 202 deck says therapeutic bronchoscopy is most commonly used for central airway obstruction. And if a question asks which procedure is both, fiberoptic bronchoscopy is an excellent answer.
+
+[11-004 · Practice: which kind of bronchoscopy?]
+Pause and sort these. One, a patient has lobar atelectasis from a mucus plug. Two, a patient has a lesion of unknown cause on the chest film. Which needs a diagnostic bronchoscopy, which needs a therapeutic one, and which single procedure can do both?
+[6-second practice pause]
+
+[11-005 · Answer: plug is therapeutic, lesion diagnostic]
+The mucus plug causing lobar atelectasis is a therapeutic indication, because the goal is to clear the plug and fix the problem. The lesion of unknown cause on the chest film is a diagnostic indication, because the goal is to find out what it is, with a biopsy or cytology. And the single procedure that can do both is fiberoptic bronchoscopy.
+
+[11-006 · Sedation: three drugs and their reversals]
+The goal is a patient who is comfortable, coughs less, has fewer secretions and tolerates the scope, but is not completely asleep. Many hospitals now use midazolam, propofol or fentanyl instead of diazepam, and the RCP 202 deck says to focus on these three and their reversal agents. Midazolam, Versed, is a benzodiazepine. It gives sedation, anxiety relief and amnesia, but no pain relief, and it is reversed by flumazenil. Flumazenil can trigger seizures in susceptible patients, so it is not routinely given just to speed recovery. Fentanyl is an opioid that gives analgesia, and combined with midazolam the risk of respiratory depression rises. It is reversed by naloxone, Narcan. Propofol, Diprivan, is neither an opioid nor a benzodiazepine. It gives rapid sedation, can cause respiratory depression and hypotension, gives no analgesia, and has no reversal agent.
+
+[11-007 · Premedications]
+Lidocaine is a local anesthetic that suppresses cough. RCP 105 gives five to ten milliliters of one to four percent by aerosol, or down the working channel starting at the vocal cords. Atropine dries secretions and reduces the vagal response and bronchospasm, given intramuscularly, though many centers have abandoned it. Morphine intramuscularly treats cough and pain, diazepam or another benzodiazepine intravenously gives sedation, and antibiotics are given if prescribed. The RCP 203 equipment list adds lidocaine, lidocaine with epinephrine, acetylcysteine and thrombin. Hess gives lidocaine differently, as two to three milliliter aliquots of one to two percent, up to five to seven milligrams per kilogram in total, but use the deck on this exam.
+
+[11-008 · Controlling bleeding through the scope]
+For bleeding, the deck uses epinephrine, thrombin or iced saline, all given through the working channel. RCP 105 gives topical one to one thousand epinephrine, and says thrombin helps blood clot. Hess differs again: twenty milliliters of one to twenty thousand epinephrine if iced saline boluses fail. Use the deck. One gap remains: no source gives a dose or concentration for thrombin or acetylcysteine given through the scope.
+
+[11-009 · Practice: reverse the sedation]
+One more. After a bronchoscopy with midazolam and fentanyl, the patient's breathing is depressed. Which drug reverses each one, and which sedative used for bronchoscopy has no reversal agent at all?
+[6-second practice pause]
+
+[11-010 · Answer: flumazenil, naloxone; propofol has none]
+Flumazenil reverses midazolam, and naloxone, Narcan, reverses fentanyl. The combination of the two is exactly what raises the risk of respiratory depression. Remember that flumazenil can trigger seizures in susceptible patients, so it is not given routinely just to speed recovery. Propofol is the sedative with no reversal agent.
+
+[11-011 · Recap]
+Here is the chapter in brief. A diagnostic bronchoscopy looks: biopsy, lavage, washing and inspection. A therapeutic bronchoscopy treats: mucus plugs, foreign bodies, bleeding and obstruction. Fiberoptic bronchoscopy can do both. For sedation, midazolam is reversed by flumazenil and fentanyl by naloxone, and propofol has no reversal. Lidocaine suppresses cough, atropine dries secretions, and bleeding is controlled with epinephrine, thrombin or iced saline through the working channel.

@@ -1,0 +1,42 @@
+RCP 203 — Chapter 12: Rapid Response Team (RRT) Activation Criteria
+
+[12-001 · What this chapter covers]
+This chapter covers when to call for help. We start with the step before a rapid response call, stopping a therapy that is hurting the patient, with the triple-S rule. Then the rapid response team itself: what it is, who is on it, and which patients are at highest risk. Then the activation criteria. There are two sets, the chapter fifteen deck's and Hess's, and they differ on several numbers. Use the deck's numbers on the exam.
+
+[12-002 · When to stop a therapy]
+The chapter thirteen deck gives two reasons to stop, or recommend stopping, a therapy: the patient's safety or well-being appears to be in jeopardy, or the goals of the therapy have been achieved. Monitor patients before, during and after every treatment for the adverse effects common to many procedures. Those are a complaint of shortness of breath, pain or dizziness; marked changes in vital signs above or below the baseline; a new or worsening arrhythmia; cyanosis, pallor or sweating; a drop in saturation of more than four percent, or any fall below ninety percent; severe coughing fits; any change in consciousness; nausea or vomiting; new or worsening wheezing or stridor; a marked decrease in breath sounds; and hemoptysis.
+
+[12-003 · The triple-S rule: stop, stay, stabilize]
+If you see a serious adverse effect during therapy, the deck says always follow the triple-S rule. Stop the therapy. Stay with the patient and monitor. Stabilize the patient by giving oxygen, calling for assistance if necessary. Then notify the nurse and the physician. If the adverse effect looks life threatening, call the medical emergency team, or rapid response team, or a code blue. The order is the point: you stop the therapy and stay at the bedside before you go looking for anyone. Beyond these general effects, know the effects specific to each therapy, such as a faster heart rate from beta one cardiac drugs. A four percent saturation drop during a treatment is not a number to chart and move past. On this list, it is a reason to stop.
+
+[12-004 · Practice: what do you do first?]
+Pause and decide. During a treatment, your patient's saturation falls from ninety five to eighty eight percent, and the patient becomes sweaty and short of breath. What do you do first, and in what order?
+[6-second practice pause]
+
+[12-005 · Answer: stop, stay, stabilize]
+This meets the deck's list twice: a drop of more than four percent, and a fall below ninety percent, plus sweating and shortness of breath. Follow the triple-S rule. Stop the therapy. Stay with the patient and monitor. Stabilize with oxygen, calling for assistance if needed. Then notify the nurse and the physician, and if it looks life threatening, call the rapid response team or a code. You stop and stay before you leave to find anyone.
+
+[12-006 · What the rapid response team is]
+Hess describes rapid response teams, also called medical emergency teams, as teams that intervene during the critical pre-arrest period, when patients show warning signs of pending decline. The goal is to prevent transfer to the ICU, cardiac arrest, or death. At some hospitals, patients or family members can also activate the team. The team is a critical care nurse, a respiratory therapist, and a physician, a critical care specialist, as backup, and Hess calls the respiratory therapist a valuable member. The chapter fifteen deck describes the team as often an ICU nurse, a physician or physician assistant, and a respiratory therapist, activated on signs of deterioration before cardiopulmonary arrest.
+
+[12-007 · Highest-risk patients]
+Hess names the patients most likely to need a rapid response call. Postoperative patients in the first twelve to twenty four hours are at risk from analgesic related events, and the risk is higher with opioid use before surgery, heart disease, hemodynamic instability, and risk of obstructive sleep apnea. Patients transferred out of the ICU within the past twenty four hours are also at high risk. And activation at night is associated with increased mortality.
+
+[12-008 · The deck's activation criteria]
+The chapter fifteen deck lists the adult criteria that often trigger a call, and one or more is enough. An acute change in mental status or overall clinical appearance. A heart rate below forty or above one hundred thirty. A respiratory rate below eight or above thirty. A systolic blood pressure below ninety. A saturation below ninety percent, especially on supplemental oxygen. And an acute change in urine output to less than fifty milliliters over four hours. Use these numbers on the exam.
+
+[12-009 · Deck versus Hess]
+Hess Table twenty eight dash five gives model criteria, and each hospital's policy governs. Hess calls the team for a heart rate above one hundred forty or below forty, a respiratory rate above twenty eight or below eight, a systolic pressure above one hundred eighty or below ninety, and a saturation below eighty nine percent despite oxygen. Hess also lists an acute change in mental status, urine output below fifty milliliters over four hours, and staff concern, chest pain unrelieved by nitroglycerin, airway patency, seizure, and symptoms of stroke. Where they differ, use the deck: a heart rate above one hundred thirty, a rate above thirty, a saturation below ninety, and no high blood pressure trigger. The low cutoffs and the urine rule agree.
+
+[12-010 · Exam traps, and what the RT does]
+Three traps. Both the high and the low value trigger a call. The saturation trigger applies even on oxygen. And staff concern alone is a valid trigger, even with normal vital signs. On the call, the deck lists the most common interventions the respiratory therapist performs or assists with: suctioning, adjusting the FiO2, providing noninvasive ventilation, giving bronchodilators, blood gas monitoring and intubation, and, depending on the outcome, helping transport the patient to the ICU. One gap: no source gives the paging procedure, or any temperature, pediatric or early warning score triggers, so check the hospital's policy.
+
+[12-011 · Practice: call or not?]
+One more. A patient on the ward has a heart rate of one hundred thirty five, a respiratory rate of twenty nine, a systolic pressure of one hundred ten, and a saturation of ninety one percent on two liters. Using the deck's criteria, does this patient meet a trigger? Would Hess's criteria give the same answer?
+[6-second practice pause]
+
+[12-012 · Answer: the deck and Hess call]
+By the deck's criteria, yes. A heart rate of one hundred thirty five is above one hundred thirty, so the patient meets a trigger and the team should be called. The rate of twenty nine is not above thirty, the systolic pressure is fine, and ninety one percent is not below ninety. Hess's numbers split differently. The heart rate is not above one hundred forty, but the respiratory rate of twenty nine is above twenty eight, so Hess would call too, for a different reason. Learn the deck's numbers, because the two lists disagree on exactly these values.
+
+[12-013 · Recap]
+Here is the chapter in brief. When a therapy goes wrong, follow stop, stay, stabilize, then notify, and call the team if it looks life threatening. A saturation drop of more than four percent, or below ninety, is a reason to stop. The rapid response team acts in the pre-arrest period to prevent ICU transfer, arrest and death, and the highest-risk patients are fresh post-op patients and those just out of the ICU. On the exam, use the deck's triggers: heart rate below forty or above one hundred thirty, rate below eight or above thirty, systolic below ninety, saturation below ninety, an acute mental status change, or urine below fifty milliliters in four hours. Both high and low values count, and staff concern alone is enough.

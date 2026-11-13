@@ -1,0 +1,485 @@
+WEBVTT
+
+1
+00:00:00.500 --> 00:00:04.013
+This is part two of mechanical ventilation.
+
+2
+00:00:04.013 --> 00:00:06.218
+Part one covered the modes.
+
+3
+00:00:06.218 --> 00:00:12.427
+This part covers patient-ventilator asynchrony and the ventilator variables.
+
+4
+00:00:12.427 --> 00:00:24.354
+First, asynchrony: what it is, the trigger, flow and cycle problems, mode-related causes, and the order in which to fix them, with paralysis last.
+
+5
+00:00:24.354 --> 00:00:39.875
+Then the variables: pressure, volume, flow and time; control and phase variables; which variable is independent and which is dependent; and what triggers and what cycles each kind of breath.
+
+6
+00:00:41.300 --> 00:00:51.802
+Asynchrony means breath delivery is out of phase with the patient's effort, what is often called fighting or bucking the ventilator.
+
+7
+00:00:51.802 --> 00:01:05.009
+It lowers comfort, raises the work of breathing and its oxygen cost, increases sedation, and lengthens ventilation and weaning; chapter eleven adds a longer ICU stay.
+
+8
+00:01:05.009 --> 00:01:11.295
+Chapter eleven sorts asynchrony into three categories: trigger, flow and cycle.
+
+9
+00:01:11.295 --> 00:01:16.387
+Hess uses trigger, cycle and mode instead; use the deck's three.
+
+10
+00:01:16.387 --> 00:01:26.650
+One overlap to know: chapter eleven puts double triggering under trigger asynchrony, while Hess lists it under premature cycling.
+
+11
+00:01:28.067 --> 00:01:35.591
+Missed triggers come first: the patient makes an effort, but the ventilator does not respond.
+
+12
+00:01:35.591 --> 00:01:50.397
+Causes include an insensitive trigger, such as negative five centimeters of water, muscle weakness, and most commonly auto-PEEP, which raises the baseline the patient must pull below.
+
+13
+00:01:50.397 --> 00:01:56.141
+In chapter eleven's figure, the patient has to drop ten below baseline.
+
+14
+00:01:56.141 --> 00:02:00.914
+The sign is a patient rate higher than the ventilator rate.
+
+15
+00:02:00.914 --> 00:02:10.138
+The fix: make the trigger more sensitive, meaning closer to zero; Hess's typical setting is one to two below PEEP.
+
+16
+00:02:10.138 --> 00:02:20.332
+Treat auto-PEEP by lowering the minute ventilation, shortening inspiration relative to expiration, and giving bronchodilators.
+
+17
+00:02:20.332 --> 00:02:29.717
+Applied PEEP can help in COPD, but rarely when the cause is high minute ventilation with too little expiratory time.
+
+18
+00:02:31.133 --> 00:02:41.746
+The opposite problem is auto-triggering, also called autocycling: the ventilator delivers breaths the patient did not ask for.
+
+19
+00:02:41.746 --> 00:02:49.916
+Causes are an over-sensitive trigger, leaks, condensate in the circuit, and cardiac oscillations.
+
+20
+00:02:49.916 --> 00:03:04.320
+Chapter eleven says negative one centimeter of water, or one liter per minute, may be too low; the RCP 105 example is negative point five, or point five liters per minute.
+
+21
+00:03:04.320 --> 00:03:08.110
+If breaths arrive with no effort, think leak.
+
+22
+00:03:08.110 --> 00:03:25.208
+Chapter eleven's fix: decrease the sensitivity slightly, from negative one to negative two, or from one to two liters per minute; remove leaks and condensate; and make sure the cuff is properly inflated.
+
+23
+00:03:26.633 --> 00:03:27.988
+Pause and think.
+
+24
+00:03:27.988 --> 00:03:38.316
+A COPD patient on volume control is making twenty four efforts a minute, but the ventilator delivers only sixteen breaths.
+
+25
+00:03:38.316 --> 00:03:43.733
+What is this, what is the most common cause, and what do you do?
+
+26
+00:03:44.633 --> 00:03:50.633
+[6-second practice pause]
+
+27
+00:03:51.133 --> 00:03:57.946
+These are missed triggers: the patient rate is higher than the ventilator rate.
+
+28
+00:03:57.946 --> 00:04:08.035
+In COPD the most common cause is auto-PEEP, which raises the baseline so the patient cannot pull far enough below it.
+
+29
+00:04:08.035 --> 00:04:22.954
+Make the trigger more sensitive, closer to zero, and treat the auto-PEEP: lower the minute ventilation, shorten inspiration relative to expiration, and give bronchodilators.
+
+30
+00:04:22.954 --> 00:04:26.058
+In COPD, applied PEEP can also help.
+
+31
+00:04:27.467 --> 00:04:38.549
+Flow asynchrony means flow starvation: the ventilator does not meet the patient's inspiratory flow demand, which is more common in volume control.
+
+32
+00:04:38.549 --> 00:04:42.724
+On the pressure waveform, the curve is pulled downward.
+
+33
+00:04:42.724 --> 00:04:55.325
+Chapter eleven calls this scalloping, a concavity where the patient's effort sits on top of the ventilator's breath; a dip early in the breath says, I need more flow.
+
+34
+00:04:55.325 --> 00:05:00.486
+Clinical signs are tachypnea, retractions and paradoxical breathing.
+
+35
+00:05:00.486 --> 00:05:15.592
+Fix it by increasing the flow or changing the flow pattern, switching from volume control to pressure control or pressure support, increasing the pressure or rise time, and treating pain and anxiety.
+
+36
+00:05:17.000 --> 00:05:20.873
+Cycle asynchrony is about when the breath ends.
+
+37
+00:05:20.873 --> 00:05:31.667
+Premature cycling means the inspiratory time is too short: the effort continues after the breath ends and triggers a second breath.
+
+38
+00:05:31.667 --> 00:05:45.015
+That double triggering stacks breaths, up to twice the set tidal volume; Hess cites one study that found it more common with pressure control than volume control.
+
+39
+00:05:45.015 --> 00:05:48.723
+A late pressure dip says, I want more volume.
+
+40
+00:05:48.723 --> 00:06:01.825
+Delayed cycling means the inspiratory time is too long: the patient actively exhales, with abdominal muscle activation and a pressure spike at end inspiration.
+
+41
+00:06:01.825 --> 00:06:07.263
+Causes include pressure support in obstructive disease, and leaks.
+
+42
+00:06:07.263 --> 00:06:17.068
+Fix it by lowering pressure support, raising the cycle, or termination flow, setting, or switching to pressure control.
+
+43
+00:06:17.068 --> 00:06:23.413
+Keep a patient-triggered inspiratory time at or below one point five seconds.
+
+44
+00:06:23.413 --> 00:06:31.900
+Last, air trapping: expiratory flow does not return to baseline, causing breath stacking and auto-PEEP.
+
+45
+00:06:33.333 --> 00:06:59.927
+Some asynchrony comes from the mode: SIMV, with its mixed breath types or a rate set too low; adaptive pressure control, or PRVC, which cuts support when the patient's effort raises the tidal volume; a control mode in a patient who wakes up; inverse ratio ventilation; old IMV; and pressure support set too low or too high.
+
+46
+00:06:59.927 --> 00:07:04.044
+Hess adds that PAV and NAVA may improve synchrony.
+
+47
+00:07:04.044 --> 00:07:09.149
+The fix sequence: read the waveform, then adjust the settings.
+
+48
+00:07:09.149 --> 00:07:15.242
+Next, change the mode; some patients do better on pressure-targeted modes.
+
+49
+00:07:15.242 --> 00:07:23.063
+Then sedation and analgesia; anxiety is a common cause, and propofol suits short-term sedation.
+
+50
+00:07:23.063 --> 00:07:24.793
+Paralysis comes last.
+
+51
+00:07:24.793 --> 00:07:33.108
+Do not jump to paralytics: troubleshoot first, because paralytics don't fix problems, they hide them.
+
+52
+00:07:34.533 --> 00:07:37.011
+Now the ventilator variables.
+
+53
+00:07:37.011 --> 00:07:45.042
+Volume is the amount of air delivered each breath, the tidal volume, in milliliters or liters.
+
+54
+00:07:45.042 --> 00:07:58.456
+Pressure is the force the ventilator exerts to deliver the air: it pushes gas in by raising airway pressure above alveolar pressure, in centimeters of water.
+
+55
+00:07:58.456 --> 00:08:12.467
+Flow is the rate at which air is delivered, in liters per minute; a higher flow delivers the set volume faster, and normal adult inspiratory flow is forty to sixty.
+
+56
+00:08:12.467 --> 00:08:17.594
+Airway resistance is the change in pressure divided by flow.
+
+57
+00:08:17.594 --> 00:08:31.264
+Inspiratory time runs from the start of inspiratory flow to the start of expiratory flow, and inspiratory plus expiratory time equals sixty divided by the rate.
+
+58
+00:08:31.264 --> 00:08:43.908
+With constant flow, tidal volume equals flow times inspiratory time: sixty liters per minute is one liter per second, so one second gives one liter.
+
+59
+00:08:45.333 --> 00:08:49.337
+Control variables are volume, pressure and time.
+
+60
+00:08:49.337 --> 00:09:03.352
+Volume control presets volume and flow; pressure control presets pressure; and time control, such as HFOV, leaves flow, volume and pressure dependent on lung mechanics.
+
+61
+00:09:03.352 --> 00:09:06.438
+Phase variables describe each breath.
+
+62
+00:09:06.438 --> 00:09:08.273
+The trigger starts it.
+
+63
+00:09:08.273 --> 00:09:18.033
+The limit is held during inspiration; the decks name pressure as the limit for pressure support and pressure control.
+
+64
+00:09:18.033 --> 00:09:20.202
+The cycle ends the breath.
+
+65
+00:09:20.202 --> 00:09:24.790
+And the baseline is PEEP, with a flow baseline of zero.
+
+66
+00:09:24.790 --> 00:09:31.130
+Neither the decks nor Hess name a limit variable for volume-control breaths.
+
+67
+00:09:31.130 --> 00:09:41.057
+Whitaker's textbook fills the gap: volume-controlled breaths are flow limited, so the limit for volume control is flow.
+
+68
+00:09:41.057 --> 00:09:50.983
+Whitaker also calls them time cycled; for the cycle question, use the deck's answer, which comes later in this chapter.
+
+69
+00:09:52.400 --> 00:10:00.826
+Whatever the ventilator guarantees is called the independent variable; the one left to float is dependent.
+
+70
+00:10:00.826 --> 00:10:07.742
+In volume control, volume is independent, and Hess adds flow, so pressure is dependent.
+
+71
+00:10:07.742 --> 00:10:14.101
+In pressure control, pressure is independent, and volume and flow are dependent.
+
+72
+00:10:14.101 --> 00:10:18.075
+The deck's example is a patient who develops ARDS.
+
+73
+00:10:18.075 --> 00:10:29.363
+On volume control, a tidal volume of five hundred at a peak pressure of twenty stays five hundred, but the peak pressure rises to thirty five.
+
+74
+00:10:29.363 --> 00:10:41.525
+On pressure control at twenty centimeters of water with a tidal volume of five hundred, the pressure stays twenty, but the volume falls to three hundred.
+
+75
+00:10:42.933 --> 00:10:47.430
+So what raises the peak pressure in volume control?
+
+76
+00:10:47.430 --> 00:10:59.421
+Hess's Box 20-4 lists higher flow, constant flow, higher PEEP, auto-PEEP, a larger tidal volume, higher resistance and lower compliance.
+
+77
+00:10:59.421 --> 00:11:13.704
+In pressure control, Box 20-5 says the tidal volume rises with a higher driving pressure, a longer inspiratory time while flow continues, and more patient effort.
+
+78
+00:11:13.704 --> 00:11:19.347
+It falls with auto-PEEP, lower compliance and higher resistance.
+
+79
+00:11:19.347 --> 00:11:22.080
+The RCP 203 deck boils it down.
+
+80
+00:11:22.080 --> 00:11:32.572
+Lower compliance: in volume control, peak and plateau pressures both rise; in pressure control, the tidal volume falls.
+
+81
+00:11:32.572 --> 00:11:48.883
+Higher resistance: in volume control, the peak pressure rises but the plateau is unchanged; in pressure control, the tidal volume falls only if flow continues to the end of inspiration.
+
+82
+00:11:50.300 --> 00:11:51.962
+Pause and predict.
+
+83
+00:11:51.962 --> 00:11:57.503
+A patient develops bronchospasm, so airway resistance rises.
+
+84
+00:11:57.503 --> 00:12:03.598
+On volume control, what happens to the peak and plateau pressures?
+
+85
+00:12:03.598 --> 00:12:08.400
+And on pressure control, does the tidal volume fall?
+
+86
+00:12:09.300 --> 00:12:15.300
+[6-second practice pause]
+
+87
+00:12:15.800 --> 00:12:25.040
+On volume control, the peak pressure rises, but the plateau pressure stays the same, so the gap between them widens.
+
+88
+00:12:25.040 --> 00:12:32.448
+On pressure control, the tidal volume falls only if flow continues to the end of inspiration.
+
+89
+00:12:32.448 --> 00:12:39.617
+If flow has already reached zero before the breath ends, the tidal volume does not change.
+
+90
+00:12:39.617 --> 00:12:49.175
+Compare lower compliance, which raises both pressures on volume control and lowers the tidal volume on pressure control.
+
+91
+00:12:50.600 --> 00:13:01.800
+Trigger equals start: the patient or time starts the breath, and sensitivity is how much the signal must change before inspiration starts.
+
+92
+00:13:01.800 --> 00:13:11.133
+A time trigger follows the set rate: at a rate of twelve, a breath every five seconds, with no negative deflection.
+
+93
+00:13:11.133 --> 00:13:16.084
+A patient trigger shows a negative deflection below baseline.
+
+94
+00:13:16.084 --> 00:13:36.455
+It is sensed as a pressure drop, set one to two centimeters of water below PEEP, according to Hess; as a flow drop, where a base flow of ten liters per minute with a sensitivity of three triggers at seven; or as diaphragm electrical activity, in NAVA.
+
+95
+00:13:36.455 --> 00:13:43.272
+Too insensitive, such as negative five, and the patient cannot trigger and fatigues.
+
+96
+00:13:43.272 --> 00:13:47.167
+Too sensitive, and the ventilator auto-triggers.
+
+97
+00:13:47.167 --> 00:13:50.820
+More sensitive means a number closer to zero.
+
+98
+00:13:50.820 --> 00:13:57.150
+And with significant auto-PEEP, neither pressure nor flow triggering may work.
+
+99
+00:13:58.567 --> 00:14:04.928
+Cycle equals stop: volume, time or flow ends the breath, and Hess adds pressure.
+
+100
+00:14:04.928 --> 00:14:15.981
+The deck's line is worth memorizing: volume control is volume cycled, pressure control is time cycled, and pressure support is flow cycled.
+
+101
+00:14:15.981 --> 00:14:26.080
+Flow cycling ends inspiration when flow falls to a set value, for example twenty five percent of peak flow in pressure support.
+
+102
+00:14:26.080 --> 00:14:36.179
+Pressure cycling, Hess says, is mostly an alarm condition, such as a cough in volume control that hits the high pressure limit.
+
+103
+00:14:36.179 --> 00:14:43.018
+Put together: pressure support is patient triggered, pressure limited and flow cycled.
+
+104
+00:14:43.018 --> 00:14:49.379
+Pressure control is time or patient triggered, pressure limited and time cycled.
+
+105
+00:14:49.379 --> 00:15:00.592
+Volume Support is patient triggered, pressure limited and flow cycled, and dual control is pressure limited, volume targeted and time cycled.
+
+106
+00:15:02.000 --> 00:15:02.793
+Last one.
+
+107
+00:15:02.793 --> 00:15:07.637
+A patient on pressure support is breathing comfortably.
+
+108
+00:15:07.637 --> 00:15:12.922
+What triggers each breath, what limits it, and what ends it?
+
+109
+00:15:12.922 --> 00:15:17.150
+And how is that different from pressure control?
+
+110
+00:15:18.067 --> 00:15:24.067
+[6-second practice pause]
+
+111
+00:15:24.567 --> 00:15:37.516
+Pressure support is patient triggered, pressure limited and flow cycled: the breath ends when flow falls to a set value, such as twenty five percent of peak flow.
+
+112
+00:15:37.516 --> 00:15:45.989
+Pressure control is also pressure limited, but it can be time or patient triggered, and it is time cycled.
+
+113
+00:15:45.989 --> 00:15:48.867
+And volume control is volume cycled.
+
+114
+00:15:50.267 --> 00:15:52.368
+Here is part two in brief.
+
+115
+00:15:52.368 --> 00:16:02.876
+Asynchrony is breath delivery out of phase with the patient's effort, and the deck sorts it into trigger, flow and cycle problems.
+
+116
+00:16:02.876 --> 00:16:11.283
+Missed triggers usually mean auto-PEEP; breaths with no effort mean an over-sensitive trigger or a leak.
+
+117
+00:16:11.283 --> 00:16:15.244
+A scalloped pressure curve means flow starvation.
+
+118
+00:16:15.244 --> 00:16:20.255
+Fix it in order: settings, mode, sedation, and paralysis last.
+
+119
+00:16:20.255 --> 00:16:29.551
+Volume control fixes the volume and lets pressure float; pressure control fixes the pressure and lets volume float.
+
+120
+00:16:29.551 --> 00:16:37.796
+Volume control is volume cycled, pressure control is time cycled, and pressure support is flow cycled.
+
+121
+00:16:37.796 --> 00:16:42.242
+Part three covers PEEP, pressures, circuits and valves.

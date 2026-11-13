@@ -1,0 +1,42 @@
+RCP 203 — Chapter 15: Pulmonary Hygiene: Percussion, IPPB, Vibratory PEP
+
+[15-001 · What this chapter covers]
+This chapter covers the airway clearance and lung expansion techniques on the study guide. We start with manual chest physiotherapy: postural drainage, percussion and vibration, and the sputum numbers that tell you when to start and stop. Then mechanical percussion, the high-frequency chest wall vest, intrapulmonary percussive ventilation and Metaneb. Then positive expiratory pressure and the vibratory devices, the Flutter and the Acapella. We finish with IPPB, and why the deck says it has been replaced.
+
+[15-002 · Postural drainage, percussion and vibration]
+Chest physiotherapy, also called postural drainage, percussion and vibration, loosens and clears secretions. Postural drainage uses gravity: the affected segment is placed up, so mucus moves toward the larger airways. Hold each position five to ten minutes. Sessions run twenty to forty minutes, before meals or two hours after; Hess says more than one hour after, but use the deck. Percussion is rapid thumping with cupped hands over the segment. Vibration is rapid shaking of the chest wall during expiration.
+
+[15-003 · When to start, stop, or not do it]
+Sputum production above thirty milliliters a day indicates airway clearance. Stop postural drainage when the sputum drops below thirty milliliters a day and the patient has an effective cough. Hess says less than twenty five milliliters a day does not justify postural drainage. Patients with cystic fibrosis are generally no longer placed head-down, because of the risk of reflux. The deck's contraindications are an unstable head injury, recent spinal surgery, uncontrolled hypertension and certain cardiac conditions. Hess adds no head-down position with gross hemoptysis, and that percussion can worsen burns, open wounds, skin grafts, subcutaneous emphysema or a recent pacemaker.
+
+[15-004 · Mechanical percussion and the vest]
+Handheld percussors and vibrators, pneumatic or electrical, give a consistent rate and force with no fatigue for the user, and the RCP 203 deck calls them equally effective as cupped hands. Hess says they are more convenient, but data are lacking that they improve clearance; use the deck. High-frequency chest wall oscillation uses an inflatable vest and an air-pulse generator that makes rapid positive-pressure bursts, adjustable from five to twenty hertz in the deck. It is used mainly for cystic fibrosis and bronchiectasis, especially at home without a caregiver. Hess says the vest presses five to twenty centimeters of water on the chest, makes mini-coughs, and runs at two to twenty five hertz.
+
+[15-005 · IPV and Metaneb]
+Intrapulmonary percussive ventilation delivers high-flow mini-bursts with an aerosol, at three hundred to four hundred pulses per minute, and the deck says it replaced IPPB. It has its own chapter later in this series. Metaneb, in RCP 203, combines continuous positive expiratory pressure for lung expansion with continuous high-frequency oscillation for secretion clearance, along with an aerosol. A session runs about ten minutes, alternating the modes, and it can run in line with a ventilator.
+
+[15-006 · PEP therapy]
+Positive expiratory pressure devices typically make six to twenty five centimeters of water during exhalation, while inspiration is unrestricted. PEP also helps prevent or treat atelectasis, and reduces air trapping in asthma and COPD. To mobilize secretions, a vibratory PEP device is probably the best choice. The technique: sit upright or semi-Fowler's, start at the lowest PEP and raise it to ten to twenty centimeters of water. Do sets of ten to twenty slow, moderately deep breaths with short holds and active, not forced, exhalation, and a directed cough after each set. Repeat four to eight times, in a session of twenty minutes or less. Hess says four to six times; use the deck.
+
+[15-007 · Flutter versus Acapella]
+The two vibratory PEP devices vibrate in different ways. The Flutter uses a steel ball. It makes ten to twenty five centimeters of water in the deck, about ten in Hess, and the pressure rises with the device angle and the flow. Hess notes that it is gravity dependent, so its position matters. The Acapella uses a counterweighted lever, or plug, and a magnet. Turning the knob clockwise raises the pressure, and Hess notes that it works independently of gravity. PEP is contraindicated if the patient cannot tolerate more work of breathing, with hemodynamic instability, bullous emphysema, high intracranial pressure, an untreated pneumothorax, sinusitis, nosebleeds or middle ear problems.
+
+[15-008 · Practice: choose a device]
+Pause and decide. A patient needs to mobilize secretions and will use the device lying back in bed, not sitting upright. Which vibratory PEP device works regardless of position, and why?
+[6-second practice pause]
+
+[15-009 · Answer: the Acapella]
+The Acapella. It vibrates with a counterweighted lever and a magnet, so Hess notes that it works independently of gravity, in any position. The Flutter vibrates with a steel ball, so it is gravity dependent, and its pressure changes with the device angle. For secretion mobilization, a vibratory PEP device is probably the best choice, so the Acapella fits this patient.
+
+[15-010 · IPPB, and why it is off the exam]
+Intermittent positive pressure breathing is short-term or episodic mechanical ventilation, used to assist ventilation and give short hyperinflation. The deck says it was used for lung expansion, but it has been removed from NBRC exams, is no longer recommended, and has been replaced by intrapulmonary percussive ventilation. Hess still describes it. It is a pneumatically driven, pressure-triggered, pressure-cycled ventilator: the patient triggers it and it passively inflates the lungs. Set the flow for an I to E ratio of about one to three, aim for breaths at least twenty five percent larger than the patient's tidal volume, and run no more than twenty minutes. Hess's indications are atelectasis, a cough too weak to work, neuromuscular disease or kyphoscoliosis, and only after other options are exhausted, never for aerosol therapy. Where they differ, use the deck.
+
+[15-011 · Practice: time to stop?]
+One more. A patient on postural drainage now produces about twenty milliliters of sputum a day and has an effective cough. What should you recommend, and what sputum volume justified starting?
+[6-second practice pause]
+
+[15-012 · Answer: stop postural drainage]
+Recommend stopping. The deck says to stop postural drainage when sputum drops below thirty milliliters a day and the patient has an effective cough, and both are true here. Sputum above thirty milliliters a day is what indicated airway clearance in the first place. Hess draws the line slightly lower, saying that under twenty five milliliters a day does not justify postural drainage, and this patient is below that too.
+
+[15-013 · Recap]
+Here is the chapter in brief. Postural drainage puts the affected segment up, five to ten minutes per position, with percussion by cupped hands and vibration on expiration. Start above thirty milliliters of sputum a day, and stop below thirty with an effective cough. Mechanical percussors are as effective as hands, and the vest suits cystic fibrosis and bronchiectasis at home. PEP runs ten to twenty centimeters of water in sets of breaths with a cough after each, and vibratory PEP is probably the best choice for secretions. The Flutter depends on gravity; the Acapella does not. And IPPB is off the exam, replaced by IPV.

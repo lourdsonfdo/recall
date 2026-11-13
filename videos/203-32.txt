@@ -1,0 +1,46 @@
+RCP 203 — Chapter 32: APGAR vs Glasgow vs Ballard vs Silverman Scores
+
+[32-001 · What this chapter covers]
+This chapter puts four scores side by side, because they are easy to mix up. The Apgar score rates a newborn's condition right after birth. The Glasgow Coma Scale rates level of consciousness. The Ballard score estimates a newborn's gestational age. And the Silverman score rates how much respiratory distress an infant is in. For each one we cover what it measures, who it is used on, its range, and which direction is good. We spend the most time on the Glasgow Coma Scale, then finish with Ballard and Silverman.
+
+[32-002 · What each score measures]
+Start with what each score measures, and on whom. The Apgar assesses a newborn's condition right after birth, at one and five minutes; Hess adds a ten minute score if the five minute score is below seven. The Glasgow Coma Scale assesses level of consciousness in patients with altered consciousness or brain injury; Hess places it in the D, or deficits, step of the primary survey. The Ballard score estimates gestational age in newborns, especially premature ones, and Hess says to assess it by twelve hours of age. The Silverman score measures the magnitude of respiratory distress in infants; Hess gives no timing for it.
+
+[32-003 · Ranges, and which way is good]
+Now the ranges. The Apgar scores appearance, pulse, grimace, activity and respirations, zero to two each, for zero to ten, and higher is better, with seven to ten normal. The Glasgow scale adds eyes, up to four, verbal, up to five, and motor, up to six, for three to fifteen; higher is better, and eight or less is severe. The Ballard total converts to weeks of gestation. On the New Ballard, forty equals forty weeks, so higher means an older gestational age, not a healthier baby. The Silverman grades five signs, zero to two each, for zero to ten, and here higher is worse. That is the trap: Silverman runs the opposite way from Apgar and Glasgow.
+
+[32-004 · Practice: same number, good or bad?]
+Pause and decide. An infant has an Apgar score of eight at five minutes, and a Silverman score of eight. Which number is reassuring, and which is a warning?
+[6-second practice pause]
+
+[32-005 · Answer: same number, opposite meaning]
+The Apgar of eight is reassuring. Apgar runs higher equals better, and seven to ten is normal. The Silverman of eight is a warning. Silverman runs the other way, so higher means more distress, and Heuer's Silverman-Anderson scale calls seven or higher impending respiratory failure. Same number, opposite meaning.
+
+[32-006 · The Glasgow Coma Scale]
+The Glasgow Coma Scale provides the most objective assessment of consciousness. Add three parts: eyes, up to four; verbal, up to five; and motor, up to six. The maximum, fifteen, is fully alert. The minimum, three, is deep coma, and Hess says it suggests brain death. The lower the score, the worse the injury, and the motor response is the best predictor of neurologic outcome. RCP 203 bands the total: thirteen to fifteen is mild, nine to twelve moderate, and eight or less severe, meaning coma. The RCP 105 slide text prints mild as thirteen to fourteen and severe as less than eight, but its notes and the RCP 203 deck say thirteen to fifteen and eight or less. Use those.
+
+[32-007 · GCS of 8 or less, and two caveats]
+A score of eight or less means intubate, because these patients often cannot protect their airway. The deck calls this a guideline, not an absolute law. Chapter eleven adds that a score of eight or less is a reason to avoid CPAP to treat cardiogenic pulmonary edema; that is not a rule against CPAP in general. Then two caveats. An intubated patient cannot be tested on the verbal part, so the range becomes two T to ten T. And sedated or paralyzed patients may score low without a severe brain injury.
+
+[32-008 · Practice: score this patient]
+Try the deck's example. A patient opens their eyes only to pain, makes incomprehensible sounds, and withdraws from pain. What is the Glasgow score, and how severe is it?
+[6-second practice pause]
+
+[32-009 · Answer: 8, severe]
+Eyes opening to pain scores two. Incomprehensible sounds score two. Withdrawing from pain scores four. Two plus two plus four is eight, which is severe, or coma. At eight or less these patients often cannot protect their airway, so intubation is indicated, as a guideline, not an absolute law.
+
+[32-010 · The Ballard score]
+The Ballard method, used with the Dubowitz, estimates a newborn's gestational age after birth. It scores neuromuscular maturity and physical maturity, and the total corresponds to gestational age in weeks. It is particularly useful for premature infants. Respiratory therapists normally do not perform it, and you are not expected to perform or memorize it, only to know what it is, what it evaluates and what the score tells you. Hess adds the New Ballard details. A higher score means a higher gestational age. Forty equals forty weeks; below forty is preterm, and above forty is post-term. The scale runs from minus ten, or twenty weeks, to fifty, or forty four weeks, and each five points equals two weeks.
+
+[32-011 · The Silverman score]
+No deck covers the Silverman score, so this comes from Hess chapter twenty two. It grades five signs, zero to two each. Upper chest: synchronized, lag on inspiration, or see-saw. Lower chest retractions: none, just visible, or marked. Xiphoid retraction: none, just visible, or marked. Nares dilation: none, minimal, or marked. Expiratory grunt: none, heard with a stethoscope only, or heard with the naked ear. The higher the score, the greater the distress. Grunting is the glottis closing to maintain lung volume, common in RDS. Retractions usually mean decreased chest compliance, and see-saw breathing means severe distress. Heuer's scale reads zero as no distress, one to six as mild to moderate, and seven or more as impending respiratory failure.
+
+[32-012 · Practice: what does a Ballard of 30 mean?]
+Last one. A newborn has a New Ballard score of thirty. Is that a sign of illness, and what does it tell you?
+[6-second practice pause]
+
+[32-013 · Answer: about 36 weeks, preterm]
+No. Ballard is not a health score; it estimates gestational age. On the New Ballard, forty equals forty weeks, and each five points equals two weeks. Thirty is ten points below forty, so four weeks earlier: about thirty six weeks. Below forty means preterm. To judge how the baby is doing, use the Apgar right after birth, or the Silverman for respiratory distress.
+
+[32-014 · Recap]
+Here is the chapter in brief. The Apgar rates a newborn at one and five minutes, zero to ten, and higher is better. The Glasgow Coma Scale rates consciousness: eyes, verbal and motor, three to fifteen, with eight or less severe and a guideline to intubate; intubated patients score two T to ten T. The Ballard estimates gestational age, and on the New Ballard forty means forty weeks. The Silverman rates respiratory distress, zero to ten, and it runs the opposite way: higher is worse.

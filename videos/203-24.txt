@@ -1,0 +1,42 @@
+RCP 203 — Chapter 24: Capnography
+
+[24-001 · What this chapter covers]
+This chapter covers capnography, the breath by breath measurement of exhaled carbon dioxide. We start with how it is measured, mainstream versus sidestream, the normal numbers, and how it confirms tube placement. Then the normal capnogram, phase by phase. Then sudden decreases and increases, and abnormal shapes, with what each one means. We finish with capnography during CPR: when to improve compressions, when to consider stopping, and how it signals a return of circulation.
+
+[24-002 · Mainstream versus sidestream]
+Capnometry is the number, capnography is the number plus the waveform, and the capnogram is the waveform itself, measured by infrared absorption. A mainstream sensor sits at the airway, on the endotracheal tube, with a fast response. It is best for intubated patients, and on a mask or mouthpiece it needs oxygen at six liters per minute. Its problems are weight on the tube, added dead space, and secretions on its windows. A sidestream, or aspirating, unit uses a pump to draw a sample through a tube. It is best for patients who are not intubated, on a cannula or mask, from infants to adults. Its problems are secretions, water or a kink blocking the tubing, and a slightly longer lag.
+
+[24-003 · Normal numbers and tube confirmation]
+Use a calibrated capnograph, and the inspiratory value should read zero. End-tidal carbon dioxide runs one to five torr below the PaCO2, more with high dead space. Normal PaCO2 is thirty five to forty five, and normal end-tidal is thirty to forty three. RCP 105 gives a normal arterial to end-tidal gap of two, and an acceptable five in critical patients. To confirm tube placement, waveform capnography is preferred, the gold standard. A colorimetric detector is an acceptable alternative: purple turning yellow over six or more breaths means two to five percent carbon dioxide. A brief change is less convincing, because the stomach can hold carbon dioxide after bagging. Capnography confirms the trachea, not the depth; it cannot reliably detect a mainstem tube, so use a chest film for depth.
+
+[24-004 · Volumetric capnography and PEEP]
+Chapter eleven adds volumetric capnography as the fifth of its methods for finding the optimal PEEP. It measures the average carbon dioxide concentration of each tidal breath, which the notes describe as the carbon dioxide eliminated per breath. Raise the PEEP step by step and watch that percentage. The optimal PEEP is reached just before the percentage begins to fall, because overdistension adds dead space.
+
+[24-005 · The normal capnogram]
+The RCP 203 figure labels the normal curve A, B, C, D and E. From A to B, the patient exhales pure dead space gas, so there is no carbon dioxide. From B to C, dead space and alveolar gas mix, and carbon dioxide rises rapidly. From C to D is the alveolar plateau, alveolar carbon dioxide, and the end-tidal value is read at the end of the plateau, point D. From D to E, the patient inhales fresh gas, and carbon dioxide drops to zero. The RCP 105 deck labels the same curve as phases one, two and three: dead space, the rapid rise, and the alveolar plateau. Hess adds that the plateau rises gently, and its peak represents alveolar PCO2.
+
+[24-006 · Sudden drops]
+If the waveform and number disappear at once, think disconnection. A value that falls toward zero as the tube kinks means obstruction, and complete obstruction reads zero. A sudden, proportional drop means cardiac arrest, because the lungs are no longer perfused. A very low value right after intubation means an esophageal intubation. Hess says it is generally very low, but it can be falsely high after antacids or carbonated drinks, and that fades over a few breaths. One trap: a fall from dead space, as in a pulmonary embolism, is not improvement, so do not lower the ventilator rate.
+
+[24-007 · Sudden rises and abnormal shapes]
+An abrupt rise during CPR means return of spontaneous circulation. An immediate rise after intravenous sodium bicarbonate is expected, because bicarbonate forms carbon dioxide. A rapid rise with succinylcholine or volatile anesthetics suggests malignant hyperthermia. A baseline that does not return to zero means rebreathing, or a circuit problem. A steeper, upsloping plateau means airway obstruction and uneven emptying, and the RCP 105 figure shows it as the bronchospasm tracing. Heuer describes a shark fin shape as acute partial airway obstruction. A trend up means hypoventilation and a trend down hyperventilation, confirmed with a blood gas. Hess also lists rises with fever, sepsis, seizures and COPD, and falls with hypothermia, hypotension, hemorrhage and a cuff leak.
+
+[24-008 · Practice: a sudden drop]
+Pause and think. On a ventilated patient, the end-tidal carbon dioxide suddenly falls by half while the waveform keeps its normal shape. A colleague suggests lowering the ventilator rate. What could this mean, and should you lower the rate?
+[6-second practice pause]
+
+[24-009 · Answer: think perfusion, not the rate]
+A sudden, proportional drop means the lungs are less perfused, as in cardiac arrest, or dead space from a pulmonary embolism. It is not improvement in ventilation, so do not lower the ventilator rate. Check the patient's circulation. If the waveform and number had disappeared at once, you would think disconnection instead.
+
+[24-010 · Capnography during CPR]
+Because it shows both the adequacy of ventilation and the effectiveness of chest compressions, capnography is now a standard of care during resuscitation. Three numbers matter. An end-tidal value below ten, or an arterial diastolic pressure below twenty, means improve the quality of CPR. Failing to reach above ten after twenty minutes of CPR can be used as one indicator to stop resuscitation. And a sudden rise to forty or more, with a palpable pulse, rising blood pressure, spontaneous breathing or movement, and a better saturation, signals return of spontaneous circulation. After that, the deck aims for a PaCO2 of thirty five to forty five and a saturation of ninety four to ninety nine percent, and warns against hyperventilation.
+
+[24-011 · Practice: during a code]
+One more. During CPR, the end-tidal carbon dioxide reads eight. A few minutes later it jumps suddenly to forty two. What did the eight tell you to do, and what does the jump suggest?
+[6-second practice pause]
+
+[24-012 · Answer: improve CPR, then ROSC]
+A value of eight is below ten, which means poor blood flow, so improve the quality of compressions. The sudden jump to forty two, forty or more, suggests return of spontaneous circulation. Confirm it with a palpable pulse, a rising blood pressure, and spontaneous breathing or movement. After return of circulation, avoid hyperventilation, and aim for a PaCO2 of thirty five to forty five.
+
+[24-013 · Recap]
+Here is the chapter in brief. Mainstream sensors suit intubated patients; sidestream suits the rest. End-tidal runs one to five torr below the PaCO2, and waveform capnography is the gold standard for confirming the trachea, but not the depth. On the normal curve, read the end-tidal value at the end of the alveolar plateau. A waveform that vanishes is a disconnection, a sudden proportional drop is arrest or embolism, and an upsloping or shark fin plateau is obstruction. In CPR, below ten means improve compressions, never above ten after twenty minutes may mean stopping, and a sudden rise to forty or more means return of circulation.

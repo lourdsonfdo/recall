@@ -1,0 +1,309 @@
+WEBVTT
+
+1
+00:00:00.500 --> 00:00:08.808
+This chapter separates three gas exchange problems: ventilation perfusion mismatch, shunt and dead space.
+
+2
+00:00:08.808 --> 00:00:14.663
+We start with what each one is, its causes, and how it responds to oxygen.
+
+3
+00:00:14.663 --> 00:00:27.164
+Then the tests that tell them apart: the one hundred percent oxygen test, the shunt equation with the deck's worked example, and the A minus a gradient bands.
+
+4
+00:00:27.164 --> 00:00:36.025
+We finish with a positioning rule, good lung down, and the three situations where the good lung goes up instead.
+
+5
+00:00:37.433 --> 00:00:46.141
+In a ventilation perfusion mismatch, ventilation and perfusion are both present but not matched.
+
+6
+00:00:46.141 --> 00:00:55.665
+A shunt is perfusion without ventilation: blood passes alveoli that get no air, and it never sees oxygen.
+
+7
+00:00:55.665 --> 00:01:00.926
+Dead space is the opposite, ventilation without perfusion.
+
+8
+00:01:00.926 --> 00:01:07.547
+In the deck's words, dead space is wasted air, and shunt is wasted blood.
+
+9
+00:01:07.547 --> 00:01:12.717
+Hess puts numbers on it: the normal ratio is point eight.
+
+10
+00:01:12.717 --> 00:01:18.885
+A low ratio means ventilation is reduced, as in airflow obstruction.
+
+11
+00:01:18.885 --> 00:01:25.053
+A high ratio means perfusion is reduced, as in a pulmonary embolism.
+
+12
+00:01:25.053 --> 00:01:30.858
+A shunt has a ratio of zero, and dead space a ratio of infinity.
+
+13
+00:01:32.267 --> 00:01:44.342
+The deck's causes of low ratio mismatch are COPD, asthma, pneumonia and pulmonary edema, and a pulmonary embolism gives a high ratio.
+
+14
+00:01:44.342 --> 00:01:50.335
+Shunt comes from atelectasis, pneumonia, ARDS and pulmonary edema.
+
+15
+00:01:50.335 --> 00:02:00.776
+Dead space comes from a pulmonary embolism, the most common board answer, shock, cardiac arrest and excessive PEEP.
+
+16
+00:02:00.776 --> 00:02:06.496
+Mismatch usually improves with oxygen, so treat it with oxygen.
+
+17
+00:02:06.496 --> 00:02:17.210
+Shunt responds poorly, causing refractory hypoxemia, so treat it with recruitment, PEEP or CPAP, not just more oxygen.
+
+18
+00:02:17.210 --> 00:02:28.105
+Mismatch is the most common cause of hypoxemia, an NBRC favorite, and shunt is the mechanism least responsive to oxygen.
+
+19
+00:02:28.105 --> 00:02:36.368
+Hess adds that high ratio units do not cause hypoxemia; they hinder carbon dioxide removal.
+
+20
+00:02:36.368 --> 00:02:42.542
+The trap: a pulmonary embolism is high ratio, dead space, not shunt.
+
+21
+00:02:43.967 --> 00:02:46.748
+Hess describes a simple test.
+
+22
+00:02:46.748 --> 00:02:53.943
+Have the patient breathe one hundred percent oxygen, then draw a blood gas.
+
+23
+00:02:53.943 --> 00:03:05.453
+Low ratio units raise their PaO2 as far as they can, but shunt units do not, because their blood never meets the oxygen.
+
+24
+00:03:05.453 --> 00:03:09.770
+Normal adults reach a PaO2 above six hundred.
+
+25
+00:03:09.770 --> 00:03:19.842
+If the PaO2 only reaches two hundred fifty, the shunt is about twenty five percent of the cardiac output.
+
+26
+00:03:21.267 --> 00:03:34.313
+The shunt fraction is the end capillary oxygen content minus the arterial content, divided by the end capillary content minus the mixed venous content.
+
+27
+00:03:34.313 --> 00:03:52.803
+The deck's example uses one hundred percent oxygen, a PaCO2 of forty, a PaO2 of sixty, a saturation of ninety percent, a venous PO2 of forty, a venous saturation of seventy five percent and a hemoglobin of fifteen.
+
+28
+00:03:52.803 --> 00:04:04.726
+The alveolar PO2 is one times seven hundred sixty minus forty seven, minus forty divided by point eight, which is six hundred sixty three.
+
+29
+00:04:04.726 --> 00:04:15.353
+End capillary content is twenty two point one, arterial content eighteen point three, and venous content fifteen point two.
+
+30
+00:04:15.353 --> 00:04:28.745
+So the shunt is three point eight divided by six point nine, about point five five, or fifty five percent, a severe shunt, as in ARDS or large atelectasis.
+
+31
+00:04:28.745 --> 00:04:36.867
+The slide prints three point eight, about point five five, without showing the six point nine.
+
+32
+00:04:38.267 --> 00:04:51.373
+The RCP 203 deck says a normal shunt is less than five percent, and more than twenty to thirty percent is significant in the critically ill.
+
+33
+00:04:51.373 --> 00:05:05.136
+The RCP 105 weaning deck uses wider bands: ten percent or less normal, ten to twenty mild, twenty to thirty significant, and above thirty critical.
+
+34
+00:05:05.136 --> 00:05:08.974
+Use less than five percent, from RCP 203.
+
+35
+00:05:08.974 --> 00:05:14.217
+For weaning, the shunt must be less than twenty percent.
+
+36
+00:05:15.633 --> 00:05:38.783
+RCP 203 says a significant shunt generally exists when the P over F ratio is below two hundred, or when you cannot keep satisfactory oxygenation on fifty percent oxygen or more, meaning a PaO2 of fifty or less on an FiO2 of fifty percent or more.
+
+37
+00:05:38.783 --> 00:05:45.558
+Oxygen alone is not enough then, and treatment is normally CPAP or PEEP.
+
+38
+00:05:45.558 --> 00:05:55.533
+In refractory hypoxemia, proning reduces the shunt by re-expanding the dorsal lung and improving matching.
+
+39
+00:05:55.533 --> 00:06:02.496
+The A minus a gradient, alveolar minus arterial PO2, sorts it on room air.
+
+40
+00:06:02.496 --> 00:06:04.943
+Five to fifteen is normal.
+
+41
+00:06:04.943 --> 00:06:12.283
+Sixty six to three hundred means mismatch, so give oxygen up to sixty percent.
+
+42
+00:06:12.283 --> 00:06:18.682
+Above three hundred means shunting, so use the ventilator with PEEP.
+
+43
+00:06:18.682 --> 00:06:29.033
+On one hundred percent oxygen, RCP 105 calls a gradient above four hundred fifty severe hypoxemia or shunting.
+
+44
+00:06:30.467 --> 00:06:32.188
+Pause and decide.
+
+45
+00:06:32.188 --> 00:06:38.974
+On room air, a patient's A minus a gradient is three hundred fifty.
+
+46
+00:06:38.974 --> 00:06:46.267
+Is that mismatch or shunting, and what does the RCP 203 table say to do?
+
+47
+00:06:47.167 --> 00:06:53.167
+[6-second practice pause]
+
+48
+00:06:53.667 --> 00:07:00.792
+Above three hundred means shunting, so the table says to use the ventilator with PEEP.
+
+49
+00:07:00.792 --> 00:07:07.005
+Oxygen alone will not fix it, because shunted blood never meets the oxygen.
+
+50
+00:07:07.005 --> 00:07:17.942
+If the gradient had been between sixty six and three hundred, that would point to mismatch, treated with oxygen up to sixty percent.
+
+51
+00:07:19.367 --> 00:07:27.777
+When a patient lies on one side, gravity pulls more blood to the lung that is down, the dependent lung.
+
+52
+00:07:27.777 --> 00:07:39.534
+Placing the good, healthy lung down matches perfusion with the area that also has the best ventilation, which improves matching and oxygenation.
+
+53
+00:07:39.534 --> 00:07:50.720
+In healthy lungs, ventilation is also somewhat better in the dependent areas, because the diaphragm pushes more effectively on that side.
+
+54
+00:07:50.720 --> 00:07:59.457
+So both ventilation and perfusion favor the lower lung, which is exactly where you want the healthy tissue.
+
+55
+00:07:59.457 --> 00:08:09.010
+The deck's example: a patient with left lung pneumonia goes in the right lateral decubitus position, right lung down.
+
+56
+00:08:09.010 --> 00:08:10.970
+Read the stem carefully.
+
+57
+00:08:10.970 --> 00:08:17.992
+The side named is usually the diseased side, and the answer is the opposite decubitus.
+
+58
+00:08:19.400 --> 00:08:27.160
+The rule reverses when the danger is spilling something into the healthy lung, or over-inflating it.
+
+59
+00:08:27.160 --> 00:08:33.911
+With a lung abscess, put the good lung up, so infected material does not drain into it.
+
+60
+00:08:33.911 --> 00:08:43.921
+With unilateral pulmonary interstitial emphysema in infants, put the good lung up, to prevent overdistention of the healthy lung.
+
+61
+00:08:43.921 --> 00:08:50.905
+With massive hemoptysis or bleeding, put the good lung up, so blood does not flow into it.
+
+62
+00:08:50.905 --> 00:09:02.700
+In all three, the goal shifts from improving gas exchange to protecting the one good lung you have left, and that shift is what the question is testing.
+
+63
+00:09:04.100 --> 00:09:04.838
+One more.
+
+64
+00:09:04.838 --> 00:09:09.019
+A patient has massive bleeding from the right lung.
+
+65
+00:09:09.019 --> 00:09:16.725
+Which side should be down, and why is this different from a patient with right lung pneumonia?
+
+66
+00:09:17.633 --> 00:09:23.633
+[6-second practice pause]
+
+67
+00:09:24.133 --> 00:09:29.978
+Put the good left lung up, which means the bleeding right lung goes down.
+
+68
+00:09:29.978 --> 00:09:36.704
+With massive bleeding, the goal is to keep blood from flowing into the healthy lung.
+
+69
+00:09:36.704 --> 00:09:42.549
+In pneumonia the goal is better gas exchange, so the good lung goes down.
+
+70
+00:09:42.549 --> 00:09:47.433
+Here the goal is protecting the one good lung, so it goes up.
+
+71
+00:09:48.833 --> 00:09:51.371
+Here is the chapter in brief.
+
+72
+00:09:51.371 --> 00:09:59.423
+Dead space is wasted air, shunt is wasted blood, and mismatch is both present but unmatched.
+
+73
+00:09:59.423 --> 00:10:14.039
+Mismatch is the most common cause of hypoxemia and improves with oxygen; shunt is refractory and needs PEEP or CPAP; and a pulmonary embolism is dead space, not shunt.
+
+74
+00:10:14.039 --> 00:10:20.691
+On one hundred percent oxygen, a PaO2 well short of six hundred means shunt.
+
+75
+00:10:20.691 --> 00:10:26.730
+A normal shunt is under five percent, and weaning needs under twenty.
+
+76
+00:10:26.730 --> 00:10:32.856
+On room air, an A minus a gradient above three hundred means shunting.
+
+77
+00:10:32.856 --> 00:10:42.833
+And put the good lung down, except for an abscess, unilateral PIE or massive bleeding, when the good lung goes up.

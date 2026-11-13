@@ -1,0 +1,51 @@
+RCP 203 — Chapter 16: CVP and PA Catheters, Normal Pressures, Diuretics
+
+[16-001 · What this chapter covers]
+This chapter covers hemodynamic monitoring and the diuretics that change it. We start with the central venous catheter, where it sits, what it measures and how to read it. Then the pulmonary artery catheter, its path, the wedge pressure and thermodilution cardiac output. Then the normal ranges, which differ slightly by source; the study guide names the chapter sixteen deck, so we use its values and recognize the RCP 105 ones. We finish with the diuretic classes and their role in respiratory care. This chapter draws on the RCP 203 chapter sixteen deck, RCP 105, RCP 104 and Hess.
+
+[16-002 · The CVP catheter]
+A central venous catheter goes in through the subclavian or internal jugular vein, and its tip sits in the superior vena cava near the right atrium. The pressure there is right atrial pressure, commonly called the CVP. It measures right heart filling pressure, the right ventricular preload, and helps judge fluid status and right heart function, but it is often late to reflect changes on the left side. The line can also give central venous blood samples, medications and fluids; a true mixed venous sample comes from the pulmonary artery catheter. A low CVP suggests hypovolemia, and a high CVP suggests fluid overload. Venous return depends on mean arterial pressure minus CVP, so a higher CVP, from positive pressure ventilation or right ventricular failure, lowers venous return and cardiac output. Hess adds that a normal or high CVP correlates poorly with volume status.
+
+[16-003 · Reading a CVP, and the PEEP correction]
+Level the transducer at the phlebostatic axis, the fourth intercostal space at the midaxillary line, and read at end-expiration. Do not take the patient off PEEP or CPAP to read it. If the PEEP is above ten centimeters of water, correct the measured pressure: subtract half of the PEEP divided by one point three six. Hess adds that adult catheters are usually seven French, sixteen to twenty centimeters long.
+
+[16-004 · The PA catheter: path and ports]
+The pulmonary artery catheter, the Swan-Ganz, is flow-directed and balloon-tipped. It measures the CVP, the pulmonary artery pressure, the wedge pressure, the cardiac output and the mixed venous oxygen saturation. It is usually one hundred ten centimeters long with three lumens. The proximal port, about thirty centimeters from the tip, sits in the right atrium, and the distal port at the tip sits in the pulmonary artery. The balloon takes one and a half milliliters at most. Its path runs from the subclavian or internal jugular vein to the superior vena cava and the right atrium. Then the balloon is inflated, and the catheter floats through the right ventricle into the pulmonary artery and wedges in a smaller branch. Then the balloon is deflated.
+
+[16-005 · PA pressure, wedge pressure and cardiac output]
+The pulmonary artery pressure is read with the balloon deflated, and the chapter sixteen deck's normal is fifteen to thirty over four to twelve; RCP 105 gives fifteen to twenty five over six to twelve. The wedge pressure is read at end-expiration with the balloon inflated only momentarily, then deflated right away. It reflects left atrial pressure, the left ventricular preload. A wedge pressure above eighteen means cardiogenic pulmonary edema, while in ARDS it is normal or low. Thermodilution cardiac output puts ten milliliters of iced or room temperature fluid into the proximal port, and the thermistor at the tip senses the temperature change. Hess adds that pulmonary artery catheters have fallen out of favor in the ICU. They are now kept for left heart failure, pulmonary hypertension and cardiac output measurement.
+
+[16-006 · Normal pressures: use the Ch 16 deck]
+The ranges differ by source. The study guide names the chapter sixteen deck, so give its numbers: right atrial pressure about two to six millimeters of mercury, right ventricle fifteen to thirty over zero to eight, pulmonary artery fifteen to thirty over four to twelve, and a wedge of about six to twelve. Recognize the RCP 105 slide values too: CVP zero to six, right atrial pressure two to seven, wedge eight to twelve, and pulmonary artery fifteen to twenty five over six to twelve. Cardiac output, stroke volume times heart rate, is four to eight liters per minute. Cardiac index, the cardiac output divided by body surface area, is two point five to three point five liters per minute per square meter. Hess agrees on the cardiac index.
+
+[16-007 · What does PACP mean?]
+The study guide asks for PACP, but that is not a term any source uses. The decks say pulmonary capillary wedge pressure, also called pulmonary artery wedge pressure, and Hess says pulmonary artery occlusion pressure or wedge pressure. So PACP most likely means that wedge or occlusion pressure, about six to twelve on the chapter sixteen deck. If your instructor means the pulmonary artery pressure instead, use fifteen to thirty over four to twelve.
+
+[16-008 · Practice: read the wedge]
+Pause and think. A patient with acute pulmonary edema has a wedge pressure of twenty four. Is this more consistent with cardiogenic pulmonary edema or with ARDS, and how should that wedge pressure have been measured?
+[6-second practice pause]
+
+[16-009 · Answer: cardiogenic edema]
+A wedge pressure above eighteen means cardiogenic pulmonary edema, and twenty four is well above that. In ARDS the wedge pressure is normal or low. It should be read at end-expiration, with the balloon inflated only momentarily and then deflated immediately, so the catheter does not stay wedged.
+
+[16-010 · Diuretic classes]
+All diuretics block sodium reabsorption; water follows salt, and the site in the nephron sets the strength and the electrolyte effects. The deck's memory trick: loops for lungs, thiazides for blood pressure, potassium-sparing for potassium. Loop diuretics act on the ascending loop of Henle and are the most potent: furosemide, Lasix, bumetanide, torsemide and ethacrynic acid. They are the drug of choice for pulmonary edema, and cause low potassium, metabolic alkalosis, volume depletion and ototoxicity. Thiazides act on the distal tubule: hydrochlorothiazide, chlorthalidone and, in Hess, metolazone. They are first line for mild hypertension and chronic heart failure, not for acute pulmonary edema, and cause low potassium and raised glucose. Potassium-sparing diuretics, spironolactone, eplerenone, triamterene and amiloride, protect potassium, often alongside loops, and cause high potassium.
+
+[16-011 · Osmotic diuretics and CAIs]
+The deck calls the last two classes low yield. Osmotic diuretics, such as mannitol, act on the proximal tubule and the loop. They are used for traumatic brain injury with cerebral edema and for acute renal failure, but they can worsen pulmonary edema and heart failure. Carbonic anhydrase inhibitors, such as acetazolamide, act on the proximal tubule. They are used for glaucoma, metabolic alkalosis and altitude sickness, and their key adverse effect is metabolic acidosis.
+
+[16-012 · The role of diuretics in respiratory care]
+Diuretics raise urine output to reduce extracellular fluid, which lowers blood pressure or removes excess fluid. The respiratory link is a chain: less fluid, less pulmonary edema, better oxygenation, and a lower work of breathing. In cardiogenic pulmonary edema the goal is preload reduction, and loop diuretics such as furosemide are the cornerstone. Intravenous loop diuretics cause vasodilation within five minutes, lowering the wedge pressure, blood pressure and systemic vascular resistance even before urine output rises. In ARDS, a falling wedge pressure is linked to better survival, but diuretics are not the main treatment, and in preterm chronic lung disease, routine or sustained use is not recommended. Mannitol should not be given for diuresis, because it first raises plasma volume.
+
+[16-013 · Diuretics on the ventilator]
+On the ventilator, diuretics that do not spare potassium cause potassium loss and a metabolic alkalosis. For a diuretic-induced alkalosis, stop or reduce the diuretic and give chloride and potassium. The deck's top three adverse effects of diuretics are hypovolemia, hypokalemia and metabolic alkalosis. Hess adds that diuretics mainly treat hypertension and the edema of heart failure or renal insufficiency.
+
+[16-014 · Practice: an alkalosis on the vent]
+One more. A ventilated patient on furosemide develops a metabolic alkalosis with a low potassium. What caused it, and what does the deck recommend?
+[6-second practice pause]
+
+[16-015 · Answer: the loop diuretic]
+Furosemide is a loop diuretic, and diuretics that do not spare potassium cause potassium loss and a metabolic alkalosis. The deck's treatment is to stop or reduce the diuretic and give chloride and potassium. Treat the cause.
+
+[16-016 · Recap]
+Here is the chapter in brief. The CVP catheter tip sits in the superior vena cava and reads right heart preload; level it at the phlebostatic axis and read at end-expiration without removing PEEP. The pulmonary artery catheter floats through the right heart into a wedge position, and a wedge above eighteen means cardiogenic edema, while ARDS is normal or low. Use the chapter sixteen deck normals: right atrium about two to six, wedge about six to twelve, pulmonary artery fifteen to thirty over four to twelve, cardiac output four to eight, cardiac index two point five to three point five. And for diuretics: loops for lungs, thiazides for blood pressure, potassium-sparing for potassium.

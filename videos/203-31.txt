@@ -1,0 +1,30 @@
+RCP 203 — Chapter 31: The 40-50-60 / 70-80-90 Rule
+
+[31-001 · What this chapter covers]
+This short chapter covers one rule of thumb, forty fifty sixty, seventy eighty ninety, which links a pulse oximeter reading to the arterial PaO2. It lets you estimate the PaO2 at the bedside without drawing a blood gas. We cover how to use it, why the sixty ninety pair matters most, because it marks hypoxemia and the need for oxygen, and the limits of the rule, including oximeter accuracy and carbon monoxide.
+
+[31-002 · The rule]
+PaO2 values of forty, fifty and sixty torr are about equal to saturations of seventy, eighty and ninety percent. Use it to estimate the PaO2 from a pulse oximeter reading. RCP 203 Lesson 1 adds that the rule applies when the saturation is below ninety percent, and it is approximate; the decks say about equal, or roughly correspond. For example, a saturation of eighty percent suggests a PaO2 of about fifty torr. Hess never names the rule, but describes the S-shaped oxyhemoglobin dissociation curve. At very low PO2 the curve is flat, then its slope rises rapidly, and at about seventy the curve flattens again, with saturation approaching one hundred percent. That steep middle is where the rule lives.
+
+[31-003 · Practice: estimate the PaO2]
+Pause and estimate. A patient on room air has a pulse oximeter reading of seventy percent. Using the rule, what is the approximate PaO2, and is this patient hypoxemic?
+[6-second practice pause]
+
+[31-004 · Answer: about 40 torr]
+A saturation of seventy percent suggests a PaO2 of about forty torr. That is well below sixty, so the patient is hypoxemic and needs supplemental oxygen. Remember the rule is only approximate, and it applies below ninety percent.
+
+[31-005 · Why 60/90 is the key pair]
+The top pair is the oxygen therapy threshold. Hypoxemia is a PaO2 below sixty torr, or a saturation below ninety percent, on room air, and chapter eleven says below fifty in infants. A saturation below ninety on any FiO2 means the patient needs supplemental oxygen. Weaning wants a PaO2 above sixty, or a saturation above ninety, on an FiO2 of point four zero or less. Near the eighty fifty pair, central cyanosis first appears: a saturation below eighty, a PaO2 of forty five to fifty, with normal hemoglobin. Normal saturation is above ninety three to ninety five percent on room air, and Lesson 1 gives an adult reference range of ninety five to ninety eight.
+
+[31-006 · Targets, and the rule's limits]
+Chapter eleven's oxygen targets are separate from the rule. Healthy patients aim for a PaO2 of eighty to one hundred with a saturation of ninety two percent or more. If that needs fifty percent oxygen or more, accept a PaO2 of at least fifty five to sixty with a saturation of eighty eight or more, and in chronic hypercapnia, a PaO2 of fifty five to sixty. The rule has limits. Pulse oximeters are accurate to only plus or minus two to four percent, even with good perfusion. They overestimate the saturation when carboxyhemoglobin is present, and pulse oximetry is not accurate in carbon monoxide poisoning.
+
+[31-007 · Practice: trust the oximeter?]
+One more. A smoke inhalation patient's pulse oximeter reads ninety four percent. Can you use the rule, or the reading itself, to judge this patient's oxygenation?
+[6-second practice pause]
+
+[31-008 · Answer: no, check CO-oximetry]
+No. After smoke inhalation, carboxyhemoglobin may be present, and the pulse oximeter overestimates saturation when it is. Pulse oximetry is not accurate in carbon monoxide poisoning, so neither the reading nor the rule can be trusted. And the rule only applies below ninety percent anyway. Check the saturation with CO-oximetry.
+
+[31-009 · Recap]
+Here is the chapter in brief. A PaO2 of forty, fifty and sixty roughly equals a saturation of seventy, eighty and ninety percent, and the rule applies below ninety. Sixty and ninety is the hypoxemia line and the oxygen therapy threshold. Central cyanosis appears near eighty and fifty. Normal saturation is above ninety three to ninety five on room air. And the rule is only as good as the oximeter, which is accurate to two to four percent and unreliable in carbon monoxide poisoning.

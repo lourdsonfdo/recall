@@ -1,0 +1,39 @@
+RCP 203 — Chapter 08: ETT Size by Height/Weight
+
+[08-001 · What this chapter covers]
+The study guide asks for endotracheal tube size by height and weight. The first thing to know is that adults are not sized that way at all: adults are sized by sex. Children are sized by an age formula, or by height with a length-based tape. Neonates are sized by weight, or by gestational age when the weight is not known. For each group we cover the size, the insertion depth, and the checks that confirm placement. One gap remains: no source gives an adult size by height or weight, or the Broselow tape's color values.
+
+[08-002 · Adult tube size and depth]
+Tube size is the internal diameter in millimeters, and tubes come in sizes two to ten. For this exam, use RCP 203 Lesson 6a: women seven point zero to eight point zero, and men eight point zero to nine point zero. RCP 105 and Hess give a narrower seven to seven point five for women and eight to eight point five for men. The oral depth at the teeth is nineteen to twenty one centimeters for women and twenty one to twenty three for men, but those are initial estimates, not confirmation. Hess secures the tube at twenty one for women and twenty three for men until the chest film, where the tip should sit four to six centimeters above the carina. Have at least one size larger and one size smaller ready.
+
+[08-003 · Why a bigger tube is better]
+Use a tube of size eight or larger when the patient's size allows it. An endotracheal tube raises the work of breathing by fifty four percent to two hundred forty percent, depending on the tube size and the flow, so a narrow tube costs the patient real effort. A tube that is too small is also a cause of high cuff pressure. And watch a trap. The deck sizes the laryngeal mask airway by weight and the King LT by height, but not the endotracheal tube.
+
+[08-004 · Children: the age formula]
+For children, RCP 203 gives two formulas. An uncuffed tube is the age divided by four, plus four. A cuffed tube is the age divided by four, plus three point five, half a size smaller. The deck's example is a four year old: five point zero uncuffed, four point five cuffed. Hess chapter twenty two gives the same uncuffed formula for children one to ten years old, and an insertion depth from the lips of the age plus ten centimeters. Applying those rules, the study guide works out a two year old at four point five uncuffed, four point zero cuffed, twelve centimeters deep, and an eight year old at six point zero, five point five, and eighteen centimeters.
+
+[08-005 · Children: the length-based tape, and a trap]
+For sizing by height, the Broselow tape is a color-coded, length-based tape that recommends emergency equipment, including airways. Length-based tapes are useful for children weighing thirty five kilograms or less. And one more trap. The RCP 105 Initiation of Mechanical Ventilation deck also has a formula of age divided by four, plus four, but that one estimates the normal alveolar to arterial oxygen gradient. It is not a tube size.
+
+[08-006 · Practice: size a four-year-old]
+Pause and work this out. You need a tube for a four year old. What uncuffed size, what cuffed size, and what depth from the lips?
+[6-second practice pause]
+
+[08-007 · Answer: 5.0, 4.5 and 14 cm]
+Four divided by four is one. Plus four gives five point zero for an uncuffed tube, and plus three point five gives four point five for a cuffed tube, half a size smaller. The depth from the lips is the age plus ten, so fourteen centimeters. Those two sizes are the deck's own example.
+
+[08-008 · Neonates: size by weight or gestational age]
+No deck gives a neonatal size table, so this one is from Hess chapter twenty two. Estimate the size and depth from the infant's weight, or use the gestational age if the weight is not known. Under one thousand grams, or under thirty weeks, use a two point five. One thousand to two thousand grams, or thirty to thirty five weeks, use a three point zero. Two thousand to three thousand grams, or over thirty five weeks, use a three point five. Over three thousand grams, use three point five to four. The depth from the lips is the weight in kilograms plus six centimeters, so a one kilogram infant is seven centimeters. Then confirm by listening on both sides and with a chest film.
+
+[08-009 · Cuffed or uncuffed, and cuff pressure]
+RCP 203 Lesson 6a says to use uncuffed tubes for premature infants or infants under three kilograms. Otherwise, both cuffed and uncuffed tubes are acceptable in infants and children, and cuffed tubes are now routinely used. Hess says neonatal tubes are uncuffed, because the cricoid acts as a functional cuff, and pediatric tubes are sometimes cuffed. For a child's cuff pressure, the deck says usually no more than twenty to thirty centimeters of water, and Hess says under twenty. Use the deck.
+
+[08-010 · Practice: size a neonate]
+One more. A newborn weighs two thousand five hundred grams. Using the Hess table, what tube size do you choose, and using the depth rule, how deep from the lips?
+[6-second practice pause]
+
+[08-011 · Answer: 3.5 mm at about 8.5 cm]
+Two thousand five hundred grams falls in the two thousand to three thousand gram row, so choose a three point five tube. The depth rule is the weight in kilograms plus six, so two point five plus six is eight point five centimeters from the lips. Then confirm with breath sounds on both sides and a chest film. This infant is under three kilograms, so RCP 203 says use an uncuffed tube.
+
+[08-012 · Recap]
+Here is the chapter in brief. Adults are sized by sex: seven to eight for women and eight to nine for men, with an initial depth of nineteen to twenty one or twenty one to twenty three centimeters at the teeth, confirmed on a film four to six centimeters above the carina. Use size eight or larger when you can. Children use the age divided by four plus four, uncuffed, or plus three point five, cuffed, with a depth of the age plus ten, or a length-based tape up to thirty five kilograms. Neonates are sized by weight or gestational age, with a depth of the weight plus six. Check the slides for the tables this guide could not read.

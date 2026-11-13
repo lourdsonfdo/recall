@@ -1,0 +1,42 @@
+RCP 203 — Chapter 29: APGAR Scores and Home Apnea Monitoring
+
+[29-001 · What this chapter covers]
+This chapter covers newborn assessment and apnea monitoring. We start with the Apgar score: its five signs, how to score them, and how to interpret the total. Then home apnea monitoring: who needs it, the traps about SIDS, how the monitor works, its alarm settings, and the definitions of apnea and periodic breathing. We finish with delivery room resuscitation and the difference between pre-ductal and post-ductal oxygen saturation.
+
+[29-002 · The Apgar score]
+The Apgar score assesses a newborn at one and five minutes after birth. Five signs, appearance, pulse, grimace, activity and respirations, are each scored zero to two, for a maximum of ten. Heart rate scores zero if absent, one if below one hundred, and two if above one hundred. Respiratory effort scores zero if absent, one if weak and irregular, and two for a strong cry. Color scores zero if pale or blue, one if the body is pink with blue extremities, and two if completely pink. Reflex irritability to suction scores zero for no response, one for a grimace, and two for a cry, cough or sneeze. Muscle tone scores zero if limp, one for some flexion, and two if well flexed. The deck gives the mnemonic, and the descriptors come from Hess.
+
+[29-003 · Interpreting the Apgar]
+The deck's interpretation: seven to ten is normal; four to six is moderately depressed and needs more intensive support; zero to three is severely depressed, and the baby is usually resuscitated. Never delay interventions to get the score. The Apgar does not decide whether resuscitation starts. Hess adds a ten minute score if the five minute score is below seven, and says a score still at zero after ten minutes of resuscitation means the baby is unlikely to survive. It is less useful in preterm babies, because tone, effort and reflexes depend on maturity.
+
+[29-004 · Practice: score this baby]
+Pause and score it, using Hess's case. A newborn is limp and apneic, with a heart rate of eighty five, fully cyanotic, and with no response to suction. What is the Apgar score, and how is it interpreted?
+[6-second practice pause]
+
+[29-005 · Answer: 1, severely depressed]
+Limp tone scores zero, apnea scores zero, a heart rate of eighty five, below one hundred, scores one, full cyanosis scores zero, and no response to suction scores zero. The total is one. That is severely depressed, zero to three, and the baby is usually resuscitated. The scoring is the study guide's own, from Hess's case, and remember that resuscitation never waits for the score.
+
+[29-006 · Who needs a home apnea monitor]
+The deck says apnea monitoring warns caregivers of life-threatening cardiorespiratory events, especially in neonates treated for recurrent apnea with bradycardia or desaturation. At-risk babies may go home with a prescribed monitor, as may some older children and adults with conditions affecting breathing control. Hess's indications are methylxanthine treatment at home, or bradycardia with methylxanthine use; reflux with apnea; a documented apparent life-threatening event; a risk of central apnea; and a twin or sibling with a SIDS-related death. Two traps: the American Academy of Pediatrics does not recommend home monitoring to prevent SIDS, and apnea of prematurity does not raise SIDS risk. A baby discharged on methylxanthines can stop the monitor after one to two months with no true apnea or bradycardia.
+
+[29-007 · How the monitor works]
+Two chest sensors detect breathing movement by electrical impedance. Because the monitor senses chest wall movement, not airflow, it cannot detect obstructive sleep apnea, where the chest keeps moving, and suspected obstructive apnea needs polysomnography. Always confirm the patient's status by looking. Place the sensors on the right and left chest, midway between the nipple line and the midaxillary line, where motion is greatest, and confirm the signals match the patient's heart and breathing rates. Set the heart rate alarm at eighty to two hundred ten for neonates, lower for older babies, and the apnea alarm at fifteen to twenty seconds. Caregivers learn CPR, stimulation, lead placement and alarm response. Whitaker adds that false alarms are common, often from loose or broken electrodes, and can make caregivers ignore the alarm.
+
+[29-008 · Apnea versus periodic breathing]
+RCP 203 defines apnea as a cessation of respiratory effort, and central apnea under ten seconds can be normal. Pathologic apnea lasts more than twenty seconds, or comes with cyanosis, pallor, limp tone or bradycardia, below eighty to one hundred in neonates. Periodic breathing is three or more pauses longer than three seconds, with less than twenty seconds of breathing in between, and no cyanosis or heart rate change. It can be normal. Hess describes the periodic breathing pauses as five to ten seconds, but use the deck.
+
+[29-009 · Practice: apnea or periodic breathing?]
+Pause and decide. An infant has four pauses of about five seconds each, with ten seconds of breathing between them, and no color or heart rate change. Another infant has a single fifteen second pause with a heart rate of seventy. Which is pathologic?
+[6-second practice pause]
+
+[29-010 · Answer: the bradycardic one]
+Infant A has periodic breathing: three or more pauses longer than three seconds, less than twenty seconds of breathing between, and no cyanosis or heart rate change. It can be normal. Infant B's pause is only fifteen seconds, but it comes with bradycardia, below eighty to one hundred, so it counts as pathologic apnea.
+
+[29-011 · Resuscitation in the delivery room]
+The chapter fifteen deck lays out the steps. A baby who is flaccid, cyanotic or apneic usually needs stimulation and supplemental oxygen. A preterm baby under thirty five weeks starts on low oxygen, twenty one to thirty percent, titrated to the pre-ductal saturation targets. If color, heart rate and breathing are not restored within thirty seconds after birth, give positive pressure ventilation by face mask. Positive pressure ventilation is the most effective intervention in neonatal resuscitation, by flow-inflating bag, self-inflating bag or T-piece resuscitator, with a PEEP of five or less. A heart rate below sixty always requires CPR in a neonate. If there is still no response, give epinephrine, and consider intubation and mechanical ventilation.
+
+[29-012 · Pre-ductal versus post-ductal saturation]
+Pre-ductal saturation is measured on the right hand or wrist, from aortic blood before the ductus arteriosus. Post-ductal is measured on a lower extremity, usually the left foot, from blood that may have mixed with deoxygenated blood shunted right to left through a patent ductus. With the ductus closed, there should be little difference. A lower post-ductal reading points to right to left shunting, as in persistent pulmonary hypertension or some heart defects. The notes give two cutoffs: more than three to five percent lower post-ductal may need further evaluation, and a difference of ten percent or more suggests marked pulmonary hypertension. Healthy newborns generally reach ninety five to one hundred percent on both within a few hours, and usually do not reach ninety percent in the first five minutes.
+
+[29-013 · Recap]
+Here is the chapter in brief. The Apgar scores five signs from zero to two at one and five minutes; seven to ten is normal, four to six moderate, zero to three severe, and resuscitation never waits for it. Home apnea monitors are for babies on methylxanthines, reflux with apnea, a life-threatening event, or central apnea risk, not to prevent SIDS. They sense chest movement by impedance, so they miss obstructive apnea; set heart rate alarms at eighty to two hundred ten and apnea at fifteen to twenty seconds. Pathologic apnea is over twenty seconds or comes with bradycardia; periodic breathing can be normal. In the delivery room, give mask ventilation if the baby is not better in thirty seconds, and CPR below a heart rate of sixty. A post-ductal saturation well below pre-ductal means right to left shunting.

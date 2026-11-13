@@ -1,0 +1,39 @@
+RCP 203 — Chapter 25: Intrapulmonary Percussive Ventilation (IPV) for CF
+
+[25-001 · What this chapter covers]
+This chapter covers intrapulmonary percussive ventilation, IPV, and its use in cystic fibrosis. We start with what it is, how it works, and why the deck says it replaced IPPB. Then the devices and their frequencies, including MetaNeb. We finish with the indications and contraindications, how cystic fibrosis care fits in, and the gaps the study guide could not fill.
+
+[25-002 · What IPV is]
+IPV delivers rapid, short bursts of pressurized air combined with an aerosolized medication. It mobilizes mucus, opens airways and improves lung expansion. Its key advantage over IPPB is that it combines airway clearance and lung expansion in one therapy, and the deck says IPPB has been replaced by IPV. The pharmacology deck files it under oscillatory PEP, with the Percussionator and devices such as MetaNeb and Volara, delivering high-flow mini-bursts at more than two hundred cycles per minute. The Percussionaire IPV is a pneumatic, gas-powered device.
+
+[25-003 · How it works, and the rate]
+Hess explains the mechanics. IPV injects short, rapid inspiratory flow pulses at the airway opening, and exhalation is passive, from chest wall recoil. The patient keeps breathing spontaneously during the oscillations. On the rate, the sources differ. The deck and the Hess glossary say more than two hundred cycles per minute, while the Hess chapter sixteen text gives three hundred to four hundred pulses per minute. On the exam, use more than two hundred cycles per minute.
+
+[25-004 · The devices]
+No deck gives IPV settings, so these come from Hess chapter sixteen. The Percussionator runs at one point seven to five hertz, with a treatment of about fifteen to twenty minutes by mouthpiece or mask. The Breas IMP2 runs at about one to six hertz and can deliver an aerosol. The PercussiveNeb runs at eleven to thirty hertz; it is single-patient use and cannot be used with a ventilator. MetaNeb combines an aerosol, continuous positive expiratory pressure and oscillation, in a typical ten minute session alternating its two modes.
+
+[25-005 · MetaNeb, and a gap]
+The decks add detail on MetaNeb. It combines continuous positive expiratory pressure, oscillating positive expiratory pressure and nebulization, by mouthpiece, mask or ventilator circuit, and it switches between a lung expansion mode and a secretion clearance mode. RCP 203 Lesson 6b names those modes CPEP for lung expansion and CHFO for secretion clearance, with a session of about ten minutes alternating them, and it can be used in line with a ventilator. One gap remains: no deck and not Hess gives IPV pressure settings, or how many treatments a day.
+
+[25-006 · Practice: which device?]
+Pause and decide. A patient on a ventilator needs percussive airway clearance with aerosol. Which device from the Hess list cannot be used here, and which device do the decks say can run in line with a ventilator?
+[6-second practice pause]
+
+[25-007 · Answer: not the PercussiveNeb]
+The PercussiveNeb cannot be used with a ventilator; it is a single-patient device at eleven to thirty hertz. MetaNeb is the one the decks say can be used in line with a ventilator, alternating its lung expansion and secretion clearance modes in about ten minutes, with an aerosol.
+
+[25-008 · Indications and contraindications]
+The deck's indications for IPV are atelectasis, thick secretions and poor airway clearance, as in cystic fibrosis or COPD, and conditions that need lung expansion or pneumonia prevention. Its contraindications are an untreated pneumothorax, active hemoptysis, recent facial, oral or cranial surgery, an unstable cardiovascular status such as hypotension or arrhythmias, and an elevated intracranial pressure. Hess's guideline adds that IPV cannot be recommended in neuromuscular disease, because the evidence is insufficient.
+
+[25-009 · IPV in cystic fibrosis]
+Hess says the Cystic Fibrosis Foundation recommends regular airway clearance therapy for all patients with cystic fibrosis, but no one therapy has proven superior. Individualize it by age, patient preference and side effects, and use it more often when the patient is acutely ill. Hess's cystic fibrosis table also lists dornase alfa, which breaks down DNA in secretions, and hypertonic saline. The pharmacology deck lists cystic fibrosis first among the conditions where MetaNeb is commonly used. RCP 203 adds that the vest is used mainly for cystic fibrosis and bronchiectasis, and that these patients are generally no longer placed head-down for postural drainage, because of reflux. One gap remains: no source gives a cystic fibrosis specific IPV recommendation, setting or schedule.
+
+[25-010 · Practice: is IPV safe here?]
+One more. A patient with cystic fibrosis and thick secretions is due for IPV, but has active hemoptysis today. Is IPV indicated, and is there anything that stops you?
+[6-second practice pause]
+
+[25-011 · Answer: hold it for the hemoptysis]
+Cystic fibrosis with thick secretions is an indication. But active hemoptysis is on the deck's contraindication list, so IPV should not be given today. The same goes for an untreated pneumothorax, recent facial, oral or cranial surgery, cardiovascular instability, or raised intracranial pressure.
+
+[25-012 · Recap]
+Here is the chapter in brief. IPV delivers rapid bursts of air with an aerosol, clearing mucus and expanding the lungs in one therapy, and it replaced IPPB. Exhalation is passive, and the exam rate is more than two hundred cycles per minute. The Percussionator runs at one point seven to five hertz, the PercussiveNeb at eleven to thirty and never on a ventilator, and MetaNeb alternates expansion and clearance in about ten minutes and can run in line. Use IPV for atelectasis and thick secretions, as in cystic fibrosis, but not with an untreated pneumothorax, active hemoptysis, recent facial surgery, instability or high intracranial pressure.

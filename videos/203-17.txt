@@ -1,0 +1,36 @@
+RCP 203 — Chapter 17: C(a-v)O₂
+
+[17-001 · What this chapter covers]
+This chapter is about the arterial to mixed venous oxygen content difference, written C a minus v O2. It is the difference between the oxygen in arterial blood and the oxygen left in mixed venous blood, so it reflects how much oxygen the tissues used. We calculate both contents with Hess's worked example, connect the difference to the Fick equation, and then cover what widens or narrows it, and the diseases where the decks say it stays normal.
+
+[17-002 · Arterial oxygen content]
+Arterial oxygen content is one point three four, times the hemoglobin, times the arterial saturation, plus point zero zero three times the PaO2. The answer is in milliliters of oxygen per one hundred milliliters of blood. RCP 203 Lesson 7 gives a normal range of sixteen to twenty two, and prints the dissolved factor as point zero zero three one. That is the same quantity; use point zero zero three in arithmetic, as Lesson 3a and Hess do. Hess's resting example uses a hemoglobin of fifteen, a saturation of ninety seven percent and a PaO2 of one hundred. Fifteen times one point three four times point nine seven is nineteen point five. One hundred times point zero zero three is point three. Together that is about twenty.
+
+[17-003 · Mixed venous content and the difference]
+Mixed venous oxygen content uses the same formula with venous values, from a mixed venous sample drawn from the pulmonary artery. In Hess's example, the hemoglobin is fifteen, the venous saturation seventy five percent, and the venous PO2 forty. Fifteen times one point three four times point seven five is fifteen point zero eight. Forty times point zero zero three is point one two. Together that is about fifteen. The difference is twenty minus fifteen, or five milliliters per one hundred milliliters, about four point six before rounding. That subtraction is the study guide's own, from Hess's numbers, and five matches Hess's normal value. One printing note: Hess's text shows the dissolved part as point zero three, but one hundred times point zero zero three is point three, and Hess's own total uses point three.
+
+[17-004 · The difference feeds the Fick equation]
+The content difference feeds the Fick equation. Oxygen consumption equals the content difference times the cardiac output. With a difference of five milliliters per one hundred milliliters, which is fifty milliliters per liter, and a cardiac output of five liters per minute, the consumption is about two hundred fifty milliliters of oxygen per minute. At rest, the tissues extract about twenty five percent of the oxygen delivered.
+
+[17-005 · Practice: calculate the difference]
+Pause and work it out with Hess's numbers. The hemoglobin is fifteen. Arterial saturation is ninety seven percent with a PaO2 of one hundred. Mixed venous saturation is seventy five percent with a venous PO2 of forty. What is each content, and what is the difference?
+[6-second practice pause]
+
+[17-006 · Answer: about 20 minus 15, or 5]
+Arterial content is fifteen times one point three four times point nine seven, nineteen point five, plus one hundred times point zero zero three, point three, for about twenty. Venous content is fifteen times one point three four times point seven five, fifteen point zero eight, plus forty times point zero zero three, point one two, for about fifteen. The difference is about five milliliters per one hundred milliliters, Hess's normal value.
+
+[17-007 · What widens or narrows it]
+Hess says oxygen extraction rises, so mixed venous content falls, with exercise, congestive heart failure and severe anemia. Extraction falls, so venous content rises, when cardiac output rises greatly, as in sepsis. Hess does not state the effect on the content difference itself, but since the difference is arterial minus venous content, a lower venous content at an unchanged arterial content widens it. That step is the study guide's inference. A venous PO2 below thirty five in a critically ill patient suggests increased extraction and tissue hypoxia. Hess gives normal mixed venous values of thirty five to forty five for the PO2 and sixty five to seventy five percent for saturation. The RCP 105 deck gives seventy five percent, with a range of sixty eight to seventy seven, so use the deck.
+
+[17-008 · The disease-deck trap]
+The RCP 103 disease decks add one finding and one trap. In a large pleural effusion, the content difference increases, because the tissues extract more. But in ARDS, interstitial lung disease, lung cancer, pulmonary embolism and severe obstructive sleep apnea, the decks say the content difference stays normal, even where the oxygen extraction ratio rises. The trap is to call it widened in those diseases. Don't.
+
+[17-009 · Practice: widened or normal?]
+One more. A patient has ARDS, and the oxygen extraction ratio has risen. According to the RCP 103 deck, what happens to the arterial to mixed venous content difference? And in which pleural condition do the decks say it increases?
+[6-second practice pause]
+
+[17-010 · Answer: normal in ARDS]
+In ARDS, the deck says the content difference stays normal, even though the extraction ratio rises. Calling it widened is exactly the trap. The pleural condition where the decks say it increases is a large pleural effusion, because the tissues extract more oxygen.
+
+[17-011 · Recap]
+Here is the chapter in brief. Oxygen content is one point three four times hemoglobin times saturation, plus point zero zero three times the PO2. Arterial content is normally sixteen to twenty two, Hess's example gives about twenty for arterial and fifteen for mixed venous, and the difference is about five milliliters per one hundred milliliters. That difference times the cardiac output gives the oxygen consumption, about two hundred fifty milliliters a minute. Extraction rises with exercise, heart failure and severe anemia, and falls with sepsis. A large effusion increases the difference, but in ARDS, ILD, lung cancer, embolism and severe sleep apnea it stays normal.

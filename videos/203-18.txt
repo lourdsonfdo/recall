@@ -1,0 +1,45 @@
+RCP 203 — Chapter 18: Partial Rebreathing Mask, Nonrebreathing Mask, Aerosol Mask, Air-Entrainment Mask
+
+[18-001 · What this chapter covers]
+This chapter compares four oxygen masks: the partial rebreathing mask, the nonrebreathing mask, the aerosol mask and the air-entrainment, or Venturi, mask. We start with the deck's dividing line, low-flow versus high-flow. Then the one difference between the two reservoir masks, the valves. We finish with how an air-entrainment device sets its FiO2 and total flow, how to calculate that flow, and what it means when the mist disappears from an aerosol mask.
+
+[18-002 · Low-flow versus high-flow]
+The deck's teaching line: a low-flow device gives a variable FiO2, which depends on the patient's breathing. A high-flow device gives a fixed FiO2, because its flow meets or exceeds the patient's inspiratory flow. The deck lists the partial rebreathing and nonrebreathing masks as low-flow, and the Venturi mask and the air-entrainment nebulizer as high-flow. No deck slide gives FiO2 or flow numbers for the reservoir masks or the aerosol mask, so those numbers come from Hess chapter fourteen.
+
+[18-003 · The reservoir masks: numbers]
+The partial rebreathing mask delivers an FiO2 of point four zero to point seven zero at eight to fifteen liters per minute, through a three hundred to six hundred milliliter bag with no valves. Keep the bag at least partly inflated. The nonrebreathing mask uses the same bag plus one-way valves, between the bag and mask and on the exhalation port, at ten to fifteen liters per minute, often more than twelve. Hess's text gives an FiO2 of point six to point eight, while its recap says point six zero to point nine zero. Use point six to point eight, which Hess's own table says is the real range, because the mask does not seal. Don't let the nonrebreather's bag empty by more than half.
+
+[18-004 · The aerosol and Venturi masks: numbers]
+The aerosol mask runs on a large-volume nebulizer, typically with fifteen liters per minute of input. The deck calls it high-flow, but Hess says it is high-flow only at an FiO2 of point four or less. Its collar spans about point three to one point zero. It has no bag; it is an open system on twenty two millimeter corrugated tubing with visible aerosol, and the mist must not disappear on inspiration. The air-entrainment, or Venturi, mask delivers a precise FiO2 set by its jet or port, but its flow becomes limited above point four. The minimum jet flow is printed on the device. Keep the ports uncovered, and aim for a total flow of at least forty liters per minute.
+
+[18-005 · The valve difference]
+Both reservoir masks are a simple mask with a three hundred to six hundred milliliter reservoir bag. The partial rebreathing mask has no valves, so the patient breathes a mix of source oxygen, bag oxygen and some room air through the side ports. The nonrebreathing mask adds one-way valves, between the bag and the mask, and on at least one exhalation port. On inspiration, the exhalation valves close and the bag valve opens, so the patient draws three hundred to five hundred milliliters of oxygen from the bag. Removing the valves turns a nonrebreather into a partial rebreather.
+
+[18-006 · Nonrebreather: flow, safety and uses]
+Set the flow high enough that the bag never collapses, and for a nonrebreather, so it does not empty by more than half. Safety matters here: if the valves stick or the oxygen fails, the patient can suffocate, so some masks have a spring-loaded anti-suffocation valve. Hess uses the nonrebreather for patients who need a high FiO2 with a fairly normal breathing pattern, such as trauma, myocardial infarction and carbon monoxide exposure. The RCP 105 airway deck uses it to preoxygenate before intubation.
+
+[18-007 · Practice: the missing valves]
+Pause here. A nonrebreathing mask arrives with its one-way valves missing. What kind of mask is it now, what does the patient breathe, and why do some masks carry a spring-loaded valve?
+[6-second practice pause]
+
+[18-008 · Answer: a partial rebreather]
+Without its valves, it is a partial rebreathing mask. The patient breathes a mix of source oxygen, bag oxygen and some room air through the side ports, so the FiO2 is lower, about point four to point seven. The spring-loaded anti-suffocation valve is there because, on a true nonrebreather, stuck valves or an oxygen failure could leave the patient unable to breathe.
+
+[18-009 · How air entrainment sets the FiO2]
+An air-entrainment mask has a jet nozzle that speeds up one hundred percent oxygen, which pulls room air in through side ports. The deck's rules follow from that. Bigger ports or smaller jets bring in more air, so the FiO2 falls and the total flow rises. Smaller ports or bigger jets give a higher FiO2 and a lower flow. Blocking the ports, with hands or sheets, raises the FiO2 and lowers the total flow. And changing the oxygen flow in liters per minute does not change the FiO2, only the total flow.
+
+[18-010 · Total flow from the ratio]
+Total flow is the air parts plus the oxygen parts, times the oxygen flow. Forty percent is a ratio of three to one, so at ten liters per minute of oxygen, four times ten is forty liters per minute. The same patient on five liters per minute gets four times five, only twenty. Sixty percent is a ratio of one to one, so two times ten is twenty liters per minute. Aim for at least forty liters per minute.
+
+[18-011 · Practice: total flow at 60%]
+Pause and calculate. A patient is on a sixty percent air-entrainment setting with ten liters per minute of oxygen. What is the total flow, and does it meet the deck's target?
+[6-second practice pause]
+
+[18-012 · Answer: 20 L/min, too low]
+Sixty percent is a one to one ratio, two parts in all. Two times ten is twenty liters per minute, which is below the deck's target of at least forty. Hess notes the same limit: above an FiO2 of point four, the flow of entrainment devices becomes limited.
+
+[18-013 · The aerosol mask: watch the mist]
+The aerosol mask gets its gas from an air-entrainment large-volume nebulizer, which follows the same rules. If the mist disappears from the mask during inspiration, room air is diluting the gas. The high-flow system has become a low-flow system with a variable FiO2. Hess adds that the nebulizer counts as high-flow only at an FiO2 of point four or less. At point six, its total flow is only thirty liters per minute from fifteen liters per minute of input.
+
+[18-014 · Recap]
+Here is the chapter in brief. Low-flow devices give a variable FiO2; high-flow devices meet the patient's inspiratory flow and fix it. The partial rebreather has no valves and gives point four to point seven. The nonrebreather adds one-way valves and gives about point six to point eight, and its bag must never empty more than half. An air-entrainment mask sets the FiO2 by its jet and ports; more entrained air means a lower FiO2 and a higher flow, and changing the oxygen liters changes only the flow. Total flow is the sum of the ratio parts times the oxygen flow, aiming for forty or more. And if the aerosol mist disappears on inspiration, the system has become low-flow.

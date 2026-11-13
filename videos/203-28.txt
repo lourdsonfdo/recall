@@ -1,0 +1,39 @@
+RCP 203 — Chapter 28: Transcutaneous Monitoring
+
+[28-001 · What this chapter covers]
+This chapter covers transcutaneous monitoring, continuous noninvasive estimates of arterial oxygen and carbon dioxide from a sensor on the skin. We start with how the sensor works and how to place it, step by step, including the heart defect screen that uses two sensors. Then troubleshooting: air leaks, the conditions that make the oxygen reading too low, when not to use it, and how to check its accuracy against a blood gas.
+
+[28-002 · How it works, and placing the sensor]
+A heated sensor arterializes the blood under the skin by dilating the capillary bed, and oxygen and carbon dioxide diffuse through the skin into the sensor's contact gel. RCP 203 gives the steps in order. Membrane the sensor and calibrate it per the manufacturer. Set the temperature, usually forty four degrees Celsius for both gases, or as low as thirty seven if you are monitoring carbon dioxide only. Choose a site with good superficial circulation, the side of the chest, the abdomen or the inner thigh, and clean it with alcohol. Put the adhesive fixation ring on the sensor, and contact gel on the sensor face and inside the ring, avoiding air bubbles. Seal the edges with the sensor flat, and allow five to twenty minutes to stabilize.
+
+[28-003 · Alarms, site changes and the CCHD screen]
+Set high and low alarms for both gases, which vary by patient and protocol; the high oxygen alarm for infants is typically eighty torr. Change the site every two to six hours, depending on the sensor temperature, the infant's size and the manufacturer, to avoid burns and skin damage. Chang says every four hours, at forty four degrees, or forty to forty two in neonates, and Hess says as often as necessary, but use the RCP 203 forty four degrees and two to six hours. For a critical congenital heart disease screen, use two sensors: the right upper chest, which is pre-ductal, and the lower abdomen or thigh, which is post-ductal. A heart defect may be present if the pre-ductal oxygen reads at least fifteen torr higher.
+
+[28-004 · Newer sensors: Heuer and Hess]
+The decks say only to calibrate per the manufacturer, and the books describe different sensor designs. Heuer says newer sensors need less frequent changing and calibration, twice daily, with the membrane replaced at least every two weeks. They run at forty two degrees, and can arterialize capillary blood in as little as three minutes. Hess describes a combined earlobe sensor, which is removed after eight hours, recalibrated, and fixed on the other earlobe.
+
+[28-005 · The most common problem: an air leak]
+The most common problem is air leaking around the adhesive ring. An air leak always causes a dramatic fall in the carbon dioxide reading, and a large leak makes the values look like room air, an oxygen of about one hundred fifty torr and a carbon dioxide of about zero. The fix is to reapply the sensor with a new adhesive ring. Calibration is two-point, with precision gas mixtures, and a failure to calibrate usually means a leaking membrane or too much air trapped under it.
+
+[28-006 · When the oxygen reading is too low]
+Several conditions make the transcutaneous oxygen underestimate the arterial value. Poor perfusion or vasoconstriction, from low cardiac output, shock or dehydration, is one, and Chang and Hess add that the carbon dioxide reads higher than arterial in low perfusion. The RCP 203 deck says the carbon dioxide closely approximates the arterial value under most conditions. An arterial PO2 above one hundred torr also makes the reading underestimate. So do thicker skin, in children and adults, an underheated sensor, a bony surface, and too much pressure or gel. Chang adds that skin edema and hypothermia affect accuracy, and a high probe temperature makes the carbon dioxide read higher. Chang says accuracy falls above eighty, but use the deck's one hundred torr.
+
+[28-007 · When not to use it, and checking accuracy]
+Do not use transcutaneous monitoring in shock or poor peripheral circulation, with poor skin integrity or an adhesive allergy, or in emergencies, because setup takes five to twenty minutes. Hess adds thick or swollen skin. To check accuracy, correlate the transcutaneous oxygen with an arterial or capillary sample after setup or a site change, as Chang describes. Hess's guideline compares blood gas values with the transcutaneous readings taken at the time of sampling, and then periodically. If the arterial PO2 is substantially higher than the transcutaneous value, poor peripheral circulation is the likely cause.
+
+[28-008 · Practice: a sudden change]
+Pause and work it out. A transcutaneous monitor suddenly reads an oxygen of about one hundred fifty torr and a carbon dioxide near zero, while the patient looks unchanged. What is the most likely problem, and what do you do?
+[6-second practice pause]
+
+[28-009 · Answer: an air leak]
+These values mimic room air, so the most likely problem is a large air leak around the adhesive ring. Air leaks always cause a dramatic fall in the carbon dioxide reading. Reapply the sensor with a new adhesive ring, check that the edges are sealed and there are no air bubbles, and allow it to stabilize again.
+
+[28-010 · Practice: the CCHD screen]
+One more. In a newborn heart defect screen, the right upper chest sensor reads an oxygen of seventy torr, and the lower abdomen sensor reads fifty two. Where is each sensor relative to the ductus, and could a critical heart defect be present?
+[6-second practice pause]
+
+[28-011 · Answer: possibly; 18 torr apart]
+The right upper chest is pre-ductal, and the lower abdomen is post-ductal. The pre-ductal reading is eighteen torr higher, which is at least fifteen torr, so a critical congenital heart defect may be present, and it needs further evaluation.
+
+[28-012 · Recap]
+Here is the chapter in brief. A heated sensor arterializes the skin, and the gases diffuse into it. Calibrate, heat to forty four degrees, choose the chest, abdomen or inner thigh, seal the ring without bubbles, allow five to twenty minutes, and move the site every two to six hours. For a heart defect screen, a pre-ductal reading fifteen torr or more above post-ductal is a warning. The most common problem is an air leak, which drops the carbon dioxide and can mimic room air. Poor perfusion, a PaO2 above one hundred, thick skin or underheating make the oxygen read low. Avoid it in shock and emergencies, and confirm it against a blood gas.

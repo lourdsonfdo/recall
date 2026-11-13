@@ -1,0 +1,54 @@
+RCP 203 — Chapter 06: Volume, Flow and Pressure Measuring Devices; Spirometer Calibration
+
+[06-001 · What this chapter covers]
+This chapter covers the bedside measuring devices and how we prove they are accurate. First the volume devices: the vane respirometer, what it measures and where it errs, and the Wright respirometer at the bedside. Then flow, with the peak flowmeter, and pressure, with the manometer for negative inspiratory force and cuff pressure. Then the capnometer, mainstream versus sidestream, and its calibration. We finish with quality control: calibrating a spirometer with the three liter syringe, and reading the plus or minus two standard deviation limits on a Levey-Jennings chart.
+
+[06-002 · The vane respirometer and its errors]
+A mechanical vane respirometer, the Wright or Haloscale, measures gas volume. Gas spins a rotating vane, and gears turn the rotations into movement of hands on a watch-like dial. The on off switch locks and unlocks the gears, and reset returns the hands to zero. Readings are one directional, always inlet to outlet. It is accurate within two percent of its recommended flow range. Like any turbine, it overreads at high flows, because the vane keeps spinning from momentum, and underreads at low flows, because there is too little force to overcome friction. Hess adds that the Wright is not linear at low flows. The NBRC takeaway: flows outside its range easily damage it, so never use it for forced flows or volumes.
+
+[06-003 · The Wright respirometer at the bedside]
+The Wright respirometer is the bedside device for measuring tidal volume, rate and minute ventilation in spontaneously breathing patients, and it can also measure a slow vital capacity in neuromuscular disease. A one-way breathing valve separates inspired and expired gas, and a HEPA filter protects the patient and the device. Normally you measure exhaled volume, so attach it to the exhalation side of the valve. Switch it on while the patient inhales, have the patient do the maneuver, timed for a minute volume, and switch it off when done. Off freezes the reading, so do not reset to zero before reading it. If it will not register, recheck the switch and its position relative to the valve. If it is contaminated, gas sterilize and aerate it.
+
+[06-004 · Practice: tidal volume from a minute volume]
+Pause and calculate. Over one minute, the Wright respirometer measures an exhaled volume of eight liters, and you count sixteen breaths. What is the average tidal volume?
+[6-second practice pause]
+
+[06-005 · Answer: 500 mL]
+Tidal volume is the minute ventilation divided by the rate. Eight liters per minute divided by sixteen breaths per minute is point five liters, which is five hundred milliliters. That is the deck's own example. Measure the exhaled volume over a full minute, count the breaths over the same minute, then divide.
+
+[06-006 · The peak flowmeter]
+A peak flowmeter measures the peak expiratory flow rate, the maximum flow on a forced expiration, in liters per second or per minute. It reflects the larger airways. Because it is highly effort dependent, it is not used for diagnosis. It is a monitoring tool: to check a bronchodilator's effect before and after, to assess asthma severity, to catch early changes in asthma control, and, Hess adds, for home monitoring of asthma. The deck notes give normals of four hundred fifty to five hundred fifty liters per minute for men and three hundred twenty to four hundred seventy for women. Percent predicted is actual divided by predicted, times one hundred, and below eighty percent means expiratory flow obstruction. Seven divided by ten liters per second is seventy percent. Always consider poor effort or technique when a reading is well below normal.
+
+[06-007 · Peak flow zones]
+Asthma action plans sort peak flow into zones based on the patient's personal best. The RCP 103 deck uses green at eighty to one hundred percent, yellow at fifty to eighty percent, and red below fifty percent. Hess, following the national asthma guidelines, gives green above eighty and yellow at fifty to seventy nine. Use the deck. Hess defines the personal best as the highest of three successive readings taken when the patient has no symptoms, and advises using the same device routinely.
+
+[06-008 · The manometer: NIF and MEP]
+A manometer measures pressure. Hess bases it on Pascal's law: pressure is transmitted without reduction through an enclosed, static fluid. For negative inspiratory force, the manometer sits on a one-way valve that allows exhalation but not inspiration, and flipping the valve measures maximum expiratory pressure. These measure inspiratory and expiratory muscle strength, and only in an alert, cooperative patient. The deck's normal negative inspiratory force is more negative than minus sixty centimeters of water, minus forty in COPD, and minus twenty in myasthenia gravis. The more negative the number, the stronger the muscles. The weaning deck measures the negative pressure generated in twenty seconds against an occluded device.
+
+[06-009 · The manometer: cuff pressure]
+To check cuff pressure, use a calibrated manometer, a three-way stopcock, and a ten or twenty milliliter syringe. The goal is twenty to thirty centimeters of water. Here is the catch: attaching the manometer lets some volume out of the cuff and lowers its pressure. So always adjust the pressure back to the goal, never just measure it and walk away. The manometer has one more bedside use. During manual ventilation of children and infants, monitor the airway pressure with a manometer.
+
+[06-010 · The capnometer: terms and setup]
+A capnometer measures exhaled carbon dioxide breath to breath. Capnometry is the number, capnography is the number plus the waveform, and the capnogram is the waveform itself. Most devices measure carbon dioxide by infrared absorption. Use a calibrated device and confirm that the inspiratory baseline reads zero. End-tidal carbon dioxide normally runs one to five torr below the PaCO2, and more than that with high dead space.
+
+[06-011 · Mainstream versus sidestream; calibration]
+A mainstream sensor sits at the airway and is used mainly in intubated patients. It is heated, so allow it to warm up, and because it is placed distal to the airway it can cause rebreathing error. On a patient who is not intubated, using a mask or mouthpiece, it needs supplemental oxygen at six liters per minute to prevent rebreathing from the added dead space. A sidestream unit is most useful for patients who are not intubated. Its main problem is condensate blocking the sampling tube, and its slower response alters the waveform. One slide's answer text says vented patients, but its own notes and another slide say non-intubated. For calibration, the high point is five percent carbon dioxide, a PCO2 of thirty eight torr, with a standard of plus or minus point three percent. Auto-zero corrects offset only, not gain.
+
+[06-012 · The 3-L syringe: when and why]
+Volume calibration of pulmonary function equipment needs a three liter calibration syringe. You inject a known volume and confirm that the spirometer reads it. Do it daily, before patient testing, after the daily leak check on volume spirometers. The leak check pressurizes the system to three centimeters of water for one minute, and an acceptable leak is less than ten milliliters. The American Thoracic Society's volume accuracy is plus or minus three percent or fifty milliliters, whichever is larger, so for three liters the reading must fall between two point nine one and three point zero nine liters. For flow, inject the three liters at half a second, at six seconds and in between, and each must read within one hundred milliliters. And BTPS correction must be off, or the reading is about ten percent high.
+
+[06-013 · Practice: a low calibration reading]
+Try this one. During the daily calibration, you inject three liters with the calibration syringe, and the spirometer reads two point eight five liters. Is that acceptable, what should you suspect, and can you start testing patients?
+[6-second practice pause]
+
+[06-014 · Answer: too low, think leak]
+No. The acceptable range for a three liter injection is two point nine one to three point zero nine, so two point eight five is too low. A low reading means think leak, and repeat the leak check. A high reading would point instead to setup or correction: recheck the zeroing, make sure BTPS is off, and make sure the syringe and spirometer are the same temperature. Either way, no patient testing until the cause is found and a repeat calibration is accurate, and record the results on the daily QC log. One conflict: Hess Box eight dash four allows plus or minus three point five percent, two point nine zero to three point one zero. Use the deck's three percent. Hess also says to check the syringe itself at least quarterly.
+
+[06-015 · QC limits: the ±2 SD rules]
+Quality control results are plotted on a Levey-Jennings chart against the mean and the standard deviation, with bounding limits of plus or minus two standard deviations. If all controls fall within two standard deviations, the analyzer is in control and ready for patients. Outside two standard deviations is analytical error. RCP 103 calls one control out a warning, and two or more consecutive controls out means out of control: recalibrate or replace the electrode. A single random error, one point out with later points back to normal, is judged by the lab's QC rules and does not necessarily mean a persistent problem. If a repeat QC is acceptable, patient testing may continue. If the problem persists, stop and troubleshoot.
+
+[06-016 · Random versus systematic error]
+Systematic errors, also called bias, are more serious than random ones. With bias, or with recurrent random errors, run no patient samples until the problem is corrected. When the analyzer is out of control, identify the problem, correct it, and confirm that it is back in control before reporting any patient results. Hess adds that pulmonary function labs use the same logic for their biological controls on the body box and the DLCO. Those are tracked on a Levey-Jennings plot, and a result outside two standard deviations of the mean calls for corrective action.
+
+[06-017 · Recap]
+Here is what to remember. The vane respirometer measures volume in one direction, overreads high flows, underreads low flows, and is never used for forced maneuvers. On the Wright, tidal volume is the minute volume divided by the rate. Peak flow is a monitoring tool, with zones at eighty and fifty percent of personal best. Attaching a cuff manometer lowers the pressure, so always adjust to twenty to thirty. Mainstream capnometers suit intubated patients, sidestream suit the rest. The three liter syringe must read two point nine one to three point zero nine, low means leak, and stay within two standard deviations on the QC chart.

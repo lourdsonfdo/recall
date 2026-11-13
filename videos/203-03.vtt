@@ -1,0 +1,457 @@
+WEBVTT
+
+1
+00:00:00.500 --> 00:00:05.295
+This chapter turns a blood gas into a ventilator change.
+
+2
+00:00:05.295 --> 00:00:10.946
+We start with the decision table: which setting fixes which value.
+
+3
+00:00:10.946 --> 00:00:24.560
+Then we calculate a new rate for a target PaCO2, and look at the cases where the blood gas seems to ask for a change but you should leave the ventilator alone.
+
+4
+00:00:24.560 --> 00:00:35.263
+Next come the oxygenation targets, the choice between FiO2 and PEEP, and the sixty sixty rule that makes that choice for you.
+
+5
+00:00:35.263 --> 00:00:39.458
+We finish with adjusting BiPAP after a blood gas.
+
+6
+00:00:39.458 --> 00:00:50.675
+Keep one sentence from the RCP 105 deck in mind the whole way: rate controls carbon dioxide, and FiO2 and PEEP control oxygenation.
+
+7
+00:00:52.100 --> 00:01:00.865
+RCP 203's rule is to normalize the pH by adjusting the minute ventilation, which changes the PaCO2.
+
+8
+00:01:00.865 --> 00:01:12.198
+The goal pH is seven point three five to seven point four five, but you may allow seven point two five to seven point five zero.
+
+9
+00:01:12.198 --> 00:01:26.984
+For a high PaCO2 with a low pH, a respiratory acidosis, raise the set rate first, keeping it between twelve and twenty four, or up to thirty five in acute lung injury.
+
+10
+00:01:26.984 --> 00:01:42.655
+If rate alone fails, raise the tidal volume, keeping it four to eight milliliters per kilogram of predicted body weight with a plateau pressure of thirty to thirty five or less.
+
+11
+00:01:42.655 --> 00:01:50.977
+In pressure control, tidal volume changes with the driving pressure, peak pressure minus PEEP.
+
+12
+00:01:50.977 --> 00:01:59.300
+For a low PaCO2, lower the rate or the tidal volume, but only if the cause is overventilation.
+
+13
+00:02:00.733 --> 00:02:04.200
+Oxygen has its own row in the table.
+
+14
+00:02:04.200 --> 00:02:16.624
+A low PaO2 with a near normal PaCO2 is a ventilation perfusion mismatch, so raise the FiO2, the most common way to regulate PaO2.
+
+15
+00:02:16.624 --> 00:02:24.521
+A low PaO2 with a high PaCO2 is hypoventilation, so improve the ventilation first.
+
+16
+00:02:24.521 --> 00:02:33.767
+Refractory hypoxemia, with a P over F ratio below two hundred, calls for adding or raising PEEP.
+
+17
+00:02:33.767 --> 00:02:39.064
+As the oxygen need rises, raise FiO2 and PEEP together.
+
+18
+00:02:39.064 --> 00:02:54.570
+The ARDS Network example pairs thirty percent oxygen with a PEEP of about five, sixty percent with about ten, and one hundred percent with twenty to twenty four.
+
+19
+00:02:54.570 --> 00:03:00.733
+And the classic trap: raising the FiO2 does not lower the PaCO2.
+
+20
+00:03:02.133 --> 00:03:08.907
+Aim for a PaCO2 near forty, or near fifty for carbon dioxide retainers.
+
+21
+00:03:08.907 --> 00:03:25.601
+In chronic retention a normal pH may come with a PaCO2 of fifty five or more, so a COPD patient at fifty five with a pH of seven point three seven need not be driven to forty.
+
+22
+00:03:25.601 --> 00:03:28.749
+The tidal volume range is narrow.
+
+23
+00:03:28.749 --> 00:03:36.095
+Too much injures the lung, too little causes hypoventilation and atelectasis.
+
+24
+00:03:36.095 --> 00:03:46.684
+In ARDS with a rising plateau pressure, the safest first move is often to lower the tidal volume, not raise it.
+
+25
+00:03:46.684 --> 00:04:09.007
+RCP 203 describes permissive hypercapnia: if the pH stays below seven point three zero with rate, tidal volume and plateau at their limits, let the PaCO2 rise as long as the pH stays above seven point two zero to seven point two five.
+
+26
+00:04:09.007 --> 00:04:22.458
+RCP 105 cuts the tidal volume on purpose to four to seven milliliters per kilogram and manages the acidosis with bicarbonate or tromethamine.
+
+27
+00:04:23.867 --> 00:04:40.725
+The Management of Mechanical Ventilation slide prints this only as numbers: fourteen times sixty, divided by forty, equals eight hundred forty divided by forty, which is twenty one, the new rate.
+
+28
+00:04:40.725 --> 00:04:50.148
+Read it as the set rate of fourteen, times the current PaCO2 of sixty, divided by the desired PaCO2 of forty.
+
+29
+00:04:50.148 --> 00:05:03.375
+The slide does not label the terms, but it matches the Initiation deck's question: if the PaCO2 is sixty and you want forty, which setting do you change?
+
+30
+00:05:03.375 --> 00:05:07.179
+The answer is the rate, or the tidal volume.
+
+31
+00:05:07.179 --> 00:05:16.516
+It works because, with constant carbon dioxide production, PaCO2 varies inversely with alveolar ventilation.
+
+32
+00:05:16.516 --> 00:05:25.075
+The limit: in COPD, too high a rate shortens expiratory time and causes air trapping and auto-PEEP.
+
+33
+00:05:25.075 --> 00:05:32.942
+A labeled formula, and any formula for a new tidal volume, are not in the decks or in Hess.
+
+34
+00:05:34.367 --> 00:05:38.672
+Not every abnormal PaCO2 should be corrected.
+
+35
+00:05:38.672 --> 00:05:52.448
+A low PaCO2 from overventilation, meaning improper settings, is the one you fix, by reducing the rate, the tidal volume or the pressure support.
+
+36
+00:05:52.448 --> 00:06:02.493
+A low PaCO2 that is a response to hypoxia is different: do not reduce ventilation, fix the hypoxia first.
+
+37
+00:06:02.493 --> 00:06:19.521
+A low PaCO2 that is compensating for a metabolic acidosis, such as diabetic ketoacidosis or lactic acidosis, must also be left alone, because the patient needs to hyperventilate.
+
+38
+00:06:19.521 --> 00:06:26.505
+And a low PaCO2 from anxiety means do not reduce support; find the cause.
+
+39
+00:06:26.505 --> 00:06:33.967
+The rule underneath all of these: a compensatory PaCO2 must not be normalized.
+
+40
+00:06:35.367 --> 00:06:40.536
+A high PaCO2 does not always mean turn up the rate either.
+
+41
+00:06:40.536 --> 00:06:49.985
+Take a pH of seven point three zero with a PaCO2 of fifty from oversedation or respiratory muscle fatigue.
+
+42
+00:06:49.985 --> 00:06:55.689
+The deck says increasing the frequency is not the proper action.
+
+43
+00:06:55.689 --> 00:07:01.037
+Find and correct the cause, for example by delaying weaning.
+
+44
+00:07:01.037 --> 00:07:05.940
+Metabolic problems get no ventilator adjustment at all.
+
+45
+00:07:05.940 --> 00:07:14.229
+Do not raise support for a metabolic acidosis, and do not lower it for a metabolic alkalosis.
+
+46
+00:07:14.229 --> 00:07:23.767
+The deck warns that lowering the rate on a patient who is compensating would likely lead to worse outcomes.
+
+47
+00:07:25.167 --> 00:07:26.250
+Pause here.
+
+48
+00:07:26.250 --> 00:07:32.353
+A ventilated patient in diabetic ketoacidosis has a low PaCO2.
+
+49
+00:07:32.353 --> 00:07:39.441
+A colleague wants to cut the set rate to bring the PaCO2 back to normal.
+
+50
+00:07:39.441 --> 00:07:42.592
+Is that the right move, and why?
+
+51
+00:07:43.500 --> 00:07:49.500
+[6-second practice pause]
+
+52
+00:07:50.000 --> 00:07:50.600
+No.
+
+53
+00:07:50.600 --> 00:08:04.175
+In diabetic ketoacidosis the low PaCO2 is the patient's compensation for a metabolic acidosis, and the patient needs to hyperventilate.
+
+54
+00:08:04.175 --> 00:08:11.415
+Cutting the rate would remove that compensation and drop the pH further.
+
+55
+00:08:11.415 --> 00:08:24.085
+The deck's rule is that a compensatory PaCO2 must not be normalized, and that metabolic problems get no ventilator adjustment.
+
+56
+00:08:24.085 --> 00:08:26.200
+Treat the cause instead.
+
+57
+00:08:27.600 --> 00:08:33.938
+The decks give several oxygen targets, so learn which one to use.
+
+58
+00:08:33.938 --> 00:08:49.150
+RCP 203 says that in healthy patients you want a PaO2 of eighty to one hundred with an SpO2 of ninety two percent or more, on the lowest FiO2 that keeps it.
+
+59
+00:08:49.150 --> 00:09:02.801
+If that cannot be kept on less than fifty percent oxygen, accept a PaO2 of fifty five to sixty with an SpO2 of eighty eight percent or more.
+
+60
+00:09:02.801 --> 00:09:07.872
+In chronic hypercapnia, aim for fifty five to sixty.
+
+61
+00:09:07.872 --> 00:09:20.743
+RCP 105 Initiation wants an SpO2 above ninety five percent, and Management sets the FiO2 ceiling at sixty percent rather than fifty.
+
+62
+00:09:20.743 --> 00:09:29.616
+Use eighty to one hundred with ninety two percent or more, and an FiO2 below fifty percent.
+
+63
+00:09:29.616 --> 00:09:42.000
+For lung protective ventilation in ARDS, use a PaO2 of fifty five to eighty and an SpO2 of eighty eight to ninety five percent.
+
+64
+00:09:43.433 --> 00:09:48.089
+RCP 203 makes the choice by the fifty percent line.
+
+65
+00:09:48.089 --> 00:09:56.579
+If an acceptable PaO2 or saturation holds on less than fifty percent oxygen, change the FiO2.
+
+66
+00:09:56.579 --> 00:10:01.418
+If it cannot, change the PEEP, the baseline pressure.
+
+67
+00:10:01.418 --> 00:10:14.290
+If the P over F ratio is two hundred or less, or fifty percent oxygen with a PEEP of twelve or more fails, recommend the NHLBI ARDS protocol.
+
+68
+00:10:14.290 --> 00:10:22.323
+When oxygenation improves, lower the FiO2 to fifty percent or less first, then the PEEP.
+
+69
+00:10:22.323 --> 00:10:28.440
+Also confirm a hemoglobin of at least ten and adequate circulation.
+
+70
+00:10:28.440 --> 00:10:38.482
+PEEP raises the functional residual capacity and corrects refractory hypoxemia due to intrapulmonary shunting.
+
+71
+00:10:38.482 --> 00:10:46.515
+Too little lets alveoli collapse; too much overdistends them and reduces cardiac output.
+
+72
+00:10:46.515 --> 00:10:56.283
+Hess notes that ventilation commonly starts on one hundred percent oxygen and is then titrated to the SpO2.
+
+73
+00:10:57.700 --> 00:11:03.258
+The chapter thirteen deck gives the rule in both directions.
+
+74
+00:11:03.258 --> 00:11:13.168
+With too much oxygen, a PaO2 above one hundred, lower whichever parameter is most dangerous at that moment.
+
+75
+00:11:13.168 --> 00:11:22.987
+A PEEP of ten with an FiO2 of seventy five percent makes the FiO2 the concern, because of oxygen toxicity.
+
+76
+00:11:22.987 --> 00:11:32.620
+A PEEP of eighteen with an FiO2 of forty five percent makes the PEEP the concern, because of barotrauma.
+
+77
+00:11:32.620 --> 00:11:41.790
+As oxygenation improves, first bring the FiO2 down to point five zero or less, then lower the PEEP.
+
+78
+00:11:41.790 --> 00:12:00.500
+With too little oxygen, a PaO2 below sixty or a saturation below ninety percent, increase the FiO2 if it is below point six zero, and increase the PEEP if the FiO2 is already at or above point six zero.
+
+79
+00:12:01.900 --> 00:12:09.111
+The sixty sixty rule tells you the mechanism, and the mechanism picks the knob.
+
+80
+00:12:09.111 --> 00:12:21.708
+A PaO2 above sixty on an FiO2 below point six means mainly a ventilation perfusion imbalance, which responds to a simple increase in FiO2.
+
+81
+00:12:21.708 --> 00:12:31.292
+A PaO2 below sixty on an FiO2 above point six means shunting, so PEEP or CPAP must be added or increased.
+
+82
+00:12:31.292 --> 00:12:41.424
+The fifty fifty rule is the same logic with rounder numbers, and the notes call it a more conservative version.
+
+83
+00:12:41.424 --> 00:12:56.485
+A shunt does not respond to oxygen, because the blood never meets ventilated alveoli, so pushing FiO2 past point six buys almost nothing and starts to cost toxicity.
+
+84
+00:12:56.485 --> 00:13:01.597
+PEEP treats the shunt by recruiting the collapsed units.
+
+85
+00:13:01.597 --> 00:13:08.625
+Recruitment maneuvers can also be recommended in ARDS and severe atelectasis.
+
+86
+00:13:08.625 --> 00:13:16.475
+Do not confuse this with the forty fifty sixty rule, which matches PaO2 to saturation.
+
+87
+00:13:17.900 --> 00:13:28.649
+On the carbon dioxide side, an abnormal alveolar ventilation shows up as an abnormal pH driven by an abnormal PaCO2.
+
+88
+00:13:28.649 --> 00:13:39.582
+A low PaCO2 means decrease the minute ventilation, and a high PaCO2 means increase it, using the new rate calculation.
+
+89
+00:13:39.582 --> 00:13:58.948
+As long as the tidal volume is set properly, six to eight milliliters per kilogram of predicted body weight with a plateau pressure below thirty, rate changes are the preferred way to alter minute ventilation.
+
+90
+00:13:58.948 --> 00:14:02.099
+Be careful with the desired PaCO2.
+
+91
+00:14:02.099 --> 00:14:09.141
+The goal is the PaCO2 that normalizes the pH, usually forty, but not always.
+
+92
+00:14:09.141 --> 00:14:23.225
+In a COPD patient with ventilatory failure on top of a compensated respiratory acidosis, acute on chronic, the desired PaCO2 could be well above normal.
+
+93
+00:14:24.633 --> 00:14:31.770
+On BiPAP, IPAP minus EPAP is the driving pressure, the pressure support.
+
+94
+00:14:31.770 --> 00:14:40.096
+Ventilation, meaning the PaCO2 and pH, is adjusted through IPAP and that difference.
+
+95
+00:14:40.096 --> 00:14:48.422
+Oxygenation, meaning the PaO2 and saturation, is adjusted through the FiO2 and EPAP.
+
+96
+00:14:48.422 --> 00:15:02.596
+The rule: you can raise IPAP without raising EPAP, but never raise EPAP without raising IPAP by the same amount, or the pressure support falls.
+
+97
+00:15:02.596 --> 00:15:11.418
+Keep IPAP below twenty to twenty five centimeters of water to avoid gastric insufflation.
+
+98
+00:15:11.418 --> 00:15:18.158
+If ventilation or oxygenation worsens on BiPAP, consider intubation.
+
+99
+00:15:19.567 --> 00:15:23.235
+Your patient is on BiPAP at ten over five.
+
+100
+00:15:23.235 --> 00:15:30.223
+The blood gas shows that only oxygenation needs to improve; ventilation is fine.
+
+101
+00:15:30.223 --> 00:15:34.067
+What new settings would you choose, and why?
+
+102
+00:15:34.967 --> 00:15:40.967
+[6-second practice pause]
+
+103
+00:15:41.467 --> 00:15:46.067
+Raise IPAP and EPAP equally, to twelve over seven.
+
+104
+00:15:46.067 --> 00:15:56.279
+The driving pressure stays at five, so ventilation does not change, while the higher EPAP improves oxygenation.
+
+105
+00:15:56.279 --> 00:16:00.603
+The deck's other two examples complete the set.
+
+106
+00:16:00.603 --> 00:16:12.012
+For ventilation only, raise IPAP alone, to fifteen over five, so the driving pressure rises and the baseline stays the same.
+
+107
+00:16:12.012 --> 00:16:17.992
+For both, raise both, IPAP more than EPAP, to fifteen over seven.
+
+108
+00:16:19.400 --> 00:16:21.965
+Here is what to remember.
+
+109
+00:16:21.965 --> 00:16:32.121
+Rate and tidal volume move the PaCO2; FiO2 and PEEP move the PaO2, and FiO2 never lowers the PaCO2.
+
+110
+00:16:32.121 --> 00:16:40.739
+For a high PaCO2, raise the rate first, then the tidal volume within plateau limits.
+
+111
+00:16:40.739 --> 00:16:48.946
+The new rate is the set rate times the current PaCO2 divided by the desired one.
+
+112
+00:16:48.946 --> 00:16:58.590
+Never normalize a compensatory PaCO2, and never change the ventilator for a metabolic problem.
+
+113
+00:16:58.590 --> 00:17:12.030
+Keep the FiO2 below fifty percent, and use the sixty sixty rule: below point six, raise the oxygen; at or above it, raise the PEEP.
+
+114
+00:17:12.030 --> 00:17:20.750
+On BiPAP, IPAP moves ventilation, EPAP moves oxygenation, and EPAP never rises alone.

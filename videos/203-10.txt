@@ -1,0 +1,39 @@
+RCP 203 — Chapter 10: Heliox
+
+[10-001 · What this chapter covers]
+This chapter is all about heliox, a mixture of helium and oxygen. We start with the three mixtures the deck lists, why helium makes breathing easier, and why the mixture must always carry at least twenty percent oxygen. Then the delivery methods, for patients who breathe on their own and for patients on a ventilator. Next is the flowmeter correction factor, worked through with the deck's example. We finish with heliox for infants, and the separate flow increase needed when heliox drives a nebulizer. Keep those two corrections apart; they are easy to mix up.
+
+[10-002 · Heliox mixtures and why helium helps]
+Most centers use premixed cylinders in one of three combinations: eighty percent helium with twenty percent oxygen, seventy with thirty, and sixty with forty. Heliox decreases the work of breathing, especially in large airway obstruction or severe asthma, because helium is much less dense than nitrogen, so it flows more easily through narrowed airways. Always use helium with at least twenty percent oxygen. Tanks of pure helium exist, but they need a blending system, and if the oxygen source failed, the patient could get one hundred percent helium and quickly become anoxic. That is why premixed cylinders are used.
+
+[10-003 · Heliox is not oxygen therapy]
+Heliox is not a replacement for oxygen therapy in a hypoxemic patient. Hess adds that if an FiO2 above point four zero is needed, the limited helium left in the mix is unlikely to produce a clinical benefit. Hess names eighty twenty and seventy thirty as the most popular mixtures, and chapter thirty two uses sixty to eighty percent helium for asthma. The sources differ slightly: the deck lists three mixtures, eighty twenty, seventy thirty and sixty forty, while its notes and Hess name only the first two as typical. Use the deck's three.
+
+[10-004 · Delivering heliox]
+For a spontaneously breathing patient, the deck uses a tight-fitting nonrebreathing mask at a flow that meets inspiratory demand, or a high-flow cannula. For a mechanically ventilated patient, heliox goes through a cuffed artificial airway, or by the noninvasive route. Through a flowmeter, use one calibrated for that helium percentage, or apply a correction factor. Monitor every patient closely with an oxygen analyzer that measures the FiO2 continuously, with active alarms. Hess adds a well-fitting simple mask or a reservoir mask with a Y-piece for aerosolized drugs, often at twelve to fifteen liters per minute to keep the bag inflated. A tightly sealed, closed system is required, because helium leaks through small holes. On a ventilator, helium can alter the delivered and measured exhaled tidal volume.
+
+[10-005 · The flowmeter correction factor]
+An oxygen flowmeter under-reads heliox flow, so multiply the indicated flow by the correction factor to get the actual flow. The factor is one point eight for eighty twenty, one point six for seventy thirty, and one point four for sixty forty. The more helium, the larger the factor, and the lower the FiO2. The deck's example: ten liters per minute indicated on an oxygen flowmeter delivering eighty twenty is ten times one point eight, or eighteen liters per minute of actual heliox flow. Hess gives only the eighty twenty factor, one point eight, from Graham's law: eighty twenty heliox diffuses one point eight times faster than oxygen. Hess's one point eight zero five and one point five eight six are density ratios, not flowmeter factors.
+
+[10-006 · Practice: set the flowmeter]
+Pause and calculate. You want fifteen liters per minute of eighty twenty heliox, and you only have an oxygen flowmeter. What do you set the flowmeter to?
+[6-second practice pause]
+
+[10-007 · Answer: set about 8.3 L/min]
+Reverse the correction. The actual flow is the indicated flow times one point eight, so the setting is the wanted flow divided by one point eight. Fifteen divided by one point eight is about eight point three liters per minute. Set eight point three, and the flowmeter will deliver about fifteen liters per minute of eighty twenty heliox.
+
+[10-008 · Infants: HFNC instead of an oxyhood]
+The chapter twelve deck repeats the delivery methods: a tight-fitting nonrebreathing mask from premixed cylinders, at a flow that meets or exceeds the patient's minute ventilation and peak inspiratory flow, or a high-flow nasal cannula, and for invasive ventilation, a cuffed tracheal airway with a heliox-capable ventilator. For infants with bronchiolitis, heliox can be given by oxyhood, but there is a catch. Helium's high thermal conductivity causes heat loss and hypothermia, which has limited oxyhood use in this group, and a high-flow nasal cannula is now preferred. Helium carries heat away from the infant far better than air does. So if a question offers heliox by oxyhood for an infant, the better answer is usually a high-flow nasal cannula.
+
+[10-009 · Heliox driving a nebulizer]
+Heliox has been combined with jet-nebulized bronchodilators to treat severe acute obstruction, such as status asthmaticus, especially when standard therapy fails, and nebulizing with heliox may improve how well the drug is delivered and deposited. But the flow must be increased by fifty to one hundred percent when heliox powers a nebulizer. Heliox's low density makes the nebulizer less efficient at lower flows, which lowers the inhaled dose, and the higher flow restores the inhaled drug and the respirable particles. Keep the two corrections apart. The flowmeter factor corrects a reading: you multiply to find the actual flow. The nebulizer increase changes a setting. In both cases, monitor with an oxygen analyzer with active alarms.
+
+[10-010 · Practice: an infant with bronchiolitis]
+One more. An infant with bronchiolitis is ordered heliox, and the order suggests an oxyhood. What is the concern, and what delivery method is now preferred?
+[6-second practice pause]
+
+[10-011 · Answer: hypothermia; use HFNC]
+The concern is heat loss and hypothermia. Helium's high thermal conductivity carries heat away from the infant, and in a hood the infant sits in that gas. That is why oxyhood use has been limited in this group, and a high-flow nasal cannula is now preferred. Monitor the oxygen with an analyzer that has active alarms.
+
+[10-012 · Recap]
+Here is what to remember. Heliox comes premixed as eighty twenty, seventy thirty and sixty forty, always with at least twenty percent oxygen. It lowers the work of breathing because helium is much less dense, but it is not oxygen therapy. Give it through a tight-fitting nonrebreather, a high-flow cannula, or a cuffed airway, in a sealed system with an oxygen analyzer. An oxygen flowmeter under-reads heliox, so multiply by one point eight, one point six or one point four, and divide to find the setting. Infants get a high-flow cannula rather than a hood, and a heliox-driven nebulizer needs fifty to one hundred percent more flow.

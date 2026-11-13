@@ -1,0 +1,42 @@
+RCP 203 — Chapter 26: Inhaled Nitric Oxide
+
+[26-001 · What this chapter covers]
+This chapter covers inhaled nitric oxide. We start with what it is, how it dilates only the pulmonary vessels, and what it is approved for. Then its side effects: nitrogen dioxide, methemoglobin, and rebound pulmonary hypertension. Then the numbers for running it: the starting dose, how it is delivered, and the checklist for weaning and stopping it safely. We finish with the other inhaled pulmonary vasodilators, the prostacyclins.
+
+[26-002 · How inhaled NO works]
+Nitric oxide is a vasodilator the body makes in endothelial cells. Inhaled, it dilates only the pulmonary vessels. It raises cyclic GMP, which relaxes smooth muscle, and it improves blood flow to the areas that are ventilated, which improves ventilation perfusion matching and the PaO2. It causes no systemic hypotension, because hemoglobin inactivates it immediately, forming methemoglobin. Cylinders hold eight hundred parts per million, and the recommended dose is twenty parts per million, for up to fourteen days.
+
+[26-003 · What it is used for]
+Its approved use is in neonates with hypoxic respiratory failure, or persistent pulmonary hypertension of the newborn, to lower pulmonary artery pressure and raise oxygenation, along with ventilatory support. The deck's trick: NO equals neonates only. Hess adds that it is approved only for term and near-term neonates, above thirty four weeks, and that it reduces the need for ECMO. Off label, it is used in neonatal cardiac surgery and for hypoxemia or pulmonary hypertension after lung transplant. In ARDS it improves oxygenation only temporarily and does not improve survival, so it is a short-term bridge, not for prolonged use. In preterm infants it is not FDA approved. The deck says it is the preferred pulmonary vasodilator in preterm infants with persistent pulmonary hypertension and severe hypoxemia, but not to prevent bronchopulmonary dysplasia: NO for PPHN, not BPD.
+
+[26-004 · Side effects]
+Nitric oxide combines with oxygen to form nitrogen dioxide, which is toxic to the lung, and a higher FiO2 makes more of it. Nitric oxide also binds hemoglobin to form methemoglobin, which cannot carry oxygen, a functional anemia, and it shifts the dissociation curve to the left. On withdrawal, rebound pulmonary hypertension can be severe and cause desaturation. It is contraindicated in neonates who depend on a right to left shunt. The risks of methemoglobin and nitrogen dioxide rise above twenty parts per million, with no added response at higher doses. Monitor nitric oxide, nitrogen dioxide and methemoglobin, and cardiovascular status. Hess adds that the occupational limit for nitrogen dioxide is five parts per million, but lung injury has been reported at two or less.
+
+[26-005 · Methemoglobin levels]
+The deck defines methemoglobinemia as a level above one percent, with a normal range of zero to three. Three to fifteen percent gives slight skin discoloration. Fifteen to twenty percent gives cyanosis. Twenty five to fifty percent gives headache, shortness of breath, confusion and chest pain. Fifty to seventy percent gives arrhythmias, seizures and coma. And above seventy percent usually means death. Hess adds that methemoglobin is uncommon at twenty parts per million or less, that nitric oxide can also inhibit platelets, and that prolonged high doses raise the risk of kidney dysfunction, especially in ARDS.
+
+[26-006 · Starting and delivering NO]
+The recommended starting dose is twenty parts per million, and it can often be reduced quickly to five or six. Treatment may continue for up to fourteen days. The most common systems are the INOvent and INOmax. Storage cylinders deliver nitric oxide through an injector in the inspiratory side of the ventilator circuit, near its outlet, and a sensor measures the ventilator's inspiratory flow, so the injection rate adjusts in proportion and the delivered dose stays constant. It can be given by nasal cannula or mask to patients breathing on their own, but it is more commonly used with mechanical ventilation. The equipment limits the contact time between nitric oxide and oxygen, to keep nitrogen dioxide low.
+
+[26-007 · Weaning and stopping: the checklist]
+Benefits, a higher saturation and lower pulmonary artery pressure, may appear soon after starting. Stopping is the dangerous part. Before withdrawing, reduce the dose to the lowest effective level, ideally five to six parts per million or less. Make sure the patient is hemodynamically stable, and verify tolerance of an FiO2 of forty percent or less and a PEEP of five or less. Monitor closely, and be ready to give hemodynamic support. Wean in small steps of three to five parts per million at a time, to avoid rebound. If methemoglobin rises above one and a half percent, recommend lowering the dose as tolerated. If the upper airway is intact or the patient is extubated, recommend a nasal cannula system. Hess adds a final step: wean to one part per million for thirty to sixty minutes, and raise the FiO2, before stopping.
+
+[26-008 · Practice: ready to stop?]
+Pause and decide. A neonate on nitric oxide is now on ten parts per million, an FiO2 of fifty percent, and a PEEP of six, and the team wants to stop it today. Is the patient ready, and how should the dose come down?
+[6-second practice pause]
+
+[26-009 · Answer: not yet]
+Not yet. The dose should first be at the lowest effective level, ideally five to six parts per million or less, and the patient should tolerate an FiO2 of forty percent or less and a PEEP of five or less. Here the dose is ten, the FiO2 fifty and the PEEP six. Wean the nitric oxide in small steps of three to five parts per million, keep the patient stable, and be ready for rebound pulmonary hypertension.
+
+[26-010 · The inhaled prostacyclins]
+Other inhaled pulmonary vasodilators are aerosolized medications, not gases: iloprost, Ventavis; treprostinil, Tyvaso; and epoprostenol, Flolan. They dilate the pulmonary arterial beds and decrease platelet aggregation, which reduces intrapulmonary shunting and improves oxygenation. They are used in spontaneously breathing patients with chronic pulmonary hypertension, and more recently in ventilated patients with acute pulmonary hypertension from acute lung injury or ARDS. The class is indicated for pulmonary arterial hypertension that limits activity in adults, and for persistent pulmonary hypertension of the newborn. The care plan deck adds three rules: use the manufacturer's recommended delivery device, protect staff with expiratory filters or a negative pressure room, and titrate the dose to the patient's response. The instructor's note: titration is extremely important, especially with Flolan.
+
+[26-011 · Practice: a rising methemoglobin]
+One more. A patient on nitric oxide has a methemoglobin level of two percent. What does the care plan deck recommend, and why does methemoglobin matter for oxygen delivery?
+[6-second practice pause]
+
+[26-012 · Answer: lower the dose]
+Two percent is above the one and a half percent threshold, so recommend lowering the nitric oxide dose as tolerated, and keep monitoring. Methemoglobin cannot carry oxygen, so it acts as a functional anemia, and it shifts the dissociation curve to the left, so hemoglobin holds on to its oxygen. The risks of methemoglobin rise above twenty parts per million.
+
+[26-013 · Recap]
+Here is the chapter in brief. Inhaled nitric oxide dilates only the pulmonary vessels, improving matching and oxygenation, because hemoglobin inactivates it before it reaches the rest of the body. It is approved for neonates with persistent pulmonary hypertension; in ARDS it is only a short bridge, and it is not for preventing BPD. Start at twenty parts per million and come down to five or six. Watch nitrogen dioxide, methemoglobin above one and a half percent, and rebound pulmonary hypertension. Before stopping, the patient needs the lowest dose, stability, an FiO2 of forty percent or less and a PEEP of five or less, weaning in three to five parts per million steps. The prostacyclins are inhaled aerosols that do a similar job.

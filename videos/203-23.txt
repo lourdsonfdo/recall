@@ -1,0 +1,39 @@
+RCP 203 — Chapter 23: Disinfection and Sterilization Methods
+
+[23-001 · What this chapter covers]
+This chapter covers how equipment is made safe to reuse. We start with the difference between sterilization and disinfection, and the Spaulding categories that decide which one a device needs. Then four methods the study guide names: pasteurization, the autoclave, isopropyl alcohol and chlorhexidine. We finish with glutaraldehyde, OPA, bleach, ethylene oxide and hydrogen peroxide gas plasma.
+
+[23-002 · Sterilization versus disinfection]
+Hess defines sterilization as the complete destruction of all microorganisms, including spores. Disinfection kills most organisms but not all, and spores, mycobacteria and viruses are the most resistant. Cleaning always comes first, because any residue interferes with both. The key point from the deck: high-level disinfection is not sterilization, because bacterial spores may remain. That matters because most respiratory therapy equipment touches mucous membranes, so a reusable device such as a bronchoscope gets sterilization or high-level disinfection, never just a wipe.
+
+[23-003 · The Spaulding categories]
+The Spaulding system processes equipment by where it goes in the patient. Critical items enter sterile tissue or the bloodstream, so they must be sterilized, with no viable organisms. Examples are bronchoscope biopsy forceps, and Hess adds a chest tube. Semicritical items touch mucous membranes, so they need high-level disinfection or sterilization. A bronchoscope is semicritical, and so is most respiratory therapy equipment. Noncritical items touch only intact skin, so they need cleaning or low-level disinfection: stethoscopes, blood pressure cuffs and ventilator surfaces. Noncritical surfaces such as tables and floors are cleaned or disinfected regularly, after spills, and when visibly soiled.
+
+[23-004 · Practice: which category?]
+Pause and sort these. A reusable bronchoscope, the biopsy forceps passed through it, and a stethoscope. Which Spaulding category is each, and what processing does each need?
+[6-second practice pause]
+
+[23-005 · Answer: semicritical, critical, noncritical]
+The bronchoscope touches mucous membranes, so it is semicritical and needs high-level disinfection or sterilization. The biopsy forceps enter sterile tissue, so they are critical and must be sterilized. The stethoscope touches only intact skin, so it is noncritical, and cleaning or low-level disinfection is enough.
+
+[23-006 · Pasteurization versus the autoclave]
+Pasteurization is hot water disinfection. Hess gives about seventy degrees Celsius for thirty minutes, followed by a dryer. It does not sterilize; the deck uses the milk and juice example to show that some non-pathogenic bacteria may survive. It suits heat-sensitive items, and the deck groups it with glutaraldehyde and OPA. The autoclave uses saturated steam under pressure, which denatures proteins. Hess gives one hundred twenty one degrees for thirty minutes, or one hundred thirty two degrees for four minutes, both at fifteen pounds per square inch. It does sterilize, and it kills spores. It is used for heat-resistant equipment that has been cleaned and wrapped first, and it is fast, cheap and nontoxic.
+
+[23-007 · Alcohol versus chlorhexidine]
+Isopropyl alcohol is a chemical that denatures proteins. It does not sterilize, it does not kill spores, and it may damage rubber and plastic. It is used on skin before injections or blood draws, on vial tops, thermometers and stethoscopes. Chlorhexidine is an antiseptic, for skin prep and oral care, not an equipment process. The deck's distinction: an antiseptic is used on living tissue, a disinfectant on equipment. Chlorhexidine scrubs the site before an arterial line and preps the skin before a thoracentesis. For VAP prevention, the RCP 203 chapter nine bundle lists daily oral care with chlorhexidine, and so does RCP 105. Hess says it is no longer recommended and may prove harmful in some patients, but for this exam, use the deck's VAP list.
+
+[23-008 · Glutaraldehyde and OPA]
+Glutaraldehyde, Cidex, gives high-level disinfection in twenty minutes at room temperature, but sterilization takes a full ten hours. The deck notes that times vary by product, so follow the manufacturer, and rinse with sterile water. Hess says it irritates the nose and airways, causing nosebleeds, rhinitis and asthma, and gives six to ten hours for sterilization, but use the deck's ten. OPA, ortho-phthalaldehyde, sterilizes or gives high-level disinfection. Hess gives a twelve minute exposure, and says it does not irritate the eyes or nose.
+
+[23-009 · Bleach, ethylene oxide and gas plasma]
+For Clostridioides difficile, which forms spores, the deck says use an EPA-registered sporicidal disinfectant. For blood spills, if bleach is used, follow the product instructions and the facility protocol for the dilution. Only Hess gives a number: a one to ten dilution of five point two five percent bleach for blood spills and C. diff rooms. Never mix bleach with an acid, because it releases chlorine gas. Ethylene oxide is a low-temperature gas sterilizer for heat and moisture sensitive items. It is toxic, flammable and explosive, and items need eight to twenty four hours of aeration afterward. Hydrogen peroxide gas plasma is Hess's preferred sterilizer for items that cannot take high temperature and humidity.
+
+[23-010 · Practice: which method sterilizes?]
+One more. Of these, which actually sterilize, killing spores: pasteurization, the autoclave, isopropyl alcohol, glutaraldehyde for twenty minutes, and ethylene oxide?
+[6-second practice pause]
+
+[23-011 · Answer: autoclave and ethylene oxide]
+The autoclave and ethylene oxide sterilize. Pasteurization does not, because some bacteria may survive. Alcohol does not kill spores. And twenty minutes of glutaraldehyde gives only high-level disinfection; it takes a full ten hours to sterilize.
+
+[23-012 · Recap]
+Here is the chapter in brief. Sterilization kills everything, including spores; disinfection kills most; and cleaning always comes first. Critical items are sterilized, semicritical items, such as a bronchoscope and most respiratory equipment, get high-level disinfection, and noncritical items are cleaned. Pasteurization and alcohol do not sterilize; the autoclave does. Chlorhexidine is an antiseptic for tissue, not equipment. Glutaraldehyde disinfects in twenty minutes and sterilizes in ten hours. Ethylene oxide sterilizes but is toxic and needs aeration, and gas plasma is the preferred low-temperature sterilizer.

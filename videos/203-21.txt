@@ -1,0 +1,51 @@
+RCP 203 — Chapter 21: PIP, Pplat and PEEP: Normals, Lung Condition, Effects, Auto-PEEP
+
+[21-001 · What this chapter covers]
+This chapter is about the three pressures you read on every ventilator: peak inspiratory pressure, plateau pressure and PEEP. We start with their target levels, which are really ceilings, since no source gives a normal adult range. Then what each pressure tells you, and how to read peak and plateau together to tell an airway problem from a stiff lung. Then PEEP that is too low or too high, and what rising pressures do to the heart, kidneys and brain. We finish with auto-PEEP: what it is, how to find it, and how to fix it.
+
+[21-002 · Targets, not normals]
+No deck and not Hess gives a normal adult range for peak or plateau pressure; the sources give ceilings and targets. Peak pressure is safe below fifty, though the notes call that historical and say the plateau is the one to watch. Plateau pressure should be below thirty, from ARDSNet, and Hess adds lower if possible. Chang prints below thirty five, and one chapter eleven slide prints thirty to thirty five, but use below thirty. PEEP normally returns to zero at end-expiration, starts at five, within an NBRC range of two to six, and is safe below ten. Hess says low-level PEEP of three to five is often used to prevent atelectasis. Driving pressure, plateau minus PEEP, should be below fifteen, and mean airway pressure below thirty. RCP 203 adds normals for intubated adults: compliance forty to eighty, and resistance five to twelve.
+
+[21-003 · What each pressure tells you]
+Peak pressure overcomes both airway resistance and compliance. Plateau pressure is measured with an end-inspiratory hold. With no flow there is no resistance, so it reflects lung and chest wall compliance, the pressure inside the alveoli. Hess writes it as the tidal volume over compliance, plus PEEP. Peak minus plateau is the transairway pressure, the airway resistance part, which depends on the flow setting and the airway. And driving pressure is plateau minus PEEP, the elastic pressure across the alveoli. One conflict to know: the RCP 203 chapter three slide and chapter eleven call peak minus PEEP the driving pressure, while the chapter three notes say that is the total pressure delivered. On the exam, in a pressure control question, tidal volume changes through peak minus PEEP, and the lung-protective limit below fifteen is plateau minus PEEP.
+
+[21-004 · Airways or lungs?]
+The deck's rule: when peak and plateau move together, think lungs; when only peak moves, think airways. A higher peak with a normal plateau, so a wider gap between them, means higher airway resistance: bronchospasm, secretions, airway edema, water in the circuit, or a kinked or blocked tube. A higher peak and a higher plateau, with the same gap, means lower compliance, stiff lungs: ARDS, pulmonary edema, pneumonia, fibrosis, atelectasis, a tension pneumothorax, a pleural effusion, mainstem intubation, a mucus plug or ascites. A peak lower than the previous breath, every breath, means a circuit leak. And falling pressures as the patient improves mean better compliance or resistance.
+
+[21-005 · The same problems in pressure control]
+In pressure control, the pressure is fixed, so it cannot rise. A stiffer lung, or higher airway resistance, shows up as a smaller tidal volume instead. Resistance only shows this way if flow continues to the end of inspiration. Auto-PEEP behaves the same way: in volume control the plateau pressure rises, and in pressure control the tidal volume falls.
+
+[21-006 · Practice: read the pressures]
+Pause and decide. On volume control, the peak pressure has risen from twenty five to forty, but the plateau pressure is unchanged at twenty. Is this an airway problem or a lung problem, and what are some likely causes?
+[6-second practice pause]
+
+[21-007 · Answer: an airway problem]
+Only the peak moved, so think airways. The gap between peak and plateau, the airway resistance part, widened from five to twenty, while the plateau, the alveolar pressure, stayed the same. Likely causes are bronchospasm, secretions, airway edema, water in the circuit, or a kinked or blocked tube. If both had risen together, you would think stiff lungs instead.
+
+[21-008 · PEEP too low, optimal, too high]
+Too little PEEP lets alveoli collapse, giving poor oxygenation from shunt. Optimal PEEP keeps most alveoli open, for the best oxygenation. Too much PEEP overdistends alveoli, causing barotrauma and lower cardiac output. PEEP corrects refractory hypoxemia from intrapulmonary shunting, and Hess says ARDS may need more of it to keep alveoli recruited. Chapter eleven defines optimal PEEP as the level that keeps the saturation at eighty eight to ninety percent or more without lowering the blood pressure. Chang's danger level is PEEP above ten, a mean airway pressure above thirty, or a peak above fifty, with more alveolar rupture. But chapter eleven's own optimal PEEP examples are fifteen and eighteen, so above ten is a risk threshold, not a ceiling. Hess limits PEEP if it pushes the plateau above thirty or the driving pressure above fifteen.
+
+[21-009 · Rising pressures: the venous return chain]
+Positive pressure and PEEP raise intrathoracic pressure, which compresses the vena cava. Venous return falls, so preload falls, cardiac output falls, and the patient becomes hypotensive, often needing more vasopressor, especially after intubation or a large PEEP increase. The kidneys follow. Lower cardiac output means lower renal blood flow, so urine output falls, with sodium and water retention. The kidneys get about twenty five percent of circulating blood volume. Normal urine output is above four hundred milliliters a day, and oliguria is below twenty milliliters an hour. Hess adds that ventilation raises antidiuretic hormone and lowers atrial natriuretic peptide, which also lowers urine output.
+
+[21-010 · PEEP's other effects]
+PEEP has some specific effects. The CVP rises even though venous return is falling, so a high CVP does not always mean plenty of preload. Liver perfusion falls only when PEEP is added, and the kidneys are hit first, because they are more sensitive than the liver. High PEEP or a high mean airway pressure raises intracranial pressure. Chapter eleven adds that the high intrathoracic pressure of recruitment maneuvers can lower cardiac output and tissue perfusion, and that the higher mean airway pressure of inverse ratio ventilation may lower venous return. Hess points out one benefit: the drop in left ventricular afterload can help patients with fluid overload or left heart failure.
+
+[21-011 · Auto-PEEP: what it is and how to find it]
+Auto-PEEP is pressure left in the alveoli at the end of exhalation, from air trapping. The patient cannot fully exhale before the next breath. It is also called occult PEEP, intrinsic PEEP or dynamic hyperinflation, and it is common in COPD and asthma. Its causes are high rates, large tidal volumes, higher airway resistance and too long an inspiratory share of the cycle. Its consequences are more work of breathing, because it is harder to trigger, lower venous return and cardiac output, hypotension, barotrauma and hyperinflation. To detect it, look at the flow time waveform: the expiratory flow does not return to zero before the next breath. Chapter eleven says this is likely to appear on the NBRC.
+
+[21-012 · Measuring auto-PEEP]
+To measure it, use an end-expiratory pause. With no flow, the airway pressure equals the alveolar pressure. Auto-PEEP is the pause pressure minus the set PEEP, so twelve minus five is seven centimeters of water. The patient must be relaxed, and Hess gives a pause of half a second to one and a half seconds in chapter twenty, or up to two seconds in chapter fifty one.
+
+[21-013 · Fixing auto-PEEP]
+Give the lungs more time to empty, then treat the obstruction. To lengthen expiratory time, lower the rate, in volume or pressure control; raise the inspiratory flow in volume control, which shortens inspiration; lower the tidal volume in volume control; shorten the inspiratory time in pressure control; and adjust the I to E ratio. Then treat the airflow obstruction with bronchodilators such as albuterol and ipratropium, steroids, and suctioning. For spontaneously breathing patients only, add extrinsic PEEP up to eighty to ninety percent of the measured auto-PEEP, which helps them trigger. Hess sets it at seventy five to eighty five percent, generally no more than ten in asthma, and notes it has little role if the patient is not trying to trigger. Use the RCP 203 eighty to ninety percent.
+
+[21-014 · Practice: auto-PEEP in a triggering patient]
+One more. A spontaneously triggering COPD patient has a set PEEP of five, and an end-expiratory pause reads thirteen. What is the auto-PEEP, how much extrinsic PEEP could you add by the RCP 203 rule, and what should you change first?
+[6-second practice pause]
+
+[21-015 · Answer: auto-PEEP 8]
+Thirteen minus five is an auto-PEEP of eight. By the RCP 203 rule, extrinsic PEEP can go up to eighty to ninety percent of that, about six and a half to seven, because the patient is triggering. But first give the lungs more time to empty: lower the rate, raise the inspiratory flow or lower the tidal volume, and treat the obstruction with bronchodilators and suctioning.
+
+[21-016 · Recap]
+Here is the chapter in brief. Keep the plateau below thirty and the driving pressure below fifteen; peak below fifty is historical. Peak minus plateau is the airway part, and plateau is the alveolar pressure. When only the peak rises, think airways; when both rise, think stiff lungs; when the peak keeps falling, think leak. Too little PEEP lets alveoli collapse, too much overdistends them, and rising pressures cut venous return, cardiac output and urine output. Auto-PEEP is trapped air, found when expiratory flow does not reach zero and measured as the pause pressure minus set PEEP. Fix it by giving more time to exhale and treating the obstruction.

@@ -1,0 +1,67 @@
+RCP 203 — Chapter 38: Respiratory Drugs, part 2: Sedation, Paralysis and Pharmacokinetics
+
+[38-001 · What this chapter covers]
+Respiratory drugs are split into three parts, and this second part covers sedation, paralysis and pharmacokinetics. We start with the neuromuscular blocking agents, comparing depolarizing and nondepolarizing drugs. Then the sedatives and the opioids, with their reversal agents. Then how drugs move through the body: half-life, routes of administration, bioavailability, and the organs of elimination. We finish with creatinine and BUN, the kidney tests that tell you whether a drug may accumulate.
+
+[38-002 · What paralytics do, and don't do]
+Neuromuscular blocking agents, or paralytics, cause skeletal muscle weakness or paralysis by interfering with acetylcholine at the neuromuscular junction. Their site of action is the nicotinic receptors there. They do not sedate, and they do not relieve pain. So the order is analgesia, then sedation, then the paralytic, and a paralyzed patient must be on mechanical ventilation.
+
+[38-003 · Depolarizing versus nondepolarizing]
+There are two kinds. Succinylcholine is the only depolarizing agent. It is an acetylcholine receptor agonist that resists acetylcholinesterase, so it causes sustained depolarization, with visible fasciculations. Onset is sixty to ninety seconds, and it lasts ten to fifteen minutes, which makes it ideal for intubation. Hess gives thirty to sixty seconds and four to five minutes; use the deck's numbers. The nondepolarizing agents are vecuronium, rocuronium, pancuronium, cisatracurium and mivacurium. They are competitive antagonists that block the receptor without activating it, so there are no fasciculations. They take longer; Chang gives an onset of three to ten minutes. Pancuronium lasts longest and mivacurium is shortest, and all are given IV only.
+
+[38-004 · Elimination, hazards and reversal]
+Succinylcholine is broken down by plasma cholinesterase, so pseudocholinesterase deficiency causes prolonged paralysis. Its hazards are hyperkalemia; raised intracranial, intraocular and intragastric pressure; and malignant hyperthermia. There is no reversal; you ride it out. Among the nondepolarizers, pancuronium is cleared by the kidneys, vecuronium by the liver, and cisatracurium by Hofmann degradation, which makes it the choice in hepatic or renal failure. Pancuronium can cause tachycardia and hypertension. The nondepolarizers are reversed with neostigmine, and sugammadex reverses only rocuronium and vecuronium.
+
+[38-005 · Practice: choose the paralytic]
+Pause and choose. A patient in both renal and hepatic failure needs ongoing paralysis on the ventilator. Which neuromuscular blocker do you recommend, and which ones should you avoid?
+[6-second practice pause]
+
+[38-006 · Answer: cisatracurium]
+Cisatracurium. It is eliminated by Hofmann degradation, so it does not depend on the liver or kidneys. Avoid pancuronium, which is cleared by the kidneys, and vecuronium, which is cleared by the liver. The deck also says to avoid succinylcholine when the liver or kidneys are bad. Hess says no succinylcholine dose reduction is needed, but use the deck.
+
+[38-007 · Sedatives: benzodiazepines and propofol]
+Sedation is diminished awareness; analgesia is pain relief; and a sedative is not an analgesic. Benzodiazepines, barbiturates and propofol work through GABA. The benzodiazepines are midazolam, or Versed, lorazepam and diazepam. They are anxiolytic and amnestic, and they terminate seizures. Alone they do not change respiration, but they augment opioid respiratory depression. Midazolam is the most important for respiratory therapists. They give no analgesia, and their reversal is flumazenil. Propofol is IV only, with rapid onset and short action, so patients wake quickly. Its hazards are apnea, hypotension, raised triglycerides from its lipid vehicle, and propofol infusion syndrome above five milligrams per kilogram per hour. Hess says it gives no analgesia; Chang says only at high doses.
+
+[38-008 · Dexmedetomidine, etomidate, ketamine]
+Three more. Dexmedetomidine, or Precedex, is an alpha two adrenergic agonist. It gives sedation, anxiolysis and analgesia without respiratory depression, so it can be used before, during and after extubation. Etomidate is used for rapid sequence intubation: onset thirty to sixty seconds, lasting three to five minutes. It is the hemodynamically stable choice, but it gives no analgesia. Ketamine gives analgesia, amnesia and sedation while preserving respiratory drive, which makes it a good choice in hypotension or bronchospasm. No reversal agent is named for propofol, dexmedetomidine, etomidate or ketamine.
+
+[38-009 · Opioids]
+Opioids are narcotic analgesics for moderate to severe pain, and they bind receptors in the brain and spinal cord. Morphine is the standard reference; fentanyl is very potent and fast acting; hydromorphone, or Dilaudid, is five to ten times stronger than morphine; and codeine and oxycodone are others. The deck marks respiratory depression as the most important side effect, and benzodiazepines plus opioids deepen it. Others are constipation, nausea and vomiting, and an antitussive effect. Doses that depress breathing have minimal effect on cardiac function. The Chang deck lists mu, kappa and sigma receptors; Hess lists mu, delta and kappa; use the deck. The reversal is naloxone, or Narcan, which also comes as a nasal spray. Opioids are given as needed by the nurse or by patient-controlled analgesia, with a bag-mask and naloxone in the room.
+
+[38-010 · Practice: reverse it]
+Pause and think. A post-op patient received midazolam and morphine, and now breathes six times a minute. What explains this, and which reversal agent matches each drug?
+[6-second practice pause]
+
+[38-011 · Answer: naloxone and flumazenil]
+Opioids cause respiratory depression, and benzodiazepines augment it, so the combination deepens it. Naloxone reverses the morphine, and flumazenil reverses the midazolam. This is why a bag-mask and naloxone stay in the room for patient-controlled analgesia.
+
+[38-012 · Half-life]
+Plasma half-life is the time required for the plasma concentration of a drug to decrease by one half, a measure of how quickly a drug is eliminated. The longer the half-life, the longer the effects. Older adults and patients with impaired liver or kidney function may be at greater risk for toxicity, because their half-life is longer. Half-life also sets dosing frequency: a short half-life needs several doses a day, and a long one allows once-daily dosing. Some printed numbers: adenosine, about twelve seconds; omalizumab, seventeen to twenty two days; benzodiazepine sleep aids, over twelve to twenty four hours, the hangover; and diazepam, about twenty four hours in a younger adult, approaching ninety six in an older adult. Lorazepam lasts much longer than midazolam, and propofol's half-life is under thirty minutes.
+
+[38-013 · Half-lives: carbon monoxide and paralytics]
+Carboxyhemoglobin has a half-life of about four to five hours on room air, about sixty to ninety minutes on one hundred percent oxygen, and often about twenty to thirty minutes with hyperbaric oxygen. Hess's Table 57-7 covers the neuromuscular blockers. Succinylcholine has the shortest onset and duration, one to one and a half minutes and five to ten minutes, and its half-life is listed as unknown; for the duration, the deck's ten to fifteen minutes is the exam answer. Rocuronium's onset is one to two minutes. Mivacurium's half-life is just two minutes, cisatracurium's twenty to thirty, vecuronium's sixty to one hundred thirty, and pancuronium's one hundred ten to one hundred forty, with a duration of one hundred twenty to one hundred eighty minutes.
+
+[38-014 · Routes of administration]
+The deck lists five routes. Enteral, literally small intestine, is most commonly by mouth: tablets, capsules, suppositories, elixirs and suspensions. Parenteral, meaning beside the intestine, is by injection: IV, IM, subcutaneous, intraosseous and intrathecal. Transdermal is a patch or paste. Inhalation is a gas or aerosol, for a local or systemic effect. Topical is a powder, lotion or ointment. The inhaled route has advantages: a smaller dose, fewer side effects, rapid onset, it targets the respiratory system, and it is painless. Hess adds that inhalation bypasses the GI system and eliminates first-pass metabolism, and that lung deposition varies from one to fifty percent. Hess classes intrathecal as percutaneous or mucosal, and the deck as parenteral; use the deck.
+
+[38-015 · Bioavailability and first pass]
+Bioavailability indicates the proportion of a drug that reaches the systemic circulation. It is lowered by inactivation from stomach acids and by metabolic degradation, and Hess measures it against the IV route, which is one hundred percent bioavailable. The first-pass effect: an oral drug that the liver metabolizes heavily has much of its activity ended as it passes through the liver. High first-pass metabolism lowers bioavailability, so the drug may need higher doses or another route, such as sublingual, transdermal or IV. Hess adds that absorption depends on drug pH, food, which slows it, fat solubility, contact time and concentration. For inhaled drugs, the L to T ratio is lung dose over lung plus GI dose; a higher ratio means more efficient lung delivery, and it rises with mouth rinsing, a reservoir device, patient instruction and a breath hold.
+
+[38-016 · Organs of elimination]
+The liver is a primary site of drug metabolism, and the kidneys are the primary site of drug excretion. Hess puts it this way: the kidney and, to a lesser extent, the liver are the major organs of elimination, and the lungs, saliva and sweat are minor routes. Elimination depends primarily on renal function, measured by creatinine clearance or the estimated GFR. Metabolism converts a drug to a water-soluble, inactive form; a drug that is not metabolized can accumulate to toxic levels. Renal failure reduces drug clearance and causes toxicity, the retention of drugs. That is why the paralytic choice depends on the organs: in renal failure avoid pancuronium, with hepatic problems avoid vecuronium, and if the liver or kidneys are bad, use cisatracurium.
+
+[38-017 · Creatinine versus BUN]
+Both creatinine and BUN rise in kidney failure, and a rise in both is azotemia. Creatinine is a waste product of muscle metabolism, so it relates to muscle mass. It is filtered with minimal reabsorption, which makes it reliable for GFR and more specific for kidney function, and it runs lower in women and the elderly. BUN, or blood urea nitrogen, comes from urea, formed in the liver when protein is broken down. It is readily filtered, and Hess says about half is reabsorbed. It reflects protein metabolism and hydration, so it is less specific, and it rises with a high-protein diet, dehydration and GI bleeding.
+
+[38-018 · Normal values, and the ratio]
+Use the renal deck's normals. Creatinine is zero point seven to one point three milligrams per deciliter in men and zero point six to one point one in women, and BUN is seven to twenty. Other decks and Hess print slightly different ranges, so stick with these. The BUN to creatinine ratio is normally about ten to one to twenty to one. A high BUN with a normal creatinine points to dehydration or a high protein intake; both high points to kidney disease or acute kidney injury. Hess adds a caution: creatinine is relatively insensitive, and may not rise until more than half of renal function is lost.
+
+[38-019 · Practice: read the labs]
+Last one. A patient's BUN is forty two milligrams per deciliter, and the creatinine is one point oh. What is the ratio, and what does the pattern suggest?
+[6-second practice pause]
+
+[38-020 · Answer: 42 to 1, think dehydration]
+The ratio is forty two to one, well above the normal ten to twenty to one. The BUN is high and the creatinine is normal, which points to dehydration or a high protein intake, and GI bleeding can also raise the BUN. If both were high, you would think kidney disease, and drugs cleared by the kidneys could accumulate.
+
+[38-021 · Recap]
+Here is part two in brief. Paralytics block acetylcholine at the neuromuscular junction but do not sedate or relieve pain, so give analgesia and sedation first, and ventilate. Succinylcholine is the only depolarizer: fast, short, with no reversal, and it risks hyperkalemia. Cisatracurium is the choice in liver or kidney failure. Midazolam is reversed by flumazenil and opioids by naloxone, and together they deepen respiratory depression. A long half-life means longer effects and more risk of toxicity. The liver metabolizes and the kidneys excrete. And a high BUN with a normal creatinine points to dehydration, while both high points to the kidneys. Part three covers dosing and delivery.

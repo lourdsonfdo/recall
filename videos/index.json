@@ -1181,6 +1181,2892 @@
           "title": "Recap: name the parts, know the numbers"
         }
       ]
+    },
+    {
+      "id": "rcp203-final-01",
+      "title": "Pneumonia, CXRs, Pleural Effusions, Accessory Muscles, Extubation Parameters",
+      "course": "RCP 203 · Final review",
+      "file": "203-01-pneumonia-cxrs-pleural-effusions-accessory-muscles-extubatio.mp4",
+      "captions": "203-01.vtt",
+      "transcript": "203-01.txt",
+      "duration": 1204.73,
+      "bytes": 23067923,
+      "version": "0e4ac3f7f42ce953",
+      "reviewNote": "Review version: medical pronunciations were corrected but have not been checked by ear yet.",
+      "chapters": [
+        {
+          "t": 0,
+          "title": "What this chapter covers"
+        },
+        {
+          "t": 46.1,
+          "title": "Pneumonia: definition and signs"
+        },
+        {
+          "t": 112.1,
+          "title": "Pneumonia: exam and diagnostic tests"
+        },
+        {
+          "t": 185.5,
+          "title": "Pneumonia categories: CAP, HAP, VAP, HCAP"
+        },
+        {
+          "t": 263.43,
+          "title": "Typical versus atypical pneumonia"
+        },
+        {
+          "t": 325.8,
+          "title": "Practice: name the pattern"
+        },
+        {
+          "t": 356.0,
+          "title": "Answer: atypical, Mycoplasma, macrolide"
+        },
+        {
+          "t": 393.9,
+          "title": "Reading a chest X-ray, step by step"
+        },
+        {
+          "t": 447.2,
+          "title": "White versus black, and the diaphragm"
+        },
+        {
+          "t": 493.53,
+          "title": "Heart size, Kerley B lines and the ETT tip"
+        },
+        {
+          "t": 547.97,
+          "title": "Pleural effusion: transudate versus exudate"
+        },
+        {
+          "t": 623.2,
+          "title": "Effusion: exam, film and thoracentesis"
+        },
+        {
+          "t": 683.8,
+          "title": "Accessory muscles and what they mean"
+        },
+        {
+          "t": 761.37,
+          "title": "Weaning numbers: RSBI, NIF, VC, tidal volume"
+        },
+        {
+          "t": 820.43,
+          "title": "Oxygenation, pH and passing the SBT"
+        },
+        {
+          "t": 890.63,
+          "title": "The NHLBI ARDS protocol and the tidal volume trap"
+        },
+        {
+          "t": 955.73,
+          "title": "Practice: calculate the RSBI"
+        },
+        {
+          "t": 983.0,
+          "title": "Answer: RSBI 127, not ready"
+        },
+        {
+          "t": 1021.23,
+          "title": "After the SBT: ready to pull the tube?"
+        },
+        {
+          "t": 1088.87,
+          "title": "Peak cough flow and the SIMV caution"
+        },
+        {
+          "t": 1151.07,
+          "title": "Recap"
+        }
+      ]
+    },
+    {
+      "id": "rcp203-final-02",
+      "title": "Pharmacology Calculations",
+      "course": "RCP 203 · Final review",
+      "file": "203-02-pharmacology-calculations.mp4",
+      "captions": "203-02.vtt",
+      "transcript": "203-02.txt",
+      "duration": 607.13,
+      "bytes": 8031491,
+      "version": "cae6c969a4d71b80",
+      "reviewNote": "Review version: medical pronunciations were corrected but have not been checked by ear yet.",
+      "chapters": [
+        {
+          "t": 0,
+          "title": "What this chapter covers"
+        },
+        {
+          "t": 50.97,
+          "title": "Units and conversions"
+        },
+        {
+          "t": 111.07,
+          "title": "The proportion method and mg/kg dosing"
+        },
+        {
+          "t": 164.47,
+          "title": "mg/kg in practice: caffeine and surfactant"
+        },
+        {
+          "t": 222.27,
+          "title": "Percent strength: % × 10 = mg/mL"
+        },
+        {
+          "t": 275.27,
+          "title": "Practice: albuterol by percent"
+        },
+        {
+          "t": 305.17,
+          "title": "Answer: 2.5 mg, and 0.5 mL"
+        },
+        {
+          "t": 361.47,
+          "title": "Diluent does not change the dose"
+        },
+        {
+          "t": 415.0,
+          "title": "Ratio solutions and percent types"
+        },
+        {
+          "t": 477.2,
+          "title": "Practice: dilute a stock solution"
+        },
+        {
+          "t": 497.87,
+          "title": "Answer: 2.5 mL stock plus 2.5 mL water"
+        },
+        {
+          "t": 552.17,
+          "title": "Recap"
+        }
+      ]
+    },
+    {
+      "id": "rcp203-final-03",
+      "title": "Ventilator Changes After ABGs",
+      "course": "RCP 203 · Final review",
+      "file": "203-03-ventilator-changes-after-abgs.mp4",
+      "captions": "203-03.vtt",
+      "transcript": "203-03.txt",
+      "duration": 1041.7,
+      "bytes": 16933783,
+      "version": "d980227fe0128239",
+      "reviewNote": "Review version: medical pronunciations were corrected but have not been checked by ear yet.",
+      "chapters": [
+        {
+          "t": 0,
+          "title": "What this chapter covers"
+        },
+        {
+          "t": 51.6,
+          "title": "High PaCO2: rate first, then tidal volume"
+        },
+        {
+          "t": 120.23,
+          "title": "Low PaO2: FiO2, ventilation or PEEP"
+        },
+        {
+          "t": 181.63,
+          "title": "PaCO2 targets and permissive hypercapnia"
+        },
+        {
+          "t": 263.37,
+          "title": "New rate for a target PaCO2"
+        },
+        {
+          "t": 333.87,
+          "title": "Low PaCO2: when to leave the vent alone"
+        },
+        {
+          "t": 394.87,
+          "title": "High PaCO2 and metabolic changes"
+        },
+        {
+          "t": 444.67,
+          "title": "Practice: should you lower the rate?"
+        },
+        {
+          "t": 469.5,
+          "title": "Answer: no, the low PaCO2 is compensation"
+        },
+        {
+          "t": 507.1,
+          "title": "Oxygenation targets and FiO2 limits"
+        },
+        {
+          "t": 582.93,
+          "title": "FiO2 or PEEP?"
+        },
+        {
+          "t": 657.2,
+          "title": "The 60-60 rule: which knob to turn"
+        },
+        {
+          "t": 721.4,
+          "title": "Why 60-60 works: mismatch versus shunt"
+        },
+        {
+          "t": 797.4,
+          "title": "The CO2 side: rate is the preferred control"
+        },
+        {
+          "t": 864.13,
+          "title": "Adjusting BiPAP: IPAP, EPAP and ΔP"
+        },
+        {
+          "t": 919.07,
+          "title": "Practice: BiPAP on 10 over 5"
+        },
+        {
+          "t": 940.97,
+          "title": "Answer: 12 over 7"
+        },
+        {
+          "t": 978.9,
+          "title": "Recap"
+        }
+      ]
+    },
+    {
+      "id": "rcp203-final-04",
+      "title": "Lung Sounds: All of Them, and What Causes Each",
+      "course": "RCP 203 · Final review",
+      "file": "203-04-lung-sounds-all-of-them-and-what-causes-each.mp4",
+      "captions": "203-04.vtt",
+      "transcript": "203-04.txt",
+      "duration": 855.07,
+      "bytes": 17806071,
+      "version": "801a5f2ef23f33c4",
+      "reviewNote": "Review version: medical pronunciations were corrected but have not been checked by ear yet.",
+      "chapters": [
+        {
+          "t": 0,
+          "title": "What this chapter covers"
+        },
+        {
+          "t": 39.1,
+          "title": "Normal breath sounds and their locations"
+        },
+        {
+          "t": 90.53,
+          "title": "Bronchial sounds in the wrong place"
+        },
+        {
+          "t": 145.17,
+          "title": "Diminished and absent breath sounds"
+        },
+        {
+          "t": 217.73,
+          "title": "Crackles: fine versus coarse"
+        },
+        {
+          "t": 277.1,
+          "title": "Where crackles show up"
+        },
+        {
+          "t": 332.63,
+          "title": "Wheezes, rhonchi and stridor"
+        },
+        {
+          "t": 390.5,
+          "title": "Think location: bronchi or upper airway"
+        },
+        {
+          "t": 444.8,
+          "title": "Practice: a sound after extubation"
+        },
+        {
+          "t": 468.7,
+          "title": "Answer: stridor, upper airway, racemic epi"
+        },
+        {
+          "t": 501.2,
+          "title": "Friction rub, grunting and voice sounds"
+        },
+        {
+          "t": 570.57,
+          "title": "Heuer's table: early versus late crackles"
+        },
+        {
+          "t": 635.4,
+          "title": "By condition: asthma, consolidation, air and fluid"
+        },
+        {
+          "t": 690.3,
+          "title": "By condition: atelectasis, obstruction, edema"
+        },
+        {
+          "t": 748.53,
+          "title": "Practice: name the condition"
+        },
+        {
+          "t": 773.87,
+          "title": "Answer: pneumothorax"
+        },
+        {
+          "t": 800.17,
+          "title": "Recap"
+        }
+      ]
+    },
+    {
+      "id": "rcp203-final-05",
+      "title": "Orthopnea, Kussmaul Breathing, Cheyne-Stokes and Biot's Respirations",
+      "course": "RCP 203 · Final review",
+      "file": "203-05-orthopnea-kussmaul-breathing-cheyne-stokes-and-biot-s-r.mp4",
+      "captions": "203-05.vtt",
+      "transcript": "203-05.txt",
+      "duration": 551.3,
+      "bytes": 9327377,
+      "version": "4b2cc4f99c0cc4fe",
+      "reviewNote": "Review version: medical pronunciations were corrected but have not been checked by ear yet.",
+      "chapters": [
+        {
+          "t": 0,
+          "title": "What this chapter covers"
+        },
+        {
+          "t": 37.3,
+          "title": "Orthopnea and why lying flat hurts"
+        },
+        {
+          "t": 88.67,
+          "title": "Pillows, PND and platypnea"
+        },
+        {
+          "t": 147.97,
+          "title": "Three patterns side by side"
+        },
+        {
+          "t": 214.93,
+          "title": "Biot's versus Cheyne-Stokes, and a conflict"
+        },
+        {
+          "t": 267.33,
+          "title": "Practice: name the pattern"
+        },
+        {
+          "t": 293.1,
+          "title": "Answer: Biot's respiration"
+        },
+        {
+          "t": 322.5,
+          "title": "Why Kussmaul happens"
+        },
+        {
+          "t": 370.93,
+          "title": "Why Cheyne-Stokes and Biot's happen"
+        },
+        {
+          "t": 434.93,
+          "title": "Practice: the CHF breathing pattern"
+        },
+        {
+          "t": 460.73,
+          "title": "Answer: Cheyne-Stokes, a delayed signal"
+        },
+        {
+          "t": 497.5,
+          "title": "Recap"
+        }
+      ]
+    },
+    {
+      "id": "rcp203-final-06",
+      "title": "Volume, Flow and Pressure Measuring Devices; Spirometer Calibration",
+      "course": "RCP 203 · Final review",
+      "file": "203-06-volume-flow-and-pressure-measuring-devices-spirometer-calibr.mp4",
+      "captions": "203-06.vtt",
+      "transcript": "203-06.txt",
+      "duration": 863.5,
+      "bytes": 13375434,
+      "version": "e5d25027ffb8d5c7",
+      "reviewNote": "Review version: medical pronunciations were corrected but have not been checked by ear yet.",
+      "chapters": [
+        {
+          "t": 0,
+          "title": "What this chapter covers"
+        },
+        {
+          "t": 45.27,
+          "title": "The vane respirometer and its errors"
+        },
+        {
+          "t": 107.67,
+          "title": "The Wright respirometer at the bedside"
+        },
+        {
+          "t": 166.77,
+          "title": "Practice: tidal volume from a minute volume"
+        },
+        {
+          "t": 188.77,
+          "title": "Answer: 500 mL"
+        },
+        {
+          "t": 215.97,
+          "title": "The peak flowmeter"
+        },
+        {
+          "t": 286.47,
+          "title": "Peak flow zones"
+        },
+        {
+          "t": 331.57,
+          "title": "The manometer: NIF and MEP"
+        },
+        {
+          "t": 391.03,
+          "title": "The manometer: cuff pressure"
+        },
+        {
+          "t": 432.83,
+          "title": "The capnometer: terms and setup"
+        },
+        {
+          "t": 472.83,
+          "title": "Mainstream versus sidestream; calibration"
+        },
+        {
+          "t": 543.1,
+          "title": "The 3-L syringe: when and why"
+        },
+        {
+          "t": 610.47,
+          "title": "Practice: a low calibration reading"
+        },
+        {
+          "t": 636.07,
+          "title": "Answer: too low, think leak"
+        },
+        {
+          "t": 696.57,
+          "title": "QC limits: the ±2 SD rules"
+        },
+        {
+          "t": 761.67,
+          "title": "Random versus systematic error"
+        },
+        {
+          "t": 808.07,
+          "title": "Recap"
+        }
+      ]
+    },
+    {
+      "id": "rcp203-final-07",
+      "title": "Tracheal Shift, Paradoxical Breathing, Flail Chest",
+      "course": "RCP 203 · Final review",
+      "file": "203-07-tracheal-shift-paradoxical-breathing-flail-chest.mp4",
+      "captions": "203-07.vtt",
+      "transcript": "203-07.txt",
+      "duration": 898.8,
+      "bytes": 17168792,
+      "version": "b2674c0d155724d7",
+      "reviewNote": "Review version: medical pronunciations were corrected but have not been checked by ear yet.",
+      "chapters": [
+        {
+          "t": 0,
+          "title": "What this chapter covers"
+        },
+        {
+          "t": 37.6,
+          "title": "Toward loss, away from pressure"
+        },
+        {
+          "t": 86.0,
+          "title": "Bedside patterns, and a late sign"
+        },
+        {
+          "t": 152.7,
+          "title": "Paradoxical breathing"
+        },
+        {
+          "t": 210.7,
+          "title": "Paradox during weaning"
+        },
+        {
+          "t": 248.37,
+          "title": "Flail chest: definition and motion"
+        },
+        {
+          "t": 297.7,
+          "title": "Why flail chest causes respiratory failure"
+        },
+        {
+          "t": 362.3,
+          "title": "Practice: a segment that moves the wrong way"
+        },
+        {
+          "t": 389.23,
+          "title": "Answer: flail chest, and the contusion"
+        },
+        {
+          "t": 428.93,
+          "title": "Simple versus tension pneumothorax"
+        },
+        {
+          "t": 468.47,
+          "title": "Signs of a tension pneumothorax"
+        },
+        {
+          "t": 529.07,
+          "title": "What to recommend, in order"
+        },
+        {
+          "t": 593.83,
+          "title": "Practice: a sudden change on the vent"
+        },
+        {
+          "t": 627.5,
+          "title": "Answer: tension pneumothorax, act now"
+        },
+        {
+          "t": 672.9,
+          "title": "Who gets tension, and what the film shows"
+        },
+        {
+          "t": 735.63,
+          "title": "Needle thoracostomy, step by step"
+        },
+        {
+          "t": 793.73,
+          "title": "The pneumothorax ladder"
+        },
+        {
+          "t": 841.6,
+          "title": "Recap"
+        }
+      ]
+    },
+    {
+      "id": "rcp203-final-08",
+      "title": "ETT Size by Height/Weight",
+      "course": "RCP 203 · Final review",
+      "file": "203-08-ett-size-by-height-weight.mp4",
+      "captions": "203-08.vtt",
+      "transcript": "203-08.txt",
+      "duration": 493.8,
+      "bytes": 7609311,
+      "version": "0681d5486b2ddc68",
+      "reviewNote": "Review version: medical pronunciations were corrected but have not been checked by ear yet.",
+      "chapters": [
+        {
+          "t": 0,
+          "title": "What this chapter covers"
+        },
+        {
+          "t": 42.0,
+          "title": "Adult tube size and depth"
+        },
+        {
+          "t": 103.63,
+          "title": "Why a bigger tube is better"
+        },
+        {
+          "t": 139.87,
+          "title": "Children: the age formula"
+        },
+        {
+          "t": 195.47,
+          "title": "Children: the length-based tape, and a trap"
+        },
+        {
+          "t": 238.37,
+          "title": "Practice: size a four-year-old"
+        },
+        {
+          "t": 256.77,
+          "title": "Answer: 5.0, 4.5 and 14 cm"
+        },
+        {
+          "t": 283.03,
+          "title": "Neonates: size by weight or gestational age"
+        },
+        {
+          "t": 340.8,
+          "title": "Cuffed or uncuffed, and cuff pressure"
+        },
+        {
+          "t": 385.63,
+          "title": "Practice: size a neonate"
+        },
+        {
+          "t": 406.7,
+          "title": "Answer: 3.5 mm at about 8.5 cm"
+        },
+        {
+          "t": 441.47,
+          "title": "Recap"
+        }
+      ]
+    },
+    {
+      "id": "rcp203-final-09",
+      "title": "Obstructive vs Central Sleep Apnea",
+      "course": "RCP 203 · Final review",
+      "file": "203-09-obstructive-vs-central-sleep-apnea.mp4",
+      "captions": "203-09.vtt",
+      "transcript": "203-09.txt",
+      "duration": 668.8,
+      "bytes": 11482137,
+      "version": "79f9f598d161495e",
+      "reviewNote": "Review version: medical pronunciations were corrected but have not been checked by ear yet.",
+      "chapters": [
+        {
+          "t": 0,
+          "title": "What this chapter covers"
+        },
+        {
+          "t": 39.97,
+          "title": "Effort but no airflow, or neither"
+        },
+        {
+          "t": 92.07,
+          "title": "Why each one happens"
+        },
+        {
+          "t": 165.03,
+          "title": "Risk factors and symptoms"
+        },
+        {
+          "t": 238.1,
+          "title": "Diagnosis: polysomnography and the AHI"
+        },
+        {
+          "t": 296.6,
+          "title": "When OSA or CSA is confirmed"
+        },
+        {
+          "t": 334.0,
+          "title": "Practice: read the sleep study"
+        },
+        {
+          "t": 361.03,
+          "title": "Answer: 12.5 per hour, mild, obstructive"
+        },
+        {
+          "t": 399.07,
+          "title": "Treatment: first steps"
+        },
+        {
+          "t": 477.7,
+          "title": "CPAP settings, backup rate and ASV"
+        },
+        {
+          "t": 553.6,
+          "title": "Practice: first treatment for central apnea"
+        },
+        {
+          "t": 575.4,
+          "title": "Answer: treat the heart first"
+        },
+        {
+          "t": 615.47,
+          "title": "Recap"
+        }
+      ]
+    },
+    {
+      "id": "rcp203-final-10",
+      "title": "Heliox",
+      "course": "RCP 203 · Final review",
+      "file": "203-10-heliox.mp4",
+      "captions": "203-10.vtt",
+      "transcript": "203-10.txt",
+      "duration": 546.0,
+      "bytes": 8057815,
+      "version": "1182ae97f86df6dd",
+      "reviewNote": "Review version: medical pronunciations were corrected but have not been checked by ear yet.",
+      "chapters": [
+        {
+          "t": 0,
+          "title": "What this chapter covers"
+        },
+        {
+          "t": 44.1,
+          "title": "Heliox mixtures and why helium helps"
+        },
+        {
+          "t": 95.37,
+          "title": "Heliox is not oxygen therapy"
+        },
+        {
+          "t": 143.33,
+          "title": "Delivering heliox"
+        },
+        {
+          "t": 209.53,
+          "title": "The flowmeter correction factor"
+        },
+        {
+          "t": 270.23,
+          "title": "Practice: set the flowmeter"
+        },
+        {
+          "t": 290.7,
+          "title": "Answer: set about 8.3 L/min"
+        },
+        {
+          "t": 320.57,
+          "title": "Infants: HFNC instead of an oxyhood"
+        },
+        {
+          "t": 379.7,
+          "title": "Heliox driving a nebulizer"
+        },
+        {
+          "t": 441.87,
+          "title": "Practice: an infant with bronchiolitis"
+        },
+        {
+          "t": 463.77,
+          "title": "Answer: hypothermia; use HFNC"
+        },
+        {
+          "t": 491.47,
+          "title": "Recap"
+        }
+      ]
+    },
+    {
+      "id": "rcp203-final-11",
+      "title": "Bronchoscopy: Diagnostic vs Therapeutic; Medications Used for the Procedure",
+      "course": "RCP 203 · Final review",
+      "file": "203-11-bronchoscopy-diagnostic-vs-therapeutic-medications-used-for-.mp4",
+      "captions": "203-11.vtt",
+      "transcript": "203-11.txt",
+      "duration": 515.83,
+      "bytes": 7984248,
+      "version": "b0fdd550581ea201",
+      "reviewNote": "Review version: medical pronunciations were corrected but have not been checked by ear yet.",
+      "chapters": [
+        {
+          "t": 0,
+          "title": "What this chapter covers"
+        },
+        {
+          "t": 31.97,
+          "title": "Diagnostic: look; therapeutic: treat"
+        },
+        {
+          "t": 96.1,
+          "title": "Indications for each"
+        },
+        {
+          "t": 171.3,
+          "title": "Practice: which kind of bronchoscopy?"
+        },
+        {
+          "t": 200.3,
+          "title": "Answer: plug is therapeutic, lesion diagnostic"
+        },
+        {
+          "t": 230.43,
+          "title": "Sedation: three drugs and their reversals"
+        },
+        {
+          "t": 310.07,
+          "title": "Premedications"
+        },
+        {
+          "t": 376.77,
+          "title": "Controlling bleeding through the scope"
+        },
+        {
+          "t": 416.53,
+          "title": "Practice: reverse the sedation"
+        },
+        {
+          "t": 440.8,
+          "title": "Answer: flumazenil, naloxone; propofol has none"
+        },
+        {
+          "t": 471.7,
+          "title": "Recap"
+        }
+      ]
+    },
+    {
+      "id": "rcp203-final-12",
+      "title": "Rapid Response Team (RRT) Activation Criteria",
+      "course": "RCP 203 · Final review",
+      "file": "203-12-rapid-response-team-rrt-activation-criteria.mp4",
+      "captions": "203-12.vtt",
+      "transcript": "203-12.txt",
+      "duration": 613.9,
+      "bytes": 11789934,
+      "version": "7a1309941f99006b",
+      "reviewNote": "Review version: medical pronunciations were corrected but have not been checked by ear yet.",
+      "chapters": [
+        {
+          "t": 0,
+          "title": "What this chapter covers"
+        },
+        {
+          "t": 35.63,
+          "title": "When to stop a therapy"
+        },
+        {
+          "t": 90.33,
+          "title": "The triple-S rule: stop, stay, stabilize"
+        },
+        {
+          "t": 154.73,
+          "title": "Practice: what do you do first?"
+        },
+        {
+          "t": 178.27,
+          "title": "Answer: stop, stay, stabilize"
+        },
+        {
+          "t": 217.47,
+          "title": "What the rapid response team is"
+        },
+        {
+          "t": 275.73,
+          "title": "Highest-risk patients"
+        },
+        {
+          "t": 313.77,
+          "title": "The deck's activation criteria"
+        },
+        {
+          "t": 359.03,
+          "title": "Deck versus Hess"
+        },
+        {
+          "t": 421.57,
+          "title": "Exam traps, and what the RT does"
+        },
+        {
+          "t": 474.77,
+          "title": "Practice: call or not?"
+        },
+        {
+          "t": 507.17,
+          "title": "Answer: the deck and Hess call"
+        },
+        {
+          "t": 552.63,
+          "title": "Recap"
+        }
+      ]
+    },
+    {
+      "id": "rcp203-final-13",
+      "title": "PFTs: Lung Volumes and Capacities, Bronchoprovocation, Lung-Volume Measurement, Obstructive vs Restrictive",
+      "course": "RCP 203 · Final review",
+      "file": "203-13-pfts-lung-volumes-and-capacities-bronchoprovocation-lung-vol.mp4",
+      "captions": "203-13.vtt",
+      "transcript": "203-13.txt",
+      "duration": 897.8,
+      "bytes": 13590312,
+      "version": "039d660adea1289d",
+      "reviewNote": "Review version: medical pronunciations were corrected but have not been checked by ear yet.",
+      "chapters": [
+        {
+          "t": 0,
+          "title": "What this chapter covers"
+        },
+        {
+          "t": 40.37,
+          "title": "The four lung volumes"
+        },
+        {
+          "t": 86.87,
+          "title": "The capacities, and why FRC is key"
+        },
+        {
+          "t": 155.7,
+          "title": "FVC, FEV1 and their ratio"
+        },
+        {
+          "t": 219.4,
+          "title": "Mid flows, peak flow and test quality"
+        },
+        {
+          "t": 290.93,
+          "title": "Bronchodilator response"
+        },
+        {
+          "t": 353.67,
+          "title": "Practice: is it reversible?"
+        },
+        {
+          "t": 382.17,
+          "title": "Answer: 10%, not reversible"
+        },
+        {
+          "t": 413.37,
+          "title": "Measuring FRC: washout and dilution"
+        },
+        {
+          "t": 473.67,
+          "title": "The body box, and the trapped-gas trap"
+        },
+        {
+          "t": 536.87,
+          "title": "Bronchoprovocation: the methacholine challenge"
+        },
+        {
+          "t": 596.87,
+          "title": "Mannitol, exercise, and when not to test"
+        },
+        {
+          "t": 648.37,
+          "title": "Obstructive versus restrictive: spirometry"
+        },
+        {
+          "t": 703.13,
+          "title": "Obstructive versus restrictive: volumes and DLCO"
+        },
+        {
+          "t": 775.0,
+          "title": "Practice: name the pattern"
+        },
+        {
+          "t": 805.7,
+          "title": "Answer: restrictive, likely ILD"
+        },
+        {
+          "t": 839.9,
+          "title": "Recap"
+        }
+      ]
+    },
+    {
+      "id": "rcp203-final-14",
+      "title": "Artificial Airways and the Transtracheal O₂ Catheter",
+      "course": "RCP 203 · Final review",
+      "file": "203-14-artificial-airways-and-the-transtracheal-o-catheter.mp4",
+      "captions": "203-14.vtt",
+      "transcript": "203-14.txt",
+      "duration": 980.37,
+      "bytes": 16477152,
+      "version": "47d4acd3ef002903",
+      "reviewNote": "Review version: medical pronunciations were corrected but have not been checked by ear yet.",
+      "chapters": [
+        {
+          "t": 0,
+          "title": "What this chapter covers"
+        },
+        {
+          "t": 42.83,
+          "title": "The transtracheal oxygen catheter"
+        },
+        {
+          "t": 105.63,
+          "title": "The oropharyngeal airway: who gets one"
+        },
+        {
+          "t": 148.13,
+          "title": "Sizing and inserting an OPA"
+        },
+        {
+          "t": 207.2,
+          "title": "The nasopharyngeal airway"
+        },
+        {
+          "t": 281.53,
+          "title": "Practice: which adjunct?"
+        },
+        {
+          "t": 303.97,
+          "title": "Answer: a nasopharyngeal airway"
+        },
+        {
+          "t": 336.4,
+          "title": "The laryngeal mask airway"
+        },
+        {
+          "t": 379.33,
+          "title": "LMA: size, cuff and problems"
+        },
+        {
+          "t": 438.2,
+          "title": "The airway ladder and the King LT"
+        },
+        {
+          "t": 502.6,
+          "title": "The Combitube: blue first"
+        },
+        {
+          "t": 573.7,
+          "title": "Practice: the Combitube"
+        },
+        {
+          "t": 598.13,
+          "title": "Answer: the tip is in the trachea"
+        },
+        {
+          "t": 631.6,
+          "title": "Tracheostomy tubes"
+        },
+        {
+          "t": 695.53,
+          "title": "The tracheostomy button"
+        },
+        {
+          "t": 728.87,
+          "title": "A blocked tube: the first step"
+        },
+        {
+          "t": 783.07,
+          "title": "Accidental extubation or decannulation"
+        },
+        {
+          "t": 847.37,
+          "title": "Failed intubation: the pathway"
+        },
+        {
+          "t": 920.8,
+          "title": "Recap"
+        }
+      ]
+    },
+    {
+      "id": "rcp203-final-15",
+      "title": "Pulmonary Hygiene: Percussion, IPPB, Vibratory PEP",
+      "course": "RCP 203 · Final review",
+      "file": "203-15-pulmonary-hygiene-percussion-ippb-vibratory-pep.mp4",
+      "captions": "203-15.vtt",
+      "transcript": "203-15.txt",
+      "duration": 602.67,
+      "bytes": 10126981,
+      "version": "2e05c220f12d53a3",
+      "reviewNote": "Review version: medical pronunciations were corrected but have not been checked by ear yet.",
+      "chapters": [
+        {
+          "t": 0,
+          "title": "What this chapter covers"
+        },
+        {
+          "t": 41.93,
+          "title": "Postural drainage, percussion and vibration"
+        },
+        {
+          "t": 84.6,
+          "title": "When to start, stop, or not do it"
+        },
+        {
+          "t": 142.33,
+          "title": "Mechanical percussion and the vest"
+        },
+        {
+          "t": 201.43,
+          "title": "IPV and Metaneb"
+        },
+        {
+          "t": 246.43,
+          "title": "PEP therapy"
+        },
+        {
+          "t": 303.8,
+          "title": "Flutter versus Acapella"
+        },
+        {
+          "t": 360.63,
+          "title": "Practice: choose a device"
+        },
+        {
+          "t": 384.53,
+          "title": "Answer: the Acapella"
+        },
+        {
+          "t": 415.83,
+          "title": "IPPB, and why it is off the exam"
+        },
+        {
+          "t": 489.03,
+          "title": "Practice: time to stop?"
+        },
+        {
+          "t": 512.77,
+          "title": "Answer: stop postural drainage"
+        },
+        {
+          "t": 548.67,
+          "title": "Recap"
+        }
+      ]
+    },
+    {
+      "id": "rcp203-final-16",
+      "title": "CVP and PA Catheters, Normal Pressures, Diuretics",
+      "course": "RCP 203 · Final review",
+      "file": "203-16-cvp-and-pa-catheters-normal-pressures-diuretics.mp4",
+      "captions": "203-16.vtt",
+      "transcript": "203-16.txt",
+      "duration": 760.7,
+      "bytes": 12182221,
+      "version": "d32b8ed79e1017cd",
+      "reviewNote": "Review version: medical pronunciations were corrected but have not been checked by ear yet.",
+      "chapters": [
+        {
+          "t": 0,
+          "title": "What this chapter covers"
+        },
+        {
+          "t": 52.93,
+          "title": "The CVP catheter"
+        },
+        {
+          "t": 125.77,
+          "title": "Reading a CVP, and the PEEP correction"
+        },
+        {
+          "t": 162.07,
+          "title": "The PA catheter: path and ports"
+        },
+        {
+          "t": 222.97,
+          "title": "PA pressure, wedge pressure and cardiac output"
+        },
+        {
+          "t": 291.7,
+          "title": "Normal pressures: use the Ch 16 deck"
+        },
+        {
+          "t": 356.83,
+          "title": "What does PACP mean?"
+        },
+        {
+          "t": 394.13,
+          "title": "Practice: read the wedge"
+        },
+        {
+          "t": 418.77,
+          "title": "Answer: cardiogenic edema"
+        },
+        {
+          "t": 444.9,
+          "title": "Diuretic classes"
+        },
+        {
+          "t": 518.8,
+          "title": "Osmotic diuretics and CAIs"
+        },
+        {
+          "t": 559.13,
+          "title": "The role of diuretics in respiratory care"
+        },
+        {
+          "t": 625.47,
+          "title": "Diuretics on the ventilator"
+        },
+        {
+          "t": 661.27,
+          "title": "Practice: an alkalosis on the vent"
+        },
+        {
+          "t": 682.57,
+          "title": "Answer: the loop diuretic"
+        },
+        {
+          "t": 703.47,
+          "title": "Recap"
+        }
+      ]
+    },
+    {
+      "id": "rcp203-final-17",
+      "title": "C(a-v)O₂",
+      "course": "RCP 203 · Final review",
+      "file": "203-17-c-a-v-o.mp4",
+      "captions": "203-17.vtt",
+      "transcript": "203-17.txt",
+      "duration": 495.43,
+      "bytes": 7650263,
+      "version": "96916e1fef6ce307",
+      "reviewNote": "Review version: medical pronunciations were corrected but have not been checked by ear yet.",
+      "chapters": [
+        {
+          "t": 0,
+          "title": "What this chapter covers"
+        },
+        {
+          "t": 35.2,
+          "title": "Arterial oxygen content"
+        },
+        {
+          "t": 103.67,
+          "title": "Mixed venous content and the difference"
+        },
+        {
+          "t": 174.17,
+          "title": "The difference feeds the Fick equation"
+        },
+        {
+          "t": 208.17,
+          "title": "Practice: calculate the difference"
+        },
+        {
+          "t": 239.63,
+          "title": "Answer: about 20 minus 15, or 5"
+        },
+        {
+          "t": 276.33,
+          "title": "What widens or narrows it"
+        },
+        {
+          "t": 346.17,
+          "title": "The disease-deck trap"
+        },
+        {
+          "t": 385.47,
+          "title": "Practice: widened or normal?"
+        },
+        {
+          "t": 414.03,
+          "title": "Answer: normal in ARDS"
+        },
+        {
+          "t": 436.87,
+          "title": "Recap"
+        }
+      ]
+    },
+    {
+      "id": "rcp203-final-18",
+      "title": "Partial Rebreathing Mask, Nonrebreathing Mask, Aerosol Mask, Air-Entrainment Mask",
+      "course": "RCP 203 · Final review",
+      "file": "203-18-partial-rebreathing-mask-nonrebreathing-mask-aerosol-mask-ai.mp4",
+      "captions": "203-18.vtt",
+      "transcript": "203-18.txt",
+      "duration": 566.67,
+      "bytes": 8454767,
+      "version": "47bb668041c50e81",
+      "reviewNote": "Review version: medical pronunciations were corrected but have not been checked by ear yet.",
+      "chapters": [
+        {
+          "t": 0,
+          "title": "What this chapter covers"
+        },
+        {
+          "t": 37.03,
+          "title": "Low-flow versus high-flow"
+        },
+        {
+          "t": 77.83,
+          "title": "The reservoir masks: numbers"
+        },
+        {
+          "t": 135.53,
+          "title": "The aerosol and Venturi masks: numbers"
+        },
+        {
+          "t": 193.57,
+          "title": "The valve difference"
+        },
+        {
+          "t": 241.13,
+          "title": "Nonrebreather: flow, safety and uses"
+        },
+        {
+          "t": 285.7,
+          "title": "Practice: the missing valves"
+        },
+        {
+          "t": 308.23,
+          "title": "Answer: a partial rebreather"
+        },
+        {
+          "t": 341.37,
+          "title": "How air entrainment sets the FiO2"
+        },
+        {
+          "t": 385.17,
+          "title": "Total flow from the ratio"
+        },
+        {
+          "t": 422.07,
+          "title": "Practice: total flow at 60%"
+        },
+        {
+          "t": 443.8,
+          "title": "Answer: 20 L/min, too low"
+        },
+        {
+          "t": 468.8,
+          "title": "The aerosol mask: watch the mist"
+        },
+        {
+          "t": 507.5,
+          "title": "Recap"
+        }
+      ]
+    },
+    {
+      "id": "rcp203-final-19",
+      "title": "V̇/Q̇ Mismatch vs Shunt",
+      "course": "RCP 203 · Final review",
+      "file": "203-19-v-q-mismatch-vs-shunt.mp4",
+      "captions": "203-19.vtt",
+      "transcript": "203-19.txt",
+      "duration": 643.73,
+      "bytes": 9713015,
+      "version": "83da5c31068d592f",
+      "reviewNote": "Review version: medical pronunciations were corrected but have not been checked by ear yet.",
+      "chapters": [
+        {
+          "t": 0,
+          "title": "What this chapter covers"
+        },
+        {
+          "t": 36.93,
+          "title": "Wasted air versus wasted blood"
+        },
+        {
+          "t": 91.77,
+          "title": "Causes and response to oxygen"
+        },
+        {
+          "t": 163.47,
+          "title": "The 100% oxygen test"
+        },
+        {
+          "t": 200.77,
+          "title": "The shunt equation, worked"
+        },
+        {
+          "t": 277.77,
+          "title": "Normal shunt, by source"
+        },
+        {
+          "t": 315.13,
+          "title": "Bedside rules: the A–a gradient bands"
+        },
+        {
+          "t": 389.97,
+          "title": "Practice: mismatch or shunt?"
+        },
+        {
+          "t": 413.17,
+          "title": "Answer: shunting; PEEP"
+        },
+        {
+          "t": 438.87,
+          "title": "Good lung down"
+        },
+        {
+          "t": 498.9,
+          "title": "Three times the good lung goes up"
+        },
+        {
+          "t": 543.6,
+          "title": "Practice: position the patient"
+        },
+        {
+          "t": 563.63,
+          "title": "Answer: bleeding lung down, good lung up"
+        },
+        {
+          "t": 588.33,
+          "title": "Recap"
+        }
+      ]
+    },
+    {
+      "id": "rcp203-final-20",
+      "title": "Mechanical Ventilation, part 1: Modes",
+      "course": "RCP 203 · Final review",
+      "file": "203-20-mechanical-ventilation-part-1-modes.mp4",
+      "captions": "203-20.vtt",
+      "transcript": "203-20.txt",
+      "duration": 1243.6,
+      "bytes": 21208046,
+      "version": "6230f3bec49af5a9",
+      "reviewNote": "Review version: medical pronunciations were corrected but have not been checked by ear yet.",
+      "chapters": [
+        {
+          "t": 0,
+          "title": "What this chapter covers"
+        },
+        {
+          "t": 45.3,
+          "title": "Three questions for any mode"
+        },
+        {
+          "t": 105.9,
+          "title": "Spontaneous, mandatory, and breath sequences"
+        },
+        {
+          "t": 180.73,
+          "title": "Volume control versus pressure control"
+        },
+        {
+          "t": 231.0,
+          "title": "When to use VC or PC"
+        },
+        {
+          "t": 300.77,
+          "title": "CMV versus assist control"
+        },
+        {
+          "t": 374.77,
+          "title": "IMV versus SIMV"
+        },
+        {
+          "t": 447.77,
+          "title": "SIMV with pressure support"
+        },
+        {
+          "t": 514.1,
+          "title": "Titrating pressure support"
+        },
+        {
+          "t": 563.0,
+          "title": "Practice: A/C or SIMV?"
+        },
+        {
+          "t": 587.93,
+          "title": "Answer: 20 versus 10 plus 10"
+        },
+        {
+          "t": 616.6,
+          "title": "MMV: a minimum minute ventilation"
+        },
+        {
+          "t": 689.63,
+          "title": "PRVC"
+        },
+        {
+          "t": 771.83,
+          "title": "VV+: VC+ and Volume Support"
+        },
+        {
+          "t": 843.73,
+          "title": "PAV: proportional assist"
+        },
+        {
+          "t": 912.63,
+          "title": "APRV: airway pressure release"
+        },
+        {
+          "t": 981.0,
+          "title": "HFOV: high-frequency oscillation"
+        },
+        {
+          "t": 1057.6,
+          "title": "Practice: HFOV and carbon dioxide"
+        },
+        {
+          "t": 1083.57,
+          "title": "Answer: more amplitude, fewer hertz"
+        },
+        {
+          "t": 1111.47,
+          "title": "All the modes side by side"
+        },
+        {
+          "t": 1186.37,
+          "title": "Recap"
+        }
+      ]
+    },
+    {
+      "id": "rcp203-final-35",
+      "title": "Mechanical Ventilation, part 2: Asynchrony and Ventilator Variables",
+      "course": "RCP 203 · Final review",
+      "file": "203-35-mechanical-ventilation-part-2-asynchrony-and-ventilator-vari.mp4",
+      "captions": "203-35.vtt",
+      "transcript": "203-35.txt",
+      "duration": 1003.17,
+      "bytes": 16304869,
+      "version": "6dde34046ae3dc49",
+      "reviewNote": "Review version: medical pronunciations were corrected but have not been checked by ear yet.",
+      "chapters": [
+        {
+          "t": 0,
+          "title": "What this chapter covers"
+        },
+        {
+          "t": 40.8,
+          "title": "What asynchrony is"
+        },
+        {
+          "t": 87.57,
+          "title": "Trigger asynchrony: missed triggers"
+        },
+        {
+          "t": 150.63,
+          "title": "Trigger asynchrony: auto-triggering"
+        },
+        {
+          "t": 206.13,
+          "title": "Practice: efforts the ventilator misses"
+        },
+        {
+          "t": 230.63,
+          "title": "Answer: missed triggers from auto-PEEP"
+        },
+        {
+          "t": 266.97,
+          "title": "Flow asynchrony: flow starvation"
+        },
+        {
+          "t": 316.5,
+          "title": "Cycle asynchrony: too early, too late"
+        },
+        {
+          "t": 392.83,
+          "title": "Mode asynchrony and the fix sequence"
+        },
+        {
+          "t": 454.03,
+          "title": "The four ventilator variables"
+        },
+        {
+          "t": 524.83,
+          "title": "Control and phase variables"
+        },
+        {
+          "t": 591.9,
+          "title": "Independent versus dependent"
+        },
+        {
+          "t": 642.43,
+          "title": "What changes the pressure, and the volume"
+        },
+        {
+          "t": 709.8,
+          "title": "Practice: resistance rises"
+        },
+        {
+          "t": 735.3,
+          "title": "Answer: PIP up, plateau unchanged"
+        },
+        {
+          "t": 770.1,
+          "title": "Trigger: what starts the breath"
+        },
+        {
+          "t": 838.07,
+          "title": "Cycle: what ends the breath"
+        },
+        {
+          "t": 901.5,
+          "title": "Practice: start, hold, stop"
+        },
+        {
+          "t": 924.07,
+          "title": "Answer: patient, pressure, flow"
+        },
+        {
+          "t": 949.77,
+          "title": "Recap"
+        }
+      ]
+    },
+    {
+      "id": "rcp203-final-36",
+      "title": "Mechanical Ventilation, part 3: PEEP, Pressures, Circuits and Valves",
+      "course": "RCP 203 · Final review",
+      "file": "203-36-mechanical-ventilation-part-3-peep-pressures-circuits-and-va.mp4",
+      "captions": "203-36.vtt",
+      "transcript": "203-36.txt",
+      "duration": 1046.27,
+      "bytes": 16715059,
+      "version": "b61b5563522e913a",
+      "reviewNote": "Review version: medical pronunciations were corrected but have not been checked by ear yet.",
+      "chapters": [
+        {
+          "t": 0,
+          "title": "What this chapter covers"
+        },
+        {
+          "t": 35.6,
+          "title": "What PEEP does"
+        },
+        {
+          "t": 83.8,
+          "title": "When to use PEEP, and how much"
+        },
+        {
+          "t": 149.5,
+          "title": "Finding optimal PEEP"
+        },
+        {
+          "t": 213.57,
+          "title": "The dangerous PEEP level"
+        },
+        {
+          "t": 275.4,
+          "title": "PEEP complications"
+        },
+        {
+          "t": 318.07,
+          "title": "Practice: PEEP and blood pressure"
+        },
+        {
+          "t": 341.97,
+          "title": "Answer: less venous return; yes, above 10"
+        },
+        {
+          "t": 372.17,
+          "title": "Auto-PEEP"
+        },
+        {
+          "t": 433.97,
+          "title": "Detect, measure, and fix auto-PEEP"
+        },
+        {
+          "t": 497.47,
+          "title": "Practice: measure and fix it"
+        },
+        {
+          "t": 521.6,
+          "title": "Answer: 10 cm H2O; more time to exhale"
+        },
+        {
+          "t": 549.6,
+          "title": "High pressures: airways or lungs?"
+        },
+        {
+          "t": 602.2,
+          "title": "The high-pressure alarm"
+        },
+        {
+          "t": 661.9,
+          "title": "Low pressures and leaks"
+        },
+        {
+          "t": 738.53,
+          "title": "Practice: read the pressures"
+        },
+        {
+          "t": 759.53,
+          "title": "Answer: airways"
+        },
+        {
+          "t": 786.53,
+          "title": "Ventilator circuits"
+        },
+        {
+          "t": 847.2,
+          "title": "Dead space, compressed volume, circuit care"
+        },
+        {
+          "t": 909.97,
+          "title": "Exhalation valves"
+        },
+        {
+          "t": 987.77,
+          "title": "Recap"
+        }
+      ]
+    },
+    {
+      "id": "rcp203-final-37",
+      "title": "Mechanical Ventilation, part 4: Compliance, Humidity, Cuffs, I:E and ARDSNet",
+      "course": "RCP 203 · Final review",
+      "file": "203-37-mechanical-ventilation-part-4-compliance-humidity-cuffs-i-e-.mp4",
+      "captions": "203-37.vtt",
+      "transcript": "203-37.txt",
+      "duration": 1365.43,
+      "bytes": 20982687,
+      "version": "328cfb145a90311c",
+      "reviewNote": "Review version: medical pronunciations were corrected but have not been checked by ear yet.",
+      "chapters": [
+        {
+          "t": 0,
+          "title": "What this chapter covers"
+        },
+        {
+          "t": 36.9,
+          "title": "Static compliance"
+        },
+        {
+          "t": 99.03,
+          "title": "Dynamic compliance, and a worked example"
+        },
+        {
+          "t": 155.03,
+          "title": "Which normal range?"
+        },
+        {
+          "t": 210.0,
+          "title": "Practice: calculate compliance"
+        },
+        {
+          "t": 236.83,
+          "title": "Answer: 25 static, about 17 dynamic"
+        },
+        {
+          "t": 271.77,
+          "title": "Minute versus alveolar ventilation"
+        },
+        {
+          "t": 343.0,
+          "title": "Why alveolar ventilation matters"
+        },
+        {
+          "t": 381.0,
+          "title": "Relative humidity"
+        },
+        {
+          "t": 443.27,
+          "title": "Humidity targets, and rain-out"
+        },
+        {
+          "t": 511.43,
+          "title": "Cuff pressures"
+        },
+        {
+          "t": 573.87,
+          "title": "Cuff traps"
+        },
+        {
+          "t": 642.23,
+          "title": "Practice: a cuff that won't seal"
+        },
+        {
+          "t": 664.7,
+          "title": "Answer: the tube may be too small"
+        },
+        {
+          "t": 689.1,
+          "title": "The equation of motion"
+        },
+        {
+          "t": 761.8,
+          "title": "Computing the I:E ratio"
+        },
+        {
+          "t": 821.13,
+          "title": "Setting the flow for an ordered I:E"
+        },
+        {
+          "t": 886.87,
+          "title": "Lowering the ratio"
+        },
+        {
+          "t": 955.77,
+          "title": "Lung protection, permissive hypercapnia, ATC"
+        },
+        {
+          "t": 1030.33,
+          "title": "ARDSNet: who qualifies"
+        },
+        {
+          "t": 1091.6,
+          "title": "ARDSNet: the starting settings"
+        },
+        {
+          "t": 1150.13,
+          "title": "ARDSNet: plateau rules"
+        },
+        {
+          "t": 1192.03,
+          "title": "ARDSNet: pH rules"
+        },
+        {
+          "t": 1248.3,
+          "title": "Practice: ARDSNet and a low pH"
+        },
+        {
+          "t": 1272.53,
+          "title": "Answer: raise the rate"
+        },
+        {
+          "t": 1304.23,
+          "title": "Recap"
+        }
+      ]
+    },
+    {
+      "id": "rcp203-final-21",
+      "title": "PIP, Pplat and PEEP: Normals, Lung Condition, Effects, Auto-PEEP",
+      "course": "RCP 203 · Final review",
+      "file": "203-21-pip-pplat-and-peep-normals-lung-condition-effects-auto-peep.mp4",
+      "captions": "203-21.vtt",
+      "transcript": "203-21.txt",
+      "duration": 791.5,
+      "bytes": 11573144,
+      "version": "996fb1f9f6fc8663",
+      "reviewNote": "Review version: medical pronunciations were corrected but have not been checked by ear yet.",
+      "chapters": [
+        {
+          "t": 0,
+          "title": "What this chapter covers"
+        },
+        {
+          "t": 40.7,
+          "title": "Targets, not normals"
+        },
+        {
+          "t": 112.83,
+          "title": "What each pressure tells you"
+        },
+        {
+          "t": 186.0,
+          "title": "Airways or lungs?"
+        },
+        {
+          "t": 241.1,
+          "title": "The same problems in pressure control"
+        },
+        {
+          "t": 271.4,
+          "title": "Practice: read the pressures"
+        },
+        {
+          "t": 297.3,
+          "title": "Answer: an airway problem"
+        },
+        {
+          "t": 327.17,
+          "title": "PEEP too low, optimal, too high"
+        },
+        {
+          "t": 397.77,
+          "title": "Rising pressures: the venous return chain"
+        },
+        {
+          "t": 460.13,
+          "title": "PEEP's other effects"
+        },
+        {
+          "t": 518.2,
+          "title": "Auto-PEEP: what it is and how to find it"
+        },
+        {
+          "t": 577.13,
+          "title": "Measuring auto-PEEP"
+        },
+        {
+          "t": 609.1,
+          "title": "Fixing auto-PEEP"
+        },
+        {
+          "t": 674.23,
+          "title": "Practice: auto-PEEP in a triggering patient"
+        },
+        {
+          "t": 702.53,
+          "title": "Answer: auto-PEEP 8"
+        },
+        {
+          "t": 736.07,
+          "title": "Recap"
+        }
+      ]
+    },
+    {
+      "id": "rcp203-final-22",
+      "title": "Respiratory Drugs, part 1: Airway Drugs",
+      "course": "RCP 203 · Final review",
+      "file": "203-22-respiratory-drugs-part-1-airway-drugs.mp4",
+      "captions": "203-22.vtt",
+      "transcript": "203-22.txt",
+      "duration": 863.63,
+      "bytes": 16529878,
+      "version": "930582388cfaaa05",
+      "reviewNote": "Review version: medical pronunciations were corrected but have not been checked by ear yet.",
+      "chapters": [
+        {
+          "t": 0,
+          "title": "What this chapter covers"
+        },
+        {
+          "t": 39.87,
+          "title": "Acetylcysteine"
+        },
+        {
+          "t": 108.27,
+          "title": "Beclomethasone"
+        },
+        {
+          "t": 180.0,
+          "title": "Albuterol and levalbuterol"
+        },
+        {
+          "t": 262.53,
+          "title": "Ipratropium"
+        },
+        {
+          "t": 341.47,
+          "title": "SABA versus LABA"
+        },
+        {
+          "t": 413.97,
+          "title": "Practice: rescue or controller?"
+        },
+        {
+          "t": 439.8,
+          "title": "Answer: only albuterol"
+        },
+        {
+          "t": 476.07,
+          "title": "Leukotriene inhibitors"
+        },
+        {
+          "t": 549.17,
+          "title": "Immunoglobulins and biologics"
+        },
+        {
+          "t": 630.5,
+          "title": "Palivizumab, and a gap"
+        },
+        {
+          "t": 669.93,
+          "title": "Albuterol for high potassium"
+        },
+        {
+          "t": 743.17,
+          "title": "Practice: albuterol and potassium"
+        },
+        {
+          "t": 768.97,
+          "title": "Answer: hidden, not removed"
+        },
+        {
+          "t": 807.0,
+          "title": "Recap"
+        }
+      ]
+    },
+    {
+      "id": "rcp203-final-38",
+      "title": "Respiratory Drugs, part 2: Sedation, Paralysis and Pharmacokinetics",
+      "course": "RCP 203 · Final review",
+      "file": "203-38-respiratory-drugs-part-2-sedation-paralysis-and-pharmacokine.mp4",
+      "captions": "203-38.vtt",
+      "transcript": "203-38.txt",
+      "duration": 1045.03,
+      "bytes": 17857633,
+      "version": "191cae0a793c9417",
+      "reviewNote": "Review version: medical pronunciations were corrected but have not been checked by ear yet.",
+      "chapters": [
+        {
+          "t": 0,
+          "title": "What this chapter covers"
+        },
+        {
+          "t": 41.3,
+          "title": "What paralytics do, and don't do"
+        },
+        {
+          "t": 75.8,
+          "title": "Depolarizing versus nondepolarizing"
+        },
+        {
+          "t": 142.47,
+          "title": "Elimination, hazards and reversal"
+        },
+        {
+          "t": 196.97,
+          "title": "Practice: choose the paralytic"
+        },
+        {
+          "t": 220.27,
+          "title": "Answer: cisatracurium"
+        },
+        {
+          "t": 251.03,
+          "title": "Sedatives: benzodiazepines and propofol"
+        },
+        {
+          "t": 323.1,
+          "title": "Dexmedetomidine, etomidate, ketamine"
+        },
+        {
+          "t": 379.07,
+          "title": "Opioids"
+        },
+        {
+          "t": 450.7,
+          "title": "Practice: reverse it"
+        },
+        {
+          "t": 472.7,
+          "title": "Answer: naloxone and flumazenil"
+        },
+        {
+          "t": 496.5,
+          "title": "Half-life"
+        },
+        {
+          "t": 562.9,
+          "title": "Half-lives: carbon monoxide and paralytics"
+        },
+        {
+          "t": 625.0,
+          "title": "Routes of administration"
+        },
+        {
+          "t": 692.67,
+          "title": "Bioavailability and first pass"
+        },
+        {
+          "t": 763.8,
+          "title": "Organs of elimination"
+        },
+        {
+          "t": 827.3,
+          "title": "Creatinine versus BUN"
+        },
+        {
+          "t": 880.53,
+          "title": "Normal values, and the ratio"
+        },
+        {
+          "t": 931.73,
+          "title": "Practice: read the labs"
+        },
+        {
+          "t": 953.43,
+          "title": "Answer: 42 to 1, think dehydration"
+        },
+        {
+          "t": 982.03,
+          "title": "Recap"
+        }
+      ]
+    },
+    {
+      "id": "rcp203-final-39",
+      "title": "Respiratory Drugs, part 3: Dosing and Delivery",
+      "course": "RCP 203 · Final review",
+      "file": "203-39-respiratory-drugs-part-3-dosing-and-delivery.mp4",
+      "captions": "203-39.vtt",
+      "transcript": "203-39.txt",
+      "duration": 911.23,
+      "bytes": 14669181,
+      "version": "56946196668a40d8",
+      "reviewNote": "Review version: medical pronunciations were corrected but have not been checked by ear yet.",
+      "chapters": [
+        {
+          "t": 0,
+          "title": "What this chapter covers"
+        },
+        {
+          "t": 38.3,
+          "title": "Abbreviations and receptors"
+        },
+        {
+          "t": 103.43,
+          "title": "Bronchodilator frequencies"
+        },
+        {
+          "t": 173.57,
+          "title": "Controller frequencies"
+        },
+        {
+          "t": 247.17,
+          "title": "Mucolytics and anti-infectives"
+        },
+        {
+          "t": 322.93,
+          "title": "Practice: how often?"
+        },
+        {
+          "t": 344.63,
+          "title": "Answer: once, four times, twice"
+        },
+        {
+          "t": 368.4,
+          "title": "The order of inhaled drugs"
+        },
+        {
+          "t": 424.33,
+          "title": "Picking the drug"
+        },
+        {
+          "t": 502.67,
+          "title": "Picking the device"
+        },
+        {
+          "t": 582.23,
+          "title": "Practice: put them in order"
+        },
+        {
+          "t": 605.03,
+          "title": "Answer: open, thin, clear, then treat"
+        },
+        {
+          "t": 627.27,
+          "title": "Drugs down the tube"
+        },
+        {
+          "t": 687.4,
+          "title": "Giving surfactant"
+        },
+        {
+          "t": 752.67,
+          "title": "Choosing surfactant"
+        },
+        {
+          "t": 803.2,
+          "title": "Practice: no IV access"
+        },
+        {
+          "t": 826.03,
+          "title": "Answer: yes, 2 to 2.5 mg in 10 mL"
+        },
+        {
+          "t": 856.5,
+          "title": "Recap"
+        }
+      ]
+    },
+    {
+      "id": "rcp203-final-23",
+      "title": "Disinfection and Sterilization Methods",
+      "course": "RCP 203 · Final review",
+      "file": "203-23-disinfection-and-sterilization-methods.mp4",
+      "captions": "203-23.vtt",
+      "transcript": "203-23.txt",
+      "duration": 528.13,
+      "bytes": 7845870,
+      "version": "84afcbd40dde9cc1",
+      "reviewNote": "Review version: medical pronunciations were corrected but have not been checked by ear yet.",
+      "chapters": [
+        {
+          "t": 0,
+          "title": "What this chapter covers"
+        },
+        {
+          "t": 33.73,
+          "title": "Sterilization versus disinfection"
+        },
+        {
+          "t": 82.93,
+          "title": "The Spaulding categories"
+        },
+        {
+          "t": 144.17,
+          "title": "Practice: which category?"
+        },
+        {
+          "t": 166.2,
+          "title": "Answer: semicritical, critical, noncritical"
+        },
+        {
+          "t": 194.03,
+          "title": "Pasteurization versus the autoclave"
+        },
+        {
+          "t": 251.67,
+          "title": "Alcohol versus chlorhexidine"
+        },
+        {
+          "t": 320.87,
+          "title": "Glutaraldehyde and OPA"
+        },
+        {
+          "t": 366.0,
+          "title": "Bleach, ethylene oxide and gas plasma"
+        },
+        {
+          "t": 427.7,
+          "title": "Practice: which method sterilizes?"
+        },
+        {
+          "t": 449.67,
+          "title": "Answer: autoclave and ethylene oxide"
+        },
+        {
+          "t": 472.27,
+          "title": "Recap"
+        }
+      ]
+    },
+    {
+      "id": "rcp203-final-24",
+      "title": "Capnography",
+      "course": "RCP 203 · Final review",
+      "file": "203-24-capnography.mp4",
+      "captions": "203-24.vtt",
+      "transcript": "203-24.txt",
+      "duration": 621.0,
+      "bytes": 8975109,
+      "version": "814cbab484d034d3",
+      "reviewNote": "Review version: medical pronunciations were corrected but have not been checked by ear yet.",
+      "chapters": [
+        {
+          "t": 0,
+          "title": "What this chapter covers"
+        },
+        {
+          "t": 39.9,
+          "title": "Mainstream versus sidestream"
+        },
+        {
+          "t": 96.83,
+          "title": "Normal numbers and tube confirmation"
+        },
+        {
+          "t": 169.23,
+          "title": "Volumetric capnography and PEEP"
+        },
+        {
+          "t": 203.33,
+          "title": "The normal capnogram"
+        },
+        {
+          "t": 265.33,
+          "title": "Sudden drops"
+        },
+        {
+          "t": 314.83,
+          "title": "Sudden rises and abnormal shapes"
+        },
+        {
+          "t": 385.8,
+          "title": "Practice: a sudden drop"
+        },
+        {
+          "t": 413.0,
+          "title": "Answer: think perfusion, not the rate"
+        },
+        {
+          "t": 440.53,
+          "title": "Capnography during CPR"
+        },
+        {
+          "t": 505.63,
+          "title": "Practice: during a code"
+        },
+        {
+          "t": 530.0,
+          "title": "Answer: improve CPR, then ROSC"
+        },
+        {
+          "t": 565.93,
+          "title": "Recap"
+        }
+      ]
+    },
+    {
+      "id": "rcp203-final-25",
+      "title": "Intrapulmonary Percussive Ventilation (IPV) for CF",
+      "course": "RCP 203 · Final review",
+      "file": "203-25-intrapulmonary-percussive-ventilation-ipv-for-cf.mp4",
+      "captions": "203-25.vtt",
+      "transcript": "203-25.txt",
+      "duration": 485.43,
+      "bytes": 8920365,
+      "version": "2612af8fe4aa9eeb",
+      "reviewNote": "Review version: medical pronunciations were corrected but have not been checked by ear yet.",
+      "chapters": [
+        {
+          "t": 0,
+          "title": "What this chapter covers"
+        },
+        {
+          "t": 32.5,
+          "title": "What IPV is"
+        },
+        {
+          "t": 80.6,
+          "title": "How it works, and the rate"
+        },
+        {
+          "t": 119.83,
+          "title": "The devices"
+        },
+        {
+          "t": 165.63,
+          "title": "MetaNeb, and a gap"
+        },
+        {
+          "t": 216.8,
+          "title": "Practice: which device?"
+        },
+        {
+          "t": 241.23,
+          "title": "Answer: not the PercussiveNeb"
+        },
+        {
+          "t": 265.77,
+          "title": "Indications and contraindications"
+        },
+        {
+          "t": 311.0,
+          "title": "IPV in cystic fibrosis"
+        },
+        {
+          "t": 380.53,
+          "title": "Practice: is IPV safe here?"
+        },
+        {
+          "t": 403.43,
+          "title": "Answer: hold it for the hemoptysis"
+        },
+        {
+          "t": 430.13,
+          "title": "Recap"
+        }
+      ]
+    },
+    {
+      "id": "rcp203-final-26",
+      "title": "Inhaled Nitric Oxide",
+      "course": "RCP 203 · Final review",
+      "file": "203-26-inhaled-nitric-oxide.mp4",
+      "captions": "203-26.vtt",
+      "transcript": "203-26.txt",
+      "duration": 665.27,
+      "bytes": 10618753,
+      "version": "151ed1e39dea872d",
+      "reviewNote": "Review version: medical pronunciations were corrected but have not been checked by ear yet.",
+      "chapters": [
+        {
+          "t": 0,
+          "title": "What this chapter covers"
+        },
+        {
+          "t": 36.7,
+          "title": "How inhaled NO works"
+        },
+        {
+          "t": 81.53,
+          "title": "What it is used for"
+        },
+        {
+          "t": 159.17,
+          "title": "Side effects"
+        },
+        {
+          "t": 229.63,
+          "title": "Methemoglobin levels"
+        },
+        {
+          "t": 282.63,
+          "title": "Starting and delivering NO"
+        },
+        {
+          "t": 338.93,
+          "title": "Weaning and stopping: the checklist"
+        },
+        {
+          "t": 410.53,
+          "title": "Practice: ready to stop?"
+        },
+        {
+          "t": 437.13,
+          "title": "Answer: not yet"
+        },
+        {
+          "t": 471.93,
+          "title": "The inhaled prostacyclins"
+        },
+        {
+          "t": 546.57,
+          "title": "Practice: a rising methemoglobin"
+        },
+        {
+          "t": 569.17,
+          "title": "Answer: lower the dose"
+        },
+        {
+          "t": 601.33,
+          "title": "Recap"
+        }
+      ]
+    },
+    {
+      "id": "rcp203-final-27",
+      "title": "Pressure-Volume and Flow-Volume Loops",
+      "course": "RCP 203 · Final review",
+      "file": "203-27-pressure-volume-and-flow-volume-loops.mp4",
+      "captions": "203-27.vtt",
+      "transcript": "203-27.txt",
+      "duration": 681.33,
+      "bytes": 12410160,
+      "version": "53ebb86ddce14c00",
+      "reviewNote": "Review version: medical pronunciations were corrected but have not been checked by ear yet.",
+      "chapters": [
+        {
+          "t": 0,
+          "title": "What this chapter covers"
+        },
+        {
+          "t": 40.53,
+          "title": "Reading a pressure-volume loop"
+        },
+        {
+          "t": 106.73,
+          "title": "Breath types on the loop"
+        },
+        {
+          "t": 141.93,
+          "title": "Compliance changes on the loop"
+        },
+        {
+          "t": 206.7,
+          "title": "Overdistension: the beak"
+        },
+        {
+          "t": 253.8,
+          "title": "The lower inflection point and optimal PEEP"
+        },
+        {
+          "t": 308.6,
+          "title": "Practice: a beak on the loop"
+        },
+        {
+          "t": 331.23,
+          "title": "Answer: overdistension, lower the VT"
+        },
+        {
+          "t": 355.03,
+          "title": "Resistance, leaks and auto-PEEP"
+        },
+        {
+          "t": 415.93,
+          "title": "Work of breathing, and a gap"
+        },
+        {
+          "t": 449.13,
+          "title": "The flow-volume loop on the ventilator"
+        },
+        {
+          "t": 500.03,
+          "title": "Spirometry loop shapes"
+        },
+        {
+          "t": 574.33,
+          "title": "Practice: an upper-airway lesion"
+        },
+        {
+          "t": 598.63,
+          "title": "Answer: a variable upper-airway lesion"
+        },
+        {
+          "t": 622.93,
+          "title": "Recap"
+        }
+      ]
+    },
+    {
+      "id": "rcp203-final-28",
+      "title": "Transcutaneous Monitoring",
+      "course": "RCP 203 · Final review",
+      "file": "203-28-transcutaneous-monitoring.mp4",
+      "captions": "203-28.vtt",
+      "transcript": "203-28.txt",
+      "duration": 510.63,
+      "bytes": 8498891,
+      "version": "825c4cf9eb89b673",
+      "reviewNote": "Review version: medical pronunciations were corrected but have not been checked by ear yet.",
+      "chapters": [
+        {
+          "t": 0,
+          "title": "What this chapter covers"
+        },
+        {
+          "t": 34.53,
+          "title": "How it works, and placing the sensor"
+        },
+        {
+          "t": 98.03,
+          "title": "Alarms, site changes and the CCHD screen"
+        },
+        {
+          "t": 159.93,
+          "title": "Newer sensors: Heuer and Hess"
+        },
+        {
+          "t": 196.43,
+          "title": "The most common problem: an air leak"
+        },
+        {
+          "t": 235.13,
+          "title": "When the oxygen reading is too low"
+        },
+        {
+          "t": 302.07,
+          "title": "When not to use it, and checking accuracy"
+        },
+        {
+          "t": 355.6,
+          "title": "Practice: a sudden change"
+        },
+        {
+          "t": 381.5,
+          "title": "Answer: an air leak"
+        },
+        {
+          "t": 408.5,
+          "title": "Practice: the CCHD screen"
+        },
+        {
+          "t": 435.4,
+          "title": "Answer: possibly; 18 torr apart"
+        },
+        {
+          "t": 454.9,
+          "title": "Recap"
+        }
+      ]
+    },
+    {
+      "id": "rcp203-final-29",
+      "title": "APGAR Scores and Home Apnea Monitoring",
+      "course": "RCP 203 · Final review",
+      "file": "203-29-apgar-scores-and-home-apnea-monitoring.mp4",
+      "captions": "203-29.vtt",
+      "transcript": "203-29.txt",
+      "duration": 640.93,
+      "bytes": 10315401,
+      "version": "4291e52fd7a0be3e",
+      "reviewNote": "Review version: medical pronunciations were corrected but have not been checked by ear yet.",
+      "chapters": [
+        {
+          "t": 0,
+          "title": "What this chapter covers"
+        },
+        {
+          "t": 35.17,
+          "title": "The Apgar score"
+        },
+        {
+          "t": 99.0,
+          "title": "Interpreting the Apgar"
+        },
+        {
+          "t": 147.13,
+          "title": "Practice: score this baby"
+        },
+        {
+          "t": 171.73,
+          "title": "Answer: 1, severely depressed"
+        },
+        {
+          "t": 206.53,
+          "title": "Who needs a home apnea monitor"
+        },
+        {
+          "t": 271.67,
+          "title": "How the monitor works"
+        },
+        {
+          "t": 338.47,
+          "title": "Apnea versus periodic breathing"
+        },
+        {
+          "t": 386.93,
+          "title": "Practice: apnea or periodic breathing?"
+        },
+        {
+          "t": 415.73,
+          "title": "Answer: the bradycardic one"
+        },
+        {
+          "t": 445.73,
+          "title": "Resuscitation in the delivery room"
+        },
+        {
+          "t": 509.3,
+          "title": "Pre-ductal versus post-ductal saturation"
+        },
+        {
+          "t": 571.7,
+          "title": "Recap"
+        }
+      ]
+    },
+    {
+      "id": "rcp203-final-30",
+      "title": "Carbon Monoxide",
+      "course": "RCP 203 · Final review",
+      "file": "203-30-carbon-monoxide.mp4",
+      "captions": "203-30.vtt",
+      "transcript": "203-30.txt",
+      "duration": 611.16,
+      "bytes": 9316024,
+      "version": "f93f91dc27afac6d",
+      "reviewNote": "Review version: medical pronunciations were corrected but have not been checked by ear yet.",
+      "chapters": [
+        {
+          "t": 0,
+          "title": "What this chapter covers"
+        },
+        {
+          "t": 36.3,
+          "title": "COHb levels"
+        },
+        {
+          "t": 94.27,
+          "title": "Why carbon monoxide harms"
+        },
+        {
+          "t": 150.57,
+          "title": "Why SpO2 and PaO2 mislead"
+        },
+        {
+          "t": 205.47,
+          "title": "Bedside corrections"
+        },
+        {
+          "t": 270.17,
+          "title": "Practice: a fire victim"
+        },
+        {
+          "t": 299.77,
+          "title": "Answer: poisoned; true sat ~71%"
+        },
+        {
+          "t": 336.07,
+          "title": "Treatment: 100% oxygen now"
+        },
+        {
+          "t": 390.97,
+          "title": "COHb half-life"
+        },
+        {
+          "t": 432.53,
+          "title": "When to consider hyperbaric oxygen"
+        },
+        {
+          "t": 493.23,
+          "title": "Practice: hyperbaric or not?"
+        },
+        {
+          "t": 519.3,
+          "title": "Answer: oxygen now, consider HBOT"
+        },
+        {
+          "t": 548.37,
+          "title": "Recap"
+        }
+      ]
+    },
+    {
+      "id": "rcp203-final-31",
+      "title": "The 40-50-60 / 70-80-90 Rule",
+      "course": "RCP 203 · Final review",
+      "file": "203-31-the-40-50-60-70-80-90-rule.mp4",
+      "captions": "203-31.vtt",
+      "transcript": "203-31.txt",
+      "duration": 363.23,
+      "bytes": 5573764,
+      "version": "b4f629e56ffe77df",
+      "reviewNote": "Review version: medical pronunciations were corrected but have not been checked by ear yet.",
+      "chapters": [
+        {
+          "t": 0,
+          "title": "What this chapter covers"
+        },
+        {
+          "t": 36.0,
+          "title": "The rule"
+        },
+        {
+          "t": 101.7,
+          "title": "Practice: estimate the PaO2"
+        },
+        {
+          "t": 124.3,
+          "title": "Answer: about 40 torr"
+        },
+        {
+          "t": 147.3,
+          "title": "Why 60/90 is the key pair"
+        },
+        {
+          "t": 210.13,
+          "title": "Targets, and the rule's limits"
+        },
+        {
+          "t": 263.63,
+          "title": "Practice: trust the oximeter?"
+        },
+        {
+          "t": 285.47,
+          "title": "Answer: no, check CO-oximetry"
+        },
+        {
+          "t": 316.87,
+          "title": "Recap"
+        }
+      ]
+    },
+    {
+      "id": "rcp203-final-32",
+      "title": "APGAR vs Glasgow vs Ballard vs Silverman Scores",
+      "course": "RCP 203 · Final review",
+      "file": "203-32-apgar-vs-glasgow-vs-ballard-vs-silverman-scores.mp4",
+      "captions": "203-32.vtt",
+      "transcript": "203-32.txt",
+      "duration": 577.9,
+      "bytes": 9151028,
+      "version": "ae13d2bd689fc2e9",
+      "reviewNote": "Review version: medical pronunciations were corrected but have not been checked by ear yet.",
+      "chapters": [
+        {
+          "t": 0,
+          "title": "What this chapter covers"
+        },
+        {
+          "t": 42.73,
+          "title": "What each score measures"
+        },
+        {
+          "t": 95.7,
+          "title": "Ranges, and which way is good"
+        },
+        {
+          "t": 151.73,
+          "title": "Practice: same number, good or bad?"
+        },
+        {
+          "t": 172.23,
+          "title": "Answer: same number, opposite meaning"
+        },
+        {
+          "t": 199.83,
+          "title": "The Glasgow Coma Scale"
+        },
+        {
+          "t": 263.83,
+          "title": "GCS of 8 or less, and two caveats"
+        },
+        {
+          "t": 307.67,
+          "title": "Practice: score this patient"
+        },
+        {
+          "t": 329.93,
+          "title": "Answer: 8, severe"
+        },
+        {
+          "t": 356.7,
+          "title": "The Ballard score"
+        },
+        {
+          "t": 417.13,
+          "title": "The Silverman score"
+        },
+        {
+          "t": 484.33,
+          "title": "Practice: what does a Ballard of 30 mean?"
+        },
+        {
+          "t": 501.77,
+          "title": "Answer: about 36 weeks, preterm"
+        },
+        {
+          "t": 536.37,
+          "title": "Recap"
+        }
+      ]
+    },
+    {
+      "id": "rcp203-final-33",
+      "title": "Suction Catheter Size",
+      "course": "RCP 203 · Final review",
+      "file": "203-33-suction-catheter-size.mp4",
+      "captions": "203-33.vtt",
+      "transcript": "203-33.txt",
+      "duration": 380.17,
+      "bytes": 4979298,
+      "version": "1401fbd1eaab2dd2",
+      "reviewNote": "Review version: medical pronunciations were corrected but have not been checked by ear yet.",
+      "chapters": [
+        {
+          "t": 0,
+          "title": "What this chapter covers"
+        },
+        {
+          "t": 34.9,
+          "title": "The rule: under half the tube"
+        },
+        {
+          "t": 86.43,
+          "title": "Worked example, and where Hess differs"
+        },
+        {
+          "t": 136.93,
+          "title": "Practice: size the catheter"
+        },
+        {
+          "t": 156.87,
+          "title": "Answer: 14 French"
+        },
+        {
+          "t": 182.83,
+          "title": "Suction pressures by age"
+        },
+        {
+          "t": 239.63,
+          "title": "Setting the pressure, and the time limit"
+        },
+        {
+          "t": 295.93,
+          "title": "Practice: suctioning a child"
+        },
+        {
+          "t": 317.17,
+          "title": "Answer: −80 to −100, 15 seconds, preoxygenate"
+        },
+        {
+          "t": 338.37,
+          "title": "Recap"
+        }
+      ]
+    },
+    {
+      "id": "rcp203-final-34",
+      "title": "Air-Entrainment Flow Calculation",
+      "course": "RCP 203 · Final review",
+      "file": "203-34-air-entrainment-flow-calculation.mp4",
+      "captions": "203-34.vtt",
+      "transcript": "203-34.txt",
+      "duration": 458.32,
+      "bytes": 6521869,
+      "version": "f36a2d578a747f00",
+      "reviewNote": "Review version: medical pronunciations were corrected but have not been checked by ear yet.",
+      "chapters": [
+        {
+          "t": 0,
+          "title": "What this chapter covers"
+        },
+        {
+          "t": 35.8,
+          "title": "Step 1: the magic box"
+        },
+        {
+          "t": 79.57,
+          "title": "Hess's formula and table"
+        },
+        {
+          "t": 144.57,
+          "title": "Practice: the ratio for 50%"
+        },
+        {
+          "t": 161.3,
+          "title": "Answer: about 1.7 to 1"
+        },
+        {
+          "t": 186.4,
+          "title": "Step 2: total flow"
+        },
+        {
+          "t": 240.7,
+          "title": "The traps"
+        },
+        {
+          "t": 282.8,
+          "title": "Matching total flow to the patient"
+        },
+        {
+          "t": 345.5,
+          "title": "Practice: is 10 L/min enough?"
+        },
+        {
+          "t": 370.5,
+          "title": "Answer: 20 L/min, not enough"
+        },
+        {
+          "t": 406.8,
+          "title": "Recap"
+        }
+      ]
     }
   ]
 }

@@ -1,0 +1,58 @@
+RCP 203 — Chapter 39: Respiratory Drugs, part 3: Dosing and Delivery
+
+[39-001 · What this chapter covers]
+This is the last part of respiratory drugs: dosing and delivery. We start with the standard dosing abbreviations, and each drug's site of action and usual frequency, grouped as bronchodilators, controllers, and mucolytics and anti-infectives. Then the order to give several inhaled drugs in, how to pick the drug and the device, and how to nebulize through CPAP or BiPAP. We finish with drugs given down the endotracheal tube: the emergency drugs, and surfactant.
+
+[39-002 · Abbreviations and receptors]
+First the abbreviations, from Hess. Q D is daily, B I D twice a day, T I D three times a day, Q I D four times a day, P R N as needed, and q four h or q six h every four or six hours. Hess adds that drugs with longer response times typically need fewer doses. Then the receptor map: beta one is the heart, beta two the lungs, alpha one vasoconstriction, and M three airway smooth muscle. Albuterol and levalbuterol, the short-acting beta agonists, act on beta two. Hess gives albuterol as needed, every four to six hours; the deck gives no frequency for levalbuterol. Racemic epinephrine is strongly alpha adrenergic, given as two point two five percent, point two five to point five milliliters by small volume nebulizer, four times a day.
+
+[39-003 · Bronchodilator frequencies]
+Long-acting beta agonists: salmeterol, fifty micrograms per puff by dry powder inhaler, twice a day; and formoterol, twenty micrograms by nebulizer, twice a day. The ultra long-acting indacaterol, olodaterol and vilanterol are once daily. Among the anticholinergics, ipratropium blocks muscarinic receptors with no subtype specificity and is given four times a day per the deck; Hess says two to four. Combivent Respimat, ipratropium plus albuterol, is four times a day. Tiotropium is selective for M one and M three and is once daily, as is umeclidinium. Aclidinium, which acts on all muscarinic receptors, is twice a day, and so is glycopyrrolate, or Seebri. Theophylline is twice daily as an oral sustained-release tablet; its exact mechanism is unknown, though phosphodiesterase inhibition is most commonly taught.
+
+[39-004 · Controller frequencies]
+Inhaled corticosteroids, such as beclomethasone, act on intracellular receptors and are given once or twice a day, per Hess; Heuer gives QVAR two puffs twice daily. Cromolyn, a mast cell stabilizer, is four times daily, per Heuer. Montelukast blocks the cysteinyl leukotriene receptor and is once daily. Zafirlukast is ten milligrams twice a day for ages five to eleven, and twenty milligrams twice a day from twelve up. Zileuton blocks the five lipoxygenase enzyme, at six hundred milligrams four times a day. Omalizumab targets IgE and is given subcutaneously every two to four weeks. The anti interleukin five antibodies: mepolizumab, one hundred milligrams subcutaneously every four weeks; reslizumab, three milligrams per kilogram IV every four weeks; and benralizumab, thirty milligrams subcutaneously every four weeks for three doses, then every eight weeks.
+
+[39-005 · Mucolytics and anti-infectives]
+Acetylcysteine breaks mucus disulfide bonds and is given three to four times daily by small volume nebulizer, per Heuer. Dornase alfa breaks down DNA in secretions: two point five milligrams daily. Tobramycin, or TOBI, acts on the thirty S ribosomal subunit to block protein synthesis: three hundred milligrams twice a day, twenty eight days on and twenty eight off. Aztreonam, or Cayston, inhibits cell wall synthesis: three times a day, twenty eight days on and twenty eight off, with a bronchodilator before each dose. Pentamidine is three hundred milligrams once every four weeks. Palivizumab targets the RSV F protein: fifteen milligrams per kilogram IM, monthly in RSV season. Alpha one proteinase inhibitor is sixty milligrams per kilogram once weekly. No frequency is given for the paralytics or sedatives, and opioids are given as needed or by patient-controlled analgesia.
+
+[39-006 · Practice: how often?]
+Pause and sort them. Tiotropium, ipratropium and aclidinium are all anticholinergics. Which one is given once daily, which four times a day, and which twice a day?
+[6-second practice pause]
+
+[39-007 · Answer: once, four times, twice]
+Tiotropium, the long-acting drug selective for M one and M three, is once daily. Ipratropium, the short-acting one, is four times a day per the deck. Aclidinium is twice a day. Umeclidinium, another long-acting anticholinergic, is also once daily.
+
+[39-008 · The order of inhaled drugs]
+If the patient is receiving several inhaled medications, the deck gives a numbered order. First the bronchodilator, then the mucolytic, then airway clearance therapy, then steroids, and finally the aerosolized antibiotic. The logic runs straight down the list: open the airway, thin the secretions, get them out, then put the anti-inflammatory and the antibiotic into an airway that is open and clear, so they reach lung rather than mucus. The deck states the rule twice: always give the bronchodilator first. All mucokinetics irritate the airway, so precede them with a bronchodilator to prevent bronchospasm, and pair them with airway clearance so the loosened secretions actually leave.
+
+[39-009 · Picking the drug]
+Picking the drug. All beta agonists have some cardiovascular and CNS effects, so recommend those with the least beta one and most beta two effect: albuterol or levalbuterol. Short-acting beta agonists relieve bronchospasm; long-acting ones and steroids are controllers. In an acute asthma exacerbation, repeat the standard dose every twenty minutes up to three times, or give continuous nebulization. Long-acting beta agonists may increase the risk of severe exacerbations or death in some asthmatics by masking inflammation, so pair them with an inhaled steroid, and never use them for acute exacerbations. For COPD maintenance: salmeterol, tiotropium, or umeclidinium with vilanterol. Aerosolized antibiotics are generally only for cystic fibrosis with Pseudomonas. Inhaled steroids are first-line for mild persistent asthma; except for budesonide, they come as MDIs or DPIs, so rinse the mouth and use a spacer.
+
+[39-010 · Picking the device]
+Picking the device follows the deck's logic, in order. First, check the available formulations; some drugs come only one way, and that decides it. Reserve a small volume nebulizer for acutely ill adults who cannot use a DPI or an MDI. Most infants and small children should get an MDI with a holding chamber and mask, with a nebulizer as the alternative. An adult who is not acutely ill but cannot coordinate actuation with breathing needs a holding chamber, or a breath-actuated MDI. DPIs are ideal for maintenance in outpatient adults, larger children and adolescents who can generate enough inspiratory flow. If several devices qualify, let the patient choose. To nebulize through CPAP or BiPAP, put the adaptor near the mask, and match the driving gas to the delivered FiO2; on a high FiO2, drive the nebulizer with oxygen. For neonates and infants, use a blender and monitor pulse oximetry continuously.
+
+[39-011 · Practice: put them in order]
+Pause and order them. A cystic fibrosis patient is due for tobramycin, budesonide, dornase alfa, albuterol, and airway clearance therapy. In what order do you give them?
+[6-second practice pause]
+
+[39-012 · Answer: open, thin, clear, then treat]
+Albuterol first, to open the airway. Then dornase alfa, to thin the secretions. Then airway clearance, to get them out. Then budesonide, the steroid. And last, tobramycin, the antibiotic, into an airway that is open and clear.
+
+[39-013 · Drugs down the tube]
+Selected drugs can be instilled as liquids directly into the lungs through a tracheal airway, and the NBRC cares about two situations: emergency drugs when there is no IV access, and surfactant. The emergency drugs spell LEAN: lidocaine, epinephrine, atropine and naloxone; some add vasopressin, for NAVEL. Five rules go with them. The dose must be two to two and a half times the IV dose. Dilute it with ten milliliters of sterile water or saline for injection. Put the patient supine, not Trendelenburg. Halt chest compressions, and instill through a catheter that passes beyond the tip of the tube. Immediately afterward, give five to ten rapid inflations with a bag-valve-mask resuscitator.
+
+[39-014 · Giving surfactant]
+Surfactant is given prophylactically to infants at high risk of RDS, or as rescue for infants with clinical evidence of it. Recommend a chest film first to confirm tube position, and suction beforehand if needed. Monitor saturation and ECG continuously. Use a five French feeding tube or suction catheter, inserted up to, but not past, the tip of the tube. Note the contrast: the emergency drugs go past the tip, but surfactant does not. Split the dose in half, and instill half into each dependent bronchus, turning the infant from side to side, as rapidly as tolerated. Manually ventilate for one to two minutes afterward. Watch blood gases and chest movement closely for the first three hours, because the infant may briefly need more support, and avoid suctioning for six hours if possible.
+
+[39-015 · Choosing surfactant]
+The care plan deck adds when to choose it. Recommend exogenous surfactant for a premature newborn having difficulty breathing, or with clinical signs of IRDS. Recommend prophylactic rather than rescue administration, especially below thirty weeks' gestation, because it decreases the risk of pneumothorax, pulmonary interstitial emphysema, and neonatal mortality. Recommend multiple doses if required; they have advantages over a single dose. The agents named are beractant, or Survanta; calfactant, or Infasurf; and poractant alfa, or Curosurf. Their doses per kilogram are covered in chapter two.
+
+[39-016 · Practice: no IV access]
+Last one. During a code, an intubated adult has no IV access. Suppose the IV dose of epinephrine is one milligram. Can you give it down the tube, and how?
+[6-second practice pause]
+
+[39-017 · Answer: yes, 2 to 2.5 mg in 10 mL]
+Yes. Epinephrine is one of the LEAN drugs. Give two to two and a half times the IV dose, so two to two and a half milligrams, diluted with ten milliliters of sterile water or saline. Keep the patient supine, pause compressions, instill through a catheter that passes beyond the tube's tip, and follow with five to ten rapid bag-valve-mask inflations.
+
+[39-018 · Recap]
+Here is part three in brief. Know the abbreviations, Q D through Q I D, and each drug's site of action: beta two for the bronchodilators, muscarinic for the anticholinergics. Ipratropium is four times a day, and tiotropium once daily. Give inhaled drugs in order: bronchodilator, mucolytic, airway clearance, steroid, then antibiotic. Choose the drug with the most beta two and least beta one effect, and pick the device by formulation, illness, coordination and inspiratory flow. Down the tube, the LEAN drugs go at two to two and a half times the IV dose in ten milliliters, and surfactant goes in two halves, to but not past the tip of the tube.

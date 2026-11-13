@@ -1,0 +1,301 @@
+WEBVTT
+
+1
+00:00:00.500 --> 00:00:07.952
+This chapter covers capnography, the breath by breath measurement of exhaled carbon dioxide.
+
+2
+00:00:07.952 --> 00:00:17.591
+We start with how it is measured, mainstream versus sidestream, the normal numbers, and how it confirms tube placement.
+
+3
+00:00:17.591 --> 00:00:20.993
+Then the normal capnogram, phase by phase.
+
+4
+00:00:20.993 --> 00:00:27.716
+Then sudden decreases and increases, and abnormal shapes, with what each one means.
+
+5
+00:00:27.716 --> 00:00:38.975
+We finish with capnography during CPR: when to improve compressions, when to consider stopping, and how it signals a return of circulation.
+
+6
+00:00:40.400 --> 00:00:52.188
+Capnometry is the number, capnography is the number plus the waveform, and the capnogram is the waveform itself, measured by infrared absorption.
+
+7
+00:00:52.188 --> 00:00:59.261
+A mainstream sensor sits at the airway, on the endotracheal tube, with a fast response.
+
+8
+00:00:59.261 --> 00:01:07.715
+It is best for intubated patients, and on a mask or mouthpiece it needs oxygen at six liters per minute.
+
+9
+00:01:07.715 --> 00:01:14.626
+Its problems are weight on the tube, added dead space, and secretions on its windows.
+
+10
+00:01:14.626 --> 00:01:20.967
+A sidestream, or aspirating, unit uses a pump to draw a sample through a tube.
+
+11
+00:01:20.967 --> 00:01:28.446
+It is best for patients who are not intubated, on a cannula or mask, from infants to adults.
+
+12
+00:01:28.446 --> 00:01:35.925
+Its problems are secretions, water or a kink blocking the tubing, and a slightly longer lag.
+
+13
+00:01:37.333 --> 00:01:43.812
+Use a calibrated capnograph, and the inspiratory value should read zero.
+
+14
+00:01:43.812 --> 00:01:51.911
+End-tidal carbon dioxide runs one to five torr below the PaCO2, more with high dead space.
+
+15
+00:01:51.911 --> 00:01:59.920
+Normal PaCO2 is thirty five to forty five, and normal end-tidal is thirty to forty three.
+
+16
+00:01:59.920 --> 00:02:09.009
+RCP 105 gives a normal arterial to end-tidal gap of two, and an acceptable five in critical patients.
+
+17
+00:02:09.009 --> 00:02:16.208
+To confirm tube placement, waveform capnography is preferred, the gold standard.
+
+18
+00:02:16.208 --> 00:02:28.986
+A colorimetric detector is an acceptable alternative: purple turning yellow over six or more breaths means two to five percent carbon dioxide.
+
+19
+00:02:28.986 --> 00:02:37.355
+A brief change is less convincing, because the stomach can hold carbon dioxide after bagging.
+
+20
+00:02:37.355 --> 00:02:48.333
+Capnography confirms the trachea, not the depth; it cannot reliably detect a mainstem tube, so use a chest film for depth.
+
+21
+00:02:49.733 --> 00:02:57.742
+Chapter eleven adds volumetric capnography as the fifth of its methods for finding the optimal PEEP.
+
+22
+00:02:57.742 --> 00:03:09.274
+It measures the average carbon dioxide concentration of each tidal breath, which the notes describe as the carbon dioxide eliminated per breath.
+
+23
+00:03:09.274 --> 00:03:13.599
+Raise the PEEP step by step and watch that percentage.
+
+24
+00:03:13.599 --> 00:03:22.408
+The optimal PEEP is reached just before the percentage begins to fall, because overdistension adds dead space.
+
+25
+00:03:23.833 --> 00:03:29.605
+The RCP 203 figure labels the normal curve A, B, C, D and E.
+
+26
+00:03:29.605 --> 00:03:37.685
+From A to B, the patient exhales pure dead space gas, so there is no carbon dioxide.
+
+27
+00:03:37.685 --> 00:03:45.284
+From B to C, dead space and alveolar gas mix, and carbon dioxide rises rapidly.
+
+28
+00:03:45.284 --> 00:03:57.692
+From C to D is the alveolar plateau, alveolar carbon dioxide, and the end-tidal value is read at the end of the plateau, point D.
+
+29
+00:03:57.692 --> 00:04:05.099
+From D to E, the patient inhales fresh gas, and carbon dioxide drops to zero.
+
+30
+00:04:05.099 --> 00:04:16.834
+The RCP 105 deck labels the same curve as phases one, two and three: dead space, the rapid rise, and the alveolar plateau.
+
+31
+00:04:16.834 --> 00:04:24.433
+Hess adds that the plateau rises gently, and its peak represents alveolar PCO2.
+
+32
+00:04:25.833 --> 00:04:31.269
+If the waveform and number disappear at once, think disconnection.
+
+33
+00:04:31.269 --> 00:04:39.835
+A value that falls toward zero as the tube kinks means obstruction, and complete obstruction reads zero.
+
+34
+00:04:39.835 --> 00:04:47.330
+A sudden, proportional drop means cardiac arrest, because the lungs are no longer perfused.
+
+35
+00:04:47.330 --> 00:04:53.178
+A very low value right after intubation means an esophageal intubation.
+
+36
+00:04:53.178 --> 00:05:04.214
+Hess says it is generally very low, but it can be falsely high after antacids or carbonated drinks, and that fades over a few breaths.
+
+37
+00:05:04.214 --> 00:05:13.933
+One trap: a fall from dead space, as in a pulmonary embolism, is not improvement, so do not lower the ventilator rate.
+
+38
+00:05:15.333 --> 00:05:21.264
+An abrupt rise during CPR means return of spontaneous circulation.
+
+39
+00:05:21.264 --> 00:05:31.058
+An immediate rise after intravenous sodium bicarbonate is expected, because bicarbonate forms carbon dioxide.
+
+40
+00:05:31.058 --> 00:05:39.146
+A rapid rise with succinylcholine or volatile anesthetics suggests malignant hyperthermia.
+
+41
+00:05:39.146 --> 00:05:46.334
+A baseline that does not return to zero means rebreathing, or a circuit problem.
+
+42
+00:05:46.334 --> 00:05:58.465
+A steeper, upsloping plateau means airway obstruction and uneven emptying, and the RCP 105 figure shows it as the bronchospasm tracing.
+
+43
+00:05:58.465 --> 00:06:04.755
+Heuer describes a shark fin shape as acute partial airway obstruction.
+
+44
+00:06:04.755 --> 00:06:13.292
+A trend up means hypoventilation and a trend down hyperventilation, confirmed with a blood gas.
+
+45
+00:06:13.292 --> 00:06:24.883
+Hess also lists rises with fever, sepsis, seizures and COPD, and falls with hypothermia, hypotension, hemorrhage and a cuff leak.
+
+46
+00:06:26.300 --> 00:06:27.635
+Pause and think.
+
+47
+00:06:27.635 --> 00:06:37.564
+On a ventilated patient, the end-tidal carbon dioxide suddenly falls by half while the waveform keeps its normal shape.
+
+48
+00:06:37.564 --> 00:06:41.736
+A colleague suggests lowering the ventilator rate.
+
+49
+00:06:41.736 --> 00:06:46.075
+What could this mean, and should you lower the rate?
+
+50
+00:06:47.000 --> 00:06:53.000
+[6-second practice pause]
+
+51
+00:06:53.500 --> 00:07:03.673
+A sudden, proportional drop means the lungs are less perfused, as in cardiac arrest, or dead space from a pulmonary embolism.
+
+52
+00:07:03.673 --> 00:07:09.696
+It is not improvement in ventilation, so do not lower the ventilator rate.
+
+53
+00:07:09.696 --> 00:07:12.300
+Check the patient's circulation.
+
+54
+00:07:12.300 --> 00:07:19.625
+If the waveform and number had disappeared at once, you would think disconnection instead.
+
+55
+00:07:21.033 --> 00:07:34.393
+Because it shows both the adequacy of ventilation and the effectiveness of chest compressions, capnography is now a standard of care during resuscitation.
+
+56
+00:07:34.393 --> 00:07:36.215
+Three numbers matter.
+
+57
+00:07:36.215 --> 00:07:45.844
+An end-tidal value below ten, or an arterial diastolic pressure below twenty, means improve the quality of CPR.
+
+58
+00:07:45.844 --> 00:07:55.040
+Failing to reach above ten after twenty minutes of CPR can be used as one indicator to stop resuscitation.
+
+59
+00:07:55.040 --> 00:08:11.002
+And a sudden rise to forty or more, with a palpable pulse, rising blood pressure, spontaneous breathing or movement, and a better saturation, signals return of spontaneous circulation.
+
+60
+00:08:11.002 --> 00:08:24.708
+After that, the deck aims for a PaCO2 of thirty five to forty five and a saturation of ninety four to ninety nine percent, and warns against hyperventilation.
+
+61
+00:08:26.133 --> 00:08:26.986
+One more.
+
+62
+00:08:26.986 --> 00:08:32.004
+During CPR, the end-tidal carbon dioxide reads eight.
+
+63
+00:08:32.004 --> 00:08:36.834
+A few minutes later it jumps suddenly to forty two.
+
+64
+00:08:36.834 --> 00:08:43.083
+What did the eight tell you to do, and what does the jump suggest?
+
+65
+00:08:44.000 --> 00:08:50.000
+[6-second practice pause]
+
+66
+00:08:50.500 --> 00:08:59.355
+A value of eight is below ten, which means poor blood flow, so improve the quality of compressions.
+
+67
+00:08:59.355 --> 00:09:07.226
+The sudden jump to forty two, forty or more, suggests return of spontaneous circulation.
+
+68
+00:09:07.226 --> 00:09:15.902
+Confirm it with a palpable pulse, a rising blood pressure, and spontaneous breathing or movement.
+
+69
+00:09:15.902 --> 00:09:25.025
+After return of circulation, avoid hyperventilation, and aim for a PaCO2 of thirty five to forty five.
+
+70
+00:09:26.433 --> 00:09:28.887
+Here is the chapter in brief.
+
+71
+00:09:28.887 --> 00:09:34.811
+Mainstream sensors suit intubated patients; sidestream suits the rest.
+
+72
+00:09:34.811 --> 00:09:46.742
+End-tidal runs one to five torr below the PaCO2, and waveform capnography is the gold standard for confirming the trachea, but not the depth.
+
+73
+00:09:46.742 --> 00:09:53.597
+On the normal curve, read the end-tidal value at the end of the alveolar plateau.
+
+74
+00:09:53.597 --> 00:10:06.121
+A waveform that vanishes is a disconnection, a sudden proportional drop is arrest or embolism, and an upsloping or shark fin plateau is obstruction.
+
+75
+00:10:06.121 --> 00:10:20.083
+In CPR, below ten means improve compressions, never above ten after twenty minutes may mean stopping, and a sudden rise to forty or more means return of circulation.

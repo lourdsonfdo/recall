@@ -25,8 +25,10 @@ window.VideoLibrary = (() => {
       const { videos } = await res.json();
       if (disposed) return;
       if (!id) {
-        view.innerHTML = '<div class="head"><div><h1>Lectures</h1><div class="sub">Animated lessons · RCP 202 final review</div></div></div>' + tabs +
-          '<div class="group">' + videos.map(l => `<a class="row video-row" href="#/watch/${encodeURIComponent(l.id)}"><div class="label"><div class="t">${esc(l.title)}</div><div class="s">${AudioLib.fmtLong(l.duration)} · ${Math.round(l.bytes / 1e6)} MB${pref.get(`videoPos.${l.id}`, 0) > 5 ? ' · Resume ' + AudioLib.fmt(pref.get(`videoPos.${l.id}`, 0)) : ''}</div></div><span aria-hidden="true">▶</span></a>`).join('') + '</div>';
+        const row = l => `<a class="row video-row" href="#/watch/${encodeURIComponent(l.id)}"><div class="label"><div class="t">${esc(l.title)}</div><div class="s">${AudioLib.fmtLong(l.duration)} · ${Math.round(l.bytes / 1e6)} MB${pref.get(`videoPos.${l.id}`, 0) > 5 ? ' · Resume ' + AudioLib.fmt(pref.get(`videoPos.${l.id}`, 0)) : ''}</div></div><span aria-hidden="true">▶</span></a>`;
+        const courses = [...new Set(videos.map(l => l.course))];  // grouped by course, in index order
+        view.innerHTML = '<div class="head"><div><h1>Lectures</h1><div class="sub">Animated lessons · final reviews</div></div></div>' + tabs +
+          courses.map(c => `<div class="group-title">${esc(c)}</div><div class="group">` + videos.filter(l => l.course === c).map(row).join('') + '</div>').join('');
         return;
       }
       const l = videos.find(v => v.id === id);

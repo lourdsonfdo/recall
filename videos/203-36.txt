@@ -1,0 +1,67 @@
+RCP 203 — Chapter 36: Mechanical Ventilation, part 3: PEEP, Pressures, Circuits and Valves
+
+[36-001 · What this chapter covers]
+This is part three of mechanical ventilation: PEEP, pressures, circuits and valves. We start with PEEP: what it does, when to use it, how much to set, and the level the exam calls dangerous. Then auto-PEEP: how it forms, and how to spot it, measure it and fix it. Then airway pressures: what a high peak pressure means with and without a high plateau, and what low pressure alarms point to. We finish with ventilator circuits and exhalation valves.
+
+[36-002 · What PEEP does]
+PEEP increases the end-expiratory, or baseline, airway pressure: instead of returning to zero, it stays elevated, at five, eight or ten. It is used with another mode. CPAP is PEEP on a fully spontaneous patient, and EPAP is the same as PEEP. The chain to remember: PEEP raises the functional residual capacity, which improves ventilation-perfusion matching, which raises oxygenation and lowers the work of breathing. It also recruits alveoli and reduces shunt. That makes PEEP the number one ventilator adjustment for oxygenation.
+
+[36-003 · When to use PEEP, and how much]
+Use PEEP for shunt or refractory hypoxemia, with a P to F ratio below two hundred; chapter eleven defines it as a PaO2 of fifty or less on an FiO2 of fifty percent or more. It also helps a reduced FRC or compliance, and auto-PEEP that the settings cannot fix. Chapter eleven's rule: below fifty percent oxygen, adjust the FiO2; at fifty percent or more, add PEEP; and as the patient improves, bring the FiO2 down to fifty percent or less first, then lower the PEEP. Start at five centimeters of water; the NBRC range is two to six. Optimal PEEP is the lowest pressure level that offers the most benefits with the least side effects. Chapter eleven says it keeps the saturation at eighty eight to ninety percent or more without lowering blood pressure.
+
+[36-004 · Finding optimal PEEP]
+Chapter eleven gives several ways to find it. In volume control, choose the PEEP with the highest static compliance, and ignore the peak pressure. In pressure control, choose the PEEP that gives the largest increase in exhaled tidal volume at a constant driving pressure. On a pressure-volume curve, PEEP is typically two to three centimeters of water above the lower inflection point; the RCP 105 deck says at the lower inflection point itself. After a recruitment maneuver, use the PEEP with the best compliance, plus two. Or set it just before the carbon dioxide fraction of each breath begins to fall. In ARDS, the Procedures deck pairs thirty percent oxygen with a PEEP of about five, sixty percent with about ten, and one hundred percent with twenty to twenty four.
+
+[36-005 · The dangerous PEEP level]
+The exam answer for the dangerous level comes from a starred RCP 202 slide: a PEEP above ten centimeters of water, a mean airway pressure above thirty, or a peak pressure above fifty is associated with an increased incidence of alveolar rupture, or barotrauma. Chang's safe list agrees, with PEEP below ten. And a PEEP above fifteen with an intra-abdominal pressure above twenty harms the cardiovascular, renal and pulmonary systems. There is a conflict. The Procedures notes call PEEP below ten older practice, since many ARDS patients need ten to fifteen or more, and Hess limits PEEP when the plateau is above thirty or the driving pressure is above fifteen. On the exam, answer above ten.
+
+[36-006 · PEEP complications]
+The major downside of PEEP is lower venous return, which lowers cardiac output and causes hypotension. Barotrauma, such as a pneumothorax, is the other big one. PEEP can also raise intracranial pressure by impeding cerebral venous drainage; the Operating Modes slide says this applies in patients with normal lungs. It raises pulmonary artery and central venous pressures while lowering aortic pressure, it reduces hepatic perfusion, and excess PEEP compresses capillaries, which adds dead space.
+
+[36-007 · Practice: PEEP and blood pressure]
+Pause and think. A patient's PEEP is raised from ten to fourteen to improve oxygenation, and the blood pressure falls. What is the likely mechanism, and is fourteen above the exam's dangerous level?
+[6-second practice pause]
+
+[36-008 · Answer: less venous return; yes, above 10]
+PEEP lowers venous return, which lowers cardiac output and causes hypotension; that is the major downside of PEEP. And yes, on the exam fourteen is above the dangerous level of ten, which is associated with more barotrauma. In practice many ARDS patients need ten to fifteen, but optimal PEEP should not lower the blood pressure.
+
+[36-009 · Auto-PEEP]
+Auto-PEEP is unintentional PEEP from incomplete exhalation, also called intrinsic, inadvertent or occult PEEP, or dynamic hyperinflation. The manometer may read zero while the distal pressure is as high as fifteen centimeters of water. Causes are a high rate, airway obstruction, insufficient inspiratory flow, an I to E ratio near one to one or inverse, excessive pressure support, IMV breath stacking, and inverse ratio ventilation. The highest risk is high airway resistance, high compliance, or both, with a short expiratory time. Effects are more work of breathing, harder triggering, hypotension from lower venous return, and barotrauma. In volume control it raises the peak pressure; in pressure control it lowers the tidal volume.
+
+[36-010 · Detect, measure, and fix auto-PEEP]
+To detect it, look for expiratory flow that does not return to zero before the next breath; chapter eleven says this is likely to appear on the NBRC. Other clues are a patient rate higher than the ventilator rate, and a high PEEP alarm. To measure it, do an end-expiratory pause in a relaxed, sedated or paralyzed patient, and subtract the set PEEP from the pause pressure: twelve minus five is seven centimeters of water. To fix it, give more time to exhale: lower the rate, raise the inspiratory flow in volume control, lower the tidal volume, shorten the inspiratory time in pressure control, and give a bronchodilator. Then, only for spontaneously breathing patients, add applied PEEP up to eighty to ninety percent of the auto-PEEP, per chapter three; Hess says seventy five to eighty five percent.
+
+[36-011 · Practice: measure and fix it]
+Pause and work it out. On volume control at a rate of twenty, an end-expiratory pause reads fifteen, and the set PEEP is five. How much auto-PEEP is there, and what setting changes would reduce it?
+[6-second practice pause]
+
+[36-012 · Answer: 10 cm H2O; more time to exhale]
+Fifteen minus five is ten centimeters of water of auto-PEEP. The goal is more time to exhale. On volume control, lower the rate, raise the inspiratory flow so inspiration ends sooner, or lower the tidal volume, and give a bronchodilator. Applied PEEP comes after that, and only for spontaneously breathing patients.
+
+[36-013 · High pressures: airways or lungs?]
+The peak pressure overcomes airway resistance plus compliance. The plateau pressure, measured during an end-inspiratory pause with no flow, reflects compliance only. The deck's rule: when peak and plateau move together, think lungs; when only the peak moves, think airways. A higher peak with an unchanged plateau means higher resistance: secretions, a mucus plug, a kinked or bitten tube, bronchospasm, airway edema, water in the tubing, or a higher flow setting. A higher peak and a higher plateau mean lower compliance: ARDS, pulmonary edema, pneumonia, atelectasis, a tension pneumothorax, pleural effusion, mainstem intubation, or ascites.
+
+[36-014 · The high-pressure alarm]
+Chapter eleven, following the AARC, sets the high-pressure alarm at thirty five centimeters of water at first, if the peak pressure is not yet measured, then ten above the observed peak once the patient is stable; RCP 105 says ten to fifteen above. Causes include water in the circuit, secretions, a kinked tube, a tension pneumothorax and coughing. Reaching the limit ends the breath, which is pressure cycling. A circuit obstruction gives low-volume and high-pressure alarms, and an expiratory obstruction is the more serious, causing rebreathing, asphyxia and barotrauma. The ceilings: keep the peak below fifty and the plateau below thirty; Chang prints below thirty five, but use thirty.
+
+[36-015 · Low pressures and leaks]
+The low inspiratory pressure alarm sits ten centimeters of water below the observed peak, or below the set pressure in pressure control. Paired with the low tidal volume alarm, which chapter eleven sets one hundred fifty milliliters from the set volume, it detects leaks and disconnection. Hess calls the patient-disconnect alarm the most important alarm. Causes are circuit disconnection; circuit leaks, among the most common causes of lost volume and pressure; a cuff leak, which Hess hears as an end-inspiratory squeak over the trachea; and ventilator malfunction. A low PEEP alarm usually means a circuit or cuff leak. On the graphics, a volume-time curve that does not return to baseline means a leak, often at the cuff; chapter eleven says this is likely on the NBRC. Improving compliance or resistance also lowers the peak, which is benign. The rule: alarm, look at the patient, then the ventilator, find the cause, and fix it.
+
+[36-016 · Practice: read the pressures]
+Pause and read it. A ventilated patient's peak pressure climbs from twenty eight to forty, but the plateau stays at twenty. Airways or lungs, and what do you check?
+[6-second practice pause]
+
+[36-017 · Answer: airways]
+Only the peak moved, so think airways: airway resistance has risen. Look at the patient, then check for secretions or a mucus plug, a kinked or bitten tube, bronchospasm, airway edema, and water in the tubing. If the plateau had risen too, you would think lungs, such as ARDS, a pneumothorax or mainstem intubation.
+
+[36-018 · Ventilator circuits]
+There are three circuit types. A single-limb circuit with a valve puts the exhalation valve near the patient; a pneumatic signal closes it for inspiration, and its residual pressure often sets the PEEP. It is used in home care and transport. A double-limb, or wye, circuit keeps the exhalation valve inside the ventilator: the inspiratory limb runs to the fifteen millimeter connector, and the expiratory limb returns to the valve. It is the ICU circuit. A single-limb circuit with no valve uses a leak port, a known leak that the ventilator calculates and subtracts; it is used for noninvasive ventilation. Adult tubing is large-bore and corrugated; neonatal tubing is small and low-compliance, so less volume is lost to compression.
+
+[36-019 · Dead space, compressed volume, circuit care]
+Mechanical dead space in a dual-limb circuit runs from the wye to the airway, so anything added there, such as an HME, adds dead space. The circuit itself is compressible, as much as three to five milliliters per centimeter of water, according to Hess, so keep it low. Corrected tidal volume equals the expired volume minus the compressed volume. For example, three milliliters per centimeter of water, times a pressure change of sixty minus ten, is one hundred fifty milliliters lost. This matters most in neonates and pediatrics. Do not change circuits routinely, nor the attached humidifiers, HMEs or closed-suction systems; change them when visibly soiled or malfunctioning. If you suspect a major problem, bag the patient with a resuscitator and a PEEP valve.
+
+[36-020 · Exhalation valves]
+The exhalation valve has two jobs. First, it separates the phases: the expiratory valve is closed during inspiration, and the inspiratory valve is closed during expiration. ICU ventilators have an internal electromechanical expiratory valve; single-limb circuits use a pneumatic line to close the valve. Second, it sets PEEP: the expiratory valve controls positive end-expiratory pressure. An active exhalation valve lets the patient breathe during a mandatory pressure breath, which is how APRV works, and vents cough pressure in VC plus. An emergency expiratory valve gives a second exit if the expiratory valve is blocked. Expiratory and PEEP valve problems are common, and an expiratory obstruction is the more serious, worst on a single-limb NPPV circuit. Ribavirin can crystallize and occlude expiratory valves, and an expiratory HEPA filter must be heated to avoid condensate blockage.
+
+[36-021 · Recap]
+Here is part three in brief. PEEP raises the baseline, increases FRC and oxygenation, and is the first ventilator fix for oxygenation once the FiO2 reaches fifty percent; start at five. On the exam, a PEEP above ten is the dangerous level, and its major downside is hypotension from lower venous return. Auto-PEEP comes from incomplete exhalation; measure it with an expiratory pause, and fix it with more time to exhale. When peak and plateau rise together, think lungs; when only the peak rises, think airways. Low pressures mean leaks or disconnection. Part four covers compliance, humidity, cuffs, the equation of motion, I to E ratios and ARDSNet.

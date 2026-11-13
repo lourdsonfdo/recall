@@ -1,0 +1,36 @@
+RCP 203 — Chapter 34: Air-Entrainment Flow Calculation
+
+[34-001 · What this chapter covers]
+This chapter is the air-entrainment flow calculation, done in two steps. Step one: find the air-to-oxygen ratio for the FiO2 you want, using the deck's magic box or Hess's formula. Step two: multiply the oxygen flow by the total ratio parts to get the total flow. Then we check whether that total flow is enough for the patient, because an air-entrainment device only stays high-flow if it meets the patient's inspiratory demand.
+
+[34-002 · Step 1: the magic box]
+The deck's magic box uses three numbers: one hundred for the oxygen supply, twenty for room air, and the FiO2 you want. Subtract across the box. Air parts equal one hundred minus the FiO2. Oxygen parts equal the FiO2 minus twenty. For sixty percent, that is forty and forty, a one to one ratio, which is what the slide's box shows. For forty percent, it is sixty and twenty, which is three to one. The subtraction steps are our reading of the box, since the box is a picture on the slide.
+
+[34-003 · Hess's formula and table]
+Hess writes it as a formula: air to oxygen equals one hundred minus the oxygen percent, divided by the oxygen percent minus twenty one, to one. For forty percent, sixty over nineteen is three point one six, or about three to one. The box uses twenty for room air and Hess uses twenty one. They agree at forty and sixty percent, but drift at low FiO2: box math gives nineteen to one at twenty four percent, against Hess's twenty five to one. The deck's own ratio table is an image, so memorize Hess's table. Twenty four percent is twenty five to one; twenty eight is ten to one; thirty is eight to one; thirty five is five to one; forty is three to one; fifty is one point seven to one; sixty is one to one; seventy is point six to one; and eighty is point three to one.
+
+[34-004 · Practice: the ratio for 50%]
+Pause and work it out. Using the magic box, what is the air-to-oxygen ratio for fifty percent oxygen?
+[6-second practice pause]
+
+[34-005 · Answer: about 1.7 to 1]
+Air parts are one hundred minus fifty, which is fifty. Oxygen parts are fifty minus twenty, which is thirty. Fifty to thirty is about one point seven to one, which matches Hess's table. Add the one part of oxygen, and that is about two point seven total parts for the flow calculation.
+
+[34-006 · Step 2: total flow]
+Step two uses the deck's formula: total flow equals the oxygen input flow in liters per minute, times the total ratio parts, which is the air parts plus one. Sixty percent at ten liters per minute: one to one is two parts, so ten times two is twenty liters per minute. Forty percent at ten liters per minute: three to one is four parts, so ten times four is forty. The same patient at forty percent on five liters per minute: five times four is twenty. Hess adds a large-volume nebulizer at fifteen liters per minute: sixty percent gives thirty, seventy percent gives twenty five, one hundred percent gives fifteen, and thirty five percent gives about ninety.
+
+[34-007 · The traps]
+Now the traps. Changing the oxygen flow changes only the total flow, not the ratio or the FiO2. That is why forty percent at five liters per minute still delivers forty percent, but only twenty liters per minute of total flow. The higher the FiO2, the lower the total flow, because there are fewer air parts. Bigger entrainment ports and smaller jets mean more air, so a lower FiO2 and a higher total flow. And blocking a port raises the FiO2 and lowers the flow.
+
+[34-008 · Matching total flow to the patient]
+The device stays high-flow only if its total flow meets or exceeds the patient's inspiratory flow. The deck's target is at least forty liters per minute. Resting adults draw twenty to thirty liters per minute, children ten to twenty, adults in distress sixty or more, and critical care patients sometimes over one hundred. Hess adds a minimum flow of three to four times the minute ventilation: forty liters per minute for adults, and four to six for infants. If the patient out-breathes the device, the mist disappears from the mask or T-tube port during inspiration, the FiO2 falls, and the system becomes low-flow with a variable FiO2. For an FiO2 above sixty percent at more than forty liters per minute, the deck says to use a blending system.
+
+[34-009 · Practice: is 10 L/min enough?]
+Last one. A patient needs sixty percent oxygen through an air-entrainment nebulizer, with the flowmeter at ten liters per minute. What is the total flow, does it meet the deck's target, and what oxygen flow would you need?
+[6-second practice pause]
+
+[34-010 · Answer: 20 L/min, not enough]
+Sixty percent is one to one, which is two parts, so ten times two is twenty liters per minute. That is half the deck's target of forty, so the patient may out-breathe the device and the FiO2 will fall. To reach forty liters per minute at sixty percent, you need forty divided by two, or twenty liters per minute of oxygen. Compare forty percent, which needs only ten liters per minute of oxygen, because four parts times ten is forty.
+
+[34-011 · Recap]
+Here is the chapter in brief. Step one, the ratio: air parts are one hundred minus the FiO2, and oxygen parts are the FiO2 minus twenty. Sixty percent is one to one, and forty percent is three to one; memorize Hess's table for the low FiO2 values. Step two, total flow: the oxygen flow times the total parts. Changing the oxygen flow changes the total flow, not the FiO2, and a higher FiO2 means a lower total flow. Finally, the total flow must meet the patient's demand, at least forty liters per minute, or the FiO2 becomes variable.

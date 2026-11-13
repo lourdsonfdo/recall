@@ -1,0 +1,421 @@
+WEBVTT
+
+1
+00:00:00.500 --> 00:00:06.982
+This chapter covers the bedside measuring devices and how we prove they are accurate.
+
+2
+00:00:06.982 --> 00:00:16.744
+First the volume devices: the vane respirometer, what it measures and where it errs, and the Wright respirometer at the bedside.
+
+3
+00:00:16.744 --> 00:00:25.742
+Then flow, with the peak flowmeter, and pressure, with the manometer for negative inspiratory force and cuff pressure.
+
+4
+00:00:25.742 --> 00:00:31.157
+Then the capnometer, mainstream versus sidestream, and its calibration.
+
+5
+00:00:31.157 --> 00:00:44.350
+We finish with quality control: calibrating a spirometer with the three liter syringe, and reading the plus or minus two standard deviation limits on a Levey-Jennings chart.
+
+6
+00:00:45.767 --> 00:00:52.361
+A mechanical vane respirometer, the Wright or Haloscale, measures gas volume.
+
+7
+00:00:52.361 --> 00:01:00.925
+Gas spins a rotating vane, and gears turn the rotations into movement of hands on a watch-like dial.
+
+8
+00:01:00.925 --> 00:01:08.033
+The on off switch locks and unlocks the gears, and reset returns the hands to zero.
+
+9
+00:01:08.033 --> 00:01:12.572
+Readings are one directional, always inlet to outlet.
+
+10
+00:01:12.572 --> 00:01:18.053
+It is accurate within two percent of its recommended flow range.
+
+11
+00:01:18.053 --> 00:01:33.211
+Like any turbine, it overreads at high flows, because the vane keeps spinning from momentum, and underreads at low flows, because there is too little force to overcome friction.
+
+12
+00:01:33.211 --> 00:01:37.750
+Hess adds that the Wright is not linear at low flows.
+
+13
+00:01:37.750 --> 00:01:46.742
+The NBRC takeaway: flows outside its range easily damage it, so never use it for forced flows or volumes.
+
+14
+00:01:48.167 --> 00:02:04.497
+The Wright respirometer is the bedside device for measuring tidal volume, rate and minute ventilation in spontaneously breathing patients, and it can also measure a slow vital capacity in neuromuscular disease.
+
+15
+00:02:04.497 --> 00:02:13.517
+A one-way breathing valve separates inspired and expired gas, and a HEPA filter protects the patient and the device.
+
+16
+00:02:13.517 --> 00:02:20.205
+Normally you measure exhaled volume, so attach it to the exhalation side of the valve.
+
+17
+00:02:20.205 --> 00:02:30.236
+Switch it on while the patient inhales, have the patient do the maneuver, timed for a minute volume, and switch it off when done.
+
+18
+00:02:30.236 --> 00:02:35.446
+Off freezes the reading, so do not reset to zero before reading it.
+
+19
+00:02:35.446 --> 00:02:41.901
+If it will not register, recheck the switch and its position relative to the valve.
+
+20
+00:02:41.901 --> 00:02:45.867
+If it is contaminated, gas sterilize and aerate it.
+
+21
+00:02:47.267 --> 00:02:49.005
+Pause and calculate.
+
+22
+00:02:49.005 --> 00:02:58.999
+Over one minute, the Wright respirometer measures an exhaled volume of eight liters, and you count sixteen breaths.
+
+23
+00:02:58.999 --> 00:03:01.867
+What is the average tidal volume?
+
+24
+00:03:02.767 --> 00:03:08.767
+[6-second practice pause]
+
+25
+00:03:09.267 --> 00:03:14.220
+Tidal volume is the minute ventilation divided by the rate.
+
+26
+00:03:14.220 --> 00:03:24.127
+Eight liters per minute divided by sixteen breaths per minute is point five liters, which is five hundred milliliters.
+
+27
+00:03:24.127 --> 00:03:26.730
+That is the deck's own example.
+
+28
+00:03:26.730 --> 00:03:35.042
+Measure the exhaled volume over a full minute, count the breaths over the same minute, then divide.
+
+29
+00:03:36.467 --> 00:03:47.343
+A peak flowmeter measures the peak expiratory flow rate, the maximum flow on a forced expiration, in liters per second or per minute.
+
+30
+00:03:47.343 --> 00:03:49.878
+It reflects the larger airways.
+
+31
+00:03:49.878 --> 00:03:55.439
+Because it is highly effort dependent, it is not used for diagnosis.
+
+32
+00:03:55.439 --> 00:04:11.221
+It is a monitoring tool: to check a bronchodilator's effect before and after, to assess asthma severity, to catch early changes in asthma control, and, Hess adds, for home monitoring of asthma.
+
+33
+00:04:11.221 --> 00:04:24.060
+The deck notes give normals of four hundred fifty to five hundred fifty liters per minute for men and three hundred twenty to four hundred seventy for women.
+
+34
+00:04:24.060 --> 00:04:34.527
+Percent predicted is actual divided by predicted, times one hundred, and below eighty percent means expiratory flow obstruction.
+
+35
+00:04:34.527 --> 00:04:39.270
+Seven divided by ten liters per second is seventy percent.
+
+36
+00:04:39.270 --> 00:04:45.567
+Always consider poor effort or technique when a reading is well below normal.
+
+37
+00:04:46.967 --> 00:04:54.384
+Asthma action plans sort peak flow into zones based on the patient's personal best.
+
+38
+00:04:54.384 --> 00:05:05.555
+The RCP 103 deck uses green at eighty to one hundred percent, yellow at fifty to eighty percent, and red below fifty percent.
+
+39
+00:05:05.555 --> 00:05:15.296
+Hess, following the national asthma guidelines, gives green above eighty and yellow at fifty to seventy nine.
+
+40
+00:05:15.296 --> 00:05:16.457
+Use the deck.
+
+41
+00:05:16.457 --> 00:05:30.667
+Hess defines the personal best as the highest of three successive readings taken when the patient has no symptoms, and advises using the same device routinely.
+
+42
+00:05:32.067 --> 00:05:34.456
+A manometer measures pressure.
+
+43
+00:05:34.456 --> 00:05:42.976
+Hess bases it on Pascal's law: pressure is transmitted without reduction through an enclosed, static fluid.
+
+44
+00:05:42.976 --> 00:05:56.831
+For negative inspiratory force, the manometer sits on a one-way valve that allows exhalation but not inspiration, and flipping the valve measures maximum expiratory pressure.
+
+45
+00:05:56.831 --> 00:06:04.794
+These measure inspiratory and expiratory muscle strength, and only in an alert, cooperative patient.
+
+46
+00:06:04.794 --> 00:06:17.535
+The deck's normal negative inspiratory force is more negative than minus sixty centimeters of water, minus forty in COPD, and minus twenty in myasthenia gravis.
+
+47
+00:06:17.535 --> 00:06:21.915
+The more negative the number, the stronger the muscles.
+
+48
+00:06:21.915 --> 00:06:30.117
+The weaning deck measures the negative pressure generated in twenty seconds against an occluded device.
+
+49
+00:06:31.533 --> 00:06:40.999
+To check cuff pressure, use a calibrated manometer, a three-way stopcock, and a ten or twenty milliliter syringe.
+
+50
+00:06:40.999 --> 00:06:45.187
+The goal is twenty to thirty centimeters of water.
+
+51
+00:06:45.187 --> 00:06:53.564
+Here is the catch: attaching the manometer lets some volume out of the cuff and lowers its pressure.
+
+52
+00:06:53.564 --> 00:07:00.600
+So always adjust the pressure back to the goal, never just measure it and walk away.
+
+53
+00:07:00.600 --> 00:07:03.867
+The manometer has one more bedside use.
+
+54
+00:07:03.867 --> 00:07:11.908
+During manual ventilation of children and infants, monitor the airway pressure with a manometer.
+
+55
+00:07:13.333 --> 00:07:18.987
+A capnometer measures exhaled carbon dioxide breath to breath.
+
+56
+00:07:18.987 --> 00:07:29.201
+Capnometry is the number, capnography is the number plus the waveform, and the capnogram is the waveform itself.
+
+57
+00:07:29.201 --> 00:07:34.582
+Most devices measure carbon dioxide by infrared absorption.
+
+58
+00:07:34.582 --> 00:07:41.603
+Use a calibrated device and confirm that the inspiratory baseline reads zero.
+
+59
+00:07:41.603 --> 00:07:51.908
+End-tidal carbon dioxide normally runs one to five torr below the PaCO2, and more than that with high dead space.
+
+60
+00:07:53.333 --> 00:08:00.059
+A mainstream sensor sits at the airway and is used mainly in intubated patients.
+
+61
+00:08:00.059 --> 00:08:09.726
+It is heated, so allow it to warm up, and because it is placed distal to the airway it can cause rebreathing error.
+
+62
+00:08:09.726 --> 00:08:23.681
+On a patient who is not intubated, using a mask or mouthpiece, it needs supplemental oxygen at six liters per minute to prevent rebreathing from the added dead space.
+
+63
+00:08:23.681 --> 00:08:29.398
+A sidestream unit is most useful for patients who are not intubated.
+
+64
+00:08:29.398 --> 00:08:38.056
+Its main problem is condensate blocking the sampling tube, and its slower response alters the waveform.
+
+65
+00:08:38.056 --> 00:08:46.463
+One slide's answer text says vented patients, but its own notes and another slide say non-intubated.
+
+66
+00:08:46.463 --> 00:08:58.737
+For calibration, the high point is five percent carbon dioxide, a PCO2 of thirty eight torr, with a standard of plus or minus point three percent.
+
+67
+00:08:58.737 --> 00:09:02.183
+Auto-zero corrects offset only, not gain.
+
+68
+00:09:03.600 --> 00:09:11.000
+Volume calibration of pulmonary function equipment needs a three liter calibration syringe.
+
+69
+00:09:11.000 --> 00:09:16.448
+You inject a known volume and confirm that the spirometer reads it.
+
+70
+00:09:16.448 --> 00:09:23.442
+Do it daily, before patient testing, after the daily leak check on volume spirometers.
+
+71
+00:09:23.442 --> 00:09:34.501
+The leak check pressurizes the system to three centimeters of water for one minute, and an acceptable leak is less than ten milliliters.
+
+72
+00:09:34.501 --> 00:09:52.717
+The American Thoracic Society's volume accuracy is plus or minus three percent or fifty milliliters, whichever is larger, so for three liters the reading must fall between two point nine one and three point zero nine liters.
+
+73
+00:09:52.717 --> 00:10:03.532
+For flow, inject the three liters at half a second, at six seconds and in between, and each must read within one hundred milliliters.
+
+74
+00:10:03.532 --> 00:10:09.550
+And BTPS correction must be off, or the reading is about ten percent high.
+
+75
+00:10:10.967 --> 00:10:11.995
+Try this one.
+
+76
+00:10:11.995 --> 00:10:22.836
+During the daily calibration, you inject three liters with the calibration syringe, and the spirometer reads two point eight five liters.
+
+77
+00:10:22.836 --> 00:10:29.167
+Is that acceptable, what should you suspect, and can you start testing patients?
+
+78
+00:10:30.067 --> 00:10:36.067
+[6-second practice pause]
+
+79
+00:10:36.567 --> 00:10:37.167
+No.
+
+80
+00:10:37.167 --> 00:10:48.002
+The acceptable range for a three liter injection is two point nine one to three point zero nine, so two point eight five is too low.
+
+81
+00:10:48.002 --> 00:10:52.763
+A low reading means think leak, and repeat the leak check.
+
+82
+00:10:52.763 --> 00:11:06.635
+A high reading would point instead to setup or correction: recheck the zeroing, make sure BTPS is off, and make sure the syringe and spirometer are the same temperature.
+
+83
+00:11:06.635 --> 00:11:17.880
+Either way, no patient testing until the cause is found and a repeat calibration is accurate, and record the results on the daily QC log.
+
+84
+00:11:17.880 --> 00:11:28.551
+One conflict: Hess Box eight dash four allows plus or minus three point five percent, two point nine zero to three point one zero.
+
+85
+00:11:28.551 --> 00:11:30.931
+Use the deck's three percent.
+
+86
+00:11:30.931 --> 00:11:35.667
+Hess also says to check the syringe itself at least quarterly.
+
+87
+00:11:37.067 --> 00:11:51.910
+Quality control results are plotted on a Levey-Jennings chart against the mean and the standard deviation, with bounding limits of plus or minus two standard deviations.
+
+88
+00:11:51.910 --> 00:12:00.956
+If all controls fall within two standard deviations, the analyzer is in control and ready for patients.
+
+89
+00:12:00.956 --> 00:12:05.523
+Outside two standard deviations is analytical error.
+
+90
+00:12:05.523 --> 00:12:17.906
+RCP 103 calls one control out a warning, and two or more consecutive controls out means out of control: recalibrate or replace the electrode.
+
+91
+00:12:17.906 --> 00:12:31.432
+A single random error, one point out with later points back to normal, is judged by the lab's QC rules and does not necessarily mean a persistent problem.
+
+92
+00:12:31.432 --> 00:12:36.614
+If a repeat QC is acceptable, patient testing may continue.
+
+93
+00:12:36.614 --> 00:12:40.742
+If the problem persists, stop and troubleshoot.
+
+94
+00:12:42.167 --> 00:12:47.852
+Systematic errors, also called bias, are more serious than random ones.
+
+95
+00:12:47.852 --> 00:12:55.699
+With bias, or with recurrent random errors, run no patient samples until the problem is corrected.
+
+96
+00:12:55.699 --> 00:13:07.469
+When the analyzer is out of control, identify the problem, correct it, and confirm that it is back in control before reporting any patient results.
+
+97
+00:13:07.469 --> 00:13:16.837
+Hess adds that pulmonary function labs use the same logic for their biological controls on the body box and the DLCO.
+
+98
+00:13:16.837 --> 00:13:27.167
+Those are tracked on a Levey-Jennings plot, and a result outside two standard deviations of the mean calls for corrective action.
+
+99
+00:13:28.567 --> 00:13:30.711
+Here is what to remember.
+
+100
+00:13:30.711 --> 00:13:42.630
+The vane respirometer measures volume in one direction, overreads high flows, underreads low flows, and is never used for forced maneuvers.
+
+101
+00:13:42.630 --> 00:13:48.547
+On the Wright, tidal volume is the minute volume divided by the rate.
+
+102
+00:13:48.547 --> 00:13:56.094
+Peak flow is a monitoring tool, with zones at eighty and fifty percent of personal best.
+
+103
+00:13:56.094 --> 00:14:03.383
+Attaching a cuff manometer lowers the pressure, so always adjust to twenty to thirty.
+
+104
+00:14:03.383 --> 00:14:09.643
+Mainstream capnometers suit intubated patients, sidestream suit the rest.
+
+105
+00:14:09.643 --> 00:14:22.592
+The three liter syringe must read two point nine one to three point zero nine, low means leak, and stay within two standard deviations on the QC chart.

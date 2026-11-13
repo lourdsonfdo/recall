@@ -1,0 +1,42 @@
+RCP 203 — Chapter 09: Obstructive vs Central Sleep Apnea
+
+[09-001 · What this chapter covers]
+This chapter separates the two kinds of sleep apnea. We start with the core difference, effort versus no effort, and the mechanism behind each. Then the risk factors and symptoms, which point you toward one or the other. Next comes diagnosis with polysomnography, how to calculate the apnea hypopnea index, and how to grade severity. We finish with treatment, which starts very differently: behavior and CPAP for obstructive apnea, and treating the underlying cause for central apnea.
+
+[09-002 · Effort but no airflow, or neither]
+The deck's one-line rule: effort but no airflow is obstructive; no effort and no airflow is central. An apnea that starts central and ends obstructive is mixed. In obstructive sleep apnea, the upper airway collapses again and again during sleep, and airflow is absent or nearly absent. But ventilatory effort persists, and on the sleep study the esophageal pressure becomes more negative as the patient works harder. In central sleep apnea, both airflow and ventilatory effort stop or fall. The airway is open, but the brain does not send the signal to breathe, so there is no thoraco-abdominal movement and no esophageal pressure swing.
+
+[09-003 · Why each one happens]
+In obstructive apnea, sleep reduces muscle tone. The genioglossus fails to oppose the collapsing forces, so the tongue moves back into the oropharynx. Hess adds that the narrowing is worst in REM sleep and in the supine position. Central apnea comes in two groups. Hyperventilation related central apnea is the most common: primary central apnea, Cheyne-Stokes breathing in heart failure, and high altitude. Hypoventilation related central apnea comes from central nervous system disorders, opioids, alcohol or benzodiazepines, neuromuscular disease and severe COPD. Mixed apnea is an event, not a separate condition, and patients with mostly mixed apneas are classified and treated as obstructive. Hess adds that central apnea is uncommon, usually occurs with cardiac or neurologic problems, and these patients are usually not obese.
+
+[09-004 · Risk factors and symptoms]
+For obstructive apnea, the notes call obesity the strongest predictor, and Hess adds that most patients are obese, with a body mass index above thirty. Other risk factors are a large neck, over seventeen inches in men and over sixteen in women, male sex, age over sixty five, hypertension, diabetes, chronic nasal congestion, family history, alcohol, sedatives, smoking and ethnicity. The symptoms are loud snoring, witnessed apneas, abrupt awakenings short of breath, morning headache, dry mouth, excessive daytime sleepiness, and changes in mood or memory. Central apnea's main causes are heart failure with Cheyne-Stokes breathing, central nervous system disorders or injury, drugs or substances, and high altitude. Atrial fibrillation often goes with it, so evaluate for cardiac disease and for brain lesions. Hess says central apnea gives milder symptoms, with less snoring and daytime sleepiness.
+
+[09-005 · Diagnosis: polysomnography and the AHI]
+A full night, attended, in-lab polysomnogram is the gold standard. The apnea hypopnea index is the number of apneas plus hypopneas, divided by the total sleep time in hours. The deck's example: one hundred events over eight hours is twelve point five per hour, which is mild. Mild is five to fifteen events per hour, moderate is fifteen to thirty, and severe is above thirty, or a saturation below ninety percent for more than twenty percent of sleep. A hypopnea is airflow reduced by at least thirty percent for at least ten seconds, with at least a three percent drop in saturation or an arousal. Hess's table uses a four percent desaturation; use the deck's three percent or arousal.
+
+[09-006 · When OSA or CSA is confirmed]
+Obstructive sleep apnea is confirmed when the index is fifteen or more per hour in a patient without symptoms, or five or more per hour with symptoms, where the events are apneas, hypopneas or respiratory effort related arousals, and when seventy five percent of the events are obstructive. Central sleep apnea is diagnosed when the majority of events are central, with no airflow and no thoraco-abdominal movement. Hess sets that at more than fifty percent central.
+
+[09-007 · Practice: read the sleep study]
+Pause and work this out. A sleep study records one hundred apneas and hypopneas over eight hours of sleep. During the events, the chest and abdomen keep moving. What is the index, how severe is it, and is this obstructive or central?
+[6-second practice pause]
+
+[09-008 · Answer: 12.5 per hour, mild, obstructive]
+One hundred divided by eight is twelve point five events per hour, which falls in the mild range of five to fifteen. The chest and abdomen keep moving, which means ventilatory effort persists while airflow stops, so the events are obstructive. Central events would show no effort and no thoraco-abdominal movement. To confirm obstructive sleep apnea at this index, the patient would also need symptoms, since twelve point five is below fifteen.
+
+[09-009 · Treatment: first steps]
+The first step differs. For obstructive apnea, start with behavior: weight loss, avoiding alcohol and sedatives, and avoiding sleeping on the back. Then positive airway pressure is first line. CPAP is the most common and most effective, because constant pressure splints the airway open. BiPAP is used for CPAP intolerance or hypoventilation, or auto-titrating PAP. Other options are oral appliances, surgery and an implantable upper airway stimulator. For central apnea, treat the underlying cause first, such as heart failure or encephalitis. If it persists, use CPAP or BiPAP, with an initial CPAP of five to ten centimeters of water, and RCP 203 lists sleep apnea, especially central sleep apnea, as a BiPAP indication. Respiratory stimulants such as acetazolamide and theophylline are options, and oxygen reduces desaturation but does not improve sleep quality.
+
+[09-010 · CPAP settings, backup rate and ASV]
+RCP 203 says to set CPAP by prescription, or use auto CPAP with a maximum of fifteen centimeters of water, and optimum control is an index below five per hour. If CPAP is not tolerated, try other masks, humidification, a ramp, auto-titration, pressure relief, or BiPAP. Hess adds that the usual obstructive apnea CPAP is eight to ten centimeters of water, and that the spontaneous timed bilevel mode supplies a backup rate if the patient is apneic. RCP 203 sets that rate two to five breaths below the patient's own. Adaptive servo ventilation adjusts the pressure support breath by breath, and the deck says it helps hyperventilation related central apnea, such as Cheyne-Stokes in heart failure. Know the Hess caveat: ASV in Cheyne-Stokes has been linked to harm, and it should be stopped in symptomatic heart failure with an ejection fraction of forty five percent or less.
+
+[09-011 · Practice: first treatment for central apnea]
+One more. A patient with heart failure has central sleep apnea with a Cheyne-Stokes pattern. What is the first step, and if the apnea persists, what does the deck recommend?
+[6-second practice pause]
+
+[09-012 · Answer: treat the heart first]
+First, treat the underlying cause, here the heart failure. If the central apnea persists, use CPAP or BiPAP, starting CPAP at five to ten centimeters of water. The deck adds that adaptive servo ventilation is particularly helpful for this hyperventilation related type, Cheyne-Stokes in heart failure. But know the Hess caveat: ASV in Cheyne-Stokes has been linked to harm, and it should be stopped in symptomatic heart failure with an ejection fraction of forty five percent or less.
+
+[09-013 · Recap]
+Here is the chapter in brief. Effort without airflow is obstructive; no effort and no airflow is central; mixed apneas are treated as obstructive. Obstructive apnea comes from lost muscle tone and a falling tongue, and obesity is the strongest predictor. Central apnea comes from the brain, often heart failure. The index is events divided by sleep hours, with five, fifteen and thirty as the cutoffs. Obstructive apnea is confirmed at fifteen, or five with symptoms, with seventy five percent obstructive events. Treat obstructive apnea with behavior and CPAP, and central apnea by treating the cause first.

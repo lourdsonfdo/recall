@@ -1,0 +1,293 @@
+WEBVTT
+
+1
+00:00:00.500 --> 00:00:04.703
+This chapter covers the two loops the final asks about.
+
+2
+00:00:04.703 --> 00:00:20.827
+The pressure-volume loop is the compliance loop: we read its axes and breath types, then compliance changes, overdistension and the inflection points, and then resistance, leaks, auto-PEEP and work of breathing.
+
+3
+00:00:20.827 --> 00:00:32.365
+The flow-volume loop is the resistance loop: we read it on the ventilator, including a bronchodilator response, and then the classic spirometry shapes.
+
+4
+00:00:32.365 --> 00:00:39.625
+Keep the deck's rule in mind: pressure-volume, think compliance; flow-volume, think resistance.
+
+5
+00:00:41.033 --> 00:00:49.374
+Chapter eleven sorts ventilator graphics into scalars, pressure, volume or flow against time, and loops.
+
+6
+00:00:49.374 --> 00:01:03.890
+The pressure-volume loop shows the pressure needed to deliver a volume, so you can judge compliance and resistance at a glance, and the deck says it is likely to appear on the NBRC.
+
+7
+00:01:03.890 --> 00:01:07.980
+Pressure is on the x-axis and volume on the y-axis.
+
+8
+00:01:07.980 --> 00:01:16.882
+The upswing to the right is inspiration, and the downswing to the left is the return to baseline in expiration.
+
+9
+00:01:16.882 --> 00:01:29.874
+A static pressure-volume curve, recorded at stepwise volume increases, has an S shape, and its slope, change in volume over change in pressure, is the compliance.
+
+10
+00:01:29.874 --> 00:01:45.833
+The dotted line inside the loop is the alveolar pressure, and the gap between the airway opening pressure and the alveolar pressure is pressure spent on airway resistance, not on inflating the lungs.
+
+11
+00:01:47.233 --> 00:01:58.164
+RCP 105 shows how the breath type changes the loop's shape, so identify the breath type before you read anything else on the loop.
+
+12
+00:01:58.164 --> 00:02:08.505
+A spontaneous breath gives an oval, symmetric loop with no sharp corners, because the patient's own muscles are driving it.
+
+13
+00:02:08.505 --> 00:02:13.887
+A controlled breath gives a well-defined loop with sharp angles.
+
+14
+00:02:13.887 --> 00:02:21.033
+An assisted breath shows a small trigger effort first, then the machine's assistance.
+
+15
+00:02:22.433 --> 00:02:27.556
+Chapter eleven says the higher the slope, the higher the compliance.
+
+16
+00:02:27.556 --> 00:02:47.969
+Lower compliance shifts the loop toward the pressure axis, to the right, and makes it flatter, with higher peak and alveolar pressures and an unchanged resistance gap, as in ARDS, infant respiratory distress syndrome, pulmonary edema, atelectasis, pneumonia and fibrosis.
+
+17
+00:02:47.969 --> 00:02:59.645
+Higher compliance shifts it toward the volume axis, to the left, and makes it steeper, as in emphysema, where the lung stretches easily but recoils poorly.
+
+18
+00:02:59.645 --> 00:03:13.354
+For example, the same tidal volume of about six hundred milliliters needs about thirty centimeters of water with normal compliance, but a little over forty with decreased compliance.
+
+19
+00:03:13.354 --> 00:03:20.661
+The pearl is right is bad and left is good, but only for compliance, since emphysema shifts left.
+
+20
+00:03:20.661 --> 00:03:25.783
+Improvement, from PEEP or surfactant, makes the curve more vertical.
+
+21
+00:03:27.200 --> 00:03:31.928
+Inflection points are where the curve's slope changes.
+
+22
+00:03:31.928 --> 00:03:40.945
+The upper inflection point marks overdistension, the change from high to low compliance at high volume.
+
+23
+00:03:40.945 --> 00:03:53.552
+Beyond it, small volume increases cause very large pressure rises, so the loop takes the shape of a bird's beak, which RCP 105 calls a duckbill.
+
+24
+00:03:53.552 --> 00:04:04.846
+It means the tidal volume is excessive, and overdistended alveoli risk ventilator-induced lung injury, barotrauma and volutrauma.
+
+25
+00:04:04.846 --> 00:04:12.900
+The fix is to reduce the tidal volume until the beak disappears, or to use pressure control.
+
+26
+00:04:14.300 --> 00:04:22.874
+The lower inflection point, also called the critical opening pressure, is where alveoli begin to open.
+
+27
+00:04:22.874 --> 00:04:27.413
+Below it the curve is flat, meaning under-recruitment.
+
+28
+00:04:27.413 --> 00:04:40.609
+Chapter eleven defines optimal PEEP as the lowest pressure that exceeds the lower inflection point, typically set two to three centimeters of water above it.
+
+29
+00:04:40.609 --> 00:04:49.855
+RCP 105 says at or slightly above it, in homogeneous stiff lungs that are not ARDS, and less commonly in ARDS.
+
+30
+00:04:49.855 --> 00:05:07.675
+Hess adds caveats: the upper point might instead mark the end of recruitment, pressure-volume curves need sedation and often paralysis, and pressure control loops cannot identify the optimal PEEP or tidal volume.
+
+31
+00:05:09.100 --> 00:05:10.499
+Pause and decide.
+
+32
+00:05:10.499 --> 00:05:17.824
+On volume control, the pressure-volume loop flattens at the top into a bird's beak shape.
+
+33
+00:05:17.824 --> 00:05:24.325
+What does that mean, what is the risk, and what change does the deck recommend?
+
+34
+00:05:25.233 --> 00:05:31.233
+[6-second practice pause]
+
+35
+00:05:31.733 --> 00:05:41.641
+A beak means overdistension, beyond the upper inflection point, where small volume increases cause large pressure rises.
+
+36
+00:05:41.641 --> 00:05:47.421
+The risk is ventilator-induced lung injury, barotrauma and volutrauma.
+
+37
+00:05:47.421 --> 00:05:54.108
+Reduce the tidal volume until the beak disappears, or switch to pressure control.
+
+38
+00:05:55.533 --> 00:06:01.449
+On the pressure-volume loop, the wider the loop, the higher the resistance.
+
+39
+00:06:01.449 --> 00:06:10.915
+Higher inspiratory resistance shifts the inspiratory limb to the right, as in bronchospasm, kinked tubing or secretions.
+
+40
+00:06:10.915 --> 00:06:18.960
+Higher expiratory resistance widens the loop on the way out, from air trapping, as in COPD and asthma.
+
+41
+00:06:18.960 --> 00:06:32.922
+One chapter eleven caption says the thinner the loop, the higher the resistance, but its figure cannot be checked and no other source agrees, so use wider means more resistance.
+
+42
+00:06:32.922 --> 00:06:46.016
+A leak shows as loops that do not return to zero volume, and on the volume time scalar, exhaled volume does not return to baseline, from a cuff or a loose connection.
+
+43
+00:06:46.016 --> 00:06:55.008
+Auto-PEEP shows on the flow time scalar, where expiratory flow does not return to baseline before the next breath.
+
+44
+00:06:56.433 --> 00:07:01.927
+No source gives a way to read work of breathing from a ventilator loop.
+
+45
+00:07:01.927 --> 00:07:10.051
+The normal values come from the area of an esophageal pressure-volume curve during spontaneous breathing.
+
+46
+00:07:10.051 --> 00:07:20.651
+Hess gives zero point three to zero point seven joules per liter, and Heuer gives zero point five to zero point seven for healthy adults.
+
+47
+00:07:20.651 --> 00:07:28.233
+The books differ on the lower limit, so zero point five to zero point seven is where they overlap.
+
+48
+00:07:29.633 --> 00:07:39.740
+Think resistance on the flow-volume loop, and look at the expiratory limb, because the ventilator presets the inspiratory flow.
+
+49
+00:07:39.740 --> 00:07:52.951
+Higher resistance, from bronchospasm or mucus plugging, lowers the peak expiratory flow and makes the expiratory limb flatter and narrower, as the lungs empty slowly.
+
+50
+00:07:52.951 --> 00:08:03.217
+Lower resistance, after a bronchodilator or suctioning, raises the peak expiratory flow and makes the limb more peaked and wider.
+
+51
+00:08:03.217 --> 00:08:11.653
+To check a bronchodilator response, compare the loops before and after: the peak expiratory flow improves.
+
+52
+00:08:11.653 --> 00:08:19.133
+Hess agrees that flow-volume loops are useful for identifying the response to bronchodilators.
+
+53
+00:08:20.533 --> 00:08:27.023
+No deck text describes these shapes, so they come from Hess chapter eight.
+
+54
+00:08:27.023 --> 00:08:38.774
+On a spirometry loop, volume is horizontal and flow vertical, with exhalation above the baseline, the opposite of the ventilator loop.
+
+55
+00:08:38.774 --> 00:08:44.387
+A normal loop has high inspiratory and expiratory flows, a sail.
+
+56
+00:08:44.387 --> 00:08:53.331
+An obstructive loop has a concave, scooped expiratory slope, an ocean wave, or a letter L when severe.
+
+57
+00:08:53.331 --> 00:09:02.978
+A restrictive loop has high flows and rapid emptying of a small vital capacity, an upside-down ice cream cone.
+
+58
+00:09:02.978 --> 00:09:11.748
+A variable upper airway lesion, such as vocal cord paralysis, lowers flow only on forced inhalation.
+
+59
+00:09:11.748 --> 00:09:21.482
+A fixed upper airway obstruction, such as tracheal stenosis, lowers flow equally on inspiration and expiration.
+
+60
+00:09:21.482 --> 00:09:33.408
+For a significant bronchodilator response, use the RCP 203 deck: FEV1 up twelve to fifteen percent and at least two hundred milliliters.
+
+61
+00:09:34.833 --> 00:09:35.583
+One more.
+
+62
+00:09:35.583 --> 00:09:43.741
+A spirometry loop shows reduced flow only during forced inhalation, while exhalation looks normal.
+
+63
+00:09:43.741 --> 00:09:51.733
+What kind of lesion is this, what is an example, and how would a fixed obstruction look instead?
+
+64
+00:09:52.633 --> 00:09:58.633
+[6-second practice pause]
+
+65
+00:09:59.133 --> 00:10:08.937
+Reduced flow only on forced inhalation means a variable upper airway lesion, and Hess's example is vocal cord paralysis.
+
+66
+00:10:08.937 --> 00:10:22.008
+A fixed upper airway obstruction, such as tracheal stenosis, would lower the flow equally on both inspiration and expiration, flattening both sides of the loop.
+
+67
+00:10:23.433 --> 00:10:25.886
+Here is the chapter in brief.
+
+68
+00:10:25.886 --> 00:10:34.174
+On the pressure-volume loop, pressure is horizontal, volume vertical, and the slope is compliance.
+
+69
+00:10:34.174 --> 00:10:41.531
+Lower compliance shifts it right and flatter, and emphysema shifts it left and steeper.
+
+70
+00:10:41.531 --> 00:10:52.694
+A beak at the top is overdistension, so lower the tidal volume, and optimal PEEP sits two to three above the lower inflection point.
+
+71
+00:10:52.694 --> 00:10:59.460
+A wider loop means more resistance, and a loop that does not close means a leak.
+
+72
+00:10:59.460 --> 00:11:05.549
+On the flow-volume loop, think resistance and watch the expiratory limb.
+
+73
+00:11:05.549 --> 00:11:20.433
+And on spirometry: a sail is normal, a scooped ocean wave is obstructive, an upside-down cone is restrictive, and inspiration-only flattening is a variable upper airway lesion.

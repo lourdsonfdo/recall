@@ -1,0 +1,33 @@
+RCP 203 — Chapter 33: Suction Catheter Size
+
+[33-001 · What this chapter covers]
+This chapter is about suctioning an artificial airway safely. The main question is how to pick the suction catheter size for a given endotracheal tube, using the deck's rule and its worked example. We also cover where Hess disagrees, and which answer to use on this exam. Then we cover suction pressures for adults, children and infants, how to set the pressure, how long each pass may last, and preoxygenation before you suction.
+
+[33-002 · The rule: under half the tube]
+The deck's exam answer: choose a catheter that occludes less than fifty percent of the endotracheal tube's internal diameter, or less than seventy percent for infants. That leaves room for gas to flow around the catheter, which prevents atelectasis during suctioning. Hess's clinical practice guideline gives the same numbers, fifty and seventy percent. For a quick estimate in French, double the tube's internal diameter in millimeters, then select the next smallest catheter size. Catheter size is the outer diameter in French, which is a measure of circumference, so French is about three times the diameter in millimeters.
+
+[33-003 · Worked example, and where Hess differs]
+The deck's worked example is a six point oh millimeter tube. Two times six is twelve, and the next smallest size is ten French. Hess differs in two places. Chapter seventeen limits the catheter's outer diameter to one half to two thirds of the airway's internal diameter, and says a fourteen French catheter is usually acceptable for adults. Chapter twenty two uses two times the tube's internal diameter with no step down, which would give twelve. On this exam, use the deck: double the internal diameter, then step down to the next smallest size. For the six point oh tube, that is ten French.
+
+[33-004 · Practice: size the catheter]
+Pause and size it. An adult has an eight point oh millimeter endotracheal tube. Using the deck's rule, what size suction catheter do you choose?
+[6-second practice pause]
+
+[33-005 · Answer: 14 French]
+Double the internal diameter: two times eight is sixteen. Then step down to the next smallest size, fourteen French. That matches Hess's note that a fourteen French catheter is usually acceptable for adults. Without the step down you would pick sixteen, which is Hess chapter twenty two's method, not the deck's.
+
+[33-006 · Suction pressures by age]
+Next, suction pressure. Use the deck's chapter ten ranges as the recommended starting range. Adults: negative one hundred to one hundred twenty millimeters of mercury. Children: negative eighty to one hundred. Infants: negative sixty to eighty. Hess gives maximums instead: one hundred fifty for adults, one hundred twenty five for children, and one hundred for infants. His chapter twenty two gives one hundred to one hundred twenty five for children and seventy five to one hundred for infants, noting that some recommend sixty to eighty. For adults, the Lesson 4 notes say negative eighty to one hundred twenty; both deck ranges end at one hundred twenty.
+
+[33-007 · Setting the pressure, and the time limit]
+Set the pressure to the lowest level needed. With the vacuum running continuously, occlude the tubing and watch the gauge; on a closed system, fully depress the thumb valve. A subglottic, or CASS, port uses continuous low suction of negative twenty to twenty five. Each suction attempt lasts no more than fifteen seconds. Hess says under fifteen, and the RCP 105 deck says no more than ten, but use fifteen. Before suctioning, preoxygenate with one hundred percent oxygen for thirty to sixty seconds. Hess says an FiO2 of one point oh, and for neonates, raise the FiO2 by point one for thirty to sixty seconds.
+
+[33-008 · Practice: suctioning a child]
+One more. You are about to suction a child through an endotracheal tube. What pressure range do you start with, how long can each pass last, and what do you do first?
+[6-second practice pause]
+
+[33-009 · Answer: −80 to −100, 15 seconds, preoxygenate]
+Start at negative eighty to one hundred millimeters of mercury, the deck's range for children, and use the lowest level needed. Keep each pass to fifteen seconds or less. And first, preoxygenate with one hundred percent oxygen for thirty to sixty seconds.
+
+[33-010 · Recap]
+Here is the chapter in brief. Choose a catheter that occludes less than half the tube's internal diameter, or less than seventy percent in infants, so gas can flow around it. For a quick estimate, double the internal diameter and step down one size: a six point oh tube takes a ten French catheter. Start suction at negative one hundred to one hundred twenty for adults, eighty to one hundred for children, and sixty to eighty for infants. Keep each pass to fifteen seconds or less, and preoxygenate first.

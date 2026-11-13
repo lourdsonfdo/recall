@@ -1,0 +1,42 @@
+RCP 203 — Chapter 30: Carbon Monoxide
+
+[30-001 · What this chapter covers]
+This chapter covers carbon monoxide. We start with the carboxyhemoglobin levels, normal, smokers and poisoning, and why carbon monoxide harms. Then how to measure it, and why a normal PaO2 and a normal pulse oximeter reading do not rule out poisoning. We finish with treatment: one hundred percent oxygen right away, the half-lives on room air, oxygen and hyperbaric oxygen, and when to consider a hyperbaric chamber.
+
+[30-002 · COHb levels]
+RCP 203 Lessons 3a and 3b give one scale: one to three percent is within normal limits, five to ten percent is typical of smokers, ten to fifteen percent of heavy smokers, and above twenty percent is carbon monoxide poisoning. Lesson 1 gives another: below one and a half percent is a normal level, and three to six percent is normal for smokers, inner city dwellers and people near industrial areas. After smoke inhalation, a level of three to four percent or more in a nonsmoker, or ten percent or more in a smoker, is outside the expected range. The two versions differ on normal and on smokers, so know both. Above twenty percent means poisoning in both.
+
+[30-003 · Why carbon monoxide harms]
+Carbon monoxide binds hemoglobin about two hundred to two hundred fifty times more strongly than oxygen, per the burn deck, and RCP 203 Lesson 1 says about two hundred ten times. It forms carboxyhemoglobin, which leaves less hemoglobin to carry oxygen, causing tissue hypoxia. It also shifts the oxyhemoglobin dissociation curve to the left, so the oxygen that is carried is held more tightly. Hess adds that at fifty percent, unconsciousness routinely occurs. Whitaker describes headache, nausea and vomiting at twenty to thirty percent, and loss of sensorium and coma above forty. No source prints a full symptom table.
+
+[30-004 · Why SpO2 and PaO2 mislead]
+Measure carboxyhemoglobin with CO-oximetry, a blood gas run on a CO-oximeter. Smoke exposure with a normal PaO2 and a normal saturation does not rule out poisoning. The PaO2 can be normal, because it measures oxygen dissolved in plasma. A conventional pulse oximeter reads misleadingly normal or high, because it cannot reliably tell oxyhemoglobin from carboxyhemoglobin, so the pulse oximeter reads above the true saturation. CO-oximetry measures each hemoglobin component separately. Hess adds that the oximeter overestimates the true saturation by about the carboxyhemoglobin level.
+
+[30-005 · Bedside corrections]
+RCP 103 gives a bedside correction: subtract the carboxyhemoglobin from the pulse oximeter reading. A saturation of ninety percent with seven percent carboxyhemoglobin is a true saturation of eighty three. RCP 203 Lesson 3b adds an exhaled carbon monoxide estimate: parts per million divided by six is about the carboxyhemoglobin percent, so forty eight parts per million is about eight percent. That is for moderate poisoning in conscious, cooperative patients. Hess adds that newer multi-wavelength oximeters report a carbon monoxide reading, but its accuracy is plus or minus six percent, so it should not be used for triage or management. A low reading never rules out poisoning; confirm with a blood measurement.
+
+[30-006 · Practice: a fire victim]
+Pause and work it out. A fire victim has a pulse oximeter reading of ninety six percent and a normal PaO2. A CO-oximeter shows twenty five percent carboxyhemoglobin. Is carbon monoxide poisoning ruled out, and roughly what is the true saturation?
+[6-second practice pause]
+
+[30-007 · Answer: poisoned; true sat ~71%]
+No, poisoning is not ruled out. Twenty five percent is above twenty, so this is carbon monoxide poisoning. The normal PaO2 reflects only dissolved oxygen, and the pulse oximeter cannot tell carboxyhemoglobin from oxyhemoglobin. By the bedside correction, ninety six minus twenty five gives a true saturation of about seventy one percent. Start one hundred percent oxygen immediately.
+
+[30-008 · Treatment: 100% oxygen now]
+Give one hundred percent oxygen immediately; it speeds the displacement of carbon monoxide from hemoglobin. Chapter eleven says carbon monoxide and cyanide poisoning get the highest possible FiO2 in emergencies. A spontaneously breathing patient gets a nonrebreathing mask with a tight seal and the reservoir kept inflated, and Hess gives fifteen liters per minute regardless of the saturation and PaO2. A patient who cannot protect the airway or ventilate is intubated on an FiO2 of one point zero. In mild to moderate poisoning, continue one hundred percent oxygen until the carboxyhemoglobin is below five percent.
+
+[30-009 · COHb half-life]
+The burn deck gives the carboxyhemoglobin half-life by what the patient breathes. On room air, it is about four to five hours. On one hundred percent oxygen, about sixty to ninety minutes. With hyperbaric oxygen, about twenty to thirty minutes. Hess gives about five hours on room air, about seventy four minutes on oxygen, with a wide range, and less than thirty minutes at three atmospheres. Use the deck's sixty to ninety minutes on one hundred percent oxygen.
+
+[30-010 · When to consider hyperbaric oxygen]
+Consider hyperbaric oxygen for severe carbon monoxide poisoning, especially with significant neurologic depression or cardiac involvement. The decision is not based on the carboxyhemoglobin level alone. A typical protocol is three atmospheres first, then two or three, for ninety minutes, with two ten minute air breaks. Do not delay oxygen while deciding: give one hundred percent oxygen, measure carboxyhemoglobin by CO-oximetry, assess the severity, and then transfer for hyperbaric treatment. Hess indicates hyperbaric oxygen for carbon monoxide poisoning, but notes that its advantage over normal-pressure one hundred percent oxygen is debated and its use remains controversial. Use the deck: consider it for severe poisoning.
+
+[30-011 · Practice: hyperbaric or not?]
+One more. A patient with carbon monoxide poisoning is confused and has new chest pain with ECG changes. Should you wait for the carboxyhemoglobin level before starting treatment, and is hyperbaric oxygen worth considering?
+[6-second practice pause]
+
+[30-012 · Answer: oxygen now, consider HBOT]
+Do not wait. Start one hundred percent oxygen immediately, then measure the carboxyhemoglobin by CO-oximetry. Confusion is neurologic depression, and chest pain with ECG changes suggests cardiac involvement, so this is severe poisoning, and hyperbaric oxygen should be considered, whatever the exact carboxyhemoglobin level.
+
+[30-013 · Recap]
+Here is the chapter in brief. Normal carboxyhemoglobin is about one to three percent, smokers run higher, and above twenty percent is poisoning. Carbon monoxide binds hemoglobin about two hundred times more strongly than oxygen and shifts the curve left. A normal PaO2 and pulse oximeter reading do not rule it out; measure with CO-oximetry, and subtract the carboxyhemoglobin from the oximeter reading for the true saturation. Treat with one hundred percent oxygen immediately, by a tight nonrebreather or intubation, until the level is below five percent. The half-life drops from hours on room air to sixty to ninety minutes on oxygen, and hyperbaric oxygen is considered for severe poisoning with neurologic or cardiac signs.

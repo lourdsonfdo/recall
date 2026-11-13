@@ -1,0 +1,597 @@
+WEBVTT
+
+1
+00:00:00.500 --> 00:00:08.578
+Mechanical ventilation is the largest topic on the study guide, so it is split into four parts.
+
+2
+00:00:08.578 --> 00:00:11.384
+This first part covers the modes.
+
+3
+00:00:11.384 --> 00:00:15.295
+We start with how to tell any two modes apart.
+
+4
+00:00:15.295 --> 00:00:27.114
+Then the core pairs: volume control versus pressure control, control mode versus assist control, and IMV versus SIMV with pressure support.
+
+5
+00:00:27.114 --> 00:00:40.974
+Then the advanced modes: minute ventilation guarantees, PRVC, Volume Ventilation Plus, proportional assist, airway pressure release and high-frequency oscillation.
+
+6
+00:00:40.974 --> 00:00:44.375
+We finish with all of them side by side.
+
+7
+00:00:45.800 --> 00:00:54.862
+Mode names depend on the manufacturer, so the deck says learn how the mode works, not just the name.
+
+8
+00:00:54.862 --> 00:01:05.102
+The same idea is PRVC on a Servo, assist control with AutoFlow on a Dräger, and VC plus on a Puritan Bennett 840.
+
+9
+00:01:05.102 --> 00:01:06.915
+Ask three questions.
+
+10
+00:01:06.915 --> 00:01:10.449
+What is controlled, volume or pressure?
+
+11
+00:01:10.449 --> 00:01:15.795
+What starts and ends the breath, the trigger and the cycle?
+
+12
+00:01:15.795 --> 00:01:18.423
+And which breath types occur?
+
+13
+00:01:18.423 --> 00:01:25.764
+The golden rule is that you control only one item, and the other is the variable.
+
+14
+00:01:25.764 --> 00:01:33.466
+Hess says the ventilator can control only one variable at a time, pressure or volume.
+
+15
+00:01:33.466 --> 00:01:44.975
+The deck ranks them: volume control first, pressure control second, and pressure support as help, in SIMV and breathing trials.
+
+16
+00:01:46.400 --> 00:01:51.905
+A spontaneous breath is triggered and cycled by the patient.
+
+17
+00:01:51.905 --> 00:01:57.135
+A mandatory breath is triggered or cycled by the machine.
+
+18
+00:01:57.135 --> 00:02:02.731
+So a patient-triggered breath is not necessarily spontaneous.
+
+19
+00:02:02.731 --> 00:02:05.759
+There are three breath sequences.
+
+20
+00:02:05.759 --> 00:02:11.081
+Continuous mandatory ventilation is all mandatory breaths.
+
+21
+00:02:11.081 --> 00:02:17.962
+Intermittent mandatory ventilation mixes mandatory and spontaneous breaths.
+
+22
+00:02:17.962 --> 00:02:25.944
+Continuous spontaneous ventilation is all spontaneous, as in CPAP and pressure support.
+
+23
+00:02:25.944 --> 00:02:31.266
+Open-loop modes deliver what you set, like volume control.
+
+24
+00:02:31.266 --> 00:02:39.248
+Closed-loop modes adjust to the patient, like pressure support, MMV, ASV, PAV and PRVC.
+
+25
+00:02:39.248 --> 00:02:52.735
+For the NBRC, combine the control variable, volume or pressure, with assist control, machine breaths only, or SIMV, which adds spontaneous breaths.
+
+26
+00:02:52.735 --> 00:02:59.800
+That gives VC-A/C, VC-SIMV, PC-A/C and PC-SIMV, and the deck says know these.
+
+27
+00:03:01.233 --> 00:03:08.569
+Volume control guarantees the tidal volume, and Hess adds the flow, while the pressure varies.
+
+28
+00:03:08.569 --> 00:03:14.733
+Pressure control guarantees the pressure, while the tidal volume and flow vary.
+
+29
+00:03:14.733 --> 00:03:23.317
+If the patient develops ARDS on volume control, the tidal volume is still five hundred and the pressure rises.
+
+30
+00:03:23.317 --> 00:03:29.326
+On pressure control, the pressure is still twenty and the tidal volume falls.
+
+31
+00:03:29.326 --> 00:03:37.754
+A volume control breath is volume cycled with constant, square flow, and its pressure looks like a mountain.
+
+32
+00:03:37.754 --> 00:03:50.083
+A pressure control breath is time triggered or patient triggered, pressure limited and time cycled, with descending flow, and its pressure looks like a table.
+
+33
+00:03:51.500 --> 00:03:58.109
+Use volume control when a constant tidal volume is needed to hold a desired PaCO2.
+
+34
+00:03:58.109 --> 00:04:10.280
+Its weakness is that plateau pressure rises as compliance falls, and the fixed flow can mismatch the patient's demand, especially if it is set too low.
+
+35
+00:04:10.280 --> 00:04:24.788
+Use pressure control in severe ARDS, where volume control pressures of fifty or more can cause barotrauma; pressure control gives a lower peak pressure, and the patient is sedated.
+
+36
+00:04:24.788 --> 00:04:33.896
+Its strengths are that alveolar pressure cannot exceed the set pressure, and the variable flow improves matching.
+
+37
+00:04:33.896 --> 00:04:40.425
+Its weakness is that tidal volume changes with compliance, resistance and effort.
+
+38
+00:04:40.425 --> 00:04:48.002
+Peak pressure in pressure control is the set pressure plus PEEP, so twenty plus ten is thirty.
+
+39
+00:04:48.002 --> 00:04:59.850
+The chapter eleven deck adds that if volume control needs a plateau above thirty, you should probably switch to pressure control at thirty or less.
+
+40
+00:05:01.267 --> 00:05:07.544
+The decks use CMV two ways, so decide by whether the patient can trigger.
+
+41
+00:05:07.544 --> 00:05:18.121
+In the Chang deck, CMV is the control mode: a preset tidal volume at a time-triggered rate, and the patient cannot trigger.
+
+42
+00:05:18.121 --> 00:05:23.452
+Assist control allows patient-triggered breaths; CMV does not.
+
+43
+00:05:23.452 --> 00:05:31.535
+CMV needs sedation, with or without paralysis, because an awake patient fights the ventilator.
+
+44
+00:05:31.535 --> 00:05:39.790
+It is used for tetanus or seizures, complete rest, a crushed chest and a paradoxical chest wall.
+
+45
+00:05:39.790 --> 00:05:47.357
+Its risks are prolonged sedation, apnea and hypoxia if disconnected, and disuse atrophy.
+
+46
+00:05:47.357 --> 00:05:57.074
+In assist control, assist is patient triggered and control is time triggered, and every breath gets full support.
+
+47
+00:05:57.074 --> 00:06:07.478
+Set twelve, the patient triggers twenty four, and you get twenty four full breaths, with a risk of respiratory alkalosis.
+
+48
+00:06:07.478 --> 00:06:13.842
+Hess calls CMV the same as assist control, with the set rate as a minimum.
+
+49
+00:06:15.267 --> 00:06:22.376
+IMV gives mandatory breaths at a fixed interval, with spontaneous breaths in between.
+
+50
+00:06:22.376 --> 00:06:38.102
+Its problem is breath stacking: a mandatory breath arrives before the patient finishes exhaling, causing auto-PEEP, hyperinflation, higher pressures, more work of breathing and barotrauma.
+
+51
+00:06:38.102 --> 00:06:40.946
+No new adult ventilators offer it.
+
+52
+00:06:40.946 --> 00:06:43.706
+SIMV is IMV with synchronization.
+
+53
+00:06:43.706 --> 00:06:52.823
+The ventilator waits in a synchronization window and delivers the mandatory breath with the patient's effort.
+
+54
+00:06:52.823 --> 00:07:07.545
+On SIMV ten, a mandatory breath comes every six seconds, and in between the patient breathes any tidal volume, with pressure support applying only to those spontaneous breaths.
+
+55
+00:07:07.545 --> 00:07:22.852
+Compare it with assist control: at a rate of ten with the patient triggering twenty, assist control gives twenty mandatory breaths, while SIMV gives ten mandatory and ten spontaneous.
+
+56
+00:07:22.852 --> 00:07:26.867
+The instructor's word play says SIMV equals IMV.
+
+57
+00:07:28.267 --> 00:07:41.631
+SIMV is used for partial support, to preserve muscle strength, and for weaning, stepping down from twelve to eight to four and then to CPAP or pressure support.
+
+58
+00:07:41.631 --> 00:07:50.986
+Without pressure support, the patient tires and weaning fails, so the combination is SIMV plus pressure support.
+
+59
+00:07:50.986 --> 00:07:59.840
+Hess warns of asynchrony if the rate is set too low, and the mandatory rate can never exceed the set rate.
+
+60
+00:07:59.840 --> 00:08:05.854
+Pressure support is patient triggered, pressure limited and flow cycled.
+
+61
+00:08:05.854 --> 00:08:21.306
+It works only on spontaneous breaths, its tidal volume depends on effort, compliance and resistance, and it cycles off at a set percentage of peak flow, often about twenty five percent.
+
+62
+00:08:21.306 --> 00:08:24.563
+It cannot be used in an apneic patient.
+
+63
+00:08:24.563 --> 00:08:33.167
+It is indicated for a low spontaneous tidal volume, a high spontaneous rate, or more work of breathing.
+
+64
+00:08:34.600 --> 00:08:45.935
+Titrate pressure support to a tidal volume of eight to ten milliliters per kilogram of ideal body weight, and a spontaneous rate below twenty five.
+
+65
+00:08:45.935 --> 00:08:56.962
+The notes call that tidal volume the historical figure, and modern lung-protective practice targets closer to six to eight, especially in ARDS.
+
+66
+00:08:56.962 --> 00:09:00.201
+The deck's example is a five foot ten man.
+
+67
+00:09:00.201 --> 00:09:12.924
+Ideal body weight is fifty plus two point three times ten, or seventy three kilograms, so the target is five hundred eighty four to seven hundred thirty milliliters.
+
+68
+00:09:12.924 --> 00:09:22.100
+Hess adds that too little pressure support causes fatigue and tachypnea, and too much activates the expiratory muscles.
+
+69
+00:09:23.500 --> 00:09:25.302
+Pause and work it out.
+
+70
+00:09:25.302 --> 00:09:31.034
+The set rate is ten, and the patient triggers twenty breaths a minute.
+
+71
+00:09:31.034 --> 00:09:41.025
+How many mandatory breaths does the patient get on assist control, and how many mandatory and spontaneous breaths on SIMV?
+
+72
+00:09:41.933 --> 00:09:47.933
+[6-second practice pause]
+
+73
+00:09:48.433 --> 00:10:00.281
+On assist control, every triggered breath is a full mandatory breath, so the patient gets twenty mandatory breaths, which risks respiratory alkalosis.
+
+74
+00:10:00.281 --> 00:10:15.683
+On SIMV, only the set ten are mandatory, synchronized with the patient's effort, and the other ten are spontaneous, at whatever tidal volume the patient makes, with pressure support if it is set.
+
+75
+00:10:17.100 --> 00:10:23.666
+Mandatory minute ventilation guarantees a preset minimum minute ventilation.
+
+76
+00:10:23.666 --> 00:10:34.380
+If the spontaneous minute ventilation falls below it, the ventilator automatically raises the mandatory, volume-cycled rate.
+
+77
+00:10:34.380 --> 00:10:37.836
+Say the target is eight liters a minute.
+
+78
+00:10:37.836 --> 00:10:41.637
+If the patient makes nine, nothing is added.
+
+79
+00:10:41.637 --> 00:10:46.821
+If the patient drops to six, mandatory breaths fill the gap.
+
+80
+00:10:46.821 --> 00:10:55.116
+The catch is that it does not guarantee an adequate tidal volume on each breath, only the total.
+
+81
+00:10:55.116 --> 00:11:11.186
+It is used for weaning, a transition from full support, and variable drive, such as neuromuscular disease or coming off sedation, and the notes add that it needs reliable patient effort.
+
+82
+00:11:11.186 --> 00:11:19.221
+Contrast it with ASV, which picks the rate and tidal volume, and PAV, which amplifies effort.
+
+83
+00:11:19.221 --> 00:11:26.911
+Hess and the Principles deck instead call it an IMV type where the set rate is a maximum.
+
+84
+00:11:26.911 --> 00:11:28.725
+Use the RCP 202 deck.
+
+85
+00:11:30.133 --> 00:11:34.049
+Pressure-regulated volume control is a hybrid.
+
+86
+00:11:34.049 --> 00:11:46.305
+It gives pressure-controlled breaths and adjusts the pressure automatically to reach a target tidal volume at the lowest possible peak pressure.
+
+87
+00:11:46.305 --> 00:11:54.647
+The clinician sets the rate, tidal volume, FiO2 and PEEP, and the ventilator adjusts the pressure.
+
+88
+00:11:54.647 --> 00:12:01.796
+If compliance worsens, it raises the pressure; if compliance improves, it lowers it.
+
+89
+00:12:01.796 --> 00:12:09.882
+Use it when you want volume control's volume guarantee with pressure control's lower pressures.
+
+90
+00:12:09.882 --> 00:12:19.586
+The board pearl: the mode that adjusts pressure to a target tidal volume while minimizing airway pressure is PRVC.
+
+91
+00:12:19.586 --> 00:12:25.203
+It is also called VC plus, AutoFlow, or adaptive pressure control.
+
+92
+00:12:25.203 --> 00:12:37.971
+Hess cautions that if demand rises, from pain for example, and the tidal volume exceeds the target, support is taken away, a cause of mode asynchrony.
+
+93
+00:12:37.971 --> 00:12:50.908
+On the Siemens 300A, automode switches to PRVC after no trigger for twelve seconds in adults, and to volume support after two patient-triggered breaths.
+
+94
+00:12:52.333 --> 00:13:00.039
+Volume Ventilation Plus, on the Puritan Bennett 840, combines VC plus and volume support.
+
+95
+00:13:00.039 --> 00:13:05.666
+VC plus handles the mandatory breaths, in assist control or SIMV.
+
+96
+00:13:05.666 --> 00:13:24.281
+It is Puritan Bennett's version of PRVC: preset tidal volume and inspiratory time, variable pressure and flow, and a test breath to measure compliance, with cough pressure vented through the active exhalation valve.
+
+97
+00:13:24.281 --> 00:13:32.939
+Volume support handles the spontaneous breaths: it guarantees the volume and lets the pressure vary.
+
+98
+00:13:32.939 --> 00:13:35.969
+You set only a target tidal volume.
+
+99
+00:13:35.969 --> 00:13:41.683
+Less effort gets more pressure support, and more effort gets less.
+
+100
+00:13:41.683 --> 00:13:45.839
+It is commonly used for weaning from anesthesia.
+
+101
+00:13:45.839 --> 00:13:57.527
+The contrast: pressure support guarantees pressure and lets volume vary, while volume support guarantees volume and lets pressure vary.
+
+102
+00:13:57.527 --> 00:14:02.808
+Both are patient triggered, pressure limited and flow cycled.
+
+103
+00:14:04.233 --> 00:14:10.776
+With proportional assist ventilation, there is no target flow, volume or pressure.
+
+104
+00:14:10.776 --> 00:14:16.680
+Support is proportional to the patient's elastance, resistance and demand.
+
+105
+00:14:16.680 --> 00:14:22.185
+Pull harder and you get more assist; make no effort and you get none.
+
+106
+00:14:22.185 --> 00:14:27.771
+The clinician sets a percent assist, such as fifty or seventy percent.
+
+107
+00:14:27.771 --> 00:14:39.260
+The Chang notes say it is set to overcome eighty percent of the elastance and resistance, and Hess gives a range of five to ninety five percent.
+
+108
+00:14:39.260 --> 00:14:53.701
+It suits spontaneously breathing patients who need variable assist, such as COPD, neuromuscular disease and coming off sedation, and weaning, with the advantage of better synchrony.
+
+109
+00:14:53.701 --> 00:15:00.244
+It is not for apneic patients, leaks reduce its accuracy, and overshoot can occur.
+
+110
+00:15:00.244 --> 00:15:11.733
+Hess adds that it is flow cycled, that too high a percent causes runaway, and that it has no minimum support level, so alarms and backup matter.
+
+111
+00:15:13.133 --> 00:15:26.523
+The deck defines airway pressure release ventilation as inverse ratio, pressure controlled, intermittent mandatory ventilation with unrestricted spontaneous breathing.
+
+112
+00:15:26.523 --> 00:15:32.777
+You set the FiO2, a high pressure, a low pressure, a time high and a time low.
+
+113
+00:15:32.777 --> 00:15:53.784
+The chapter eleven starting values are a low pressure of zero to eight, a high pressure that gives four to eight milliliters per kilogram, kept below thirty to thirty five, a time high of three to five seconds, and a time low of point two to point eight seconds.
+
+114
+00:15:53.784 --> 00:16:01.562
+Most of the time is spent at the high pressure, with less than one and a half seconds at the low.
+
+115
+00:16:01.562 --> 00:16:10.382
+The release to the low pressure removes carbon dioxide, and the patient breathes spontaneously at both levels.
+
+116
+00:16:10.382 --> 00:16:15.433
+It is used for hypoxemic failure and ARDS with an intact drive.
+
+117
+00:16:15.433 --> 00:16:20.083
+To wean, lower the release frequency; at zero, it is CPAP.
+
+118
+00:16:21.500 --> 00:16:34.099
+High-frequency oscillatory ventilation uses a tiny tidal volume, around or below the anatomic dead space, at a very fast rate, to minimize lung injury.
+
+119
+00:16:34.099 --> 00:16:41.191
+You set the amplitude, the frequency in hertz, the mean airway pressure and the FiO2.
+
+120
+00:16:41.191 --> 00:16:57.627
+To improve ventilation and lower carbon dioxide, raise the amplitude or lower the frequency, which is backwards from conventional ventilation, because a lower frequency gives a larger tidal volume.
+
+121
+00:16:57.627 --> 00:17:03.218
+To improve oxygenation, raise the mean airway pressure or the FiO2.
+
+122
+00:17:03.218 --> 00:17:14.648
+Chapter eleven uses it for hypoxemic failure not responding to conventional methods, severe infant respiratory distress syndrome or ARDS.
+
+123
+00:17:14.648 --> 00:17:20.989
+But Hess strongly recommends against routine use in moderate or severe ARDS.
+
+124
+00:17:20.989 --> 00:17:36.675
+To wean an adult, lower the FiO2 to point four zero first, then the mean airway pressure by two to three every four to six hours until it is twenty or less, then consider pressure control.
+
+125
+00:17:38.100 --> 00:17:39.493
+Pause and think.
+
+126
+00:17:39.493 --> 00:17:44.632
+A patient on high-frequency oscillation has a rising PaCO2.
+
+127
+00:17:44.632 --> 00:17:50.902
+Which two settings could you change to lower it, and in which direction?
+
+128
+00:17:50.902 --> 00:17:56.650
+Watch out, one of them is backwards from conventional ventilation.
+
+129
+00:17:57.567 --> 00:18:03.567
+[6-second practice pause]
+
+130
+00:18:04.067 --> 00:18:08.168
+Raise the amplitude, or lower the frequency.
+
+131
+00:18:08.168 --> 00:18:22.338
+Lowering the frequency is the backwards one: with fewer oscillations per second, each one moves a larger tidal volume, which clears more carbon dioxide.
+
+132
+00:18:22.338 --> 00:18:30.542
+Raising the mean airway pressure or the FiO2 would help oxygenation, not carbon dioxide.
+
+133
+00:18:31.967 --> 00:18:34.898
+Here are the modes side by side.
+
+134
+00:18:34.898 --> 00:18:47.358
+Volume control guarantees tidal volume and is the first choice; pressure control guarantees pressure and is the second, for severe ARDS.
+
+135
+00:18:47.358 --> 00:18:58.993
+Control mode, in the Chang sense, allows no patient trigger and needs sedation; assist control gives every breath full support.
+
+136
+00:18:58.993 --> 00:19:11.727
+IMV is historical, with breath stacking; SIMV synchronizes mandatory breaths and adds spontaneous ones, with pressure support, for weaning.
+
+137
+00:19:11.727 --> 00:19:15.758
+MMV guarantees a minimum minute ventilation.
+
+138
+00:19:15.758 --> 00:19:20.797
+PRVC hits a target tidal volume at the lowest pressure.
+
+139
+00:19:20.797 --> 00:19:24.645
+VV plus pairs VC plus with volume support.
+
+140
+00:19:24.645 --> 00:19:30.417
+PAV has no target, only a percent assist, and is not for apnea.
+
+141
+00:19:30.417 --> 00:19:36.738
+APRV sets two pressures and two times, for ARDS with an intact drive.
+
+142
+00:19:36.738 --> 00:19:45.442
+HFOV oscillates tiny volumes, for refractory hypoxemia and neonates, but not routinely in ARDS.
+
+143
+00:19:46.867 --> 00:19:49.091
+Here is part one in brief.
+
+144
+00:19:49.091 --> 00:20:00.896
+Ask what is controlled, what triggers and cycles the breath, and which breath types occur, and remember you can control only one variable.
+
+145
+00:20:00.896 --> 00:20:11.418
+Volume control fixes the tidal volume and lets pressure rise; pressure control fixes the pressure and lets the volume fall.
+
+146
+00:20:11.418 --> 00:20:23.993
+Assist control gives every triggered breath full support; SIMV gives only the set breaths and leaves the rest spontaneous, so add pressure support.
+
+147
+00:20:23.993 --> 00:20:27.500
+PRVC adjusts pressure to a target volume.
+
+148
+00:20:27.500 --> 00:20:37.851
+APRV and HFOV are rescue options for the sickest lungs, and HFOV is not recommended routinely in moderate or severe ARDS.
+
+149
+00:20:37.851 --> 00:20:42.642
+Part two covers asynchrony and the ventilator variables.
