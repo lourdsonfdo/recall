@@ -7,9 +7,9 @@
       "file": "01-weaning-parameters-and-extubation-assessment.mp4",
       "captions": "01.vtt",
       "transcript": "01.txt",
-      "duration": 1500.63,
-      "bytes": 52135661,
-      "version": "f9982ab2cda27ba1",
+      "duration": 1502.27,
+      "bytes": 52121424,
+      "version": "2d2bfd906f43558b",
       "reviewNote": "Review version: some medical pronunciations still need checking.",
       "chapters": [
         {
@@ -29,91 +29,91 @@
           "title": "Sensorium and GCS"
         },
         {
-          "t": 228.23,
+          "t": 228.33,
           "title": "Sedation and cooperation at extubation"
         },
         {
-          "t": 289.13,
+          "t": 288.23,
           "title": "CXR in weaning"
         },
         {
-          "t": 346.73,
+          "t": 345.83,
           "title": "CBC: Hb, Hct, WBC"
         },
         {
-          "t": 409.17,
+          "t": 408.3,
           "title": "MIP or NIF: muscle strength"
         },
         {
-          "t": 469.17,
+          "t": 468.3,
           "title": "Vital capacity"
         },
         {
-          "t": 535.6,
+          "t": 534.73,
           "title": "RSBI formula and cutoff"
         },
         {
-          "t": 589.6,
+          "t": 588.9,
           "title": "RSBI worked examples"
         },
         {
-          "t": 652.3,
+          "t": 651.6,
           "title": "Minute ventilation, VT, and rate"
         },
         {
-          "t": 719.3,
+          "t": 719.23,
           "title": "Oxygenation thresholds"
         },
         {
-          "t": 792.43,
+          "t": 792.37,
           "title": "Do not chase a low PaCO2"
         },
         {
-          "t": 856.27,
+          "t": 856.77,
           "title": "Hemodynamic stability"
         },
         {
-          "t": 918.27,
+          "t": 918.77,
           "title": "Pulmonary mechanics: Cst, VD/VT, Raw"
         },
         {
-          "t": 995.1,
+          "t": 995.6,
           "title": "The spontaneous breathing trial"
         },
         {
-          "t": 1060.73,
+          "t": 1061.23,
           "title": "Quick check: RSBI"
         },
         {
-          "t": 1085.3,
+          "t": 1085.8,
           "title": "Answer: RSBI calculation"
         },
         {
-          "t": 1115.4,
+          "t": 1116.1,
           "title": "Secretions, cough, and airway protection"
         },
         {
-          "t": 1176.33,
+          "t": 1177.03,
           "title": "Cuff leak test and stridor"
         },
         {
-          "t": 1236.23,
+          "t": 1237.0,
           "title": "Quick check: deck thresholds"
         },
         {
-          "t": 1262.33,
+          "t": 1263.1,
           "title": "Answer: deck thresholds"
         },
         {
-          "t": 1309.23,
+          "t": 1310.0,
           "title": "Why patients fail weaning"
         },
         {
-          "t": 1378.63,
+          "t": 1379.4,
           "title": "Disuse and auto-PEEP"
         },
         {
-          "t": 1428.77,
+          "t": 1430.4,
           "title": "Recap: weaning and extubation"
         }
       ]
@@ -125,9 +125,9 @@
       "file": "02-therapeutic-hypothermia.mp4",
       "captions": "02.vtt",
       "transcript": "02.txt",
-      "duration": 1603.43,
-      "bytes": 43310433,
-      "version": "de980e0590615d75",
+      "duration": 1616.73,
+      "bytes": 43531084,
+      "version": "5e9a0ace0e7c0eb9",
       "reviewNote": "Review version: some medical pronunciations still need checking.",
       "chapters": [
         {
@@ -135,115 +135,115 @@
           "title": "What this chapter covers"
         },
         {
-          "t": 43.9,
+          "t": 44.1,
           "title": "TTM today: who, how cold, how long"
         },
         {
-          "t": 106.5,
+          "t": 106.7,
           "title": "Which temperature number to use"
         },
         {
-          "t": 162.43,
+          "t": 162.63,
           "title": "The evidence: the 2002 cooling trial"
         },
         {
-          "t": 219.6,
+          "t": 219.8,
           "title": "HIE: three causes and the RT's role"
         },
         {
-          "t": 285.8,
+          "t": 286.0,
           "title": "The ischemic cell injury cascade"
         },
         {
-          "t": 346.43,
+          "t": 346.53,
           "title": "How cooling protects the brain"
         },
         {
-          "t": 405.83,
+          "t": 405.93,
           "title": "Necrosis, apoptosis, and injury after ROSC"
         },
         {
-          "t": 467.37,
+          "t": 467.47,
           "title": "Autoregulation and CPP"
         },
         {
-          "t": 531.93,
+          "t": 532.03,
           "title": "Quick check: CPP math"
         },
         {
-          "t": 563.37,
+          "t": 563.47,
           "title": "Answer: CPP math"
         },
         {
-          "t": 611.6,
+          "t": 611.7,
           "title": "Why TH is not routine in brain trauma"
         },
         {
-          "t": 688.37,
+          "t": 688.47,
           "title": "The three phases of TTM"
         },
         {
-          "t": 748.83,
+          "t": 748.93,
           "title": "Rewarming risks and shivering"
         },
         {
-          "t": 806.93,
+          "t": 807.03,
           "title": "Cold diuresis"
         },
         {
-          "t": 858.43,
+          "t": 858.53,
           "title": "Cooling versus rewarming: K and glucose"
         },
         {
-          "t": 934.7,
+          "t": 934.77,
           "title": "Other adverse effects of cooling"
         },
         {
-          "t": 1010.3,
+          "t": 1010.37,
           "title": "Glasgow Coma Scale"
         },
         {
-          "t": 1062.17,
+          "t": 1062.23,
           "title": "ABG and temperature: the physics"
         },
         {
-          "t": 1114.83,
+          "t": 1116.17,
           "title": "Temperature correction formulas"
         },
         {
-          "t": 1174.23,
+          "t": 1179.33,
           "title": "Correct the ABG or not?"
         },
         {
-          "t": 1233.03,
+          "t": 1238.3,
           "title": "Ventilator targets during TH"
         },
         {
-          "t": 1292.63,
+          "t": 1300.03,
           "title": "PaCO2, ICP, and hyperventilation"
         },
         {
-          "t": 1355.43,
+          "t": 1365.7,
           "title": "RT cautions during cooling"
         },
         {
-          "t": 1409.43,
+          "t": 1419.7,
           "title": "Quick check: ABG direction"
         },
         {
-          "t": 1436.73,
+          "t": 1448.37,
           "title": "Answer: ABG direction"
         },
         {
-          "t": 1474.37,
+          "t": 1487.67,
           "title": "Quick check: rewarming labs"
         },
         {
-          "t": 1504.53,
+          "t": 1517.83,
           "title": "Answer: rewarming labs"
         },
         {
-          "t": 1539.83,
+          "t": 1553.13,
           "title": "Recap: therapeutic hypothermia"
         }
       ]
@@ -255,9 +255,9 @@
       "file": "03-communication.mp4",
       "captions": "03.vtt",
       "transcript": "03.txt",
-      "duration": 488.5,
-      "bytes": 20621448,
-      "version": "b5cea0b05361de04",
+      "duration": 488.8,
+      "bytes": 20658718,
+      "version": "4cf7082382ff0f6d",
       "reviewNote": "Review version: some medical pronunciations still need checking.",
       "chapters": [
         {
@@ -281,27 +281,27 @@
           "title": "Proxemics: four distance zones"
         },
         {
-          "t": 267.37,
+          "t": 267.67,
           "title": "The three V's"
         },
         {
-          "t": 323.5,
+          "t": 323.8,
           "title": "Quick check: question type"
         },
         {
-          "t": 350.1,
+          "t": 350.4,
           "title": "Answer: question type"
         },
         {
-          "t": 379.07,
+          "t": 379.37,
           "title": "Quick check: proxemics"
         },
         {
-          "t": 404.63,
+          "t": 404.93,
           "title": "Answer: proxemics"
         },
         {
-          "t": 438.0,
+          "t": 438.3,
           "title": "Recap: communication"
         }
       ]
@@ -313,9 +313,9 @@
       "file": "04-burn-and-inhalation-injury.mp4",
       "captions": "04.vtt",
       "transcript": "04.txt",
-      "duration": 847.2,
-      "bytes": 29386347,
-      "version": "942a4e13e110234c",
+      "duration": 847.47,
+      "bytes": 29351346,
+      "version": "f0080f3d8451b0f2",
       "reviewNote": "Review version: some medical pronunciations still need checking.",
       "chapters": [
         {
@@ -359,27 +359,27 @@
           "title": "CO versus hydrogen cyanide"
         },
         {
-          "t": 576.67,
+          "t": 576.63,
           "title": "Why compliance falls"
         },
         {
-          "t": 630.2,
+          "t": 630.33,
           "title": "Quick check: compliance math"
         },
         {
-          "t": 659.63,
+          "t": 659.77,
           "title": "Answer: compliance math"
         },
         {
-          "t": 702.43,
+          "t": 702.57,
           "title": "Quick check: SpO2 trap"
         },
         {
-          "t": 733.97,
+          "t": 734.23,
           "title": "Answer: SpO2 trap"
         },
         {
-          "t": 789.77,
+          "t": 790.03,
           "title": "Recap: burn and inhalation"
         }
       ]
@@ -391,9 +391,9 @@
       "file": "05-ecmo.mp4",
       "captions": "05.vtt",
       "transcript": "05.txt",
-      "duration": 805.17,
-      "bytes": 22978485,
-      "version": "f7227a0432ab8a7a",
+      "duration": 808.13,
+      "bytes": 22972217,
+      "version": "7712c8cb5d4dd36c",
       "reviewNote": "Review version: some medical pronunciations still need checking.",
       "chapters": [
         {
@@ -405,59 +405,59 @@
           "title": "Access points and cannulation"
         },
         {
-          "t": 103.07,
+          "t": 103.2,
           "title": "Recirculation"
         },
         {
-          "t": 159.5,
+          "t": 159.63,
           "title": "Inclusion criteria for VV ECMO"
         },
         {
-          "t": 218.07,
+          "t": 218.2,
           "title": "Thresholds to consider ECMO"
         },
         {
-          "t": 284.77,
+          "t": 284.9,
           "title": "Contraindications"
         },
         {
-          "t": 343.67,
+          "t": 343.8,
           "title": "VV versus VA ECMO"
         },
         {
-          "t": 401.77,
+          "t": 401.9,
           "title": "VA complications"
         },
         {
-          "t": 456.87,
+          "t": 457.0,
           "title": "The two knobs"
         },
         {
-          "t": 513.57,
+          "t": 513.7,
           "title": "Resting ventilator settings on ECMO"
         },
         {
-          "t": 573.47,
+          "t": 574.67,
           "title": "Quick check: knob to turn"
         },
         {
-          "t": 602.17,
+          "t": 603.37,
           "title": "Answer: knob to turn"
         },
         {
-          "t": 632.37,
+          "t": 634.97,
           "title": "Deck vs Hess outcome numbers"
         },
         {
-          "t": 687.87,
+          "t": 690.83,
           "title": "Quick check: VV or VA?"
         },
         {
-          "t": 715.87,
+          "t": 718.83,
           "title": "Answer: VV or VA?"
         },
         {
-          "t": 748.27,
+          "t": 751.23,
           "title": "Recap: ECMO"
         }
       ]
@@ -469,9 +469,9 @@
       "file": "06-renal-system.mp4",
       "captions": "06.vtt",
       "transcript": "06.txt",
-      "duration": 972.57,
-      "bytes": 25094812,
-      "version": "a7150c93037bd067",
+      "duration": 964.77,
+      "bytes": 24884866,
+      "version": "65f82d2a7c852d6d",
       "reviewNote": "Review version: some medical pronunciations still need checking.",
       "chapters": [
         {
@@ -479,71 +479,71 @@
           "title": "What this chapter covers"
         },
         {
-          "t": 47.3,
+          "t": 46.8,
           "title": "Urine output: the numbers"
         },
         {
-          "t": 108.57,
+          "t": 105.3,
           "title": "Why ventilated patients make less urine"
         },
         {
-          "t": 163.63,
+          "t": 159.17,
           "title": "DKA mechanism"
         },
         {
-          "t": 230.97,
+          "t": 226.5,
           "title": "DKA treatment"
         },
         {
-          "t": 295.97,
+          "t": 290.8,
           "title": "The anion gap"
         },
         {
-          "t": 358.07,
+          "t": 352.9,
           "title": "DKA on the ABG"
         },
         {
-          "t": 436.07,
+          "t": 430.17,
           "title": "Kussmaul breathing and the vent trap"
         },
         {
-          "t": 490.97,
+          "t": 484.57,
           "title": "Kidney in acid base: the one liner"
         },
         {
-          "t": 548.17,
+          "t": 542.07,
           "title": "The nephron's three processes"
         },
         {
-          "t": 608.03,
+          "t": 601.93,
           "title": "Renal compensation timing"
         },
         {
-          "t": 667.23,
+          "t": 661.13,
           "title": "Renal failure in the ventilated patient"
         },
         {
-          "t": 716.03,
+          "t": 709.33,
           "title": "The four Rs of renal failure"
         },
         {
-          "t": 773.87,
+          "t": 767.53,
           "title": "Quick check: anion gap"
         },
         {
-          "t": 800.23,
+          "t": 793.9,
           "title": "Answer: anion gap"
         },
         {
-          "t": 836.97,
+          "t": 830.63,
           "title": "Quick check: urine output"
         },
         {
-          "t": 867.57,
+          "t": 861.23,
           "title": "Answer: urine output"
         },
         {
-          "t": 913.13,
+          "t": 906.8,
           "title": "Recap: renal system"
         }
       ]
@@ -555,9 +555,9 @@
       "file": "07-gi-system-routes-of-nutrition-delivery.mp4",
       "captions": "07.vtt",
       "transcript": "07.txt",
-      "duration": 971.2,
-      "bytes": 23605524,
-      "version": "ec90c34bdc055cf9",
+      "duration": 971.0,
+      "bytes": 23586201,
+      "version": "61a28221dd88dd9c",
       "reviewNote": "Review version: some medical pronunciations still need checking.",
       "chapters": [
         {
@@ -601,27 +601,27 @@
           "title": "Aspiration precautions: head of bed first"
         },
         {
-          "t": 594.83,
+          "t": 594.73,
           "title": "Respiratory quotient and overfeeding"
         },
         {
-          "t": 655.03,
+          "t": 654.93,
           "title": "Fat-based formulas: deck vs CPG conflict"
         },
         {
-          "t": 725.23,
+          "t": 725.13,
           "title": "Undernutrition weakens the breathing pump"
         },
         {
-          "t": 795.13,
+          "t": 794.93,
           "title": "Prompt: what goes wrong when feeding restarts?"
         },
         {
-          "t": 825.53,
+          "t": 825.33,
           "title": "Answer: refeeding syndrome and phosphate"
         },
         {
-          "t": 904.63,
+          "t": 904.43,
           "title": "Recap: nutrition and the ventilated patient"
         }
       ]
@@ -633,9 +633,9 @@
       "file": "08-pulmonary-rehabilitation.mp4",
       "captions": "08.vtt",
       "transcript": "08.txt",
-      "duration": 812.07,
-      "bytes": 19253672,
-      "version": "5d389315c8d83789",
+      "duration": 812.2,
+      "bytes": 19238390,
+      "version": "a90b2c36aff45f4e",
       "reviewNote": "Review version: some medical pronunciations still need checking.",
       "chapters": [
         {
@@ -651,51 +651,51 @@
           "title": "Titrating O2 for exertional desaturation"
         },
         {
-          "t": 164.43,
+          "t": 164.57,
           "title": "Quick check: exercise desaturation"
         },
         {
-          "t": 193.17,
+          "t": 193.3,
           "title": "Answer: exercise desaturation"
         },
         {
-          "t": 239.2,
+          "t": 239.33,
           "title": "Diaphragmatic breathing: belly breathing"
         },
         {
-          "t": 306.07,
+          "t": 306.2,
           "title": "Pursed-lip breathing: fight dynamic collapse"
         },
         {
-          "t": 367.07,
+          "t": 367.2,
           "title": "Diaphragmatic vs thoracic breathing"
         },
         {
-          "t": 419.9,
+          "t": 420.03,
           "title": "Related patterns: lateral costal and accessory"
         },
         {
-          "t": 483.3,
+          "t": 483.43,
           "title": "Prompt: fast breathing but which?"
         },
         {
-          "t": 510.2,
+          "t": 510.33,
           "title": "Answer: PaCO2 defines ventilation"
         },
         {
-          "t": 581.07,
+          "t": 581.2,
           "title": "The five side by side"
         },
         {
-          "t": 644.43,
+          "t": 644.57,
           "title": "Exercise prescription: load, intensity, duration"
         },
         {
-          "t": 711.93,
+          "t": 712.07,
           "title": "Modified Borg and when to advance"
         },
         {
-          "t": 753.43,
+          "t": 753.57,
           "title": "Recap: safe exercise and smarter breathing"
         }
       ]
@@ -708,8 +708,8 @@
       "captions": "09.vtt",
       "transcript": "09.txt",
       "duration": 1274.1,
-      "bytes": 27352433,
-      "version": "bd4e94ad986c7111",
+      "bytes": 27307852,
+      "version": "74f6fc31b4dd7c0a",
       "reviewNote": "Review version: some medical pronunciations still need checking.",
       "chapters": [
         {
@@ -721,75 +721,75 @@
           "title": "Pneumothorax: what it is"
         },
         {
-          "t": 96.67,
+          "t": 96.6,
           "title": "Pneumothorax at the bedside"
         },
         {
-          "t": 153.57,
+          "t": 153.5,
           "title": "Simple vs open vs tension"
         },
         {
-          "t": 205.23,
+          "t": 205.17,
           "title": "Needle decompression landmarks"
         },
         {
-          "t": 268.8,
+          "t": 268.57,
           "title": "Glasgow Coma Scale: E plus V plus M"
         },
         {
-          "t": 329.0,
+          "t": 328.77,
           "title": "Prompt: score this trauma patient"
         },
         {
-          "t": 357.17,
+          "t": 356.93,
           "title": "Answer: GCS 8, intubate for protection"
         },
         {
-          "t": 402.07,
+          "t": 401.83,
           "title": "MAP, ICP, and cerebral perfusion"
         },
         {
-          "t": 466.9,
+          "t": 466.67,
           "title": "CPP targets and what moves ICP"
         },
         {
-          "t": 532.1,
+          "t": 531.9,
           "title": "CT vs MRI: when and why"
         },
         {
-          "t": 602.43,
+          "t": 602.4,
           "title": "Chest tubes: indications, size, site"
         },
         {
-          "t": 674.13,
+          "t": 674.2,
           "title": "The three-chamber drainage system"
         },
         {
-          "t": 742.6,
+          "t": 742.67,
           "title": "Troubleshooting and removal"
         },
         {
-          "t": 817.43,
+          "t": 817.5,
           "title": "Blunt vs penetrating trauma"
         },
         {
-          "t": 888.5,
+          "t": 888.57,
           "title": "Primary survey and the other lethal injuries"
         },
         {
-          "t": 959.7,
+          "t": 959.77,
           "title": "Head injury: lesions and secondary injury"
         },
         {
-          "t": 1027.9,
+          "t": 1027.97,
           "title": "Ventilation and osmotic therapy in TBI"
         },
         {
-          "t": 1094.53,
+          "t": 1094.6,
           "title": "Prompt: what drug class actually dissolves clot?"
         },
         {
-          "t": 1134.1,
+          "t": 1134.17,
           "title": "Answer: thrombolytic dissolves; PTT 2–2.5x"
         },
         {
@@ -805,9 +805,9 @@
       "file": "10-interventional-pulmonary-procedures.mp4",
       "captions": "10.vtt",
       "transcript": "10.txt",
-      "duration": 1110.8,
-      "bytes": 37385304,
-      "version": "ad252f2a78ca3c14",
+      "duration": 1112.1,
+      "bytes": 37374213,
+      "version": "b4ac4009528ae162",
       "reviewNote": "Review version: some medical pronunciations still need checking.",
       "chapters": [
         {
@@ -835,47 +835,47 @@
           "title": "Sedation drugs and reversal agents"
         },
         {
-          "t": 398.8,
+          "t": 399.13,
           "title": "Topical lidocaine and atropine"
         },
         {
-          "t": 468.5,
+          "t": 468.83,
           "title": "Prompt: match the reversal agent"
         },
         {
-          "t": 503.73,
+          "t": 504.3,
           "title": "Answer: flumazenil, naloxone, none"
         },
         {
-          "t": 559.87,
+          "t": 560.77,
           "title": "Monitoring during and after the scope"
         },
         {
-          "t": 633.2,
+          "t": 634.1,
           "title": "COPD, emphysema, GERD, and lung cancer"
         },
         {
-          "t": 704.1,
+          "t": 705.0,
           "title": "BAL, washing, brushing, biopsy"
         },
         {
-          "t": 777.1,
+          "t": 778.0,
           "title": "Hess chapter 9 key points and thoracentesis"
         },
         {
-          "t": 855.03,
+          "t": 855.87,
           "title": "Prompt: which complication is most likely?"
         },
         {
-          "t": 884.83,
+          "t": 885.67,
           "title": "Answer: hypoxemia, up to 6 L/min"
         },
         {
-          "t": 965.73,
+          "t": 966.57,
           "title": "Prep, recovery, and reprocessing"
         },
         {
-          "t": 1047.13,
+          "t": 1047.97,
           "title": "Recap: scope, sample, protect"
         }
       ]
@@ -887,9 +887,9 @@
       "file": "11-perioperative-management-of-lung-transplants.mp4",
       "captions": "11.vtt",
       "transcript": "11.txt",
-      "duration": 1176.7,
-      "bytes": 32329064,
-      "version": "b72b76e0fe41c9f8",
+      "duration": 1177.2,
+      "bytes": 32317605,
+      "version": "49be078371194889",
       "reviewNote": "Review version: some medical pronunciations still need checking.",
       "chapters": [
         {
@@ -901,63 +901,63 @@
           "title": "When to refer by disease"
         },
         {
-          "t": 130.1,
+          "t": 130.13,
           "title": "Three dates: 1963, 1983, 1986"
         },
         {
-          "t": 203.3,
+          "t": 203.47,
           "title": "Lung Allocation Score: what it does"
         },
         {
-          "t": 282.2,
+          "t": 282.37,
           "title": "LAS to Composite Allocation Score"
         },
         {
-          "t": 348.1,
+          "t": 348.27,
           "title": "Candidacy and exclusion criteria"
         },
         {
-          "t": 436.1,
+          "t": 436.27,
           "title": "Brain-death and DCDD donors"
         },
         {
-          "t": 510.6,
+          "t": 510.67,
           "title": "Prompt: when is the apnea test positive?"
         },
         {
-          "t": 540.77,
+          "t": 540.83,
           "title": "Answer: PaCO2 > 60 or > 20 above baseline"
         },
         {
-          "t": 595.67,
+          "t": 595.73,
           "title": "Donor criteria, procurement, preservation"
         },
         {
-          "t": 678.57,
+          "t": 678.63,
           "title": "The two operations, step by step"
         },
         {
-          "t": 758.47,
+          "t": 758.5,
           "title": "CPB vs ECMO in transplant"
         },
         {
-          "t": 842.93,
+          "t": 842.97,
           "title": "Lung-protective ventilation after transplant"
         },
         {
-          "t": 915.43,
+          "t": 915.47,
           "title": "Prompt: grading early graft injury"
         },
         {
-          "t": 945.97,
+          "t": 946.0,
           "title": "Answer: PGD graded 0–3 by P/F"
         },
         {
-          "t": 1017.4,
+          "t": 1017.43,
           "title": "Postoperative chest tubes and prophylaxis"
         },
         {
-          "t": 1086.57,
+          "t": 1087.07,
           "title": "Recap: candidate, score, operate, protect"
         }
       ]
@@ -969,9 +969,9 @@
       "file": "12-respiratory-anatomy-hess-ch-49.mp4",
       "captions": "12.vtt",
       "transcript": "12.txt",
-      "duration": 1431.13,
-      "bytes": 41220837,
-      "version": "aa52e31c6d45de8c",
+      "duration": 1431.43,
+      "bytes": 41191692,
+      "version": "1bfe86004e3bf2c9",
       "reviewNote": "Review version: some medical pronunciations still need checking.",
       "chapters": [
         {
@@ -979,95 +979,95 @@
           "title": "Chapter 49: everything in anatomy"
         },
         {
-          "t": 41.37,
+          "t": 41.33,
           "title": "The five processes of respiration"
         },
         {
-          "t": 97.37,
+          "t": 97.33,
           "title": "The five stages of fetal lung development"
         },
         {
-          "t": 166.3,
+          "t": 166.2,
           "title": "Birth transition and infant airway"
         },
         {
-          "t": 233.83,
+          "t": 233.73,
           "title": "Upper airway: nose, sinuses, pharynx"
         },
         {
-          "t": 298.57,
+          "t": 298.43,
           "title": "Larynx: cartilages and the glottis"
         },
         {
-          "t": 350.57,
+          "t": 350.63,
           "title": "Trachea, carina, main stem bronchi"
         },
         {
-          "t": 414.57,
+          "t": 414.63,
           "title": "Conducting vs respiratory zone"
         },
         {
-          "t": 485.07,
+          "t": 485.13,
           "title": "Prompt: estimate anatomic dead space"
         },
         {
-          "t": 518.5,
+          "t": 518.57,
           "title": "Answer: about 180 mL of dead space"
         },
         {
-          "t": 558.63,
+          "t": 558.7,
           "title": "Lungs: lobes, fissures, segments"
         },
         {
-          "t": 613.43,
+          "t": 613.5,
           "title": "Alveoli and the AC membrane"
         },
         {
-          "t": 670.5,
+          "t": 670.57,
           "title": "Prompt: the cell that keeps alveoli open"
         },
         {
-          "t": 706.63,
+          "t": 706.7,
           "title": "Answer: type II makes surfactant"
         },
         {
-          "t": 772.77,
+          "t": 773.23,
           "title": "Interstitium and lymphatics"
         },
         {
-          "t": 833.4,
+          "t": 833.87,
           "title": "Pleurae, pleural space, mediastinum"
         },
         {
-          "t": 898.37,
+          "t": 898.8,
           "title": "Bony thorax and chest-wall mechanics"
         },
         {
-          "t": 953.37,
+          "t": 953.8,
           "title": "Diaphragm and accessory muscles"
         },
         {
-          "t": 1042.2,
+          "t": 1042.63,
           "title": "Innervation summary"
         },
         {
-          "t": 1098.1,
+          "t": 1098.53,
           "title": "Mucociliary apparatus"
         },
         {
-          "t": 1162.3,
+          "t": 1162.73,
           "title": "Smooth muscle and hypoxic vasoconstriction"
         },
         {
-          "t": 1222.53,
+          "t": 1222.97,
           "title": "Mast cells, macrophages, dendritic cells"
         },
         {
-          "t": 1284.17,
+          "t": 1284.6,
           "title": "Hess chapter 49 key points"
         },
         {
-          "t": 1367.33,
+          "t": 1367.63,
           "title": "Recap: name the parts, know the numbers"
         }
       ]
