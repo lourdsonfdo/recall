@@ -6,7 +6,7 @@ Anki-style flashcards for your phone. Offline PWA, no account, data stays on the
 - **Study:** Again/Hard/Good/Easy with interval previews, undo, bury, suspend, mark, edit.
 - **Decks:** built-in bundle (`decks/`), plus import of Anki `.apkg`/`.colpkg` (old and new zstd formats, optional review progress, media), plain-text `.txt/.csv`, and Recall `.json`.
 - **Browse:** search text, `deck:`, `tag:`, `is:new|due|learn|suspended`, `-negation`.
-- **Drill:** RCP 202 (508) and RCP 203 (644) midterm multiple-choice banks — by section/subsection or full mix, 10/20/30/all, shuffled choices, explanations, missed-question review, best scores.
+- **Drill:** RCP 201 (380), RCP 202 (508) and RCP 203 (644) midterm multiple-choice banks, plus RCP 202 and RCP 203 Final banks written from the Final study guides — by section/subsection or full mix, 10/20/30/all, shuffled choices, explanations, missed-question review, best scores.
 - **Stats**, **backup/restore** (one JSON file, includes drill progress).
 
 - **Guides:** RCP 201 Quick Answers, RCP 202 and 203 Tier 3 study guides, readable offline; the app remembers your place.

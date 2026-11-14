@@ -748,7 +748,7 @@
     } else $("#s-persist").textContent = "Saved on this device";
   }
 
-  // ---------- drill (multiple-choice midterm banks) ----------
+  // ---------- drill (multiple-choice midterm and final banks) ----------
   // Banks live in drills/*.json (copied verbatim from the Midterm Drill pages); option 0 is correct.
   const emptyDrill = () => ({ best: {}, missed: {}, prefs: { count: "20", shuffle: true } });
   let drillState = emptyDrill();
@@ -816,7 +816,7 @@
         <div class="field"><label>Shuffle question order</label><div class="seg" id="d-shuf">${[["on", "On"], ["off", "Off"]].map(([v, l]) => `<button data-v="${v}" aria-pressed="${(p.shuffle ? "on" : "off") === v}">${l}</button>`).join("")}</div></div>
       </div>
       ${missedIds.length ? `<button class="btn secondary miss-btn" id="d-miss" style="margin-bottom:18px">Drill all missed · ${missedIds.length}</button>` : ""}
-      <div class="group"><button class="row drill-row mix" data-sec="__all"><div class="label"><div class="t">Full midterm mix</div><div class="s">Questions from every section — closest to the real exam.</div>${meta(d.total, best.__all, 0)}</div>${ICON.chev}</button></div>
+      <div class="group"><button class="row drill-row mix" data-sec="__all"><div class="label"><div class="t">Full exam mix</div><div class="s">Questions from every section — closest to the real exam.</div>${meta(d.total, best.__all, 0)}</div>${ICON.chev}</button></div>
       <div class="group-title">Sections</div>
       ${rows}
       <p class="small center">Answer choices are shuffled every time. Keys: 1–4 or A–D, Enter for next.</p>`;
@@ -828,7 +828,7 @@
     $$("[data-sec]", view).forEach((b) => b.addEventListener("click", () => {
       const sid = b.dataset.sec, subId = b.dataset.sub;
       let pool, title, key;
-      if (sid === "__all") (pool = d.sections.flatMap((s) => s.q)), (title = "Full midterm mix"), (key = "__all");
+      if (sid === "__all") (pool = d.sections.flatMap((s) => s.q)), (title = "Full exam mix"), (key = "__all");
       else {
         const s = d.sections.find((x) => x.id === sid);
         const sub = subId && s.subs.find((x) => x.id === subId);
@@ -847,12 +847,12 @@
     const apps = (guides || []).filter((g) => g.kind === "app");
     const docs = (guides || []).filter((g) => g.kind !== "app");
     view.innerHTML = `
-      <div class="head"><div><h1>Study</h1><div class="sub">Study guides, midterm drills and board prep</div></div></div>
+      <div class="head"><div><h1>Study</h1><div class="sub">Study guides, exam drills and board prep</div></div></div>
       ${apps.length ? `<div class="group-title">Board exam prep</div>
       <div class="group">${apps.map((g) => `<button class="row drill-row" data-g="${esc(g.id)}"><div class="label"><div class="t">${esc(g.title)}</div><div class="s">${esc(g.subtitle)}</div></div>${ICON.chev}</button>`).join("")}</div>` : ""}
       ${docs.length ? `<div class="group-title">Study guides</div>
       <div class="group">${docs.map((g) => `<button class="row drill-row" data-g="${esc(g.id)}"><div class="label"><div class="t">${esc(g.title)}</div><div class="s">${esc(g.subtitle)}${g.stat ? " · " + esc(g.stat.split(" · ").slice(0, 2).join(" · ")) : ""}</div></div>${ICON.chev}</button>`).join("")}</div>` : ""}
-      <div class="group-title">Midterm drills</div>
+      <div class="group-title">Exam drills</div>
       <div class="group">${list.map((d) => {
         const m = Object.keys(dmissed(d.id)).filter((id) => d.byId[id]).length;
         const b = dbest(d.id).__all;
