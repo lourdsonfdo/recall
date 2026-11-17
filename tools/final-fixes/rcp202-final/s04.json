@@ -1,0 +1,19 @@
+[
+[0,null,[null,null,null,"100–200 mL/cm H₂O"]],
+[4,null,[null,"It is measured during a pause when there is no airflow","Its denominator leaves out the PEEP that is applied","It uses the exhaled tidal volume instead of the set volume"]],
+[5,null,[null,"PIP and Pplat both rise, and Cdyn is unchanged","Pplat rises, PIP is unchanged, and Cstat falls","PIP falls, Pplat rises, and Cdyn rises"]],
+[6,null,[null,"PIP rises, Pplat is unchanged, and PIP − Pplat widens","Both fall, and PIP − Pplat stays the same","PIP is unchanged, Pplat rises, and PIP − Pplat narrows"]],
+[10,null,[null,"About 20–25 times more strongly","About 2–5 times more strongly","About 2,000 times more strongly"]],
+[11,null,[null,"To the right, so O₂ is released more readily","To the left, so O₂ is released more readily","To the right, so O₂ is released less readily"]],
+[12,"Which of the following should be used to measure carboxyhemoglobin?",[null,"Standard two-wavelength pulse oximetry","PaO₂ from an arterial blood gas","Capnography with a mainstream sensor"]],
+[13,null,[null,"CO raises the PaO₂ directly by displacing O₂ into plasma","The analyzer subtracts the COHb before reporting the PaO₂","CO affects venous blood, while the PaO₂ is from arterial blood"]],
+[17,null,[null,"About 4–5 hours","About 20–30 minutes","About 8–10 hours"]],
+[18,"A spontaneously breathing patient arrives with suspected CO poisoning. Which of the following should be done first?",[null,"O₂ by nasal cannula at 2 L/min","Room air until the COHb level is reported","Hyperbaric oxygen before any other O₂ is given"]],
+[19,null,["3 atm at first, for 90 minutes, with two 10-minute air breaks","1 atm for 6 hours, with no air breaks during treatment","5 atm for 15 minutes, repeated every hour for 6 hours","2 atm continuously for 24 hours, with hourly air breaks"]],
+[20,null,[null,"The pulse oximeter recalibrates after O₂ is stopped","The liver releases stored CO back into the blood","Hemoglobin's affinity for CO rises as the PaO₂ falls"]],
+[21,null,[null,"Increased surfactant production that overdistends the alveoli","Bronchodilation from heat exposure that lowers resistance","Decreased capillary permeability that dries the lung tissue"]],
+[22,"A patient with circumferential chest burns requires high airway pressures to ventilate. Which of the following procedures may be required?",[null,"Tube thoracostomy","Needle decompression","Bronchoscopy"]],
+[23,null,[null,"VT about 12 mL/kg PBW and Pplat ≤ 50 cm H₂O","VT about 3 mL/kg PBW and PEEP of 0 cm H₂O","VT about 10 mL/kg PBW and PIP ≤ 60 cm H₂O"]],
+[24,null,[null,"It binds hemoglobin more tightly than CO or O₂ does","It destroys surfactant so the alveoli collapse","It blocks the release of O₂ from oxyhemoglobin"]],
+[25,null,[null,"Naloxone (Narcan)","Atropine sulfate","Flumazenil (Romazicon)"]]
+]

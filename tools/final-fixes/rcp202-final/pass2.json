@@ -1,0 +1,2235 @@
+[
+[
+"s01",
+7,
+null,
+[
+null,
+"Both are calculated from the Glasgow Coma Scale, so a low score lowers the result",
+null,
+null
+]
+],
+[
+"s01",
+8,
+null,
+[
+null,
+null,
+"Fentanyl citrate (Sublimaze)",
+null
+]
+],
+[
+"s01",
+28,
+null,
+[
+null,
+"Lung compliance rises as the rate increases, so the lungs gradually overinflate",
+null,
+null
+]
+],
+[
+"s01",
+33,
+null,
+[
+null,
+null,
+null,
+"Yes — as long as the vital capacity exceeds 10 mL/kg"
+]
+],
+[
+"s01",
+59,
+null,
+[
+null,
+"Persistent hypoxemia, chronic hypercapnia and an uncorrected metabolic alkalosis",
+null,
+null
+]
+],
+[
+"s02",
+10,
+null,
+[
+null,
+"Cooling raises ADH and aldosterone release, which increases the flow of dilute urine",
+null,
+null
+]
+],
+[
+"s02",
+30,
+null,
+[
+null,
+null,
+"It lowers the risk of pneumonia, sepsis and bleeding",
+null
+]
+],
+[
+"s02",
+43,
+null,
+[
+null,
+"Rapid rewarming lowers the ICP too far, which collapses the ventricles and veins",
+null,
+null
+]
+],
+[
+"s02",
+50,
+null,
+[
+null,
+"A rise in core temperature above the target after the rewarming phase has ended",
+null,
+null
+]
+],
+[
+"s02",
+51,
+null,
+[
+null,
+"It lowers the metabolic rate, O₂ consumption and CO₂ production too far",
+null,
+null
+]
+],
+[
+"s02",
+62,
+null,
+[
+null,
+"Cooling makes the tracheal mucosa brittle, so the cuff can tear it easily",
+null,
+null
+]
+],
+[
+"s03",
+1,
+null,
+[
+null,
+"\"Do you use oxygen at home or at work?\"",
+null,
+null
+]
+],
+[
+"s03",
+4,
+null,
+[
+null,
+"It suggests the answer that the interviewer already expects to hear",
+null,
+null
+]
+],
+[
+"s03",
+9,
+null,
+[
+null,
+"It is too superficial to build any real trust with a new patient",
+null,
+null
+]
+],
+[
+"s03",
+10,
+null,
+[
+null,
+"1.5 to 4 ft (18″ to 48″)",
+"4 to 12 ft (48″ to 144″)",
+"12 to 25 ft (144″ to 300″)"
+]
+],
+[
+"s04",
+4,
+null,
+[
+null,
+"It is measured during an inspiratory pause, when there is no airflow at all",
+null,
+null
+]
+],
+[
+"s04",
+19,
+null,
+[
+null,
+null,
+null,
+"2 atm continuously for 24 hours, with a 10-minute air break every hour"
+]
+],
+[
+"s04",
+21,
+null,
+[
+null,
+"Increased surfactant production that overdistends the alveoli and small airways",
+null,
+null
+]
+],
+[
+"s05",
+3,
+null,
+[
+null,
+null,
+"A neonate who needs both cardiac and respiratory support after heart surgery",
+null
+]
+],
+[
+"s05",
+8,
+null,
+[
+null,
+null,
+"Severe ARDS with an irreversible coagulopathy and active intracranial bleeding",
+null
+]
+],
+[
+"s05",
+14,
+null,
+[
+null,
+null,
+null,
+"Female sex, viral pneumonia and prone positioning in the week before cannulation"
+]
+],
+[
+"s05",
+16,
+null,
+[
+null,
+null,
+null,
+"VV needs a much higher sweep gas flow than a failing heart is able to tolerate"
+]
+],
+[
+"s05",
+20,
+null,
+[
+null,
+null,
+"Ventilator rate and tidal volume settings",
+null
+]
+],
+[
+"s06",
+4,
+null,
+[
+null,
+null,
+"↓ ADH and ↓ aldosterone released from the atria, with ↑ renal perfusion pressure",
+null
+]
+],
+[
+"s06",
+6,
+null,
+[
+null,
+null,
+"Excess insulin makes the kidneys produce far more urine than they normally do",
+null
+]
+],
+[
+"s06",
+7,
+null,
+[
+null,
+null,
+"The liver converts the lactate from anaerobic metabolism into ketones for the brain",
+null
+]
+],
+[
+"s06",
+8,
+null,
+[
+null,
+null,
+null,
+"Oxygen therapy and strict fluid restriction, with glucagon as needed"
+]
+],
+[
+"s06",
+11,
+null,
+[
+null,
+null,
+"Fully compensated metabolic acidosis with moderate arterial hypoxemia",
+null
+]
+],
+[
+"s06",
+13,
+null,
+[
+null,
+null,
+"35 — high-gap metabolic alkalosis such as from prolonged vomiting",
+null
+]
+],
+[
+"s06",
+29,
+null,
+[
+null,
+null,
+null,
+"High levels of protein in the urine caused by damage to the glomerular membrane"
+]
+],
+[
+"s07",
+2,
+null,
+[
+null,
+"Directly into the small intestine through a tube placed past the pylorus",
+null,
+null
+]
+],
+[
+"s07",
+11,
+null,
+[
+null,
+null,
+"When nutrition support is expected to be needed for less than 3 days in total",
+null
+]
+],
+[
+"s07",
+17,
+null,
+[
+null,
+null,
+"Before every diagnostic test, bedside procedure or change of position",
+null
+]
+],
+[
+"s07",
+24,
+null,
+[
+null,
+"Albuterol or ipratropium bromide",
+null,
+null
+]
+],
+[
+"s07",
+25,
+null,
+[
+null,
+null,
+"Glycolysis reduces CO₂ production and lowers the tidal volume needed",
+null
+]
+],
+[
+"s07",
+29,
+null,
+[
+null,
+null,
+"They should replace standard formulas, but during the weaning period only",
+null
+]
+],
+[
+"s07",
+31,
+null,
+[
+null,
+null,
+null,
+"Gut atrophy and bacterial overgrowth after a long course of parenteral nutrition"
+]
+],
+[
+"s07",
+33,
+null,
+[
+null,
+"As much as 5%",
+"As much as 10%",
+"As much as 25%"
+]
+],
+[
+"s08",
+7,
+null,
+[
+null,
+"Huff coughing and postural drainage with percussion",
+null,
+null
+]
+],
+[
+"s08",
+17,
+null,
+[
+null,
+null,
+null,
+"Hyperventilation — compensating for an underlying metabolic acidosis"
+]
+],
+[
+"s08",
+19,
+null,
+[
+null,
+null,
+null,
+"Early hypoxemia after ascending to a high altitude"
+]
+],
+[
+"s08",
+29,
+null,
+[
+null,
+null,
+null,
+"A chemical reaction that releases oxygen from a heated sodium chlorate canister"
+]
+],
+[
+"s08",
+31,
+null,
+[
+null,
+null,
+"No change, because a saturation of 80% during exertion is acceptable in ILD",
+null
+]
+],
+[
+"s08",
+32,
+null,
+[
+null,
+"A pulse-dose device delivers more O₂ per minute than the same continuous flow",
+null,
+null
+]
+],
+[
+"s09",
+0,
+null,
+[
+null,
+null,
+null,
+"Air in the mediastinum that tracks upward into the tissues of the neck"
+]
+],
+[
+"s09",
+5,
+null,
+[
+null,
+"Needle decompression at the 2nd intercostal space, midclavicular line",
+null,
+null
+]
+],
+[
+"s09",
+7,
+null,
+[
+null,
+"Obtain a portable chest radiograph to confirm the diagnosis",
+null,
+null
+]
+],
+[
+"s09",
+12,
+null,
+[
+null,
+null,
+"To lower the ICP directly, by removing the work of breathing and the cough",
+null
+]
+],
+[
+"s09",
+15,
+null,
+[
+null,
+"Cerebral perfusion pressure equals the mean arterial pressure plus the ICP",
+null,
+null
+]
+],
+[
+"s09",
+29,
+null,
+[
+null,
+"The suction applied to the pleural space has now risen to about −40 cm H₂O",
+null,
+null
+]
+],
+[
+"s09",
+31,
+null,
+[
+null,
+null,
+null,
+"In the tubing between the clamp and the unit"
+]
+],
+[
+"s09",
+32,
+null,
+[
+null,
+null,
+null,
+"Leave the site open to air and uncovered until the physician arrives"
+]
+],
+[
+"s09",
+35,
+null,
+[
+null,
+"Blunt breaks the skin and ribs; penetrating leaves the skin and chest wall intact",
+null,
+null
+]
+],
+[
+"s09",
+36,
+null,
+[
+null,
+"Stab wounds to the chest",
+null,
+null
+]
+],
+[
+"s09",
+43,
+null,
+[
+null,
+"Cardiogenic (pump failure) shock",
+"Septic (distributive) shock",
+"Neurogenic (spinal) shock"
+]
+],
+[
+"s09",
+46,
+null,
+[
+null,
+null,
+"It triggers hyperventilation, which constricts the cerebral vessels and lowers flow",
+null
+]
+],
+[
+"s09",
+51,
+null,
+[
+null,
+"Hypoxemia, hypercapnia and an uncompensated respiratory acidosis",
+null,
+null
+]
+],
+[
+"s09",
+52,
+null,
+[
+null,
+"Pulmonary artery (Swan-Ganz) catheter",
+null,
+null
+]
+],
+[
+"s10",
+22,
+null,
+[
+null,
+null,
+"For bronchodilation, to prevent laryngospasm and wheezing during the procedure",
+null
+]
+],
+[
+"s10",
+23,
+null,
+[
+null,
+null,
+null,
+"To constrict the mucosal vessels and prevent bleeding"
+]
+],
+[
+"s10",
+24,
+null,
+[
+null,
+null,
+"Each one blocks the sedative effect of the other, so doses run high",
+null
+]
+],
+[
+"s10",
+29,
+null,
+[
+null,
+"Reversible airflow obstruction with airway inflammation and hyperresponsiveness",
+null,
+null
+]
+],
+[
+"s10",
+30,
+null,
+[
+null,
+null,
+"Permanent dilation of the bronchi with chronic infection and thick sputum",
+null
+]
+],
+[
+"s10",
+36,
+null,
+[
+null,
+"To remove small foreign bodies from the segmental and subsegmental bronchi",
+null,
+null
+]
+],
+[
+"s11",
+0,
+null,
+[
+null,
+"Asthma, bacterial pneumonia, ARDS and early-stage non-small-cell lung cancer",
+null,
+null
+]
+],
+[
+"s11",
+4,
+null,
+[
+null,
+null,
+"Combined heart–lung transplantation from one donor",
+null
+]
+],
+[
+"s11",
+9,
+null,
+[
+null,
+null,
+"To match donor lungs to recipients by blood type and chest size alone",
+null
+]
+],
+[
+"s11",
+14,
+null,
+[
+null,
+null,
+"High PEEP: 20 cm H₂O routinely with a high VT to prevent reperfusion edema",
+null
+]
+],
+[
+"s11",
+17,
+null,
+[
+null,
+null,
+"The patient can stay at home on a portable circuit until a donor lung is found",
+null
+]
+],
+[
+"s11",
+22,
+null,
+[
+null,
+"A chronic rejection of the graft that develops years after the transplant",
+null,
+null
+]
+],
+[
+"s11",
+26,
+null,
+[
+null,
+"Immediate retransplant as soon as another matched donor lung becomes available",
+null,
+null
+]
+],
+[
+"s11",
+28,
+null,
+[
+null,
+"PaCO₂ < 30 mm Hg or > 20 below baseline after 10 minutes with no breathing activity",
+null,
+null
+]
+],
+[
+"s11",
+32,
+null,
+[
+null,
+null,
+null,
+"Hypotonic saline with fludrocortisone for cerebral salt wasting"
+]
+],
+[
+"s11",
+33,
+null,
+[
+null,
+"Inflates the alveoli and tests the bronchial anastomosis for air leaks",
+null,
+null
+]
+],
+[
+"s11",
+34,
+null,
+[
+null,
+"Pulmonary veins to the left atrium → bronchus → pulmonary artery",
+"Pulmonary artery → bronchus → pulmonary veins to the left atrium",
+"Pulmonary artery → pulmonary veins to the left atrium → bronchus"
+]
+],
+[
+"s11",
+36,
+null,
+[
+null,
+null,
+"No difference in transfusions, PGD, bleeding complications or overall survival",
+null
+]
+],
+[
+"s11",
+37,
+null,
+[
+null,
+null,
+"The native lung is removed in a second operation several weeks after the first",
+null
+]
+],
+[
+"s11",
+38,
+null,
+[
+null,
+null,
+"A national lottery system weighted by the recipient's age and time on the list",
+null
+]
+],
+[
+"s12",
+22,
+null,
+[
+null,
+"Nonkeratinized stratified squamous epithelium",
+null,
+null
+]
+],
+[
+"s12",
+35,
+null,
+[
+null,
+"Alveoli overinflate (emphysema)",
+null,
+null
+]
+],
+[
+"s12",
+36,
+null,
+[
+null,
+"Between the visceral pleural layer and the parietal pleural layer",
+null,
+null
+]
+],
+[
+"s12",
+37,
+null,
+[
+null,
+"It thins and loses most of its cells, increasing diffusion",
+null,
+null
+]
+],
+[
+"s12",
+38,
+null,
+[
+null,
+null,
+null,
+"Carbon dioxide released from the mixed venous blood"
+]
+],
+[
+"s12",
+39,
+null,
+[
+null,
+"Visceral pleura, innervated by the vagus nerve and sympathetic fibers",
+null,
+null
+]
+],
+[
+"s12",
+42,
+null,
+[
+null,
+"The space between the visceral and parietal pleura, holding the pleural fluid film",
+null,
+null
+]
+],
+[
+"s12",
+52,
+null,
+[
+null,
+null,
+null,
+"The pleural mesothelium (lymphatic fluid drainage)"
+]
+],
+[
+"s12",
+55,
+null,
+[
+null,
+"The thick, viscous gel (mucus) layer on top",
+null,
+null
+]
+],
+[
+"s12",
+62,
+null,
+[
+null,
+null,
+null,
+"The tongue and pharyngeal muscles, which hold the upper airway open in sleep"
+]
+],
+[
+"s13",
+9,
+null,
+[
+null,
+null,
+"A foreign body lodged in the larynx or trachea",
+null
+]
+],
+[
+"s13",
+10,
+null,
+[
+null,
+"Lifting the chin with the fingertips placed on the bony part of the jaw",
+null,
+null
+]
+],
+[
+"s13",
+12,
+null,
+[
+null,
+"Difficult laryngoscopy and intubation",
+null,
+null
+]
+],
+[
+"s13",
+17,
+null,
+[
+null,
+"Rapid defibrillation of shockable rhythms",
+null,
+null
+]
+],
+[
+"s13",
+24,
+null,
+[
+null,
+"The heels of both hands, one on the other, on the lower sternum",
+null,
+null
+]
+],
+[
+"s13",
+32,
+null,
+[
+null,
+null,
+null,
+"Add a PEEP valve at 10 cm H₂O and continue to ventilate at the same rate"
+]
+],
+[
+"s13",
+38,
+null,
+[
+null,
+null,
+null,
+"Atrial fibrillation and atrial flutter with a rapid ventricular response"
+]
+],
+[
+"s13",
+48,
+null,
+[
+null,
+null,
+null,
+"A brief rise that follows each ventilation and then returns to baseline"
+]
+],
+[
+"s13",
+50,
+null,
+[
+null,
+"It delivers extra oxygen during chest recoil, raising the arterial oxygen saturation",
+null,
+null
+]
+],
+[
+"s13",
+51,
+null,
+[
+null,
+"Intubation cannot be performed safely while chest compressions are in progress",
+null,
+null
+]
+],
+[
+"s13",
+55,
+null,
+[
+null,
+"Tachypnea with hypoxemia",
+null,
+null
+]
+],
+[
+"s13",
+58,
+null,
+[
+null,
+null,
+null,
+"5 back blows then 5 abdominal thrusts, repeated"
+]
+],
+[
+"s13",
+59,
+null,
+[
+null,
+null,
+null,
+"Place in the recovery position, give oxygen and wait for EMS to arrive"
+]
+],
+[
+"s14",
+14,
+null,
+[
+null,
+null,
+null,
+"A sudden drop of the PEEP level to zero before inspiration"
+]
+],
+[
+"s14",
+16,
+null,
+[
+null,
+null,
+null,
+"High PEEP/CPAP and high exhaled minute volume"
+]
+],
+[
+"s14",
+20,
+null,
+[
+null,
+null,
+"To guarantee the set tidal volume on every spontaneous breath",
+null
+]
+],
+[
+"s14",
+23,
+null,
+[
+null,
+"When a fixed inspiratory time has passed since the trigger, often 1 second",
+null,
+null
+]
+],
+[
+"s14",
+25,
+null,
+[
+null,
+null,
+"Repeated apnea alarms with no other effect",
+null
+]
+],
+[
+"s14",
+26,
+null,
+[
+null,
+null,
+"It raises PEEP automatically when the measured SpO₂ falls below a preset minimum",
+null
+]
+],
+[
+"s14",
+32,
+null,
+[
+null,
+"As VT rises, the ventilator raises its pressure to levels that can injure the lung",
+null,
+null
+]
+],
+[
+"s14",
+36,
+null,
+[
+null,
+null,
+null,
+"A fixed minute ventilation with backup mandatory breaths as needed"
+]
+],
+[
+"s14",
+37,
+null,
+[
+null,
+null,
+"Apnea with loss of the backup rate and low pressure",
+null
+]
+],
+[
+"s14",
+40,
+null,
+[
+null,
+"Volume-controlled CMV with high rates, deep sedation and no spontaneous breathing",
+null,
+null
+]
+],
+[
+"s14",
+43,
+null,
+[
+null,
+null,
+"Increase the release frequency until Thigh is 1 second, then switch to SIMV",
+null
+]
+],
+[
+"s14",
+44,
+null,
+[
+null,
+null,
+"A patient who needs a guaranteed tidal volume and a fixed PaCO₂",
+null
+]
+],
+[
+"s14",
+46,
+null,
+[
+null,
+"Decrease the mean airway pressure or bias flow",
+null,
+null
+]
+],
+[
+"s14",
+52,
+null,
+[
+null,
+"The patient's heart rate is out of phase with the breaths that are being delivered",
+null,
+null
+]
+],
+[
+"s14",
+53,
+null,
+[
+null,
+"Lower oxygen cost of breathing, less sedation and shorter ventilation",
+null,
+null
+]
+],
+[
+"s14",
+54,
+null,
+[
+null,
+"A trigger that is set too sensitive for the patient's effort",
+null,
+null
+]
+],
+[
+"s14",
+66,
+null,
+[
+null,
+null,
+"Disconnect the ventilator and bag the patient by hand for at least an hour",
+null
+]
+],
+[
+"s14",
+67,
+null,
+[
+null,
+"Guarantees a minimum minute ventilation by adding mandatory breaths when needed",
+null,
+null
+]
+],
+[
+"s14",
+70,
+null,
+[
+null,
+"A fixed peak pressure, choosing the tidal volume for each breath",
+null,
+null
+]
+],
+[
+"s14",
+81,
+null,
+[
+null,
+"The ventilator auto-triggers from small leaks or cardiac motion",
+null,
+null
+]
+],
+[
+"s14",
+84,
+null,
+[
+null,
+null,
+null,
+"On every oscillation during high-frequency oscillatory ventilation"
+]
+],
+[
+"s14",
+87,
+null,
+[
+null,
+"It increases the respiratory rate, raising the minute ventilation and the PaO₂",
+null,
+null
+]
+],
+[
+"s14",
+88,
+null,
+[
+null,
+null,
+null,
+"PEEP applied only during the mandatory breaths of a control mode"
+]
+],
+[
+"s14",
+90,
+null,
+[
+null,
+"The highest pressure that the patient can tolerate before hypotension develops",
+null,
+null
+]
+],
+[
+"s14",
+93,
+null,
+[
+null,
+"Increased venous return, preload, cardiac output and blood pressure",
+null,
+null
+]
+],
+[
+"s14",
+95,
+null,
+[
+null,
+null,
+null,
+"The catheter tip migrates into the right ventricle each time the lungs are inflated"
+]
+],
+[
+"s14",
+97,
+null,
+[
+null,
+null,
+"Expiratory flow returns to zero early, followed by a long pause at baseline",
+null
+]
+],
+[
+"s14",
+100,
+null,
+[
+null,
+"Raise the VT to 900 mL and keep the same rate and the same flow",
+null,
+null
+]
+],
+[
+"s14",
+102,
+null,
+[
+null,
+null,
+null,
+"After extubation, mainly to prevent the air trapping from returning during sleep"
+]
+],
+[
+"s14",
+115,
+null,
+[
+null,
+null,
+"Secretions pooled above the artificial airway cuff",
+null
+]
+],
+[
+"s14",
+117,
+null,
+[
+null,
+"Silence the alarm, then check the chart and the orders for the cause",
+null,
+null
+]
+],
+[
+"s14",
+122,
+null,
+[
+null,
+null,
+null,
+"Every 48 hours, together with the humidifier chamber"
+]
+],
+[
+"s14",
+124,
+null,
+[
+null,
+"Humidify the inspired gas and filter out bacteria",
+null,
+null
+]
+],
+[
+"s14",
+129,
+null,
+[
+null,
+"Equal to the airway pressure the ventilator displays",
+null,
+null
+]
+],
+[
+"s14",
+131,
+null,
+[
+null,
+null,
+null,
+"VT 10 mL/kg PBW with PEEP of 15 cm H₂O or more"
+]
+],
+[
+"s14",
+133,
+null,
+[
+null,
+"Evidence shows that routine IS alone prevents most pulmonary complications",
+null,
+null
+]
+],
+[
+"s14",
+134,
+null,
+[
+null,
+"The plug lowers the airway pressure so that it stays below the alarm limit",
+null,
+null
+]
+],
+[
+"s14",
+136,
+null,
+[
+null,
+"Watch a training video on the ventilator, the humidifier, the alarms and the suction unit",
+null,
+null
+]
+],
+[
+"s15",
+1,
+null,
+[
+null,
+null,
+null,
+"Higher flows entrain more room air and so lower the delivered FiO₂"
+]
+],
+[
+"s15",
+7,
+null,
+[
+null,
+"(PaO₂/FiO₂) ÷ respiratory rate",
+"(RR ÷ VT) × FiO₂",
+"(SpO₂ × FiO₂) ÷ respiratory rate"
+]
+],
+[
+"s15",
+9,
+null,
+[
+null,
+"By sealing the airway and applying a set level of PEEP on every breath",
+null,
+null
+]
+],
+[
+"s15",
+12,
+null,
+[
+null,
+"Use flow-cycled pressure support with a longer rise time and a higher cycle %",
+null,
+null
+]
+],
+[
+"s15",
+16,
+null,
+[
+null,
+"A COPD patient with a pH of 7.30 and a PaCO₂ of 60 mm Hg who is alert",
+null,
+null
+]
+],
+[
+"s15",
+19,
+null,
+[
+null,
+"To cure the underlying disease before an artificial airway becomes necessary",
+null,
+null
+]
+],
+[
+"s15",
+21,
+null,
+[
+null,
+null,
+null,
+"It protects the lower airway from aspiration of gastric contents and secretions"
+]
+],
+[
+"s15",
+29,
+null,
+[
+null,
+"It increases venous return, preload and pulmonary blood volume",
+null,
+null
+]
+],
+[
+"s15",
+36,
+null,
+[
+null,
+"It controls the FiO₂ delivered by the oxygen blender",
+null,
+null
+]
+],
+[
+"s15",
+39,
+null,
+[
+null,
+null,
+null,
+"A loose temperature probe at the outlet of the heated humidifier chamber"
+]
+],
+[
+"s15",
+41,
+null,
+[
+null,
+"It is set on the machine in cm H₂O, in the same way that PEEP is set",
+null,
+null
+]
+],
+[
+"s15",
+42,
+null,
+[
+null,
+"It stimulates the diaphragm to contract more strongly during sleep",
+null,
+null
+]
+],
+[
+"s15",
+44,
+null,
+[
+null,
+null,
+"Decrease IPAP and EPAP by the same amount",
+null
+]
+],
+[
+"s15",
+46,
+null,
+[
+null,
+"Raise EPAP by itself whenever the PaCO₂ is high and the SpO₂ is normal",
+null,
+null
+]
+],
+[
+"s15",
+54,
+null,
+[
+null,
+"The patient wears a full-face mask and triggers every breath throughout the day",
+null,
+null
+]
+],
+[
+"s16",
+4,
+null,
+[
+null,
+null,
+null,
+"By a positive sputum Gram stain and culture alone"
+]
+],
+[
+"s16",
+18,
+null,
+[
+null,
+null,
+"A large unilateral pleural effusion with mediastinal shift",
+null
+]
+],
+[
+"s16",
+19,
+null,
+[
+null,
+"Droppings of birds such as parrots, pigeons and other poultry",
+null,
+null
+]
+],
+[
+"s16",
+26,
+null,
+[
+null,
+"A smaller cuff that is inflated to a higher pressure to seal the trachea",
+null,
+null
+]
+],
+[
+"s16",
+28,
+null,
+[
+null,
+null,
+"Disinfecting flexible bronchoscopes between one patient and the next",
+null
+]
+],
+[
+"s16",
+30,
+null,
+[
+null,
+null,
+null,
+"Diminished breath sounds at both bases"
+]
+],
+[
+"s16",
+34,
+null,
+[
+null,
+null,
+null,
+"Pneumonitis is an allergic reaction to inhaled food particles and saliva"
+]
+],
+[
+"s17",
+3,
+null,
+[
+null,
+null,
+null,
+"The injury to the alveoli that is caused by a high inspired oxygen fraction"
+]
+],
+[
+"s17",
+4,
+null,
+[
+null,
+"High VT prevents collapse and zero PEEP prevents overdistention — we need both",
+null,
+null
+]
+],
+[
+"s17",
+17,
+null,
+[
+null,
+"Obstructive — flows decreased, FEV₁/FVC decreased, volumes increased",
+null,
+null
+]
+],
+[
+"s17",
+21,
+null,
+[
+null,
+"ARDS rather than cardiogenic pulmonary edema",
+null,
+null
+]
+],
+[
+"s17",
+28,
+null,
+[
+null,
+"Yes — NIV is first-line for all ARDS, including severe cases",
+null,
+null
+]
+],
+[
+"s18",
+12,
+null,
+[
+null,
+null,
+"Nondepolarizing neuromuscular blockers; neostigmine",
+null
+]
+],
+[
+"s18",
+15,
+null,
+[
+null,
+null,
+null,
+"Lorazepam (Ativan) by infusion"
+]
+],
+[
+"s18",
+16,
+null,
+[
+null,
+"It is a water-based solution; watch for hypertension and hyperglycemia",
+null,
+null
+]
+],
+[
+"s18",
+26,
+null,
+[
+null,
+null,
+null,
+"The time during which the drug has half of its maximal effect"
+]
+],
+[
+"s18",
+34,
+null,
+[
+null,
+"The speed at which a drug is eliminated from the body by the kidneys",
+null,
+null
+]
+],
+[
+"s18",
+45,
+null,
+[
+null,
+null,
+null,
+"It falls only when more than 50% of liver function has been lost"
+]
+],
+[
+"s18",
+49,
+null,
+[
+null,
+null,
+"Asking the patient to rate the pain on a scale from 0 to 10",
+null
+]
+],
+[
+"s13",
+33,
+null,
+[
+"No, it is not routinely recommended",
+"Yes, for every adult cardiac arrest",
+"Yes, for children under 8 years",
+"Yes, when a laryngeal mask is used"
+]
+],
+[
+"s16",
+7,
+null,
+[
+null,
+"Respiratory acidosis with a normal PaO₂",
+"Metabolic alkalosis with hypoxemia",
+"Metabolic acidosis with a normal PaO₂"
+]
+],
+[
+"s16",
+25,
+null,
+[
+null,
+"0° to 10°",
+"15° to 20°",
+"60° to 90°"
+]
+],
+[
+"s14",
+101,
+null,
+[
+null,
+null,
+"It leaves PIP unchanged",
+"It changes only the plateau pressure"
+]
+],
+[
+"s01",
+47,
+null,
+[
+null,
+null,
+"FiO₂ of 0.60 with PEEP of 5, or FiO₂ of 0.40 with PEEP of 10",
+null
+]
+],
+[
+"s01",
+59,
+"The weaning deck relates weaning failure to which of the following three factors?",
+null
+],
+[
+"s02",
+1,
+null,
+[
+null,
+null,
+"Increased CPP from a high MAP or low ICP",
+null
+]
+],
+[
+"s05",
+16,
+null,
+[
+null,
+null,
+null,
+"VV returns blood to an artery, which raises the afterload on the left ventricle"
+]
+],
+[
+"s06",
+5,
+"While IV KCl is running, what minimum urine output should be maintained?",
+null
+],
+[
+"s08",
+5,
+"Which division of the autonomic nervous system does diaphragmatic breathing activate?",
+[
+null,
+null,
+"Both divisions equally",
+null
+]
+],
+[
+"s08",
+6,
+"When teaching diaphragmatic breathing, where does the therapist place the hand that the patient pushes against?",
+null
+],
+[
+"s08",
+19,
+null,
+[
+null,
+null,
+"Metabolic acidosis such as DKA",
+null
+]
+],
+[
+"s09",
+15,
+null,
+[
+"The total volume of brain, CSF and blood in the rigid skull must stay constant",
+null,
+null,
+null
+]
+],
+[
+"s09",
+24,
+null,
+[
+null,
+null,
+null,
+"An adult pneumothorax needs 28–32 Fr; blood needs about 20 Fr"
+]
+],
+[
+"s09",
+40,
+"What minimum volume of pleural blood defines a massive hemothorax?",
+null
+],
+[
+"s09",
+42,
+null,
+[
+null,
+null,
+null,
+"A sternal fracture with a pulmonary contusion but normal chest-wall motion"
+]
+],
+[
+"s09",
+47,
+null,
+[
+null,
+null,
+"It suppresses CSF production; it may cause metabolic acidosis",
+null
+]
+],
+[
+"s10",
+27,
+"What is the maximum supplemental O₂ flow for a spontaneously breathing patient without an artificial airway during bronchoscopy (RCP 105)?",
+null
+],
+[
+"s10",
+28,
+"After bronchoscopy, what is the minimum time that vital signs should be monitored?",
+null
+],
+[
+"s11",
+2,
+null,
+[
+null,
+null,
+null,
+"Living-donor lobar transplant on one side"
+]
+],
+[
+"s11",
+11,
+"Before the LAS (before 2005), what primarily ranked candidates for donor lungs?",
+null
+],
+[
+"s11",
+17,
+null,
+[
+null,
+"The patient can skip the transplant, since awake ECMO repairs the lungs",
+null,
+null
+]
+],
+[
+"s11",
+29,
+"Which PaO₂ and test settings does the guide give as a typical donor criterion?",
+null
+],
+[
+"s12",
+25,
+null,
+[
+null,
+null,
+null,
+"Goblet-cell mucus lining the bronchiolar wall"
+]
+],
+[
+"s13",
+36,
+null,
+[
+null,
+"Thumb and index finger support the mandible while the other fingers press the mask on the face",
+null,
+null
+]
+],
+[
+"s13",
+37,
+null,
+[
+null,
+null,
+null,
+"The bag deflates backward through its gas intake valve"
+]
+],
+[
+"s13",
+38,
+"Which cardiac-arrest rhythms are shockable (defibrillated)?",
+null
+],
+[
+"s13",
+47,
+null,
+[
+null,
+null,
+null,
+"Pulmonary blood flow is normal, so CPR needs no adjustment"
+]
+],
+[
+"s15",
+2,
+"What is the full FiO₂ range that HFNC can deliver, set independently of the flow?",
+null
+],
+[
+"s15",
+12,
+null,
+[
+null,
+"Use flow-cycled pressure support with a lower cycle % and a longer rise time",
+null,
+null
+]
+],
+[
+"s14",
+66,
+null,
+[
+null,
+"Increase sedation before checking the airway and ventilator settings",
+"Change the ventilator mode before inspecting the tube and circuit",
+null
+]
+],
+[
+"s14",
+125,
+null,
+[
+null,
+"Inspiratory — it can prevent delivery of the prescribed tidal volume",
+null,
+"Inspiratory filter — it can restrict delivery of the set breath"
+]
+],
+[
+"s16",
+40,
+"Which of the following is the full group that should receive annual influenza vaccination?",
+null
+],
+[
+"s17",
+24,
+null,
+[
+null,
+null,
+null,
+"20–25 cm H₂O"
+]
+],
+[
+"s11",
+17,
+null,
+[
+null,
+"The patient must remain on bed rest to prevent displacement of the cannulas",
+null,
+null
+]
+]
+]

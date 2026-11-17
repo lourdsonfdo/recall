@@ -1,0 +1,19 @@
+[
+[0,null,["Where oxygenated blood is returned: a vein or an artery","Where the blood is drained from: a vein or an artery","The type of membrane oxygenator in the circuit","Whether sweep gas flows across the oxygenator"]],
+[2,null,[null,"Right femoral artery","Left femoral vein","Right common carotid artery"]],
+[3,null,["A less hypoxemic patient who may mobilize, as a bridge to transplant","A septic patient who needs the highest possible blood flow","A neonate who needs both cardiac and respiratory support","A patient in cardiogenic shock with severe hypoxemia"]],
+[5,null,[null,"Increase the sweep gas flow to 10 L/min","Increase the ventilator FiO₂ to 1.0 and add PEEP","Increase ECMO flow and add a second oxygenator"]],
+[8,"Which of the following patients meets the basic requirement for ECMO?",["Severe but reversible respiratory failure despite lung-protective ventilation","Severe ARDS with a terminal malignancy and short life expectancy","Severe ARDS with an irreversible coagulopathy and active bleeding","Respiratory failure with severe, irreversible brain injury"]],
+[9,null,[null,"≥ 10%, more strongly as it approaches 30%","≥ 90%, more strongly as it approaches 100%","≥ 30%, more strongly as it approaches 40%"]],
+[10,null,[null,null,"(P̄aw × PaO₂) ÷ (FiO₂ × 100)",null]],
+[11,null,[null,"P/F < 300 for 24 hours or < 200 for 12 hours","P/F < 200 for 6 hours or < 150 for 3 hours","P/F < 150 for 12 hours or < 100 for 6 hours"]],
+[12,null,[null,"Lung-protective ventilation (VT 6 mL/kg, Pplat < 30) for 12 hours","Prone positioning for 16 hours a day over 2 days","Neuromuscular blockade for the first 48 hours of ARDS"]],
+[13,null,[null,"Severe ARDS from pneumonia","Status asthmaticus","Massive pulmonary embolism"]],
+[14,null,[null,"Young age, single-organ failure and short pre-ECMO ventilation","Status asthmaticus, young age and early cannulation","Female sex, viral pneumonia and prone positioning before ECMO"]],
+[16,null,["VV returns blood to a vein, so the patient's own heart must still pump it","VV cannot remove enough CO₂ when the cardiac output is low","VV cannot oxygenate blood without a second arterial cannula","VV needs a higher sweep flow than a failing heart can tolerate"]],
+[17,null,[null,"VA, because it gives better oxygenation of the upper body","VA, because it carries a lower risk of stroke and ischemia","VV, because it supports both the heart and the lungs"]],
+[19,null,[null,null,null,"70–90%"]],
+[20,null,[null,"Sweep gas flow rate","Ventilator rate and VT","Ventilator PEEP level"]],
+[23,null,[null,"VT 10 mL/kg, FiO₂ 100%, RR 30, Pplat < 40, PEEP 0–5","VT 8 mL/kg, FiO₂ 80%, RR 20, Pplat < 35, PEEP 18–20","VT < 4 mL/kg, FiO₂ 21%, RR 4, Pplat < 15, PEEP 0"]],
+[24,null,[null,"Greater than 84%","Less than 30%","About 40%"]]
+]
