@@ -58,10 +58,10 @@
   },
   {
    "id": "tmc-trainer",
-   "title": "TMC & CSE Trainer",
-   "subtitle": "420 TMC questions · 20 CSE simulations · NBRC blueprint",
+   "title": "RTE Trainer (2027)",
+   "subtitle": "NBRC Respiratory Therapy Exam · 462 breadth + 189 clinical-judgment items",
    "file": "tmc-trainer.html",
-   "version": 1794905402,
+   "version": 1794907772,
    "stat": "",
    "kind": "app"
   }
