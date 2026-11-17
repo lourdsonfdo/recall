@@ -2231,5 +2231,22 @@ null,
 null,
 null
 ]
+],
+[
+"s14",
+60,
+null,
+[
+null,
+null,
+null,
+"Auto-triggering from cardiac oscillations"
+]
+],
+[
+"s14",
+60,
+"The ventilator ends inspiration while the patient's inspiratory effort continues, and that same effort immediately triggers a second breath, nearly doubling the set VT. What is this?",
+null
 ]
 ]

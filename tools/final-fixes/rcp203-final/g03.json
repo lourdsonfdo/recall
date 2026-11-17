@@ -1,0 +1,1422 @@
+[
+[
+0,
+null,
+[
+"Mode names are not standardized between manufacturers",
+"Mode names are fixed by an international standard",
+"Mode names determine the alarm limits that apply",
+"Mode names differ by patient age, not by maker"
+]
+],
+[
+1,
+null,
+[
+"Only one — pressure or volume",
+"Two — both pressure and volume",
+"Three — pressure, volume and flow",
+"None — the patient controls each one"
+]
+],
+[
+3,
+null,
+[
+"VT stays the same and pressure increases",
+"VT falls and pressure stays the same",
+"Both VT and pressure fall",
+"VT rises and pressure falls"
+]
+],
+[
+4,
+null,
+[
+"Pressure stays the same and VT decreases",
+"VT stays the same and pressure rises",
+"Both pressure and VT rise",
+"Pressure falls and VT stays the same"
+]
+],
+[
+6,
+null,
+[
+"A/C allows patient-triggered breaths; CMV (control) does not",
+"CMV allows spontaneous breaths between mandatory breaths; A/C does not",
+"A/C has no set rate; CMV (control) has a set rate",
+"CMV uses pressure support on triggered breaths; A/C does not"
+]
+],
+[
+8,
+null,
+[
+"A negative deflection below baseline before inspiration",
+"A positive spike just after exhalation ends",
+"A flat baseline before the pressure rises",
+"A sudden drop of the PEEP level to zero before inspiration"
+]
+],
+[
+9,
+null,
+[
+"Breath stacking",
+"Low delivered FiO₂",
+"Excess pressure support",
+"Auto-triggering"
+]
+],
+[
+10,
+null,
+[
+"The spontaneous breaths between mandatory breaths",
+"The mandatory breaths that the patient triggers",
+"All breaths, both mandatory and spontaneous",
+"No breaths, since PS is inactive in SIMV"
+]
+],
+[
+11,
+null,
+[
+"To prevent muscle fatigue and high WOB on spontaneous breaths",
+"To increase the mandatory rate when the patient tires",
+"To guarantee the set tidal volume on every spontaneous breath",
+"To lower the FiO₂ needed during mandatory breaths"
+]
+],
+[
+13,
+null,
+[
+"When inspiratory flow falls to a preset % of peak flow, often ~25%",
+"When a fixed inspiratory time has passed since the trigger, often 1 second",
+"When the preset tidal volume has been delivered",
+"When airway pressure falls 2 cm H₂O below PEEP"
+]
+],
+[
+14,
+null,
+[
+"Every PS breath must be patient-triggered",
+"Every PS breath delivers too large a volume",
+"PS has no adjustable FiO₂ or PEEP setting",
+"PS breaths are time-cycled, not flow-cycled"
+]
+],
+[
+15,
+null,
+[
+"It increases mandatory breaths when spontaneous V̇E falls below a preset minimum",
+"It guarantees the set VT on every spontaneous breath that is taken",
+"It raises PEEP automatically when the measured SpO₂ falls below a preset minimum",
+"It increases pressure support when the spontaneous rate rises too high"
+]
+],
+[
+16,
+null,
+[
+"Adds no extra mandatory ventilation",
+"Adds 1 L/min of mandatory breaths",
+"Switches to assist/control at 8 L/min",
+"Lowers the pressure support level"
+]
+],
+[
+17,
+null,
+[
+"That every breath has an adequate VT",
+"A minimum total minute ventilation",
+"Backup mandatory breaths if needed",
+"Volume-cycled mandatory breaths"
+]
+],
+[
+19,
+null,
+[
+"Raises the inspiratory pressure to deliver the target VT",
+"Lowers the inspiratory pressure to protect the lungs",
+"Keeps the pressure fixed and lets the VT fall",
+"Switches to CPAP until the compliance improves"
+]
+],
+[
+20,
+null,
+[
+"It switches from PRVC to Volume Support",
+"It switches from Volume Support to PRVC",
+"It switches to apnea backup ventilation",
+"It switches to CPAP with no support"
+]
+],
+[
+21,
+null,
+[
+"Puritan Bennett's version of PRVC",
+"Puritan Bennett's version of APRV",
+"Puritan Bennett's version of PAV",
+"Puritan Bennett's version of MMV"
+]
+],
+[
+22,
+null,
+[
+"VS guarantees volume and lets pressure vary; PS fixes the pressure",
+"VS is time-cycled and mandatory; PS is flow-cycled and spontaneous",
+"VS needs a set rate and a set VT; PS needs a set rate alone",
+"VS fixes the pressure and lets volume vary; PS guarantees volume"
+]
+],
+[
+23,
+null,
+[
+"It decreases",
+"It increases",
+"It stays fixed",
+"It increases, then stays fixed"
+]
+],
+[
+24,
+null,
+[
+"No set flow, volume or pressure; support is proportional to effort",
+"A fixed tidal volume on every patient-triggered breath",
+"A fixed inspiratory pressure above the PEEP level",
+"A fixed minute ventilation with backup mandatory breaths as needed"
+]
+],
+[
+25,
+null,
+[
+"'Runaway' with excessive volume and pressure",
+"Excessive patient work of breathing",
+"Apnea with loss of the backup rate and low pressure",
+"Hypoxemia from a falling FiO₂"
+]
+],
+[
+26,
+null,
+[
+"An apneic patient with no respiratory drive",
+"A COPD patient who is being weaned",
+"A patient who is coming off sedation",
+"A patient with a variable respiratory drive"
+]
+],
+[
+29,
+null,
+[
+"About 0.2–0.8 seconds",
+"About 2–3 seconds",
+"About 4–6 seconds",
+"About 10–15 seconds"
+]
+],
+[
+30,
+null,
+[
+"Increase the amplitude or decrease the frequency (Hz)",
+"Decrease the amplitude or increase the frequency (Hz)",
+"Increase the mean airway pressure or the FiO₂",
+"Decrease the bias flow or the inspiratory time %"
+]
+],
+[
+31,
+null,
+[
+"Increase the mean airway pressure or FiO₂",
+"Decrease the mean airway pressure or bias flow",
+"Increase the frequency (Hz)",
+"Decrease the amplitude"
+]
+],
+[
+32,
+null,
+[
+"Exhalation is active — the oscillator pulls gas out",
+"Exhalation is passive — elastic recoil pushes gas out",
+"Exhalation is absent — gas leaves by diffusion alone",
+"Exhalation is time-cycled — a valve opens at 1 Hz"
+]
+],
+[
+34,
+null,
+[
+"IMV (unsynchronized)",
+"SIMV with pressure support",
+"PRVC (pressure-regulated volume control)",
+"Pressure support ventilation"
+]
+],
+[
+35,
+null,
+[
+"The ventilator's breath delivery is out of phase with the patient's effort",
+"The patient's heart rate is out of phase with the breaths that are being delivered",
+"The ventilator's alarm limits do not match the patient's values",
+"The set FiO₂ does not match the oxygen analyzer reading"
+]
+],
+[
+36,
+null,
+[
+"Increased WOB and sedation needs, and longer ventilation",
+"Lower oxygen cost of breathing, less sedation and shorter ventilation",
+"Shorter weaning time and less muscle fatigue",
+"Improved comfort and a lower respiratory rate"
+]
+],
+[
+37,
+"A COPD patient's observed respiratory rate is higher than the rate the ventilator displays. Which of the following is the likely cause?",
+[
+"Auto-PEEP preventing some efforts from triggering",
+"A trigger that is set too sensitive for the patient's effort",
+"A leak in the ventilator circuit",
+"Cardiac oscillations in the airway"
+]
+],
+[
+38,
+null,
+[
+"Flow starvation (flow asynchrony)",
+"Auto-triggering from a leak",
+"Delayed cycling (cycle asynchrony)",
+"Excess PEEP (trigger asynchrony)"
+]
+],
+[
+39,
+null,
+[
+"Inadequate peak flow — 'I need more flow'",
+"Too much tidal volume — 'I need less volume'",
+"Delayed cycling — 'I want to exhale now'",
+"A circuit leak — 'the breath is escaping'"
+]
+],
+[
+40,
+null,
+[
+"Double triggering from premature cycling",
+"Missed triggering from auto-PEEP",
+"Delayed cycling with active exhalation",
+"Flow starvation from a low peak flow"
+]
+],
+[
+41,
+null,
+[
+"Adjust settings → reconsider the mode → sedation/analgesia → neuromuscular blockade last",
+"Neuromuscular blockade → sedation/analgesia → adjust settings → change the mode",
+"Reconsider the mode → neuromuscular blockade → adjust settings → sedation",
+"Sedation/analgesia → neuromuscular blockade → reconsider the mode → settings"
+]
+],
+[
+43,
+null,
+[
+"The respiratory center cannot adapt to the varying breath types",
+"The mandatory breaths are never synchronized with the patient's effort",
+"The spontaneous breaths are larger than the mandatory breaths",
+"The pressure support is active on the mandatory breaths alone"
+]
+],
+[
+44,
+null,
+[
+"40–60 L/min",
+"5–10 L/min",
+"100–150 L/min",
+"20–30 L/min"
+]
+],
+[
+46,
+null,
+[
+"Volume, pressure and time",
+"Trigger, limit and cycle",
+"Flow, FiO₂ and PEEP",
+"Rate, tidal volume and I:E"
+]
+],
+[
+47,
+null,
+[
+"Whatever the ventilator guarantees",
+"Whatever changes with the patient",
+"Whatever the alarm limit is set to",
+"Whatever the patient triggers"
+]
+],
+[
+48,
+null,
+[
+"A higher driving pressure (PIP − PEEP)",
+"More auto-PEEP at the same PIP",
+"Lower compliance at the same PIP",
+"Higher airway resistance at the same PIP"
+]
+],
+[
+51,
+null,
+[
+"When expiratory-circuit flow drops to 7 L/min",
+"When expiratory-circuit flow rises to 13 L/min",
+"When expiratory-circuit flow drops to 3 L/min",
+"When expiratory-circuit flow drops to zero"
+]
+],
+[
+52,
+null,
+[
+"The patient may not be able to trigger and fatigues",
+"The ventilator auto-triggers from small leaks or cardiac motion",
+"The ventilator double-triggers on each effort",
+"The ventilator delivers an excessive VT"
+]
+],
+[
+54,
+null,
+[
+"As an alarm condition when the high-pressure limit is reached",
+"On every pressure-supported breath as flow decays",
+"On every volume-controlled breath at end-inspiration",
+"On every oscillation during high-frequency oscillatory ventilation"
+]
+],
+[
+57,
+null,
+[
+"It keeps alveoli open at end-expiration, raising FRC and reducing shunt",
+"It increases the respiratory rate, raising the minute ventilation and the PaO₂",
+"It removes CO₂ at end-expiration, raising the alveolar PO₂",
+"It lowers the FRC at end-expiration, reducing dead space"
+]
+],
+[
+58,
+null,
+[
+"PEEP applied to a patient breathing entirely on their own",
+"A mandatory mode with a set rate and pressure",
+"Pressure support with a backup rate",
+"PEEP applied only during the mandatory breaths of a control mode"
+]
+],
+[
+60,
+null,
+[
+"Decreased venous return, cardiac output and blood pressure",
+"Increased venous return, preload, cardiac output and blood pressure",
+"Hypercapnia from a lower respiratory rate",
+"Atelectasis from a lower FRC"
+]
+],
+[
+61,
+null,
+[
+"Higher intrathoracic pressure impedes venous drainage from the brain",
+"Lower intrathoracic pressure increases arterial flow to the brain",
+"It dilates the cerebral arteries by raising the PaO₂",
+"It increases CSF production by raising the cardiac output"
+]
+],
+[
+62,
+null,
+[
+"Unintentional PEEP from gas trapped when exhalation is incomplete",
+"Intentional PEEP set by the clinician to improve oxygenation",
+"Unintentional PEEP caused by a leak in the circuit or cuff",
+"Intentional PEEP added by the ventilator after an apnea alarm"
+]
+],
+[
+63,
+null,
+[
+"Expiratory flow does not return to zero before the next breath",
+"Inspiratory flow has a square shape instead of a ramp",
+"Expiratory flow returns to zero early, followed by a long pause at baseline",
+"Inspiratory flow starts with a negative deflection"
+]
+],
+[
+64,
+null,
+[
+"An end-expiratory pause; pause pressure minus set PEEP",
+"An end-inspiratory pause; plateau pressure minus set PEEP",
+"No pause; peak pressure minus plateau pressure",
+"An end-expiratory pause; exhaled VT minus set VT"
+]
+],
+[
+65,
+null,
+[
+"PIP overcomes resistance and compliance; Pplat overcomes compliance only",
+"PIP overcomes compliance only; Pplat overcomes resistance and compliance",
+"PIP overcomes resistance only; Pplat overcomes resistance and compliance",
+"PIP and Pplat both overcome resistance and compliance equally"
+]
+],
+[
+66,
+null,
+[
+"Increased airway resistance, such as secretions or bronchospasm",
+"Decreased lung compliance, such as ARDS or pulmonary edema",
+"A tension pneumothorax or a main-stem intubation",
+"Lobar atelectasis or a large pleural effusion"
+]
+],
+[
+67,
+null,
+[
+"Decreased compliance, such as pulmonary edema or pneumothorax",
+"A mucus plug in the endotracheal tube or bronchospasm",
+"The patient biting the tube or a kinked endotracheal tube",
+"Water in the circuit or a blocked inspiratory filter"
+]
+],
+[
+68,
+null,
+[
+"The patient-disconnect alarm",
+"The high FiO₂ alarm",
+"The low battery alarm",
+"The high respiratory rate alarm"
+]
+],
+[
+70,
+null,
+[
+"A leak in the circuit or ETT cuff",
+"Auto-PEEP from air trapping",
+"Bronchospasm or secretions",
+"A trigger set too insensitive"
+]
+],
+[
+71,
+null,
+[
+"Single-limb without an exhalation valve (a leak port)",
+"Double-limb with a wye and an active exhalation valve",
+"Single-limb with a mushroom exhalation valve at the patient",
+"Double-limb with a leak port in the expiratory limb"
+]
+],
+[
+72,
+null,
+[
+"Built into the ventilator",
+"At the patient wye",
+"In the heated humidifier",
+"In the inspiratory limb"
+]
+],
+[
+74,
+null,
+[
+"Separate inspiration from expiration and set PEEP",
+"Humidify the inspired gas and filter out bacteria",
+"Measure the FiO₂ and trigger breaths",
+"Warm the gas and measure the VT"
+]
+],
+[
+75,
+null,
+[
+"Expiratory — it can cause rebreathing, asphyxia or barotrauma",
+"Inspiratory — it can prevent delivery of the prescribed tidal volume",
+"Humidifier — it can cause overheating of the inspired gas",
+"Inspiratory filter — it can restrict delivery of the set breath"
+]
+],
+[
+76,
+null,
+[
+"Ribavirin can crystallize and occlude valves and sensors",
+"Ribavirin can raise the delivered FiO₂ and the PEEP",
+"Ribavirin can dissolve the plastic of the circuit",
+"Ribavirin can cause auto-triggering and stacking"
+]
+],
+[
+77,
+null,
+[
+"The pressure needed to overcome airway resistance and lung/chest-wall elastance",
+"The relationship between the inspired oxygen fraction and the arterial PO₂",
+"The volume of blood pumped by the heart per minute during a breath",
+"The amount of oxygen carried by hemoglobin and dissolved in plasma"
+]
+],
+[
+78,
+null,
+[
+"The inverse of compliance",
+"The same as airway resistance",
+"The inspiratory flow rate",
+"The inverse of airway conductance"
+]
+],
+[
+79,
+null,
+[
+"Zero — all pressure comes from the ventilator",
+"Equal to the airway pressure the ventilator displays",
+"Equal to the set PEEP",
+"Maximal on every breath"
+]
+],
+[
+27,
+null,
+[
+null,
+"Volume-controlled CMV with high rates, deep sedation and no spontaneous breathing",
+"High-frequency oscillation around a constant mean airway pressure",
+"Pressure support with a backup rate and a volume guarantee"
+]
+],
+[
+80,
+null,
+[
+null,
+"APRV, HFOV, PAV and NAVA",
+"VC-A/C, PRVC, PSV and CPAP",
+"MMV, ASV, ATC and IRV"
+]
+],
+[
+81,
+null,
+[
+null,
+null,
+"Rate, volume and pressure",
+"Trigger, limit and baseline"
+]
+],
+[
+82,
+null,
+[
+"FiO₂ to 0.40 first; then mean airway pressure down 2–3 every 4–6 h to ≤ 20; then switch to PC",
+"Amplitude to maximum first; then frequency down 1 Hz every hour to 3 Hz; then extubate",
+"Mean airway pressure to ≤ 10 first; then FiO₂ down 0.10 every 4–6 h to 0.21; then CPAP",
+"Frequency up to 15 Hz first; then amplitude down 5 every 2 h to zero; then switch to VC"
+]
+],
+[
+83,
+null,
+[
+null,
+"60 cm H₂O, then 25 above the observed PIP once stable",
+"20 cm H₂O, then equal to the observed PIP once stable",
+"50 cm H₂O, then 5 below the observed PIP once stable"
+]
+],
+[
+84,
+null,
+[
+null,
+"Equal to the set PEEP level (or 2 cm H₂O above it in PC)",
+"10 cm H₂O above the observed PIP (or the set pressure in PC)",
+"25 cm H₂O below the observed PIP (or half the set pressure in PC)"
+]
+],
+[
+85,
+null,
+[
+null,
+"Auto-PEEP — from air trapping",
+"Bronchospasm — from asthma",
+"A kink — often the ETT"
+]
+],
+[
+86,
+null,
+[
+null,
+null,
+"(PIP − Pplat) ÷ flow; ignore PEEP",
+"VT × (Pplat − PEEP); ignore PIP"
+]
+],
+[
+89,
+null,
+[
+null,
+"It is always greater, the difference being the applied PEEP",
+"It is equal, because both use the plateau pressure",
+"It is always less, the difference being the auto-PEEP"
+]
+],
+[
+90,
+null,
+[
+null,
+"f × (VT + VD)",
+"VT × f",
+"(VT − VD) ÷ f"
+]
+],
+[
+91,
+null,
+[
+null,
+"About 6,000 mL/min",
+"About 2,275 mL/min",
+"About 1,875 mL/min"
+]
+],
+[
+92,
+null,
+[
+null,
+"It lowers VD/VT and raises alveolar ventilation",
+"It raises VD/VT and raises alveolar ventilation",
+"It leaves VD/VT and alveolar ventilation unchanged"
+]
+],
+[
+94,
+null,
+[
+null,
+"The gas is too dry (below 50% RH)",
+"The humidifier heater has failed",
+"The gas is overheated above 41 °C"
+]
+],
+[
+95,
+null,
+[
+null,
+"Poured back into the humidifier chamber so that the water is not wasted",
+"Drained toward the patient's airway and removed by suctioning",
+"Left in the tubing until the next scheduled circuit change"
+]
+],
+[
+96,
+null,
+[
+null,
+"100% RH at 37 °C",
+"10–20% RH at 20–22 °C",
+"40–50% RH at 25–26 °C"
+]
+],
+[
+97,
+null,
+[
+null,
+"Leakage-type aspiration around the cuff",
+"Hypoventilation from a leak during inspiration",
+"Self-extubation from poor tube fixation"
+]
+],
+[
+98,
+"An ETT cuff needs more than 30 cm H₂O to seal the airway. Which of the following does this suggest?",
+[
+null,
+"The tube is working normally — continue to monitor the pressure",
+"The patient needs more PEEP — increase it and remeasure the cuff",
+"The tube may be too large — deflate the cuff and recheck in 4 hours"
+]
+],
+[
+99,
+null,
+[
+null,
+"Yes — it is the standard for all patients",
+"Yes — but for laryngeal mask airways only",
+"Yes — but for children under 8 only"
+]
+],
+[
+103,
+"A ventilated COPD patient has auto-PEEP with an I:E ratio of 1:2. Which of the following should be done?",
+[
+null,
+"Increase the ratio to 1:1 by lengthening the I-time",
+"Change to inverse ratio ventilation at 2:1",
+"Increase the rate and shorten the E-time"
+]
+],
+[
+104,
+null,
+[
+null,
+"PaCO₂ above 50 mm Hg — then lower the rate or the tidal volume",
+"pH below 7.40 — then raise the tidal volume to 10 mL/kg",
+"PaCO₂ above 100 mm Hg — then switch to HFOV or ECMO"
+]
+],
+[
+105,
+null,
+[
+null,
+"The patient's predicted body weight",
+"The PEEP and pressure support levels",
+"The patient's measured compliance"
+]
+],
+[
+106,
+null,
+[
+null,
+"Start 12 mL/kg PBW; reduce by 2 mL/kg to 8 mL/kg",
+"Start 4 mL/kg PBW; raise by 1 mL/kg to 10 mL/kg",
+"Start 6 mL/kg PBW; raise by 1 mL/kg to 8 mL/kg"
+]
+],
+[
+107,
+null,
+[
+null,
+"Increase VT in 1 mL/kg steps to a maximum of 8 mL/kg",
+"Increase the PEEP in 2 cm H₂O steps to 20 cm H₂O",
+"Decrease the rate in steps of 2 to a minimum of 6/min"
+]
+],
+[
+108,
+null,
+[
+null,
+"Decrease VT in 1 mL/kg steps until pH > 7.30; lower the rate",
+"Lower the PEEP in 2 cm H₂O steps until pH > 7.15",
+"Increase the rate to 45 and stop the bicarbonate"
+]
+],
+[
+110,
+null,
+[
+null,
+"Briefly lowers the PEEP to zero to let trapped gas escape",
+"Removes secretions with a deep breath followed by suction",
+"Raises the rate for 2 minutes to wash out carbon dioxide"
+]
+],
+[
+111,
+null,
+[
+null,
+"Yes — every shift, before any change in PEEP is made",
+"Yes — before every spontaneous breathing trial",
+"No — they are used with HFOV and APRV alone"
+]
+],
+[
+112,
+null,
+[
+null,
+"Raise PEEP in small steps, then set it where the blood pressure begins to fall",
+"Lower PEEP to zero at once, then raise it until the SpO₂ reaches 100%",
+"Lower PEEP in small steps, then set it slightly below where compliance falls"
+]
+],
+[
+113,
+null,
+[
+null,
+"If the SpO₂ improves or the compliance rises",
+"After exactly 10 seconds in every patient",
+"When the PIP reaches 25 cm H₂O"
+]
+],
+[
+114,
+null,
+[
+null,
+"Yes — 5–10 cm H₂O in every source",
+"Yes — 40–60 cm H₂O in every source",
+"Yes — 25–30 cm H₂O in every source"
+]
+],
+[
+116,
+null,
+[
+null,
+"15–20 cm H₂O",
+"0–1 cm H₂O",
+"10–12 cm H₂O"
+]
+],
+[
+118,
+null,
+[
+null,
+"The elastic (alveolar distending) pressure",
+"The auto-PEEP (trapped gas) pressure",
+"The driving (tidal stress) pressure"
+]
+],
+[
+120,
+null,
+[
+null,
+"It is measured at peak flow, at the end of inspiration",
+"It is measured at end-expiration with the valves closed",
+"It is measured during a hold that includes resistance"
+]
+],
+[
+121,
+null,
+[
+null,
+"Decreased compliance",
+"Improved compliance",
+"A leak in the circuit"
+]
+],
+[
+122,
+null,
+[
+null,
+"Bronchospasm or a mucus plug",
+"Secretions or a kink in the ETT",
+"Water in the ventilator circuit"
+]
+],
+[
+123,
+null,
+[
+null,
+"Auto-PEEP",
+"Bronchospasm",
+"Pneumothorax"
+]
+],
+[
+124,
+null,
+[
+null,
+null,
+null,
+"As a fall in PEEP"
+]
+],
+[
+125,
+null,
+[
+null,
+"Alveoli overdistend, causing dead space and barotrauma",
+"Venous return falls, causing a drop in cardiac output",
+"Airway resistance rises, causing a high peak pressure"
+]
+],
+[
+126,
+null,
+[
+null,
+"The highest PEEP the patient tolerates without barotrauma",
+"The PEEP of 5 cm H₂O that is used for every patient",
+"The PEEP that keeps PaO₂ above 200 on an FiO₂ of 1.0"
+]
+],
+[
+127,
+null,
+[
+null,
+"Yes — the decks say never to exceed 10 cm H₂O in adults",
+"Yes — but the ceiling applies to patients with ARDS alone",
+"No — it is the minimum PEEP for all ventilated patients"
+]
+],
+[
+128,
+null,
+[
+null,
+"Increased cardiac output raises renal blood flow, and ADH falls",
+"Compression of the ureters blocks the flow of urine",
+"Stretch of the atria raises ANP and lowers ADH"
+]
+],
+[
+129,
+null,
+[
+null,
+"PEEP adds to the circulating blood volume as venous return rises",
+"The measured CVP always equals preload, so both of them must rise",
+"The catheter tip migrates into the right ventricle with each breath"
+]
+],
+[
+130,
+null,
+[
+null,
+"The liver",
+"The brain",
+"The gut"
+]
+],
+[
+131,
+null,
+[
+null,
+null,
+null,
+"It raises venous return"
+]
+],
+[
+132,
+null,
+[
+null,
+"The PEEP level set by the clinician on the ventilator",
+"Pressure lost through a leak at end-exhalation",
+"Alveolar pressure at the end of an inspiratory hold"
+]
+],
+[
+134,
+null,
+[
+null,
+"The volume curve not returning to baseline before the next breath",
+"A pressure spike at end-inspiration during pressure support",
+"A negative pressure deflection just before each inspiration"
+]
+],
+[
+136,
+null,
+[
+null,
+"Up to 150% of measured auto-PEEP, in paralyzed patients",
+"Up to the peak inspiratory pressure, in all patients",
+"None — applied PEEP always worsens air trapping"
+]
+],
+[
+137,
+null,
+[
+null,
+"Volume on the x-axis, flow on the y-axis",
+"Time on the x-axis, pressure on the y-axis",
+"Flow on the x-axis, pressure on the y-axis"
+]
+],
+[
+138,
+null,
+[
+null,
+"Resistance (ΔP/flow)",
+"Elastance (ΔP/ΔV)",
+"Dead space (VD/VT)"
+]
+],
+[
+140,
+null,
+[
+null,
+"Toward the volume axis (left) and steeper",
+"Upward along the volume axis with no tilt",
+"Toward the pressure axis (right) and wider"
+]
+],
+[
+142,
+null,
+[
+null,
+"Makes it flatter",
+"Shifts it to the right",
+"Makes it wider"
+]
+],
+[
+143,
+null,
+[
+null,
+"Under-recruitment from too little PEEP",
+"A leak from the circuit or the cuff",
+"Auto-PEEP from a short expiratory time"
+]
+],
+[
+144,
+null,
+[
+null,
+"The pressure where the lung starts to overdistend (the 'beak')",
+"The pressure in the airway at the end of exhalation",
+"The peak pressure that is reached at end-inspiration"
+]
+],
+[
+145,
+null,
+[
+null,
+"Exactly at the inflection point",
+"About 10 cm H₂O below it",
+"At the upper inflection point"
+]
+],
+[
+146,
+null,
+[
+null,
+"Increase VT until the loop widens",
+"Increase PEEP until the beak flattens",
+"Increase the rate and the flow"
+]
+],
+[
+147,
+null,
+[
+null,
+"Lower airway resistance",
+"Higher lung compliance",
+"A leak in the circuit"
+]
+],
+[
+148,
+null,
+[
+null,
+"Flow–time: expiratory flow doesn't return to zero",
+"Pressure–time: a spike appears at end-inspiration",
+"Pressure–time: a dip appears before inspiration"
+]
+],
+[
+149,
+null,
+[
+null,
+"5–7 J/L",
+"50–70 J/L",
+"0.05–0.07 J/L"
+]
+],
+[
+151,
+null,
+[
+null,
+"Raises peak expiratory flow and makes the limb steeper",
+"Leaves the limb unchanged; the inspiratory limb flattens",
+"Makes the limb stop short of zero volume at end-exhalation"
+]
+],
+[
+152,
+null,
+[
+null,
+"Peak inspiratory flow falls after the bronchodilator",
+"The loop no longer closes after the bronchodilator",
+"Exhaled volume falls after the bronchodilator"
+]
+],
+[
+153,
+null,
+[
+null,
+"An 'upside-down ice cream cone' that is tall and narrow",
+"A normal 'sail' shape with a straight expiratory limb",
+"A flat plateau on both the inspiratory and expiratory limbs"
+]
+],
+[
+154,
+null,
+[
+null,
+"Variable extrathoracic obstruction such as vocal cord paralysis",
+"Restrictive disease such as pulmonary fibrosis",
+"Small-airway obstruction such as asthma or COPD"
+]
+],
+[
+155,
+null,
+[
+null,
+"A scooped 'ocean wave' with slow emptying",
+"A flattened top and bottom, like a box",
+"A normal 'sail' with a low peak flow only"
+]
+],
+[
+157,
+"A ventilated patient has a respiratory acidosis. According to RCP 203, which of the following should be changed first?",
+[
+null,
+"Increase the FiO₂ (keeping it below 0.60)",
+"Increase the PEEP (keeping it below 10)",
+"Decrease the VT (keeping it above 4 mL/kg)"
+]
+],
+[
+158,
+null,
+[
+"No, it will not",
+"Yes, in every patient",
+"Yes, above an FiO₂ of 0.80",
+"Yes, in patients with COPD"
+]
+],
+[
+159,
+"A ventilated COPD patient has a PaCO₂ of 55 mm Hg and a pH of 7.37. Which of the following should be done?",
+[
+"Leave the PaCO₂ alone — the pH is normal",
+"Increase the rate to bring the PaCO₂ to 40",
+"Decrease the rate to raise the PaCO₂ further",
+"Add 10 cm H₂O of PEEP to improve ventilation"
+]
+],
+[
+160,
+null,
+[
+null,
+"An increase in the VT to 12 mL/kg PBW",
+"An increase in the Pplat limit to 45 cm H₂O",
+"A change to CPAP with no pressure support"
+]
+],
+[
+162,
+null,
+[
+null,
+"The rate increases the CO₂ produced by the muscles",
+"The rate raises the FiO₂ delivered to the alveoli",
+"The rate lowers the anatomic dead space to zero"
+]
+],
+[
+163,
+null,
+[
+null,
+"Hypercapnia from too little alveolar ventilation",
+"Hypoxemia from a lower delivered FiO₂",
+"Atelectasis from low airway pressures"
+]
+],
+[
+164,
+null,
+[
+null,
+"Reduce the rate to normalize the PaCO₂",
+"Add mechanical dead space",
+"Lower the tidal volume"
+]
+],
+[
+165,
+null,
+[
+null,
+"Reduce the rate first; then treat the hypoxia",
+"Reduce the VT first; then check the SpO₂",
+"Increase the pressure support and sedate"
+]
+],
+[
+166,
+null,
+[
+null,
+"Increase the rate until the pH is 7.40",
+"Increase the FiO₂ and the PEEP",
+"Decrease the VT and the flow"
+]
+],
+[
+167,
+null,
+[
+null,
+"Increase the rate at once; the cause can be found afterward",
+"Decrease the FiO₂; oxygen is depressing the respiratory drive",
+"Switch to CPAP; the patient needs to breathe spontaneously"
+]
+],
+[
+169,
+null,
+[
+null,
+"PEEP to ≤ 5, then FiO₂",
+"Both together, in equal steps",
+"The rate, then PEEP"
+]
+],
+[
+170,
+null,
+[
+null,
+"< 90%",
+"< 30%",
+"< 70%"
+]
+],
+[
+171,
+null,
+[
+null,
+"PaO₂ 100–150, SpO₂ 100%",
+"PaO₂ 40–50, SpO₂ 75–85%",
+"PaO₂ 80–100, SpO₂ 97–100%"
+]
+],
+[
+172,
+null,
+[
+null,
+"Raise both to 12/7",
+"Raise EPAP only to 10/7",
+"Lower both to 8/3"
+]
+],
+[
+173,
+null,
+[
+null,
+"Raise EPAP only — 10/7",
+"Lower IPAP only — 8/5",
+"Raise both equally — 12/7"
+]
+],
+[
+175,
+null,
+[
+null,
+"PEEP — barotrauma is the concern",
+"Neither — both are at safe levels",
+"The rate — hyperventilation is the concern"
+]
+],
+[
+176,
+null,
+[
+null,
+"FiO₂ — oxygen toxicity is the concern",
+"The rate — air trapping is the concern",
+"Neither — both are at safe levels"
+]
+],
+[
+179,
+null,
+[
+null,
+"Tidal volume",
+"PEEP level",
+"Inspiratory flow"
+]
+]
+]

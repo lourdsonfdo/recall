@@ -1,0 +1,1423 @@
+[
+[
+"g01",
+6,
+null,
+[
+null,
+"Ribs, Interstitium, Pleura, Edema and effusion",
+"Right, Inferior, Posterior, Erect",
+null
+]
+],
+[
+"g01",
+9,
+null,
+[
+null,
+"It is in the pleural space, not the lung or the mediastinum",
+null,
+null
+]
+],
+[
+"g01",
+15,
+null,
+[
+null,
+null,
+"Hyperventilation from anxiety, pain or a metabolic acidosis",
+null
+]
+],
+[
+"g01",
+17,
+null,
+[
+null,
+null,
+null,
+"Diaphragm, internal intercostals, obliques and transversus abdominis"
+]
+],
+[
+"g01",
+27,
+null,
+[
+null,
+"Flat supine with the arm on the affected side raised above the head",
+null,
+null
+]
+],
+[
+"g01",
+33,
+null,
+[
+null,
+null,
+"Its pitch — a high-pitched sound heard anywhere in the chest is abnormal",
+null
+]
+],
+[
+"g01",
+34,
+null,
+[
+null,
+null,
+null,
+"Over the heart, lower sternum and lung bases"
+]
+],
+[
+"g01",
+38,
+null,
+[
+null,
+"Secretions moving back and forth in the large airways during each breath",
+null,
+null
+]
+],
+[
+"g01",
+44,
+null,
+[
+null,
+"Stridor from narrowing of the upper airway or larynx",
+null,
+null
+]
+],
+[
+"g01",
+46,
+null,
+[
+null,
+"A musical, whistling sound from air moving through narrowed small airways",
+null,
+null
+]
+],
+[
+"g01",
+47,
+null,
+[
+null,
+"They have secretions in the upper airway and trachea",
+null,
+null
+]
+],
+[
+"g01",
+66,
+null,
+[
+null,
+null,
+null,
+"Lobar pneumonia without an effusion and pulmonary fibrosis"
+]
+],
+[
+"g01",
+67,
+null,
+[
+null,
+"Stethoscope over the trachea, comparing the breath sounds on the two sides",
+null,
+null
+]
+],
+[
+"g01",
+68,
+null,
+[
+null,
+"It is the earliest finding, so waiting adds nothing",
+null,
+null
+]
+],
+[
+"g01",
+75,
+null,
+[
+null,
+"Yes — positive pressure is needed to splint every flail segment until it has healed",
+null,
+null
+]
+],
+[
+"g01",
+82,
+null,
+[
+null,
+"Patients on a nasal cannula at more than 4 L/min with emphysema",
+null,
+null
+]
+],
+[
+"g01",
+83,
+null,
+[
+null,
+"Bilateral fluffy infiltrates, an enlarged heart and blunted costophrenic angles on both sides",
+null,
+null
+]
+],
+[
+"g01",
+86,
+null,
+[
+null,
+"< 95%, on room air or supplemental O₂",
+null,
+null
+]
+],
+[
+"g01",
+93,
+null,
+[
+null,
+"Patients who are ready for discharge after an uncomplicated stay of several days in hospital",
+null,
+null
+]
+],
+[
+"g01",
+94,
+null,
+[
+null,
+null,
+null,
+"A charge nurse, a hospital chaplain, a social worker and a case manager"
+]
+],
+[
+"g01",
+95,
+null,
+[
+null,
+"Send for help, Sit the patient upright in the bed, Sign the chart afterward",
+null,
+null
+]
+],
+[
+"g01",
+97,
+null,
+[
+null,
+null,
+"The order has expired, or the supplies for the therapy are running low",
+null
+]
+],
+[
+"g02",
+11,
+null,
+[
+null,
+"The dose — it is weaker because of the extra saline",
+null,
+null
+]
+],
+[
+"g02",
+44,
+null,
+[
+null,
+null,
+null,
+"Dry mouth, mydriasis, tachycardia and urinary retention"
+]
+],
+[
+"g02",
+52,
+null,
+[
+null,
+"As a tertiary amine it is bound tightly by the mucus layer of the airways",
+null,
+null
+]
+],
+[
+"g02",
+71,
+null,
+[
+null,
+null,
+"Every 8 hours, with a long-acting beta agonist given in between",
+null
+]
+],
+[
+"g02",
+76,
+null,
+[
+null,
+"β₂ stimulation makes the kidneys excrete more K⁺ in the urine within minutes",
+null,
+null
+]
+],
+[
+"g02",
+80,
+null,
+[
+null,
+"Opioids and other analgesics, to avoid hastening death",
+null,
+null
+]
+],
+[
+"g03",
+80,
+null,
+[
+null,
+null,
+"VC-A/C, PRVC, PSV, CPAP and APRV",
+null
+]
+],
+[
+"g03",
+95,
+null,
+[
+null,
+"Poured back into the humidifier chamber so that the sterile water is not wasted",
+null,
+null
+]
+],
+[
+"g03",
+103,
+null,
+[
+null,
+"Increase the ratio to 1:1 by lengthening the I-time and adding a pause",
+null,
+null
+]
+],
+[
+"g03",
+110,
+null,
+[
+null,
+null,
+"Removes retained secretions with a deep breath followed by suction",
+null
+]
+],
+[
+"g03",
+111,
+null,
+[
+null,
+"Yes — every shift, and before any change in the PEEP level is made",
+null,
+null
+]
+],
+[
+"g03",
+112,
+null,
+[
+null,
+null,
+null,
+"Lower PEEP in small steps, then set it slightly below where compliance starts to fall"
+]
+],
+[
+"g03",
+113,
+null,
+[
+null,
+"If the SpO₂ improves by 5% or the measured compliance rises",
+null,
+null
+]
+],
+[
+"g03",
+114,
+null,
+[
+null,
+null,
+"Yes — sources agree on 40–60 cm H₂O for ventilated adults",
+null
+]
+],
+[
+"g03",
+121,
+null,
+[
+null,
+"Decreased lung compliance",
+null,
+null
+]
+],
+[
+"g03",
+127,
+null,
+[
+null,
+"Yes — the decks say never to exceed 10 cm H₂O in any adult patient",
+null,
+null
+]
+],
+[
+"g03",
+132,
+null,
+[
+null,
+null,
+null,
+"Alveolar pressure at the end of an inspiratory hold, from the set VT"
+]
+],
+[
+"g03",
+136,
+null,
+[
+null,
+"Up to 150% of measured auto-PEEP, in paralyzed patients on volume control",
+null,
+null
+]
+],
+[
+"g03",
+144,
+null,
+[
+null,
+"The pressure where the lung starts to overdistend (the 'beak' of the loop)",
+null,
+null
+]
+],
+[
+"g03",
+155,
+null,
+[
+null,
+"A scooped 'ocean wave' with slow emptying and a long tail",
+null,
+null
+]
+],
+[
+"g03",
+160,
+null,
+[
+null,
+"An increase in the tidal volume to 12 mL/kg PBW",
+null,
+null
+]
+],
+[
+"g03",
+163,
+null,
+[
+null,
+"Hypercapnia from too little alveolar ventilation at the higher rate",
+null,
+null
+]
+],
+[
+"g03",
+166,
+null,
+[
+null,
+"Increase the rate until the pH returns to 7.40",
+null,
+null
+]
+],
+[
+"g03",
+167,
+null,
+[
+null,
+"Increase the rate at once; the cause of the acidosis can be found afterward",
+null,
+null
+]
+],
+[
+"g04",
+12,
+null,
+[
+null,
+null,
+null,
+"To stop bleeding — apply epinephrine, iced saline or a balloon tamponade"
+]
+],
+[
+"g04",
+14,
+null,
+[
+null,
+null,
+null,
+"Balloon dilatation of a tracheal stenosis"
+]
+],
+[
+"g04",
+17,
+null,
+[
+null,
+"Lidocaine 4%, acetylcysteine or albuterol via the working channel",
+null,
+null
+]
+],
+[
+"g04",
+28,
+null,
+[
+null,
+null,
+null,
+"From the corner of the mouth to the tragus of the ear"
+]
+],
+[
+"g04",
+29,
+null,
+[
+null,
+"Insert it upside down and rotate it 180° once the tip reaches the soft palate",
+null,
+null
+]
+],
+[
+"g04",
+30,
+null,
+[
+null,
+null,
+"A patient with significant midface trauma and epistaxis",
+null
+]
+],
+[
+"g04",
+32,
+null,
+[
+null,
+"An intact gag reflex in a semi-conscious patient who needs suctioning",
+null,
+null
+]
+],
+[
+"g04",
+33,
+null,
+[
+null,
+null,
+null,
+"In the nasopharynx, sealing behind the soft palate and uvula"
+]
+],
+[
+"g04",
+46,
+null,
+[
+null,
+"Reinsert the same tube at once through the fresh stoma, without calling for help",
+null,
+null
+]
+],
+[
+"g04",
+52,
+null,
+[
+null,
+null,
+null,
+"No — auscultate over the stomach to confirm the depth instead"
+]
+],
+[
+"g04",
+57,
+null,
+[
+null,
+null,
+null,
+"Within 30 minutes after meals"
+]
+],
+[
+"g04",
+60,
+null,
+[
+null,
+"A mask that gives positive expiratory pressure of about 5–20 cm H₂O on each breath",
+null,
+null
+]
+],
+[
+"g04",
+62,
+null,
+[
+null,
+"Heliox for better airflow and inhaled nitric oxide for pulmonary vasodilation",
+null,
+null
+]
+],
+[
+"g04",
+73,
+null,
+[
+null,
+"It costs less to deliver and needs no compressed gas source",
+null,
+null
+]
+],
+[
+"g04",
+79,
+null,
+[
+null,
+null,
+null,
+"Head-down postural drainage for all CF patients, twice daily for life"
+]
+],
+[
+"g05",
+4,
+null,
+[
+null,
+null,
+"An open face tent with a large-volume nebulizer and room-air entrainment",
+null
+]
+],
+[
+"g05",
+5,
+null,
+[
+null,
+"Helium is heavier than air and settles",
+null,
+null
+]
+],
+[
+"g05",
+41,
+null,
+[
+null,
+null,
+null,
+"To drain blood from the bad lung into the airway"
+]
+],
+[
+"g05",
+45,
+null,
+[
+null,
+"Adults with ARDS, to improve survival and oxygenation",
+null,
+null
+]
+],
+[
+"g05",
+51,
+null,
+[
+null,
+"Those born before 34 weeks of gestation",
+null,
+null
+]
+],
+[
+"g05",
+54,
+null,
+[
+null,
+null,
+"Stop all supplemental oxygen at once",
+null
+]
+],
+[
+"g05",
+57,
+null,
+[
+null,
+null,
+null,
+"A heat and moisture exchanger at the wye and an open room"
+]
+],
+[
+"g05",
+67,
+null,
+[
+null,
+null,
+null,
+"Mild poisoning with headache alone, to shorten the time on oxygen"
+]
+],
+[
+"g06",
+5,
+null,
+[
+null,
+"The FiO₂ and the flow from the oxygen flowmeter",
+null,
+"The patient's heart rate, blood pressure and oxygen saturation"
+]
+],
+[
+"g06",
+7,
+null,
+[
+null,
+null,
+null,
+"70% predicted — restrictive lung disease (or a leak)"
+]
+],
+[
+"g06",
+13,
+null,
+[
+null,
+"Added dead space and weight at the airway",
+null,
+null
+]
+],
+[
+"g06",
+33,
+null,
+[
+null,
+null,
+null,
+"At the end of the drug's action, usually after 4–6 hours"
+]
+],
+[
+"g06",
+39,
+null,
+[
+null,
+"When spirometry already shows severe airflow obstruction",
+null,
+null
+]
+],
+[
+"g06",
+42,
+null,
+[
+null,
+null,
+null,
+"Increased RV/TLC with a decreased FEV₁ and FEF25–75%"
+]
+],
+[
+"g06",
+43,
+null,
+[
+null,
+null,
+null,
+"Decreased in emphysema; decreased more in asthma"
+]
+],
+[
+"g06",
+46,
+null,
+[
+null,
+"In the pulmonary artery just beyond the pulmonic valve",
+null,
+null
+]
+],
+[
+"g06",
+83,
+null,
+[
+null,
+"B → C (phase II)",
+"C → D (phase III)",
+"D → E (phase 0)"
+]
+],
+[
+"g06",
+87,
+null,
+[
+null,
+"Malignant hyperthermia (CO₂ production up)",
+null,
+null
+]
+],
+[
+"g06",
+90,
+null,
+[
+null,
+"Disconnection from the ventilator circuit or a displaced tube",
+null,
+null
+]
+],
+[
+"g06",
+91,
+null,
+[
+null,
+"Notify the physician of the change in PETCO₂ at once",
+null,
+null
+]
+],
+[
+"g06",
+95,
+null,
+[
+null,
+"A fine needle draws a sample of capillary blood through the skin into the sensor",
+null,
+null
+]
+],
+[
+"g06",
+101,
+null,
+[
+null,
+null,
+null,
+"Drift of the calibration gas concentration"
+]
+],
+[
+"g07",
+2,
+null,
+[
+null,
+"As central sleep apnea (CSA)",
+null,
+"As complex insomnia with hypoventilation"
+]
+],
+[
+"g07",
+14,
+null,
+[
+null,
+"Stopping all therapy and repeating the sleep study after one year of observation",
+null,
+null
+]
+],
+[
+"g07",
+18,
+null,
+[
+null,
+null,
+"Noncritical — low-level disinfection or cleaning with detergent",
+null
+]
+],
+[
+"g07",
+33,
+null,
+[
+null,
+"Yes — the score is assigned before any intervention",
+null,
+null
+]
+],
+[
+"g07",
+38,
+null,
+[
+null,
+null,
+null,
+"Oxygen saturation and pulse rate by pulse oximetry"
+]
+],
+[
+"g07",
+40,
+null,
+[
+null,
+"> 3 seconds, or with any change at all in the heart rate, color or muscle tone",
+null,
+null
+]
+],
+[
+"g07",
+41,
+null,
+[
+null,
+"On the upper abdomen, on either side of the umbilicus and just below the costal margin",
+null,
+null
+]
+],
+[
+"g07",
+42,
+null,
+[
+null,
+null,
+null,
+"Epinephrine by the umbilical venous catheter"
+]
+],
+[
+"g07",
+44,
+null,
+[
+null,
+null,
+"The left hand or wrist",
+null
+]
+],
+[
+"g07",
+49,
+null,
+[
+null,
+"The newborn's level of consciousness after delivery",
+null,
+null
+]
+],
+[
+"g07",
+50,
+null,
+[
+null,
+null,
+"Moderate — give oxygen by nasal cannula and observe",
+null
+]
+],
+[
+"g07",
+53,
+null,
+[
+null,
+"Oxygen by non-rebreathing mask for hypoxemia",
+null,
+null
+]
+],
+[
+"g07",
+56,
+null,
+[
+null,
+"Yes — on every newborn within the first minute of life, before the Apgar score",
+null,
+null
+]
+],
+[
+"g07",
+57,
+null,
+[
+null,
+"Color, muscle tone, reflex irritability, pulse rate, respiratory effort and cry",
+null,
+null
+]
+],
+[
+"g01",
+3,
+"What is the minimum time after admission at which a new pneumonia is called HAP?",
+null
+],
+[
+"g01",
+12,
+"What is the maximum volume of pleural fluid that RCP 203 says may be removed during a thoracentesis?",
+null
+],
+[
+"g01",
+13,
+null,
+[
+null,
+null,
+null,
+"Downward, toward the diaphragm"
+]
+],
+[
+"g01",
+50,
+null,
+[
+null,
+null,
+"Diffuse wheezing, trachea in the midline, hyperresonance",
+null
+]
+],
+[
+"g01",
+72,
+null,
+[
+"Three or more ribs fractured in two or more places, a sternal fracture or costochondral separation",
+null,
+null,
+null
+]
+],
+[
+"g01",
+82,
+null,
+[
+null,
+"Patients on a nasal cannula at 4 L/min with structurally normal lungs",
+null,
+null
+]
+],
+[
+"g01",
+84,
+"Which pair gives the heart-rate cutoffs that the Ch 15 deck lists for a rapid response call?",
+null
+],
+[
+"g01",
+85,
+"Which pair gives the respiratory-rate cutoffs that the Ch 15 deck lists for a rapid response call?",
+null
+],
+[
+"g01",
+86,
+"Which SpO₂ cutoff does the Ch 15 deck list for a MET call?",
+null
+],
+[
+"g01",
+88,
+"Which systolic BP cutoff does the Ch 15 deck list for a rapid response call?",
+null
+],
+[
+"g02",
+73,
+null,
+[
+null,
+null,
+null,
+"2–2.5× the IV dose, diluted in 10 mL, with no rapid inflations afterward"
+]
+],
+[
+"g02",
+75,
+"According to the care-plan deck, which surfactant strategy is preferred, especially in infants under 30 weeks?",
+null
+],
+[
+"g03",
+40,
+null,
+[
+null,
+null,
+null,
+"Auto-triggering from cardiac oscillations"
+]
+],
+[
+"g03",
+80,
+null,
+[
+null,
+null,
+"VC-A/C, PRVC, PSV and APRV",
+null
+]
+],
+[
+"g03",
+122,
+null,
+[
+null,
+"Bronchospasm without air trapping",
+null,
+null
+]
+],
+[
+"g03",
+153,
+null,
+[
+null,
+null,
+null,
+"A tall, narrow curve with a normal peak flow and a small volume"
+]
+],
+[
+"g03",
+163,
+null,
+[
+null,
+"Metabolic acidosis from increased renal bicarbonate loss",
+null,
+null
+]
+],
+[
+"g03",
+170,
+null,
+[
+null,
+null,
+"< 60%",
+null
+]
+],
+[
+"g04",
+19,
+"What minimum NPO time before bronchoscopy does the Ch 16 deck give?",
+null
+],
+[
+"g04",
+22,
+null,
+[
+null,
+null,
+null,
+"Rigid bronchoscopy confined to the trachea and main bronchi"
+]
+],
+[
+"g04",
+38,
+null,
+[
+null,
+null,
+"Routine delivery of inhaled bronchodilators",
+null
+]
+],
+[
+"g04",
+72,
+null,
+[
+null,
+null,
+"60–100 cycles/min",
+"Fewer than 10 cycles/min"
+]
+],
+[
+"g04",
+80,
+"Which risk does RCP 203 cite for no longer placing CF patients head-down for postural drainage?",
+null
+],
+[
+"g05",
+61,
+null,
+[
+null,
+"Standard pulse oximetry",
+null,
+null
+]
+],
+[
+"g06",
+13,
+null,
+[
+null,
+null,
+"Inability to sample from a nasal cannula",
+null
+]
+],
+[
+"g06",
+49,
+"Which pressure is measured through the distal port when the inflated balloon occludes a small pulmonary artery branch?",
+null
+],
+[
+"g06",
+59,
+"Which diuretic class characteristically causes hyperkalemia by reducing potassium loss?",
+null
+],
+[
+"g06",
+60,
+"Which diuretic does the deck pair with TBI and cerebral edema?",
+null
+],
+[
+"g06",
+61,
+"Which diuretic class does the deck say causes metabolic acidosis and is used to treat metabolic alkalosis?",
+null
+],
+[
+"g06",
+98,
+null,
+[
+null,
+null,
+"Over an area of broken or infected skin",
+null
+]
+],
+[
+"g07",
+2,
+null,
+[
+null,
+null,
+null,
+"As treatment-emergent central sleep apnea"
+]
+],
+[
+"g07",
+18,
+null,
+[
+null,
+null,
+null,
+"Semicritical — intermediate-level disinfection is sufficient"
+]
+],
+[
+"g07",
+30,
+"At which two times is the Apgar score routinely taken?",
+null
+],
+[
+"g07",
+40,
+null,
+[
+null,
+"> 10 seconds, with normal color, muscle tone and heart rate",
+null,
+"Pauses of 3–5 seconds with normal color, muscle tone and heart rate"
+]
+],
+[
+"g01",
+13,
+null,
+[
+null,
+null,
+null,
+"Either way, unrelated to the side of the effusion"
+]
+],
+[
+"g01",
+82,
+"Which mechanical-ventilation finding does the Ch 15 deck list as predisposing to tension pneumothorax?",
+[
+"Airway pressures above 40–45 cm H₂O",
+"PEEP below 5 cm H₂O",
+"FiO₂ above 0.60",
+"Respiratory rate above 20/min"
+]
+],
+[
+"g03",
+40,
+"The ventilator ends inspiration while the patient's inspiratory effort continues, and that same effort immediately triggers a second breath, nearly doubling the set VT. What is this?",
+null
+],
+[
+"g07",
+30,
+null,
+[
+null,
+null,
+"At 5 and 15 minutes after birth",
+null
+]
+],
+[
+"g07",
+40,
+null,
+[
+null,
+"10–15 seconds, with normal color, muscle tone and heart rate",
+null,
+null
+]
+]
+]
