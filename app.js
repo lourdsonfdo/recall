@@ -777,7 +777,7 @@
         q.stitle = s.title;
         byId[q.id] = q;
       }));
-      out[d.id] = { id: d.id, title: j.title, sections: j.sections, byId, total: Object.keys(byId).length };
+      out[d.id] = { id: d.id, title: j.title, group: d.group || "", sections: j.sections, byId, total: Object.keys(byId).length };
     }
     return (drills = out);
   }
@@ -842,8 +842,19 @@
     }));
   }
 
+  function drillRow(d) {
+    const m = Object.keys(dmissed(d.id)).filter((id) => d.byId[id]).length;
+    const b = dbest(d.id).__all;
+    return `<button class="row drill-row" data-d="${esc(d.id)}"><div class="label"><div class="t">${esc(d.title)}</div>
+          <div class="meta"><span class="pill">${d.total} q</span><span class="pill">${d.sections.length} sections</span>${b != null ? `<span class="pill best">mix best ${b}%</span>` : ""}${m ? `<span class="pill miss">${m} missed</span>` : ""}</div></div>${ICON.chev}</button>`;
+  }
+
   function renderDrillList() {
-    const list = Object.values(drills);
+    // Drills with a "group" in drills/index.json get their own Study section (e.g. "Trial NBRC Exam").
+    const all = Object.values(drills);
+    const list = all.filter((d) => !d.group);
+    const grouped = {};
+    all.filter((d) => d.group).forEach((d) => (grouped[d.group] ||= []).push(d));
     const apps = (guides || []).filter((g) => g.kind === "app");
     const docs = (guides || []).filter((g) => g.kind !== "app");
     view.innerHTML = `
@@ -852,13 +863,10 @@
       <div class="group">${apps.map((g) => `<button class="row drill-row" data-g="${esc(g.id)}"><div class="label"><div class="t">${esc(g.title)}</div><div class="s">${esc(g.subtitle)}</div></div>${ICON.chev}</button>`).join("")}</div>` : ""}
       ${docs.length ? `<div class="group-title">Study guides</div>
       <div class="group">${docs.map((g) => `<button class="row drill-row" data-g="${esc(g.id)}"><div class="label"><div class="t">${esc(g.title)}</div><div class="s">${esc(g.subtitle)}${g.stat ? " · " + esc(g.stat.split(" · ").slice(0, 2).join(" · ")) : ""}</div></div>${ICON.chev}</button>`).join("")}</div>` : ""}
+      ${Object.entries(grouped).map(([g, ds]) => `<div class="group-title">${esc(g)}</div>
+      <div class="group">${ds.map(drillRow).join("")}</div>`).join("")}
       <div class="group-title">Exam drills</div>
-      <div class="group">${list.map((d) => {
-        const m = Object.keys(dmissed(d.id)).filter((id) => d.byId[id]).length;
-        const b = dbest(d.id).__all;
-        return `<button class="row drill-row" data-d="${esc(d.id)}"><div class="label"><div class="t">${esc(d.title)}</div>
-          <div class="meta"><span class="pill">${d.total} q</span><span class="pill">${d.sections.length} sections</span>${b != null ? `<span class="pill best">mix best ${b}%</span>` : ""}${m ? `<span class="pill miss">${m} missed</span>` : ""}</div></div>${ICON.chev}</button>`;
-      }).join("")}</div>`;
+      <div class="group">${list.map(drillRow).join("")}</div>`;
     $$("[data-d]", view).forEach((b) => b.addEventListener("click", () => go("#/drill/" + enc(b.dataset.d))));
     $$("[data-g]", view).forEach((b) => b.addEventListener("click", () => go("#/guide/" + enc(b.dataset.g))));
   }
