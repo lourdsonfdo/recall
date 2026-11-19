@@ -133,12 +133,14 @@ body.studying #view { padding-bottom: 0; }
 .head { display: flex; align-items: flex-end; justify-content: space-between; gap: 12px; padding: 18px 2px 14px; }
 .head h1 { font: 700 32px/1.1 var(--serif); letter-spacing: -.01em; margin: 0; }
 .head .sub { color: var(--ink-2); font-size: 14px; margin-top: 4px; }
+.head-actions { display: flex; flex: none; gap: 8px; }
 .icon-btn {
   width: 38px; height: 38px; border-radius: 50%;
   display: inline-grid; place-items: center; color: var(--accent);
   background: var(--surface); box-shadow: var(--shadow);
 }
 .icon-btn svg { width: 20px; height: 20px; fill: none; stroke: currentColor; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }
+.head-actions .icon-btn { width: 44px; height: 44px; }
 .bar { display: flex; align-items: center; gap: 8px; padding: 8px 0; }
 .bar .grow { flex: 1; }
 .back { color: var(--accent); font-weight: 500; display: inline-flex; align-items: center; gap: 2px; padding: 8px 4px; }
@@ -309,6 +311,7 @@ body.studying #view { padding-bottom: 0; }
 }
 .editable:focus { border-color: var(--accent); }
 .text-input { width: 100%; height: 44px; padding: 0 12px; border-radius: 12px; border: 1px solid var(--line); background: var(--surface); font-size: 16px; }
+.sheet .text-input + .actions { margin-top: 12px; }
 @keyframes up { from { transform: translateY(40px); opacity: .6; } }
 @keyframes fade { from { opacity: 0; } }
 

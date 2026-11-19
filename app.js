@@ -16,6 +16,7 @@
     undo: '<svg viewBox="0 0 24 24"><path d="M9 14 4 9l5-5"/><path d="M4 9h10.5a5.5 5.5 0 0 1 0 11H11"/></svg>',
     more: '<svg viewBox="0 0 24 24"><circle cx="5" cy="12" r="1.3"/><circle cx="12" cy="12" r="1.3"/><circle cx="19" cy="12" r="1.3"/></svg>',
     plus: '<svg viewBox="0 0 24 24"><path d="M12 5v14M5 12h14"/></svg>',
+    share: '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 16V3m-4 4 4-4 4 4M8 10H6a2 2 0 0 0-2 2v7a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-7a2 2 0 0 0-2-2h-2"/></svg>',
     chev: '<svg class="chev" viewBox="0 0 24 24"><path d="m9 5 7 7-7 7"/></svg>',
     twisty: '<svg viewBox="0 0 24 24"><path d="m9 5 7 7-7 7"/></svg>',
     edit: '<svg viewBox="0 0 24 24"><path d="M4 20h4L19 9l-4-4L4 16z"/></svg>',
@@ -156,6 +157,40 @@
   window.addEventListener("hashchange", route);
 
   // ---------- decks ----------
+  async function shareRecall(event) {
+    const button = event.currentTarget;
+    const url = new URL("./", document.baseURI).href;
+    if (navigator.share) {
+      try {
+        await navigator.share({ title: "Recall", url });
+        return;
+      } catch (e) {
+        if (e.name === "AbortError" || e.name === "InvalidStateError") return;
+      }
+    }
+
+    if (navigator.clipboard?.writeText) {
+      try {
+        await navigator.clipboard.writeText(url);
+        return toast("Recall link copied");
+      } catch {
+        // The browser can deny clipboard access even when the API is available.
+      }
+    }
+
+    const s = sheet(`
+      <h3 id="share-title">Share Recall</h3>
+      <input class="text-input" aria-label="Recall link" value="${esc(url)}" readonly>
+      <div class="group actions"><button class="row">Done</button></div>`,
+      { onClose: () => button.focus() }
+    );
+    s.el.setAttribute("aria-labelledby", "share-title");
+    const link = $("input", s.el);
+    link.focus();
+    link.select();
+    $("button", s.el).addEventListener("click", s.close);
+  }
+
   function countsHtml(c) {
     const z = (v, cls) => `<span class="${v ? cls : "z"}">${v}</span>`;
     return `<div class="counts">${z(c.n, "n")}${z(c.l, "l")}${z(c.r, "r")}</div>`;
@@ -184,10 +219,13 @@
       <div class="head"><div><h1>Decks</h1><div class="sub">${
         t.children.length ? (due || all.n ? `${due} due · ${all.n} new today` : "All caught up for today") : "No cards yet"
       }</div></div>
-      <button class="icon-btn" id="add" aria-label="Add card">${ICON.plus}</button></div>
+      <div class="head-actions">
+        <button class="icon-btn" id="add" aria-label="Add card">${ICON.plus}</button>
+        <button class="icon-btn" id="share-recall" aria-label="Share Recall" title="Share Recall">${ICON.share}</button>
+      </div></div>
       ${!standalone && !pref.get("hideInstall", false) && /iPhone|iPad|Android/.test(navigator.userAgent) ? `
         <div class="group"><div class="row"><div class="label"><div class="t"><b>Install on your phone</b></div>
-        <div class="s" style="white-space:normal">${/Android/.test(navigator.userAgent) ? "Menu ⋮ → Add to Home screen" : "Share → Add to Home Screen"}, then always study from the icon. It works offline and your progress is protected there (the browser tab keeps separate data).</div></div>
+        <div class="s" style="white-space:normal">${/Android/.test(navigator.userAgent) ? "Menu ⋮ → Add to Home screen" : "Safari’s Share menu → Add to Home Screen"}, then always study from the icon. It works offline and your progress is protected there (the browser tab keeps separate data).</div></div>
         <button class="tbtn" id="hide-install" aria-label="Dismiss">${ICON.close}</button></div></div>` : ""}
       ${t.children.length ? `<div class="group">${rows.join("")}</div>
         <p class="small center">Tap a deck to study · <span style="color:var(--new)">new</span> · <span style="color:var(--learn)">learning</span> · <span style="color:var(--due)">due</span></p>` : `
@@ -210,6 +248,7 @@
       r.addEventListener("keydown", (e) => (e.key === "Enter" || e.key === " ") && (e.preventDefault(), open()));
     });
     $("#add", view).addEventListener("click", () => editCard(null));
+    $("#share-recall", view).addEventListener("click", shareRecall);
     const hide = $("#hide-install", view);
     hide && hide.addEventListener("click", () => (pref.set("hideInstall", true), renderDecks()));
   }
