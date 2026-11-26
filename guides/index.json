@@ -1,6 +1,14 @@
 {
  "guides": [
   {
+   "id": "rt-cheatsheet",
+   "title": "RT / NBRC Cheat Sheet",
+   "subtitle": "One-page quick reference · most-cited values",
+   "file": "rt-cheatsheet.html",
+   "version": 1795660906,
+   "stat": "Fact-checked against Recall decks · printable PDF: guides/rt-cheatsheet.pdf"
+  },
+  {
    "id": "rcp201-quick",
    "title": "RCP 201 Quick Answers",
    "subtitle": "Midterm study guide · straight answers",
