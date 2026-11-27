@@ -851,7 +851,7 @@
       <div class="bar"><button class="back" id="back">${ICON.back}Study</button></div>
       <div class="head" style="padding-top:4px"><div><h1>${esc(d.title)}</h1><div class="sub">${d.total} questions · ${d.sections.length} sections · multiple choice</div></div></div>
       <div class="group">
-        <div class="field"><label>Questions</label><div class="seg" id="d-count">${["10", "20", "30", "all"].map((v) => `<button data-v="${v}" aria-pressed="${p.count === v}">${v === "all" ? "All" : v}</button>`).join("")}</div></div>
+        <div class="field"><label>Questions</label><div class="seg" id="d-count">${["10", "20", "30", "50", "100", "all"].map((v) => `<button data-v="${v}" aria-pressed="${p.count === v}">${v === "all" ? "All" : v}</button>`).join("")}</div></div>
         <div class="field"><label>Shuffle question order</label><div class="seg" id="d-shuf">${[["on", "On"], ["off", "Off"]].map(([v, l]) => `<button data-v="${v}" aria-pressed="${(p.shuffle ? "on" : "off") === v}">${l}</button>`).join("")}</div></div>
       </div>
       ${missedIds.length ? `<button class="btn secondary miss-btn" id="d-miss" style="margin-bottom:18px">Drill all missed · ${missedIds.length}</button>` : ""}
