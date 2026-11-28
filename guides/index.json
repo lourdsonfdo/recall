@@ -1,12 +1,12 @@
 {
  "guides": [
   {
-   "id": "rt-cheatsheet",
-   "title": "RT / NBRC Cheat Sheet",
-   "subtitle": "2-page quick reference · Recall's most-cited values",
-   "file": "rt-cheatsheet.html",
-   "version": 1795666172,
-   "stat": "Page 1: top 40 Recall themes · Page 2: next 60, every value from Recall · printable PDF: guides/rt-cheatsheet.pdf"
+   "id": "chang-mastery",
+   "title": "Chang MV Chapter Mastery",
+   "subtitle": "All 19 chapters · what to know cold",
+   "file": "chang-mastery.html",
+   "version": 1795850446,
+   "stat": "733 must-knows · 19 chapters · built from the Chang text + 1,576 Recall review questions · drafted by Codex &amp; Gemini, cross-audited, blind-tested by Claude"
   },
   {
    "id": "rcp201-quick",
@@ -63,6 +63,14 @@
    "file": "rcp203-tier3.html",
    "version": 1790559911,
    "stat": "70 answered items · 11 sections · 140 questions · 100 points · 150 minutes"
+  },
+  {
+   "id": "rt-cheatsheet",
+   "title": "RT / NBRC Cheat Sheet",
+   "subtitle": "2-page quick reference · Recall's most-cited values",
+   "file": "rt-cheatsheet.html",
+   "version": 1795666172,
+   "stat": "Page 1: top 40 Recall themes · Page 2: next 60, every value from Recall · printable PDF: guides/rt-cheatsheet.pdf"
   },
   {
    "id": "tmc-trainer",
